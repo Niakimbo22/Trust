@@ -58,6 +58,17 @@ class ContentRepository(context: Context) {
         }
     }
 
+    /** Texte de tous les livres (téléchargé une fois, ~8 Mo, puis lu depuis le disque). */
+    suspend fun allTexts(onProgress: (done: Int, total: Int) -> Unit = { _, _ -> }): List<Pair<BookInfo, BookText>> {
+        val books = index().books
+        return withContext(Dispatchers.IO) {
+            books.mapIndexed { i, info ->
+                onProgress(i, books.size)
+                info to (loadedBook(info.code)?.text ?: json.decodeFromString<BookText>(cached(info.text)))
+            }.also { onProgress(books.size, books.size) }
+        }
+    }
+
     /** Livre déjà en mémoire (sans réseau), ou null. */
     fun loadedBook(code: String): Book? = books[code]
 

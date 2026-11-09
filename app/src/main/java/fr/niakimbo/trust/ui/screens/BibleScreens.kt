@@ -50,6 +50,7 @@ import androidx.compose.material.icons.filled.ChevronRight
 import androidx.compose.material.icons.filled.Headphones
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Refresh
+import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.FilledTonalButton
@@ -138,7 +139,7 @@ private fun BackHeader(title: String, subtitle: String? = null, onBack: () -> Un
 // ---------------- Liste des livres ----------------
 
 @Composable
-fun BooksScreen(container: AppContainer, onOpenBook: (String) -> Unit) {
+fun BooksScreen(container: AppContainer, onSearch: () -> Unit, onOpenBook: (String) -> Unit) {
     var force by remember { mutableStateOf(false) }
     val (state, retry) = rememberLoad(Unit) { container.content.index(forceRefresh = force).also { force = false } }
     val refresh = { force = true; retry() }
@@ -148,6 +149,9 @@ fun BooksScreen(container: AppContainer, onOpenBook: (String) -> Unit) {
             item {
                 Row(Modifier.padding(top = 16.dp, bottom = 4.dp), verticalAlignment = Alignment.CenterVertically) {
                     Text("Bible", style = MaterialTheme.typography.headlineMedium, modifier = Modifier.weight(1f))
+                    IconButton(onClick = onSearch) {
+                        Icon(Icons.Filled.Search, "Rechercher", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                    }
                     IconButton(onClick = refresh) {
                         Icon(Icons.Filled.Refresh, "Actualiser", tint = MaterialTheme.colorScheme.onSurfaceVariant)
                     }

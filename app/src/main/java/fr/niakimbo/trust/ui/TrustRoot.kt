@@ -35,6 +35,7 @@ import fr.niakimbo.trust.ui.screens.BooksScreen
 import fr.niakimbo.trust.ui.screens.ChaptersScreen
 import fr.niakimbo.trust.ui.screens.JournalScreen
 import fr.niakimbo.trust.ui.screens.ReaderScreen
+import fr.niakimbo.trust.ui.screens.SearchScreen
 import fr.niakimbo.trust.ui.screens.HomeScreen
 import fr.niakimbo.trust.ui.screens.PlayerScreen
 import fr.niakimbo.trust.ui.screens.SettingsScreen
@@ -48,6 +49,7 @@ private object Routes {
     const val BOOK = "book/{code}"
     const val READ = "read/{code}/{chapter}?verse={verse}"
     const val JOURNAL = "journal?tab={tab}"
+    const val SEARCH = "search"
     fun book(code: String) = "book/$code"
     fun read(code: String, chapter: Int, verse: Int = 0) = "read/$code/$chapter?verse=$verse"
     fun journal(tab: Int = 0) = "journal?tab=$tab"
@@ -67,7 +69,7 @@ fun TrustRoot(container: AppContainer) {
     val nav = rememberNavController()
     val backStack by nav.currentBackStackEntryAsState()
     val current = backStack?.destination?.route
-    val showBar = tabs.any { it.route == current } || current == Routes.BOOK || current == Routes.READ
+    val showBar = tabs.any { it.route == current } || current == Routes.BOOK || current == Routes.READ || current == Routes.SEARCH
     val player by container.player.state.collectAsStateWithLifecycle()
 
     fun goTab(route: String) = nav.navigate(route) {
@@ -92,7 +94,7 @@ fun TrustRoot(container: AppContainer) {
                     tabs.forEach { tab ->
                         NavigationBarItem(
                             selected = current == tab.route ||
-                                (tab.route == Routes.BIBLE && (current == Routes.BOOK || current == Routes.READ)),
+                                (tab.route == Routes.BIBLE && (current == Routes.BOOK || current == Routes.READ || current == Routes.SEARCH)),
                             onClick = { goTab(tab.route) },
                             icon = {
                                 if (tab.vector != null) Icon(tab.vector, contentDescription = null)
@@ -124,7 +126,12 @@ fun TrustRoot(container: AppContainer) {
                     nav.navigate(Routes.read(code, c, v))
                 }
             }
-            composable(Routes.BIBLE) { BooksScreen(container) { code -> nav.navigate(Routes.book(code)) } }
+            composable(Routes.BIBLE) {
+                BooksScreen(container, onSearch = { nav.navigate(Routes.SEARCH) }) { code -> nav.navigate(Routes.book(code)) }
+            }
+            composable(Routes.SEARCH) {
+                SearchScreen(container, onBack = { nav.popBackStack() }) { code, c, v -> nav.navigate(Routes.read(code, c, v)) }
+            }
             composable(Routes.BOOK, listOf(navArgument("code") { type = NavType.StringType })) { e ->
                 val code = e.arguments!!.getString("code")!!
                 ChaptersScreen(container, code, onBack = { nav.popBackStack() }) { c -> nav.navigate(Routes.read(code, c)) }

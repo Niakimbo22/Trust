@@ -3,6 +3,7 @@ package fr.niakimbo.trust
 import fr.niakimbo.trust.content.BookText
 import fr.niakimbo.trust.content.BookTimings
 import fr.niakimbo.trust.content.BooksIndex
+import fr.niakimbo.trust.content.SearchIndex
 import fr.niakimbo.trust.playback.PlaybackHub
 import fr.niakimbo.trust.playback.VerseClock
 import fr.niakimbo.trust.playback.VerseRef
@@ -83,6 +84,16 @@ class ContentAndClockTest {
         assertEquals(half + 12.5, clock.toGlobal(1, 12_500), 0.001)
         assertEquals(0, clock.toFile(10.0).index)
         assertNotNull(clock.toFile(t.duration + 5))
+    }
+
+    @Test fun searchIgnoresAccentsAndCase() {
+        val info = json.decodeFromString<BooksIndex>(File(content, "books.json").readText()).books.first { it.code == "JHN" }
+        val text = json.decodeFromString<BookText>(File(content, "text/JHN.json").readText())
+        val index = SearchIndex(listOf(info to text))
+        val (hits, total) = index.search("DIEU a tellement AIME le monde")
+        assertTrue(total >= 1)
+        assertEquals(3 to 16, hits.first().chapter to hits.first().verse)
+        assertEquals(0, index.search("x").second)
     }
 
     @Test fun versionCodesStayConsistent() {
