@@ -49,6 +49,7 @@ import androidx.compose.material.icons.filled.ChevronLeft
 import androidx.compose.material.icons.filled.ChevronRight
 import androidx.compose.material.icons.filled.Headphones
 import androidx.compose.material.icons.filled.PlayArrow
+import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.FilledTonalButton
@@ -138,16 +139,19 @@ private fun BackHeader(title: String, subtitle: String? = null, onBack: () -> Un
 
 @Composable
 fun BooksScreen(container: AppContainer, onOpenBook: (String) -> Unit) {
-    val (state, retry) = rememberLoad(Unit) { container.content.index() }
-    LoadableContent(state, retry) { index: BooksIndex ->
+    var force by remember { mutableStateOf(false) }
+    val (state, retry) = rememberLoad(Unit) { container.content.index(forceRefresh = force).also { force = false } }
+    val refresh = { force = true; retry() }
+    LoadableContent(state, refresh) { index: BooksIndex ->
         val groups = index.books.groupBy { it.testament }
         LazyColumn(contentPadding = PaddingValues(horizontal = 20.dp, vertical = 8.dp)) {
             item {
-                Text(
-                    "Bible",
-                    style = MaterialTheme.typography.headlineMedium,
-                    modifier = Modifier.padding(top = 16.dp, bottom = 4.dp),
-                )
+                Row(Modifier.padding(top = 16.dp, bottom = 4.dp), verticalAlignment = Alignment.CenterVertically) {
+                    Text("Bible", style = MaterialTheme.typography.headlineMedium, modifier = Modifier.weight(1f))
+                    IconButton(onClick = refresh) {
+                        Icon(Icons.Filled.Refresh, "Actualiser", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                    }
+                }
                 Text(
                     "Traduction Crampon · ${index.books.count { it.hasAudio }} livres audio sur ${index.books.size}",
                     style = MaterialTheme.typography.bodySmall,

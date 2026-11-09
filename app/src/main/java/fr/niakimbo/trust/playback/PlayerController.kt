@@ -22,6 +22,8 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.suspendCancellableCoroutine
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.withLock
 import kotlin.coroutines.resume
 import kotlin.coroutines.resumeWithException
 
@@ -82,7 +84,10 @@ class PlayerController(
         connecting = scope.launch { runCatching { ensureController() } }
     }
 
-    private suspend fun ensureController(): MediaController {
+    private val connectMutex = Mutex()
+
+    /** Un seul MediaController, même si l'écran et une commande le demandent en même temps. */
+    private suspend fun ensureController(): MediaController = connectMutex.withLock {
         controller?.let { return it }
         val token = SessionToken(context, ComponentName(context, PlaybackService::class.java))
         val future = MediaController.Builder(context, token).buildAsync()
@@ -99,7 +104,8 @@ class PlayerController(
         c.setPlaybackParameters(PlaybackParameters(_state.value.speed))
         adoptExistingSession(c)
         syncFromPlayer()
-        return c
+        if (c.isPlaying) startTicker()
+        c
     }
 
     /** Le service jouait déjà (app rouverte) : on retrouve le livre d'après l'id du média. */
