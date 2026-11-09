@@ -3,7 +3,9 @@ package fr.niakimbo.trust
 import android.app.Application
 import android.content.Context
 import fr.niakimbo.trust.content.ContentRepository
+import fr.niakimbo.trust.data.Journal
 import fr.niakimbo.trust.data.SettingsStore
+import fr.niakimbo.trust.data.db.TrustDatabase
 import fr.niakimbo.trust.playback.AudioCache
 import fr.niakimbo.trust.playback.PlaybackHub
 import fr.niakimbo.trust.playback.PlayerController
@@ -23,7 +25,11 @@ class AppContainer(context: Context) {
     val content = ContentRepository(context)
     val audioCache by lazy { AudioCache(context) }
     val playbackHub = PlaybackHub()
-    val player = PlayerController(context, content, playbackHub, appScope)
+    val database by lazy { TrustDatabase.create(context) }
+    val journal by lazy { Journal(database.journal(), appScope) }
+    val player = PlayerController(context, content, playbackHub, appScope) { code, name, chapter, verse ->
+        journal.recordListening(code, name, chapter, verse)
+    }
 }
 
 class TrustApp : Application() {

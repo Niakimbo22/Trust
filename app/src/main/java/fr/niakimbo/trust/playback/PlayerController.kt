@@ -56,6 +56,8 @@ class PlayerController(
     private val repo: ContentRepository,
     private val hub: PlaybackHub,
     private val scope: CoroutineScope,
+    /** Appelé pendant l'écoute (toutes les ~5 s) : sert à l'historique. */
+    private val onProgress: (code: String, bookName: String, chapter: Int, verse: Int) -> Unit = { _, _, _, _ -> },
 ) {
     private val prefs = context.getSharedPreferences("playback", Context.MODE_PRIVATE)
 
@@ -344,6 +346,7 @@ class PlayerController(
             .putLong(KEY_SAVED_AT, now)
             .apply()
         _resume.value = point
+        onProgress(book.code, book.info.short, ref.chapter, ref.verse)
     }
 
     private fun loadResume(): ResumePoint? {

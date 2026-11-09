@@ -33,6 +33,7 @@ import androidx.navigation.navArgument
 import fr.niakimbo.trust.ui.components.MiniPlayer
 import fr.niakimbo.trust.ui.screens.BooksScreen
 import fr.niakimbo.trust.ui.screens.ChaptersScreen
+import fr.niakimbo.trust.ui.screens.JournalScreen
 import fr.niakimbo.trust.ui.screens.ReaderScreen
 import fr.niakimbo.trust.ui.screens.HomeScreen
 import fr.niakimbo.trust.ui.screens.PlayerScreen
@@ -45,9 +46,11 @@ private object Routes {
     const val SETTINGS = "settings"
     const val ABOUT = "about"
     const val BOOK = "book/{code}"
-    const val READ = "read/{code}/{chapter}"
+    const val READ = "read/{code}/{chapter}?verse={verse}"
+    const val JOURNAL = "journal?tab={tab}"
     fun book(code: String) = "book/$code"
-    fun read(code: String, chapter: Int) = "read/$code/$chapter"
+    fun read(code: String, chapter: Int, verse: Int = 0) = "read/$code/$chapter?verse=$verse"
+    fun journal(tab: Int = 0) = "journal?tab=$tab"
 }
 
 private class Tab(val route: String, val label: String, val vector: ImageVector? = null, @DrawableRes val res: Int = 0)
@@ -114,7 +117,12 @@ fun TrustRoot(container: AppContainer) {
                 HomeScreen(container, onResume = {
                     container.player.resumeLast()
                     goTab(Routes.PLAYER)
-                }, onOpenBible = { goTab(Routes.BIBLE) })
+                }, onOpenBible = { goTab(Routes.BIBLE) }, onOpenJournal = { tab -> nav.navigate(Routes.journal(tab)) })
+            }
+            composable(Routes.JOURNAL, listOf(navArgument("tab") { type = NavType.IntType; defaultValue = 0 })) { e ->
+                JournalScreen(container, e.arguments!!.getInt("tab"), onBack = { nav.popBackStack() }) { code, c, v ->
+                    nav.navigate(Routes.read(code, c, v))
+                }
             }
             composable(Routes.BIBLE) { BooksScreen(container) { code -> nav.navigate(Routes.book(code)) } }
             composable(Routes.BOOK, listOf(navArgument("code") { type = NavType.StringType })) { e ->
@@ -123,11 +131,16 @@ fun TrustRoot(container: AppContainer) {
             }
             composable(
                 Routes.READ,
-                listOf(navArgument("code") { type = NavType.StringType }, navArgument("chapter") { type = NavType.IntType }),
+                listOf(
+                    navArgument("code") { type = NavType.StringType },
+                    navArgument("chapter") { type = NavType.IntType },
+                    navArgument("verse") { type = NavType.IntType; defaultValue = 0 },
+                ),
             ) { e ->
                 val code = e.arguments!!.getString("code")!!
                 val chapter = e.arguments!!.getInt("chapter")
-                ReaderScreen(container, code, chapter, onBack = { nav.popBackStack() }) { c ->
+                val verse = e.arguments!!.getInt("verse")
+                ReaderScreen(container, code, chapter, verse, onBack = { nav.popBackStack() }) { c ->
                     nav.navigate(Routes.read(code, c)) { popUpTo(Routes.READ) { inclusive = true } }
                 }
             }

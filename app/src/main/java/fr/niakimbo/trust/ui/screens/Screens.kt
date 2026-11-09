@@ -50,7 +50,10 @@ private val screenPadding = Modifier.padding(horizontal = 20.dp)
 // ---------------- Accueil ----------------
 
 @Composable
-fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () -> Unit) {
+fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () -> Unit, onOpenJournal: (Int) -> Unit) {
+    val bookmarks by container.journal.bookmarks.collectAsStateWithLifecycle(emptyList())
+    val notes by container.journal.notes.collectAsStateWithLifecycle(emptyList())
+    val history by container.journal.history.collectAsStateWithLifecycle(emptyList())
     val update by container.updateManager.state.collectAsStateWithLifecycle()
     val resume by container.player.resume.collectAsStateWithLifecycle()
     val greeting = if (LocalTime.now().hour in 5..17) "Bonjour" else "Bonsoir"
@@ -96,6 +99,13 @@ fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () ->
             }
         }
 
+        TrustCard {
+            SectionLabel("Carnet")
+            JournalRow("Marque-pages", bookmarks.size) { onOpenJournal(0) }
+            JournalRow("Notes", notes.size) { onOpenJournal(1) }
+            JournalRow("Historique", history.size) { onOpenJournal(2) }
+        }
+
         Column(Modifier.padding(vertical = 24.dp)) {
             Text(
                 "« Heureux ceux qui n'ont pas vu et qui ont cru ! »",
@@ -111,6 +121,18 @@ fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () ->
                 modifier = Modifier.padding(top = 8.dp),
             )
         }
+    }
+}
+
+@Composable
+private fun JournalRow(label: String, count: Int, onClick: () -> Unit) {
+    Row(
+        Modifier.fillMaxWidth().clickable(onClick = onClick).padding(vertical = 10.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Text(label, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
+        Text("$count", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        Icon(Icons.AutoMirrored.Filled.KeyboardArrowRight, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant)
     }
 }
 

@@ -22,11 +22,22 @@ import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.outlined.BookmarkBorder
+import androidx.compose.material.icons.outlined.ContentCopy
+import androidx.compose.material.icons.outlined.EditNote
+import androidx.compose.material.icons.outlined.Info
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.ModalBottomSheet
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.platform.LocalClipboardManager
+import androidx.compose.ui.text.AnnotatedString
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.material.icons.filled.ChevronLeft
 import androidx.compose.material.icons.filled.ChevronRight
 import androidx.compose.material.icons.filled.Headphones
@@ -46,7 +57,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -65,7 +75,6 @@ import fr.niakimbo.trust.content.BooksIndex
 import fr.niakimbo.trust.content.Verse
 import fr.niakimbo.trust.ui.components.SectionLabel
 import fr.niakimbo.trust.ui.theme.ScriptureFamily
-import kotlinx.coroutines.launch
 
 /** Résultat d'un chargement réseau/cache, pour les écrans. */
 sealed interface Loadable<out T> {
@@ -207,19 +216,22 @@ fun ChaptersScreen(container: AppContainer, code: String, onBack: () -> Unit, on
 
 // ---------------- Lecture d'un chapitre (texte synchronisé) ----------------
 
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun ReaderScreen(
     container: AppContainer,
     code: String,
     chapter: Int,
+    focusVerse: Int,
     onBack: () -> Unit,
     onOpenChapter: (Int) -> Unit,
 ) {
     val (state, retry) = rememberLoad(code) { container.content.book(code) }
     val player by container.player.state.collectAsStateWithLifecycle()
-    val scope = rememberCoroutineScope()
-    var notesFor by remember { mutableStateOf<Verse?>(null) }
+    val bookmarks by remember(code, chapter) { container.journal.bookmarksIn(code, chapter) }.collectAsStateWithLifecycle(emptyList())
+    val notes by remember(code, chapter) { container.journal.notesIn(code, chapter) }.collectAsStateWithLifecycle(emptyList())
+    var selected by remember { mutableStateOf<Verse?>(null) }
+    var editing by remember { mutableStateOf<Verse?>(null) }
+    var crampon by remember { mutableStateOf<Verse?>(null) }
 
     Column(Modifier.fillMaxSize()) {
         val book = (state as? Loadable.Ready)?.value
@@ -243,37 +255,41 @@ fun ReaderScreen(
             }
             val listState = rememberLazyListState()
             val current = if (playingHere) player.ref?.verse else null
+            val marked = bookmarks.map { it.verse }.toSet()
+            val noted = notes.associate { it.verse to it.text }
 
+            // Ouverture sur un verset précis (marque-page, note, historique).
+            LaunchedEffect(focusVerse) {
+                if (focusVerse > 1) listState.scrollToItem(focusVerse, -120)
+            }
             // Suit le verset lu (on fait défiler seulement si le verset sort de l'écran).
             LaunchedEffect(current, playingHere) {
                 val v = current ?: return@LaunchedEffect
                 if (v <= 0) return@LaunchedEffect
-                val idx = v // l'élément 0 est l'en-tête : le verset v est à l'index v
                 val visible = listState.layoutInfo.visibleItemsInfo.map { it.index }
-                if (idx !in visible.dropLast(1).drop(1)) {
-                    scope.launch { listState.animateScrollToItem(idx, -200) }
-                }
+                if (v !in visible.dropLast(1).drop(1)) listState.animateScrollToItem(v, -200)
             }
 
             LazyColumn(state = listState, contentPadding = PaddingValues(start = 20.dp, end = 20.dp, bottom = 32.dp)) {
                 item {
-                    if (b.timings == null) {
-                        Text(
-                            "Audio bientôt disponible pour ce livre.",
-                            style = MaterialTheme.typography.bodySmall,
-                            color = MaterialTheme.colorScheme.onSurfaceVariant,
-                            modifier = Modifier.padding(vertical = 8.dp),
-                        )
-                    } else {
-                        Spacer(Modifier.height(8.dp))
-                    }
+                    Text(
+                        if (b.timings == null) "Audio bientôt disponible pour ce livre. Appui long sur un verset : marque-page, note."
+                        else "Touche un verset pour l'écouter · appui long : marque-page, note.",
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        modifier = Modifier.padding(vertical = 8.dp),
+                    )
                 }
-                itemsIndexed(ch.verses, key = { _, v -> v.v }) { _, verse ->
+                items(ch.verses, key = { it.v }) { verse ->
                     VerseItem(
                         verse = verse,
-                        highlighted = verse.v == current,
-                        onClick = { if (b.timings != null) container.player.play(code, chapter, verse.v) },
-                        onLongClick = { if (verse.notes.isNotEmpty()) notesFor = verse },
+                        highlighted = verse.v == current || (current == null && verse.v == focusVerse && focusVerse > 0),
+                        bookmarked = verse.v in marked,
+                        note = noted[verse.v],
+                        onClick = {
+                            if (b.timings != null) container.player.play(code, chapter, verse.v) else selected = verse
+                        },
+                        onLongClick = { selected = verse },
                     )
                 }
                 item {
@@ -291,14 +307,40 @@ fun ReaderScreen(
                     }
                 }
             }
+
+            selected?.let { v ->
+                VerseActions(
+                    title = "${b.info.short} $chapter, ${v.v}",
+                    verse = v,
+                    canPlay = b.timings != null,
+                    bookmarked = v.v in marked,
+                    hasNote = v.v in noted,
+                    onDismiss = { selected = null },
+                    onPlay = { container.player.play(code, chapter, v.v); selected = null },
+                    onBookmark = { container.journal.toggleBookmark(code, b.info.short, chapter, v.v); selected = null },
+                    onNote = { editing = v; selected = null },
+                    onCrampon = { crampon = v; selected = null },
+                )
+            }
+            editing?.let { v ->
+                NoteDialog(
+                    title = "${b.info.short} $chapter, ${v.v}",
+                    initial = noted[v.v].orEmpty(),
+                    onDismiss = { editing = null },
+                    onSave = { text ->
+                        container.journal.saveNote(code, b.info.short, chapter, v.v, text)
+                        editing = null
+                    },
+                )
+            }
         }
     }
 
-    notesFor?.let { v ->
+    crampon?.let { v ->
         AlertDialog(
-            onDismissRequest = { notesFor = null },
-            confirmButton = { TextButton(onClick = { notesFor = null }) { Text("Fermer") } },
-            title = { Text("Notes · verset ${v.v}") },
+            onDismissRequest = { crampon = null },
+            confirmButton = { TextButton(onClick = { crampon = null }) { Text("Fermer") } },
+            title = { Text("Notes de Crampon · verset ${v.v}") },
             text = {
                 LazyColumn(verticalArrangement = Arrangement.spacedBy(12.dp)) {
                     items(v.notes) { Text(it, style = MaterialTheme.typography.bodyMedium) }
@@ -308,9 +350,94 @@ fun ReaderScreen(
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+private fun VerseActions(
+    title: String,
+    verse: Verse,
+    canPlay: Boolean,
+    bookmarked: Boolean,
+    hasNote: Boolean,
+    onDismiss: () -> Unit,
+    onPlay: () -> Unit,
+    onBookmark: () -> Unit,
+    onNote: () -> Unit,
+    onCrampon: () -> Unit,
+) {
+    val clipboard = LocalClipboardManager.current
+    ModalBottomSheet(onDismissRequest = onDismiss, containerColor = MaterialTheme.colorScheme.surfaceContainerLow) {
+        Column(Modifier.padding(bottom = 24.dp)) {
+            Text(title, style = MaterialTheme.typography.titleMedium, modifier = Modifier.padding(horizontal = 24.dp))
+            Text(
+                verse.t,
+                fontFamily = ScriptureFamily,
+                style = MaterialTheme.typography.bodyMedium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                maxLines = 3,
+                overflow = TextOverflow.Ellipsis,
+                modifier = Modifier.padding(horizontal = 24.dp, vertical = 8.dp),
+            )
+            if (canPlay) SheetAction(Icons.Filled.PlayArrow, "Écouter à partir d'ici", onPlay)
+            SheetAction(
+                if (bookmarked) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder,
+                if (bookmarked) "Retirer le marque-page" else "Ajouter un marque-page",
+                onBookmark,
+            )
+            SheetAction(Icons.Outlined.EditNote, if (hasNote) "Modifier ma note" else "Écrire une note", onNote)
+            if (verse.notes.isNotEmpty()) SheetAction(Icons.Outlined.Info, "Notes de Crampon (${verse.notes.size})", onCrampon)
+            SheetAction(Icons.Outlined.ContentCopy, "Copier le verset") {
+                clipboard.setText(AnnotatedString("${verse.t} ($title, trad. Crampon)"))
+                onDismiss()
+            }
+        }
+    }
+}
+
+@Composable
+private fun SheetAction(icon: ImageVector, label: String, onClick: () -> Unit) {
+    Row(
+        Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 24.dp, vertical = 14.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Icon(icon, null, tint = MaterialTheme.colorScheme.primary)
+        Spacer(Modifier.width(16.dp))
+        Text(label, style = MaterialTheme.typography.bodyLarge)
+    }
+}
+
+@Composable
+fun NoteDialog(title: String, initial: String, onDismiss: () -> Unit, onSave: (String) -> Unit) {
+    var text by remember { mutableStateOf(initial) }
+    AlertDialog(
+        onDismissRequest = onDismiss,
+        title = { Text(title) },
+        text = {
+            OutlinedTextField(
+                value = text,
+                onValueChange = { text = it },
+                placeholder = { Text("Ta note…") },
+                minLines = 4,
+                modifier = Modifier.fillMaxWidth(),
+            )
+        },
+        confirmButton = { TextButton(onClick = { onSave(text) }) { Text("Enregistrer") } },
+        dismissButton = {
+            if (initial.isNotEmpty()) TextButton(onClick = { onSave("") }) { Text("Supprimer") }
+            else TextButton(onClick = onDismiss) { Text("Annuler") }
+        },
+    )
+}
+
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
-private fun VerseItem(verse: Verse, highlighted: Boolean, onClick: () -> Unit, onLongClick: () -> Unit) {
+private fun VerseItem(
+    verse: Verse,
+    highlighted: Boolean,
+    bookmarked: Boolean,
+    note: String?,
+    onClick: () -> Unit,
+    onLongClick: () -> Unit,
+) {
     val colors = MaterialTheme.colorScheme
     Column {
         verse.h?.let { heading ->
@@ -330,18 +457,44 @@ private fun VerseItem(verse: Verse, highlighted: Boolean, onClick: () -> Unit, o
                 withStyle(SpanStyle(color = colors.onSurfaceVariant, fontSize = 12.sp)) { append("  †") }
             }
         }
-        Text(
-            text,
-            fontFamily = ScriptureFamily,
-            fontSize = 19.sp,
-            lineHeight = 30.sp,
-            color = if (highlighted) colors.onBackground else colors.onBackground.copy(alpha = 0.92f),
-            modifier = Modifier
+        Column(
+            Modifier
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(10.dp))
                 .background(if (highlighted) colors.primaryContainer.copy(alpha = 0.55f) else colors.background)
                 .combinedClickable(onClick = onClick, onLongClick = onLongClick)
                 .padding(horizontal = 8.dp, vertical = 6.dp),
-        )
+        ) {
+            Row {
+                Text(
+                    text,
+                    fontFamily = ScriptureFamily,
+                    fontSize = 19.sp,
+                    lineHeight = 30.sp,
+                    color = colors.onBackground,
+                    modifier = Modifier.weight(1f),
+                )
+                if (bookmarked) {
+                    Icon(
+                        Icons.Filled.Bookmark,
+                        contentDescription = "Marque-page",
+                        tint = colors.primary,
+                        modifier = Modifier.padding(start = 6.dp, top = 4.dp).size(16.dp),
+                    )
+                }
+            }
+            note?.let {
+                Text(
+                    it,
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = colors.onSurfaceVariant,
+                    modifier = Modifier
+                        .padding(top = 6.dp)
+                        .clip(RoundedCornerShape(8.dp))
+                        .background(colors.surfaceContainer)
+                        .padding(horizontal = 10.dp, vertical = 6.dp),
+                )
+            }
+        }
     }
 }
