@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "books": [
   {
    "code": "GEN",
@@ -9,7 +9,7 @@
    "chapters": 50,
    "verses": 1533,
    "text": "text/GEN.json",
-   "timings": null,
+   "timings": "timings/GEN.json",
    "audio": [
     {
      "url": "https://archive.org/download/Pentateuque/01-genese_ch01_25.ogg",
@@ -29,7 +29,7 @@
    "chapters": 40,
    "verses": 1213,
    "text": "text/EXO.json",
-   "timings": null,
+   "timings": "timings/EXO.json",
    "audio": [
     {
      "url": "https://archive.org/download/Pentateuque/03-exode_ch01_18.ogg",
@@ -49,7 +49,7 @@
    "chapters": 27,
    "verses": 859,
    "text": "text/LEV.json",
-   "timings": null,
+   "timings": "timings/LEV.json",
    "audio": [
     {
      "url": "https://archive.org/download/Pentateuque/05-levitique.ogg",
@@ -65,7 +65,7 @@
    "chapters": 36,
    "verses": 1289,
    "text": "text/NUM.json",
-   "timings": null,
+   "timings": "timings/NUM.json",
    "audio": [
     {
      "url": "https://archive.org/download/Pentateuque/06-nombres.ogg",
@@ -81,7 +81,7 @@
    "chapters": 34,
    "verses": 959,
    "text": "text/DEU.json",
-   "timings": null,
+   "timings": "timings/DEU.json",
    "audio": [
     {
      "url": "https://archive.org/download/Pentateuque/07-deuteronome.ogg",
@@ -97,7 +97,7 @@
    "chapters": 24,
    "verses": 658,
    "text": "text/JOS.json",
-   "timings": null,
+   "timings": "timings/JOS.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/01-josue.ogg",
@@ -113,7 +113,7 @@
    "chapters": 21,
    "verses": 619,
    "text": "text/JDG.json",
-   "timings": null,
+   "timings": "timings/JDG.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/02-juges.ogg",
@@ -129,7 +129,7 @@
    "chapters": 4,
    "verses": 85,
    "text": "text/RUT.json",
-   "timings": null,
+   "timings": "timings/RUT.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/03-ruth.ogg",
@@ -145,7 +145,7 @@
    "chapters": 31,
    "verses": 811,
    "text": "text/1SA.json",
-   "timings": null,
+   "timings": "timings/1SA.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/04-1samuel.ogg",
@@ -161,7 +161,7 @@
    "chapters": 24,
    "verses": 695,
    "text": "text/2SA.json",
-   "timings": null,
+   "timings": "timings/2SA.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/05-2samuel.ogg",
@@ -177,7 +177,7 @@
    "chapters": 22,
    "verses": 817,
    "text": "text/1KI.json",
-   "timings": null,
+   "timings": "timings/1KI.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/06-1rois.ogg",
@@ -193,7 +193,7 @@
    "chapters": 25,
    "verses": 719,
    "text": "text/2KI.json",
-   "timings": null,
+   "timings": "timings/2KI.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/07-2rois.ogg",
@@ -209,7 +209,7 @@
    "chapters": 29,
    "verses": 943,
    "text": "text/1CH.json",
-   "timings": null,
+   "timings": "timings/1CH.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/08-1chroniques.ogg",
@@ -225,7 +225,7 @@
    "chapters": 36,
    "verses": 822,
    "text": "text/2CH.json",
-   "timings": null,
+   "timings": "timings/2CH.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/09-2chroniques.ogg",
@@ -241,7 +241,7 @@
    "chapters": 10,
    "verses": 280,
    "text": "text/EZR.json",
-   "timings": null,
+   "timings": "timings/EZR.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/10-esdras.ogg",
@@ -257,7 +257,7 @@
    "chapters": 13,
    "verses": 406,
    "text": "text/NEH.json",
-   "timings": null,
+   "timings": "timings/NEH.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/11-nehemie.ogg",
@@ -273,7 +273,7 @@
    "chapters": 14,
    "verses": 298,
    "text": "text/TOB.json",
-   "timings": null,
+   "timings": "timings/TOB.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/12-tobie.ogg",
@@ -289,7 +289,7 @@
    "chapters": 16,
    "verses": 346,
    "text": "text/JDT.json",
-   "timings": null,
+   "timings": "timings/JDT.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/13-judith.ogg",
@@ -305,7 +305,7 @@
    "chapters": 16,
    "verses": 275,
    "text": "text/EST.json",
-   "timings": null,
+   "timings": "timings/EST.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/14-esther.ogg",
@@ -321,7 +321,7 @@
    "chapters": 16,
    "verses": 929,
    "text": "text/1MA.json",
-   "timings": null,
+   "timings": "timings/1MA.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/15-1machabees.ogg",
@@ -337,7 +337,7 @@
    "chapters": 15,
    "verses": 557,
    "text": "text/2MA.json",
-   "timings": null,
+   "timings": "timings/2MA.json",
    "audio": [
     {
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/16-2machabees.ogg",
@@ -353,7 +353,7 @@
    "chapters": 42,
    "verses": 1070,
    "text": "text/JOB.json",
-   "timings": null,
+   "timings": "timings/JOB.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/01-job.ogg",
@@ -369,7 +369,7 @@
    "chapters": 150,
    "verses": 2527,
    "text": "text/PSA.json",
-   "timings": null,
+   "timings": "timings/PSA.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/02-psaumes1.ogg",
@@ -401,7 +401,7 @@
    "chapters": 31,
    "verses": 915,
    "text": "text/PRO.json",
-   "timings": null,
+   "timings": "timings/PRO.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/07-proverbes.ogg",
@@ -417,7 +417,7 @@
    "chapters": 12,
    "verses": 222,
    "text": "text/ECC.json",
-   "timings": null,
+   "timings": "timings/ECC.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/08-ecclesiaste.ogg",
@@ -433,7 +433,7 @@
    "chapters": 8,
    "verses": 117,
    "text": "text/SNG.json",
-   "timings": null,
+   "timings": "timings/SNG.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/09-cantique.ogg",
@@ -449,7 +449,7 @@
    "chapters": 19,
    "verses": 437,
    "text": "text/WIS.json",
-   "timings": null,
+   "timings": "timings/WIS.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/10-sagesse.ogg",
@@ -465,7 +465,7 @@
    "chapters": 51,
    "verses": 1363,
    "text": "text/SIR.json",
-   "timings": null,
+   "timings": "timings/SIR.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/11-ecclesiastique.ogg",
@@ -481,7 +481,7 @@
    "chapters": 66,
    "verses": 1291,
    "text": "text/ISA.json",
-   "timings": null,
+   "timings": "timings/ISA.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/01-isaie_ch1_33.ogg",
@@ -501,7 +501,7 @@
    "chapters": 52,
    "verses": 1364,
    "text": "text/JER.json",
-   "timings": null,
+   "timings": "timings/JER.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/03-jeremie_ch1_29.ogg",
@@ -521,7 +521,7 @@
    "chapters": 5,
    "verses": 154,
    "text": "text/LAM.json",
-   "timings": null,
+   "timings": "timings/LAM.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/05-lamentations.ogg",
@@ -537,7 +537,7 @@
    "chapters": 6,
    "verses": 213,
    "text": "text/BAR.json",
-   "timings": null,
+   "timings": "timings/BAR.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/06-baruch.ogg",
@@ -553,7 +553,7 @@
    "chapters": 48,
    "verses": 1273,
    "text": "text/EZK.json",
-   "timings": null,
+   "timings": "timings/EZK.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/07-ezechiel_ch1_24.ogg",
@@ -573,7 +573,7 @@
    "chapters": 14,
    "verses": 531,
    "text": "text/DAN.json",
-   "timings": null,
+   "timings": "timings/DAN.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/09-daniel.ogg",
@@ -589,7 +589,7 @@
    "chapters": 14,
    "verses": 197,
    "text": "text/HOS.json",
-   "timings": null,
+   "timings": "timings/HOS.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/10-osee.ogg",
@@ -605,7 +605,7 @@
    "chapters": 4,
    "verses": 73,
    "text": "text/JOL.json",
-   "timings": null,
+   "timings": "timings/JOL.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/11-joel.ogg",
@@ -621,7 +621,7 @@
    "chapters": 9,
    "verses": 146,
    "text": "text/AMO.json",
-   "timings": null,
+   "timings": "timings/AMO.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/12-amos.ogg",
@@ -653,7 +653,7 @@
    "chapters": 4,
    "verses": 48,
    "text": "text/JON.json",
-   "timings": null,
+   "timings": "timings/JON.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/14-jonas.ogg",
@@ -669,7 +669,7 @@
    "chapters": 7,
    "verses": 105,
    "text": "text/MIC.json",
-   "timings": null,
+   "timings": "timings/MIC.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/15-michee.ogg",
@@ -685,7 +685,7 @@
    "chapters": 3,
    "verses": 47,
    "text": "text/NAM.json",
-   "timings": null,
+   "timings": "timings/NAM.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/16-nahum.ogg",
@@ -701,7 +701,7 @@
    "chapters": 3,
    "verses": 56,
    "text": "text/HAB.json",
-   "timings": null,
+   "timings": "timings/HAB.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/17-habacuc.ogg",
@@ -717,7 +717,7 @@
    "chapters": 3,
    "verses": 53,
    "text": "text/ZEP.json",
-   "timings": null,
+   "timings": "timings/ZEP.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/18-sophonie.ogg",
@@ -733,7 +733,7 @@
    "chapters": 2,
    "verses": 38,
    "text": "text/HAG.json",
-   "timings": null,
+   "timings": "timings/HAG.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/19-aggee.ogg",
@@ -749,7 +749,7 @@
    "chapters": 14,
    "verses": 211,
    "text": "text/ZEC.json",
-   "timings": null,
+   "timings": "timings/ZEC.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/20-zacharie.ogg",
@@ -765,7 +765,7 @@
    "chapters": 3,
    "verses": 55,
    "text": "text/MAL.json",
-   "timings": null,
+   "timings": "timings/MAL.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/21-malachie.ogg",
@@ -781,7 +781,7 @@
    "chapters": 28,
    "verses": 1071,
    "text": "text/MAT.json",
-   "timings": null,
+   "timings": "timings/MAT.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/01-matthieu_entier_128.ogg",
@@ -797,7 +797,7 @@
    "chapters": 16,
    "verses": 677,
    "text": "text/MRK.json",
-   "timings": null,
+   "timings": "timings/MRK.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/02-marc_entier_128.ogg",
@@ -813,7 +813,7 @@
    "chapters": 24,
    "verses": 1151,
    "text": "text/LUK.json",
-   "timings": null,
+   "timings": "timings/LUK.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/03-luc_entier_128.ogg",
@@ -845,7 +845,7 @@
    "chapters": 28,
    "verses": 1006,
    "text": "text/ACT.json",
-   "timings": null,
+   "timings": "timings/ACT.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/05-actes_entier_128.ogg",
@@ -861,7 +861,7 @@
    "chapters": 16,
    "verses": 433,
    "text": "text/ROM.json",
-   "timings": null,
+   "timings": "timings/ROM.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/06-lettre_romains_128.ogg",
@@ -877,7 +877,7 @@
    "chapters": 16,
    "verses": 437,
    "text": "text/1CO.json",
-   "timings": null,
+   "timings": "timings/1CO.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/07-lettre_1corinthiens_128.ogg",
@@ -893,7 +893,7 @@
    "chapters": 13,
    "verses": 256,
    "text": "text/2CO.json",
-   "timings": null,
+   "timings": "timings/2CO.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/08-lettre_2corinthiens_128.ogg",
@@ -909,7 +909,7 @@
    "chapters": 6,
    "verses": 149,
    "text": "text/GAL.json",
-   "timings": null,
+   "timings": "timings/GAL.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/09-lettre_galates_128.ogg",
@@ -925,7 +925,7 @@
    "chapters": 6,
    "verses": 155,
    "text": "text/EPH.json",
-   "timings": null,
+   "timings": "timings/EPH.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/10-lettre_ephesiens_128.ogg",
@@ -941,7 +941,7 @@
    "chapters": 4,
    "verses": 104,
    "text": "text/PHP.json",
-   "timings": null,
+   "timings": "timings/PHP.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/11-lettre_philippiens_128.ogg",
@@ -957,7 +957,7 @@
    "chapters": 4,
    "verses": 95,
    "text": "text/COL.json",
-   "timings": null,
+   "timings": "timings/COL.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/12-lettre_colossiens_128.ogg",
@@ -973,7 +973,7 @@
    "chapters": 5,
    "verses": 89,
    "text": "text/1TH.json",
-   "timings": null,
+   "timings": "timings/1TH.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/13-lettre_1thessaloniciens_128.ogg",
@@ -989,7 +989,7 @@
    "chapters": 3,
    "verses": 47,
    "text": "text/2TH.json",
-   "timings": null,
+   "timings": "timings/2TH.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/14-lettre_2thessaloniciens_128.ogg",
@@ -1005,7 +1005,7 @@
    "chapters": 6,
    "verses": 113,
    "text": "text/1TI.json",
-   "timings": null,
+   "timings": "timings/1TI.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/15-lettre_1timothee_128.ogg",
@@ -1021,7 +1021,7 @@
    "chapters": 4,
    "verses": 83,
    "text": "text/2TI.json",
-   "timings": null,
+   "timings": "timings/2TI.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/16-lettre_2timothee_128.ogg",
@@ -1037,7 +1037,7 @@
    "chapters": 3,
    "verses": 46,
    "text": "text/TIT.json",
-   "timings": null,
+   "timings": "timings/TIT.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/17-lettre_tite_128.ogg",
@@ -1069,7 +1069,7 @@
    "chapters": 13,
    "verses": 303,
    "text": "text/HEB.json",
-   "timings": null,
+   "timings": "timings/HEB.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/19-lettre_hebreux_128.ogg",
@@ -1085,7 +1085,7 @@
    "chapters": 5,
    "verses": 108,
    "text": "text/JAS.json",
-   "timings": null,
+   "timings": "timings/JAS.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/20-lettre_st_jacques_128.ogg",
@@ -1101,7 +1101,7 @@
    "chapters": 5,
    "verses": 105,
    "text": "text/1PE.json",
-   "timings": null,
+   "timings": "timings/1PE.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/21-premiere_lettre_st_pierre_128.ogg",
@@ -1117,7 +1117,7 @@
    "chapters": 3,
    "verses": 61,
    "text": "text/2PE.json",
-   "timings": null,
+   "timings": "timings/2PE.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/22-deuxieme_lettre_st_pierre_128.ogg",
@@ -1133,7 +1133,7 @@
    "chapters": 5,
    "verses": 105,
    "text": "text/1JN.json",
-   "timings": null,
+   "timings": "timings/1JN.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/23-premiere_lettre_st_jean_128.ogg",
@@ -1165,7 +1165,7 @@
    "chapters": 1,
    "verses": 15,
    "text": "text/3JN.json",
-   "timings": null,
+   "timings": "timings/3JN.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/25-troisieme_lettre_st_jean_128.ogg",
@@ -1181,7 +1181,7 @@
    "chapters": 1,
    "verses": 25,
    "text": "text/JUD.json",
-   "timings": null,
+   "timings": "timings/JUD.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/26-lettre_st_jude_128.ogg",
@@ -1197,7 +1197,7 @@
    "chapters": 22,
    "verses": 405,
    "text": "text/REV.json",
-   "timings": null,
+   "timings": "timings/REV.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/27-apocalypse_entier_128.ogg",
