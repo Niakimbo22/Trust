@@ -17,3 +17,6 @@ keystore.properties
 *.p12
 *.pem
 .env
+
+# Python
+__pycache__/
