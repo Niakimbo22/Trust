@@ -34,6 +34,16 @@ class SettingsStore(context: Context) {
             _autoCheck.value = value
         }
 
+    /** Taille du texte biblique (multiplicateur, 0.85 à 1.4). */
+    private val _textScale = MutableStateFlow(prefs.getFloat(KEY_TEXT_SCALE, 1f))
+    val textScale: StateFlow<Float> = _textScale.asStateFlow()
+
+    fun setTextScale(value: Float) {
+        val v = value.coerceIn(0.85f, 1.4f)
+        prefs.edit().putFloat(KEY_TEXT_SCALE, v).apply()
+        _textScale.value = v
+    }
+
     var lastUpdateCheck: Long
         get() = prefs.getLong(KEY_LAST_CHECK, 0L)
         set(value) = prefs.edit().putLong(KEY_LAST_CHECK, value).apply()
@@ -42,5 +52,6 @@ class SettingsStore(context: Context) {
         const val KEY_THEME = "theme_mode"
         const val KEY_AUTO_CHECK = "auto_check_updates"
         const val KEY_LAST_CHECK = "last_update_check"
+        const val KEY_TEXT_SCALE = "text_scale"
     }
 }

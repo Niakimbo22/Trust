@@ -1,6 +1,13 @@
 package fr.niakimbo.trust.ui.screens
 
+import android.Manifest
+import android.os.Build
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.material.icons.filled.DownloadDone
+import androidx.compose.material.icons.outlined.Download
+import fr.niakimbo.trust.playback.BookDownload
 import androidx.compose.foundation.background
 import androidx.compose.foundation.combinedClickable
 import androidx.compose.foundation.clickable
@@ -191,24 +198,70 @@ fun ChaptersScreen(container: AppContainer, code: String, onBack: () -> Unit, on
         val title = (state as? Loadable.Ready)?.value?.info?.name ?: ""
         BackHeader(title, onBack = onBack)
         LoadableContent(state, retry) { book: Book ->
-            LazyVerticalGrid(
-                columns = GridCells.Adaptive(64.dp),
-                contentPadding = PaddingValues(20.dp),
-                horizontalArrangement = Arrangement.spacedBy(10.dp),
-                verticalArrangement = Arrangement.spacedBy(10.dp),
-            ) {
-                items(book.text.chapters.map { it.c }) { c ->
-                    Surface(
-                        onClick = { onOpenChapter(c) },
-                        shape = RoundedCornerShape(14.dp),
-                        color = MaterialTheme.colorScheme.surfaceContainer,
-                        modifier = Modifier.aspectRatio(1f),
-                    ) {
-                        Box(contentAlignment = Alignment.Center) {
-                            Text("$c", style = MaterialTheme.typography.titleMedium)
+            Column {
+                if (book.info.hasAudio) DownloadRow(container, book)
+                LazyVerticalGrid(
+                    columns = GridCells.Adaptive(64.dp),
+                    contentPadding = PaddingValues(20.dp),
+                    horizontalArrangement = Arrangement.spacedBy(10.dp),
+                    verticalArrangement = Arrangement.spacedBy(10.dp),
+                ) {
+                    items(book.text.chapters.map { it.c }) { c ->
+                        Surface(
+                            onClick = { onOpenChapter(c) },
+                            shape = RoundedCornerShape(14.dp),
+                            color = MaterialTheme.colorScheme.surfaceContainer,
+                            modifier = Modifier.aspectRatio(1f),
+                        ) {
+                            Box(contentAlignment = Alignment.Center) {
+                                Text("$c", style = MaterialTheme.typography.titleMedium)
+                            }
                         }
                     }
                 }
+            }
+        }
+    }
+}
+
+/** Télécharger l'audio d'un livre pour l'écouter sans connexion. */
+@Composable
+private fun DownloadRow(container: AppContainer, book: Book) {
+    val states by container.downloads.states.collectAsStateWithLifecycle()
+    val state = states[book.code] ?: BookDownload.None
+    val askNotif = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) {
+        container.downloads.download(book.info)
+    }
+    val megabytes = (book.info.audio.sumOf { it.duration } * 10.2 / 1024).toInt() // ≈ 82 kbit/s
+    Row(
+        Modifier.fillMaxWidth().padding(horizontal = 20.dp).clip(RoundedCornerShape(14.dp))
+            .background(MaterialTheme.colorScheme.surfaceContainerLow).padding(start = 16.dp, end = 4.dp, top = 4.dp, bottom = 4.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Icon(
+            if (state == BookDownload.Done) Icons.Filled.DownloadDone else Icons.Outlined.Download,
+            null,
+            tint = MaterialTheme.colorScheme.primary,
+            modifier = Modifier.size(20.dp),
+        )
+        Spacer(Modifier.width(12.dp))
+        Text(
+            when (state) {
+                BookDownload.None -> "Écoute hors-ligne · ≈ $megabytes Mo"
+                is BookDownload.InProgress -> "Téléchargement… ${state.percent} %"
+                BookDownload.Done -> "Disponible hors-ligne"
+                BookDownload.Failed -> "Échec du téléchargement"
+            },
+            style = MaterialTheme.typography.bodyMedium,
+            modifier = Modifier.weight(1f),
+        )
+        when (state) {
+            BookDownload.None, BookDownload.Failed -> TextButton(onClick = {
+                if (Build.VERSION.SDK_INT >= 33) askNotif.launch(Manifest.permission.POST_NOTIFICATIONS)
+                else container.downloads.download(book.info)
+            }) { Text(if (state == BookDownload.Failed) "Réessayer" else "Télécharger") }
+            is BookDownload.InProgress, BookDownload.Done -> TextButton(onClick = { container.downloads.remove(book.info) }) {
+                Text(if (state == BookDownload.Done) "Supprimer" else "Annuler")
             }
         }
     }
@@ -232,6 +285,7 @@ fun ReaderScreen(
     var selected by remember { mutableStateOf<Verse?>(null) }
     var editing by remember { mutableStateOf<Verse?>(null) }
     var crampon by remember { mutableStateOf<Verse?>(null) }
+    val textScale by container.settings.textScale.collectAsStateWithLifecycle()
 
     Column(Modifier.fillMaxSize()) {
         val book = (state as? Loadable.Ready)?.value
@@ -283,6 +337,7 @@ fun ReaderScreen(
                 items(ch.verses, key = { it.v }) { verse ->
                     VerseItem(
                         verse = verse,
+                        scale = textScale,
                         highlighted = verse.v == current || (current == null && verse.v == focusVerse && focusVerse > 0),
                         bookmarked = verse.v in marked,
                         note = noted[verse.v],
@@ -432,6 +487,7 @@ fun NoteDialog(title: String, initial: String, onDismiss: () -> Unit, onSave: (S
 @Composable
 private fun VerseItem(
     verse: Verse,
+    scale: Float,
     highlighted: Boolean,
     bookmarked: Boolean,
     note: String?,
@@ -469,8 +525,8 @@ private fun VerseItem(
                 Text(
                     text,
                     fontFamily = ScriptureFamily,
-                    fontSize = 19.sp,
-                    lineHeight = 30.sp,
+                    fontSize = 19.sp * scale,
+                    lineHeight = 30.sp * scale,
                     color = colors.onBackground,
                     modifier = Modifier.weight(1f),
                 )

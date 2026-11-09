@@ -44,6 +44,8 @@ import fr.niakimbo.trust.ui.components.UpdateBanner
 import fr.niakimbo.trust.ui.components.UpdateContent
 import fr.niakimbo.trust.ui.theme.ScriptureFamily
 import java.time.LocalTime
+import kotlin.math.roundToInt
+import androidx.compose.ui.unit.sp
 
 private val screenPadding = Modifier.padding(horizontal = 20.dp)
 
@@ -167,6 +169,24 @@ fun SettingsScreen(container: AppContainer, onOpenAbout: () -> Unit) {
         }
 
         TrustCard {
+            SectionLabel("Lecture")
+            val scale by settings.textScale.collectAsStateWithLifecycle()
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text("Taille du texte", style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
+                TextButton(onClick = { settings.setTextScale(scale - 0.1f) }, enabled = scale > 0.86f) { Text("A−") }
+                Text("${(scale * 100).roundToInt()} %", style = MaterialTheme.typography.bodyMedium)
+                TextButton(onClick = { settings.setTextScale(scale + 0.1f) }, enabled = scale < 1.39f) { Text("A+") }
+            }
+            Text(
+                "Au commencement était le Verbe, et le Verbe était en Dieu.",
+                fontFamily = ScriptureFamily,
+                fontSize = 19.sp * scale,
+                lineHeight = 30.sp * scale,
+                modifier = Modifier.padding(top = 6.dp),
+            )
+        }
+
+        TrustCard {
             SectionLabel("Mises à jour")
             Text(
                 "Version ${manager.installedVersionName}",
@@ -186,6 +206,28 @@ fun SettingsScreen(container: AppContainer, onOpenAbout: () -> Unit) {
             }
             HorizontalDivider(Modifier.padding(vertical = 14.dp), color = MaterialTheme.colorScheme.outlineVariant)
             UpdateContent(update, manager, showCheckButton = true)
+        }
+
+        TrustCard {
+            SectionLabel("Écoute hors-ligne")
+            val bytes by container.downloads.totalBytes.collectAsStateWithLifecycle()
+            val states by container.downloads.states.collectAsStateWithLifecycle()
+            val done = states.values.count { it == fr.niakimbo.trust.playback.BookDownload.Done }
+            Text(
+                if (done == 0) "Aucun livre téléchargé" else "$done livre${if (done > 1) "s" else ""} · ${"%.1f".format(bytes / 1e9)} Go",
+                style = MaterialTheme.typography.bodyLarge,
+            )
+            Text(
+                "Télécharge un livre depuis sa page (liste des chapitres). L'audio écouté en streaming est aussi gardé en cache (1 Go max).",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(top = 4.dp),
+            )
+            if (states.isNotEmpty()) {
+                TextButton(onClick = { container.downloads.removeAll() }, modifier = Modifier.padding(top = 4.dp)) {
+                    Text("Tout supprimer")
+                }
+            }
         }
 
         TrustCard {

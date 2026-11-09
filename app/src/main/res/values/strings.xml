@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Trust</string>
+    <string name="downloads_channel">Téléchargements</string>
+    <string name="downloads_progress">Téléchargement de l\'audio</string>
 </resources>

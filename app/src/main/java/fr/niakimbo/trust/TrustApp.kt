@@ -7,6 +7,7 @@ import fr.niakimbo.trust.data.Journal
 import fr.niakimbo.trust.data.SettingsStore
 import fr.niakimbo.trust.data.db.TrustDatabase
 import fr.niakimbo.trust.playback.AudioCache
+import fr.niakimbo.trust.playback.Downloads
 import fr.niakimbo.trust.playback.PlaybackHub
 import fr.niakimbo.trust.playback.PlayerController
 import fr.niakimbo.trust.update.UpdateManager
@@ -24,6 +25,7 @@ class AppContainer(context: Context) {
     val updateManager = UpdateManager(context, settings, appScope)
     val content = ContentRepository(context)
     val audioCache by lazy { AudioCache(context) }
+    val downloads by lazy { Downloads(context, audioCache, appScope) }
     val playbackHub = PlaybackHub()
     val database by lazy { TrustDatabase.create(context) }
     val journal by lazy { Journal(database.journal(), appScope) }
