@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "books": [
   {
    "code": "GEN",
@@ -637,7 +637,7 @@
    "chapters": 1,
    "verses": 21,
    "text": "text/OBA.json",
-   "timings": null,
+   "timings": "timings/OBA.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/13-abdias.ogg",
@@ -1053,7 +1053,7 @@
    "chapters": 1,
    "verses": 25,
    "text": "text/PHM.json",
-   "timings": null,
+   "timings": "timings/PHM.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/18-lettre_philemon_128.ogg",
@@ -1149,7 +1149,7 @@
    "chapters": 1,
    "verses": 13,
    "text": "text/2JN.json",
-   "timings": null,
+   "timings": "timings/2JN.json",
    "audio": [
     {
      "url": "https://archive.org/download/Bible-NouveauTestament/24-deuxieme_lettre_st_jean_128.ogg",
