@@ -28,6 +28,9 @@ import androidx.compose.material.icons.filled.SkipNext
 import androidx.compose.material.icons.filled.SkipPrevious
 import androidx.compose.material.icons.filled.Speed
 import androidx.compose.material3.AssistChip
+import androidx.compose.material3.FilterChip
+import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
@@ -192,12 +195,25 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
             }
         }
 
-        Row(Modifier.padding(top = 8.dp), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+        Row(Modifier.padding(top = 8.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             SpeedChip(state.speed) { container.player.setSpeed(it) }
             SleepChip(
                 state.sleep,
                 onMinutes = { container.player.setSleepMinutes(it) },
                 onEndOfChapter = { container.player.setSleepEndOfChapter() },
+            )
+            // Marque-page sur le verset en cours
+            val marks by remember(book.code, chapter) { container.journal.bookmarksIn(book.code, chapter) }
+                .collectAsStateWithLifecycle(emptyList())
+            val marked = verse > 0 && marks.any { it.verse == verse }
+            FilterChip(
+                selected = marked,
+                enabled = verse > 0,
+                onClick = { container.journal.toggleBookmark(book.code, book.info.short, chapter, verse) },
+                label = { Text(if (marked) "Marqué" else "Marquer") },
+                leadingIcon = {
+                    Icon(if (marked) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder, null, Modifier.size(18.dp))
+                },
             )
         }
 
