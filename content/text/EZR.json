@@ -1,0 +1,1322 @@
+{
+ "code": "EZR",
+ "name": "Esdras",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La première année de Cyrus, roi de Perse, pour accomplir la parole de Yahweh, qu’il avait dite par la bouche de Jérémie, Yahweh excita l’esprit de Cyrus, roi de Perse, qui fit faire de vive voix et par écrit cette proclamation dans tout son royaume :",
+     "h": "PREMIÈRE PARTIE. [I, 1 — VI, 22.] ZOROBABEL ET LA RECONSTRUCTION DU TEMPLE. — I. — LES PREMIERS RETOURS EN PALESTINE. [I, 1 — IV, 5.]",
+     "n": [
+      "I, 1. Comp. II Par. xxxvi, 22, 23. — Cyrus. hébr. Koresch. dans les inscriptions Kurus, devint maître de l’empire des Perses et des Mèdes l’an 549 avant Jésus-Christ, puis de Babylone en 538. C’est de la première armée de son règne à Babylone qu’il s’agit ici, voy. v, 13."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "« Ainsi dit Cyrus, roi de Perse : Yahweh, le Dieu du ciel, m’a donné tous les royaumes de la terre, et il m’a dit de lui bâtir une maison à Jérusalem, qui est en Juda."
+    },
+    {
+     "v": 3,
+     "t": "Qui d’entre vous est de son peuple ? Que son Dieu soit avec lui, et qu’il monte à Jérusalem, qui est en Juda, et bâtisse la maison de Yahweh, Dieu d’Israël ! C’est le Dieu qui est à Jérusalem."
+    },
+    {
+     "v": 4,
+     "t": "Qu’à tous ceux qui restent de Juda, en tous les séjours où ils demeurent, les gens de ce séjour viennent en aide par de l’argent, de l’or, des effets et du bétail, avec des dons volontaires, pour la maison de Dieu qui est à Jérusalem. »"
+    },
+    {
+     "v": 5,
+     "t": "Les chefs de famille de Juda et de Benjamin, les prêtres et les lévites, tous ceux dont Dieu excita l’esprit, se levèrent pour aller bâtir la maison de Yahweh, qui est à Jérusalem."
+    },
+    {
+     "v": 6,
+     "t": "Tous leurs voisins les aidèrent avec des objets d’argent, de l’or, des effets, du bétail et des choses précieuses, sans compter toutes les offrandes volontaires.",
+     "n": [
+      "6. Les aidèrent, m. à m. fortifièrent leurs mains affaiblies."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Le roi Cyrus enleva les ustensiles de la maison de Yahweh, que Nabuchodonosor avait enlevés de Jérusalem et placés dans la maison de son dieu.",
+     "n": [
+      "7. II Par. xxxvi, 7, 10, 18 et II Rois, xxiv, 13. xxv, 13-16."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Cyrus, roi de Perse, les confia aux mains de Mithridate, le trésorier, qui les transmit en les comptant à Sassabasar, le prince de Juda."
+    },
+    {
+     "v": 9,
+     "t": "En voici le nombre : trente bassins d’or, mille bassins d’argent, vingt-neuf couteaux,"
+    },
+    {
+     "v": 10,
+     "t": "trente coupes d’or, quatre cent dix coupes d’argent de second ordre, et mille autres ustensiles."
+    },
+    {
+     "v": 11,
+     "t": "Tous les objets d’or et d’argent étaient au nombre de cinq mille quatre cents. Sassabasar emporta le tout, lorsque les exilés furent ramenée de Babylone à Jérusalem."
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici les gens de la province qui revinrent de l’exil, — ceux que Nabuchodonosor, roi de Babylone, avait emmenés captifs à Babylone, et qui retournèrent à Jérusalem et en Juda, chacun dans sa ville, —",
+     "n": [
+      "II, 1-70. Comp. Néh. vii, 6-73 ; et III Esdr. v, 7-45."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "qui revinrent avec Zorobabel, Josué, Néhémie, Saraïas, Rahélaïas, Mardochée, Belsan, Mesphar, Béguaï, Réhum, Baana : Nombre des hommes du peuple d’Israël :"
+    },
+    {
+     "v": 3,
+     "t": "les fils de Pharos, deux mille cent soixante-douze ;"
+    },
+    {
+     "v": 4,
+     "t": "les fils de Saphatias, trois cent soixante-douze ;"
+    },
+    {
+     "v": 5,
+     "t": "les fils d’Aréa, sept cent soixante-quinze ;"
+    },
+    {
+     "v": 6,
+     "t": "les fils de Phahath-Moab, des fils de Josué et de Joab, deux mille huit cent douze ;"
+    },
+    {
+     "v": 7,
+     "t": "les fils d’Elam, mille deux cent cinquante-quatre ;"
+    },
+    {
+     "v": 8,
+     "t": "les fils de Zéthua, neuf cent quarante-cinq ;"
+    },
+    {
+     "v": 9,
+     "t": "les fils de Zachaï, sept cent soixante ;"
+    },
+    {
+     "v": 10,
+     "t": "les fils de Bani, six cent quarante-deux ;"
+    },
+    {
+     "v": 11,
+     "t": "les fils de Bébaï, six cent vingt-trois ;"
+    },
+    {
+     "v": 12,
+     "t": "les fils d’Azgad, mille deux cent vingt-deux ;"
+    },
+    {
+     "v": 13,
+     "t": "les fils d’Adonicam, six cent soixante-six ;"
+    },
+    {
+     "v": 14,
+     "t": "les fils de Béguaï, deux mille cinquante-six ;"
+    },
+    {
+     "v": 15,
+     "t": "les fils d’Adin, quatre cent cinquante-quatre ;"
+    },
+    {
+     "v": 16,
+     "t": "les fils d’Ater, de la famille d’Ezéchias, quatre-vingt-dix-huit ;"
+    },
+    {
+     "v": 17,
+     "t": "les fils de Bésaï, trois cent vingt-trois ;"
+    },
+    {
+     "v": 18,
+     "t": "les fils de Jora, cent douze ;"
+    },
+    {
+     "v": 19,
+     "t": "les fils de Hasum, deux cent vingt-trois ;"
+    },
+    {
+     "v": 20,
+     "t": "les fils de Gebbar, quatre-vingt-quinze ;"
+    },
+    {
+     "v": 21,
+     "t": "les fils de Bethléem, cent vingt-trois ;"
+    },
+    {
+     "v": 22,
+     "t": "les gens de Nétopha, cinquante-six ;"
+    },
+    {
+     "v": 23,
+     "t": "les gens d’Anathoth, cent vingt-huit ;"
+    },
+    {
+     "v": 24,
+     "t": "les fils d’Azmaveth, quarante-deux ;"
+    },
+    {
+     "v": 25,
+     "t": "les fils de Cariathiarim, de Céphira et de Béroth, sept cent quarante-trois ;"
+    },
+    {
+     "v": 26,
+     "t": "les fils de Rama et de Gabaa, six cent vingt et un ;"
+    },
+    {
+     "v": 27,
+     "t": "les gens de Machmas, cent vingt-deux ;"
+    },
+    {
+     "v": 28,
+     "t": "les gens de Béthel et de Haï, deux cent vingt trois ;"
+    },
+    {
+     "v": 29,
+     "t": "les fils de Nébo, cinquante-deux ;"
+    },
+    {
+     "v": 30,
+     "t": "les fils de Megbis, cent cinquante-six ;"
+    },
+    {
+     "v": 31,
+     "t": "les fils de l’autre Élam, mille deux cent cinquante-quatre ;"
+    },
+    {
+     "v": 32,
+     "t": "les fils de Harim, trois cent vingt ;"
+    },
+    {
+     "v": 33,
+     "t": "les fils de Lod, de Hadid et d’Ono, sept cent vingt-cinq ;"
+    },
+    {
+     "v": 34,
+     "t": "les fils de Jéricho, trois cent quarante-cinq ;"
+    },
+    {
+     "v": 35,
+     "t": "les fils de Sénaa, trois mille six cent trente."
+    },
+    {
+     "v": 36,
+     "t": "Prêtres : les fils de Iadaïas, de la maison de Josué, neuf cent soixante-treize ;"
+    },
+    {
+     "v": 37,
+     "t": "les fils d’Emmer, mille cinquante-deux ;"
+    },
+    {
+     "v": 38,
+     "t": "les fils de Phashur, mille deux cent quarante sept ;"
+    },
+    {
+     "v": 39,
+     "t": "les fils de Harim, mille dix-sept.",
+     "n": [
+      "39. Manque dans les LXX."
+     ]
+    },
+    {
+     "v": 40,
+     "t": "Lévites : les fils de Josué et de Cedmiel, des fils d’Oduïas, soixante-quatorze."
+    },
+    {
+     "v": 41,
+     "t": "Chantres : les fils d’Asaph, cent vingt-huit."
+    },
+    {
+     "v": 42,
+     "t": "Fils des portiers : les fils de Sellum, les fils d’Ater, les fils de Telmon, les fils d’Accub, les fils de Hatita, les fils de Sobaï, en tout cent trente-neuf."
+    },
+    {
+     "v": 43,
+     "t": "Nathinéens : les fils de Siha, les fils de Hasupha, les fils de Tabbaoth,"
+    },
+    {
+     "v": 44,
+     "t": "les fils de Céros, les fils de Siaa, les fils de Phadon,"
+    },
+    {
+     "v": 45,
+     "t": "les fils de Lébana, les fils de Hagaba, les fils d’Accub,"
+    },
+    {
+     "v": 46,
+     "t": "les fils de Hagab, les fils de Selmaï, les fils de Hanan,"
+    },
+    {
+     "v": 47,
+     "t": "les fils de Gaddel, les fils de Gaher, les fils du Raaïa,"
+    },
+    {
+     "v": 48,
+     "t": "les fils de Rasin, les fils de Nécoda, les fils de Gazam,"
+    },
+    {
+     "v": 49,
+     "t": "les fils d’Aza, les fils de Phaséa, les fils de Besée,"
+    },
+    {
+     "v": 50,
+     "t": "les fils d’Azéna, les fils de Munim, les fils de Néphusim,"
+    },
+    {
+     "v": 51,
+     "t": "les fils de Bacbuc, les fils de Hacupha, les fils de Harhur,"
+    },
+    {
+     "v": 52,
+     "t": "les fils de Besluth, les fils de Mahida, les fils de Harsa,"
+    },
+    {
+     "v": 53,
+     "t": "les fils de Bercos, les fils de Sisara, les fils de Théma,"
+    },
+    {
+     "v": 54,
+     "t": "les fils de Nasia, les fils de Hatipha."
+    },
+    {
+     "v": 55,
+     "t": "Fils des serviteurs de Salomon : les fils de Sotaï, les fils de Sophéret, les fils de Pharuda,"
+    },
+    {
+     "v": 56,
+     "t": "les fils de Jala, les fils de Dercon, les fils de Geddel,"
+    },
+    {
+     "v": 57,
+     "t": "les fils de Saphatia, les fils de Hatil, les fils de Phochéreth-Asebaïm, les fils d’Ami."
+    },
+    {
+     "v": 58,
+     "t": "Total des Nathinéens et des fils des serviteurs de Salomon : trois cent quatre-vingt-douze."
+    },
+    {
+     "v": 59,
+     "t": "Voici ceux qui partirent de Thel-Méla, Thel-Harsa, Chérub, Addon, Emmer, et qui ne purent pas faire connaître leur maison paternelle et leur race, pour montrer qu’ils étaient d’Israël :"
+    },
+    {
+     "v": 60,
+     "t": "les fils de Dalaïas, les fils de Tobie, les fils de Nécoda, six cent cinquante-deux."
+    },
+    {
+     "v": 61,
+     "t": "Et parmi les fils des prêtres : les fils de Hobia, les fils d’Accos, les fils de Berzellaï, qui avait pris pour femme une des filles de Berzellaï, le Galaadite, et fut appelé de leur nom."
+    },
+    {
+     "v": 62,
+     "t": "Ils cherchèrent leur titre attestant leurs généalogies, mais on ne le trouva point ; ils furent déclarés impurs et exclus du sacerdoce,"
+    },
+    {
+     "v": 63,
+     "t": "et le gouverneur leur interdit de manger des choses très saintes, jusqu’à ce qu’un prêtre se levât pour consulter Dieu par l’Urim et le Thummim."
+    },
+    {
+     "v": 64,
+     "t": "L’assemblée tout entière était de quarante-deux mille trois cent soixante personnes,"
+    },
+    {
+     "v": 65,
+     "t": "sans compter leurs serviteurs et leurs servantes, qui étaient au nombre de sept mille trois cent trente-sept ; parmi eux se trouvaient deux cents chanteurs et chanteuses."
+    },
+    {
+     "v": 66,
+     "t": "Ils avaient sept cent trente-six chevaux, deux cent quarante-cinq mulets,"
+    },
+    {
+     "v": 67,
+     "t": "quatre cent trente-cinq chameaux et six mille sept cent vingt ânes."
+    },
+    {
+     "v": 68,
+     "t": "Plusieurs des chefs de famille, en arrivant à la maison de Yahweh, qui est à Jérusalem, firent des offrandes volontaires pour la maison de Dieu, afin qu’on la relevât à sa place."
+    },
+    {
+     "v": 69,
+     "t": "Ils donnèrent au trésor de l’œuvre, selon leurs moyens, soixante et un mille dariques d’or, cinq mille mines d’argent, et cent tuniques sacerdotales.",
+     "n": [
+      "69. Dariques : voy. I Par. xxix, 7. — La mine d’argent valait environ 140 fr. Comp. Néh. vii, 70 sv."
+     ]
+    },
+    {
+     "v": 70,
+     "t": "C’est ainsi que les prêtres et les lévites, des gens du peuple, les chantres, les portiers et les Nathinéens s’établirent dans leurs villes ; et tout Israël habita dans ses villes"
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Le septième mois étant arrivé, et les enfants d’Israël étant établis dans les villes, le peuple s’assembla comme un seul homme à Jérusalem."
+    },
+    {
+     "v": 2,
+     "t": "Josué, fils de Josédec, avec ses frères, les prêtres, et Zorobabel, fils de Salathiel, avec ses frères, se levèrent et bâtirent l’autel du Dieu d’Israël pour y offrir des holocaustes, selon ce qui est écrit dans la loi de Moïse, l’homme de Dieu."
+    },
+    {
+     "v": 3,
+     "t": "Ils établirent l’autel sur ses anciens fondements, car ils étaient dans la terreur devant les peuples du pays, et ils y offrirent des holocaustes à Yahweh, les holocaustes du matin et du soir."
+    },
+    {
+     "v": 4,
+     "t": "Ils célébrèrent la fête des Tabernacles, comme il est écrit, et ils offrirent jour par jour les holocaustes, selon le nombre prescrit par la loi pour chaque jour."
+    },
+    {
+     "v": 5,
+     "t": "Après cela, ils offrirent l’holocauste perpétuel, les holocaustes des néoménies et de toutes les fêtes consacrées à Yahweh, et ceux de quiconque faisait une offrande volontaire à Yahweh."
+    },
+    {
+     "v": 6,
+     "t": "Dès le premier jour du septième mois, ils avaient commencé à offrir des holocaustes à Yahweh, mais les fondements du temple de Yahweh n’étaient pas encore posés."
+    },
+    {
+     "v": 7,
+     "t": "On donna de l’argent aux tailleurs de pierres et aux charpentiers ; on donna aussi des vivres, des boissons et de l’huile aux Sidoniens et aux Tyriens, pour qu’ils amenassent par mer jusqu’à Joppé des bois de cèdre du Liban, suivant l’autorisation qu’on avait eue de Cyrus, roi de Perse.",
+     "n": [
+      "III, 7. Comp. I Rois, v, 9 sv. ; I Par. xxii, 4 ; II Par. ii, 8 sv."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "La seconde année de leur arrivée à la maison de Dieu à Jérusalem, le second mois, Zorobabel, fils de Salathiel, et Josué, fils de Josédec, avec le reste de leurs frères, les prêtres et les lévites, et tous ceux qui étaient revenus de la captivité à Jérusalem, se mirent à l’œuvre et établirent les lévites de vingt ans et au-dessus pour diriger les travaux de la maison de Yahweh."
+    },
+    {
+     "v": 9,
+     "t": "Josué, avec ses fils et ses frères, Cedmiel, avec ses fils, fils de Juda, se disposèrent unanimement à diriger ceux qui travaillaient à l’œuvre, dans la maison du Dieu ; de même les fils de Hénadad, avec leurs fils et leurs frères, c’étaient tous des lévites.",
+     "n": [
+      "9. Fils de Juda. D’après ii, 40, Josué et Cedmiel étaient fils d’Oduias. — À la fin du verset, l’épithète de lévites semble convenir, non seulement aux fils de Hénadad, mais encore aux autres familles qui viennent d’être mentionnées."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Lorsque les ouvriers posèrent les fondements du temple de Yahweh, on fit assister les prêtres en costume, avec les trompettes, et les lévites, fils d’Asaph, avec les cymbales, pour célébrer Yahweh, d’après les ordonnances de David, roi d’Israël."
+    },
+    {
+     "v": 11,
+     "t": "Ils se mirent à célébrer et à louer Yahweh : » Car il est bon, car sa miséricorde pour Israël subsiste à jamais ! » Et tout le peuple poussait de grands cris de joie pour célébrer Yahweh, parce qu’on posait les fondements de la maison de Yahweh."
+    },
+    {
+     "v": 12,
+     "t": "Beaucoup de prêtres et de lévites, et de chefs de famille âgés, qui avaient vu la première maison, pleuraient à haute voix, pendant qu’on posait sous leurs yeux les fondements de cette maison ; et beaucoup poussaient des cris de joie et d’allégresse."
+    },
+    {
+     "v": 13,
+     "t": "Et le peuple ne pouvait distinguer le bruit des cris de joie d’avec celui des gémissements du peuple, car le peuple poussait de grands cris, dont le son s’entendait au loin."
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Lorsque les ennemis de Juda et de Benjamin apprirent que les fils de la captivité bâtissaient un temple à Yahweh, le Dieu d’Israël,",
+     "n": [
+      "IV, 1. Les ennemis de Juda et de Jérusalem, les Samaritains ; voir, II Rois, xvii, 41, note."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "ils vinrent auprès de Zorobabel et des chefs de famille, et leur dirent : » Laissez-nous bâtir avec vous ; car, comme vous, nous honorons votre Dieu, et nous lui offrons des sacrifices depuis le temps d’Asarhaddon, roi d’Assyrie, qui nous a fait monter ici. »"
+    },
+    {
+     "v": 3,
+     "t": "Mais Zorobabel, Josué et les autres chefs des familles d’Israël leur répondirent : » Il ne convient pas que vous et nous, nous bâtissions ensemble la maison de notre Dieu ; mais nous la bâtirons nous seuls à Yahweh, le Dieu d’Israël, comme nous l’a ordonné le roi Cyrus, roi de Perse. »"
+    },
+    {
+     "v": 4,
+     "t": "Alors le peuple du pays se mit à décourager le peuple de Juda, l’intimidant dans son travail."
+    },
+    {
+     "v": 5,
+     "t": "Il acheta contre lui des conseillers pour faire échouer son entreprise. Il en fut ainsi pendant toute la vie de Cyrus, roi de Perse, et jusqu’au règne de Darius, roi de Perse."
+    },
+    {
+     "v": 6,
+     "t": "Et sous le règne d’Assuérus, au commencement de son règne, ils écrivirent une lettre d’accusation contre les habitants de Juda et de Jérusalem.",
+     "h": "II. — ESSAIS EN VUE DE LA RECONSTRUCTION DES MURS DE JÉRUSALEM. [IV, 6-23.]"
+    },
+    {
+     "v": 7,
+     "t": "Et du temps d’Artaxerxès, Bésélam, Mithridate, Tabéel et le reste de leurs compagnons écrivirent à Artaxerxès, roi de Perse ; le texte de la lettre fut écrit en caractère araméen et traduit en araméen."
+    },
+    {
+     "v": 8,
+     "t": "Réhum, gouverneur, et Samsaï, secrétaire, écrivirent à Artaxerxès, au sujet de Jérusalem, une lettre ainsi conçue :",
+     "n": [
+      "8. Avec le vers. 8 commence un fragment en araméen (dit syro-chaldaïque) qui s’étend jusqu à vi, 18. — Gouverneur : il y a en araméen : beel teem (que les versions anciennes ont pris pour un nom propre), litt. seigneur du jugement ; c’était sans doute le titre du gouverneur perse de la province de Samarie. À côté de lui, un scribe royal ou secrétaire."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "« Alors Réhum, gouverneur, Samsaï, secrétaire, et le reste de leurs compagnons, ceux de Din, d’Apharsathach, de Terphal, d’Apharsa, d’Erchua, de Babylone, de Suse, de Déha, d’Elam,"
+    },
+    {
+     "v": 10,
+     "t": "et le reste des peuples que le grand et illustre Asnaphar a transportés et établis dans la ville de Samarie et autres lieux d’au delà du fleuve, etc. »",
+     "n": [
+      "10. D’au delà du fleuve (l’Euphrate) : expression de style, formulée du point de vue babylonien. Il s’agit de la province de Transeuphratène, qui comprenait la Syrie et la Phénicie, et dont les gouverneurs prétendaient surveiller les Juifs."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Voici la copie de la lettre qu’ils envoyèrent au roi Artaxerxès : « Tes serviteurs, les gens d’au delà du fleuve, etc.",
+     "n": [
+      "11. Etc. remplace peut-être la formule de salut, salutem dicunt, ajoutée par S. Jérôme."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "« Que le roi sache que les Juifs qui sont montés de chez toi parmi nous sont venus à Jérusalem ; ils rebâtissent la ville rebelle et méchante, en relèvent les murs et en restaurent les fondements."
+    },
+    {
+     "v": 13,
+     "t": "Que le roi sache donc que, si cette ville est rebâtie et si ses murs sont relevés, ils ne paieront ni impôt, ni tribut, ni droit de passage, ce qui causera un dommage aux rois."
+    },
+    {
+     "v": 14,
+     "t": "Or, comme nous mangeons le sel du palais et qu’il ne nous paraît pas convenable de voir mépriser le roi, nous envoyons au roi des informations à ce sujet.",
+     "n": [
+      "14. Manger le sel de quelqu’un (locution encore en usage en Orient), c’est être à sa solde, recevoir de lui un salaire, ou, d’une manière générale, tenir de lui sa subsistance. Les satrapes perses ne recevaient pas de traitement, mais ils taxaient la province pour subvenir à leur entretien et à celui de leur maison."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Qu’on fasse des recherches dans le livre des annales de tes pères, et tu trouveras dans le livre des annales et tu sauras que cette ville est une ville rebelle, causant des dommages aux rois et aux provinces, et qu’on s’y livre à la révolte depuis les temps anciens. C’est pour cela que cette ville a été détruite.",
+     "n": [
+      "15. Comp. Esth. ii, 23 ; vi, 1 ; x, 2."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Nous faisons savoir au roi que, si cette ville est rebâtie et si ses murs sont relevés, par cela même tu ne posséderas plus rien au delà du fleuve. »"
+    },
+    {
+     "v": 17,
+     "t": "Le roi envoya cette réponse à Réhum, gouverneur, à Samsaï, secrétaire, et au reste de leurs compagnons, demeurant à Samarie et aux autres lieux d’au-delà du fleuve : « Salut, etc."
+    },
+    {
+     "v": 18,
+     "t": "« La lettre que vous nous avez envoyée a été lue distinctement devant moi."
+    },
+    {
+     "v": 19,
+     "t": "J’ai donné un ordre, et on a fait des recherches, et l’on a trouvé que, dès les temps anciens, cette ville s’est soulevée contre les rois et qu’on s’y est livré à la sédition et à la révolte."
+    },
+    {
+     "v": 20,
+     "t": "Il y eut à Jérusalem des rois puissants, maîtres de tout le pays d’au delà du fleuve ; et on leur payait impôt, tribut et droit de passage."
+    },
+    {
+     "v": 21,
+     "t": "En conséquence, donnez ordre de faire cesser les travaux de ces gens, afin que cette ville ne se rebâtisse point, jusqu’à ce que je donne un ordre à ce sujet."
+    },
+    {
+     "v": 22,
+     "t": "Gardez-vous de mettre en cela de la négligence, de peur que le mal n’augmente au détriment des rois. »"
+    },
+    {
+     "v": 23,
+     "t": "Alors, dès que la copie de la lettre du roi Artaxerxès eut été lue devant Réhum, Samsaï, secrétaire, et leurs compagnons, ils se rendirent avec hâte à Jérusalem vers les Juifs, et il leur firent cesser le travail par violence et par force."
+    },
+    {
+     "v": 24,
+     "t": "Alors s’arrêta l’ouvrage de la maison de Dieu à Jérusalem, et il fut interrompu jusqu’à la seconde année du règne de Darius, roi de Perse.",
+     "h": "III. — REPRISE ET ACHÈVEMENT DES TRAVAUX DU TEMPLE SOUS DARIUS. [IV, 24 — 6, 22.]"
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Les prophètes Aggée, le prophète, et Zacharie, fils d’Addo prophétisèrent aux Juifs qui étaient en Juda et à Jérusalem, au nom du Dieu d’Israël, qui était sur eux."
+    },
+    {
+     "v": 2,
+     "t": "Alors Zorobabel, fils de Salathiel, et Josué, fils de Josédec, se levèrent et recommencèrent à bâtir la maison de Dieu à Jérusalem, et avec eux étaient les prophètes de Dieu qui les assistaient."
+    },
+    {
+     "v": 3,
+     "t": "Dans le même temps, Thathanaï, gouverneur d’au delà du fleuve, Stharbuzanaï et leurs compagnons vinrent les trouver et leur parlèrent ainsi : » Qui vous a donné l’autorisation de bâtir cette maison et de relever ces murs ? »",
+     "n": [
+      "V, 3. Thathanaï, satrape de la Syrie et de la Phénicie (comme l’explique le 3 e livre d’Esdras, vi, 7). auquel Zorobabel était surbordonné dans une certaine, mesure. — Stharbuzanaï, son secrétaire probablement."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Alors nous leur parlâmes en leur disant les noms des hommes qui construisaient cet édifice.",
+     "n": [
+      "4. Nous leur parlâmes etc. LXX : Alors ils lui parlèrent en ces termes : « Quels sont les noms des hommes qui construisent cet édifice ? »"
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Mais l’œil de leur Dieu était sur les anciens des Juifs ; et on ne leur fit pas cesser les travaux jusqu’à ce que le rapport fût parvenu à Darius et que revint une lettre à ce sujet."
+    },
+    {
+     "v": 6,
+     "t": "Copie de la lettre qu’envoyèrent au roi Darius Thathanaï, gouverneur d’au-delà du fleuve, Stharbuzanaï et leurs compagnons d’Arphasach, demeurant au delà du fleuve."
+    },
+    {
+     "v": 7,
+     "t": "Ils lui envoyèrent un rapport, et voici ce qui y était écrit : « Au roi Darius, salut parfait !"
+    },
+    {
+     "v": 8,
+     "t": "Que le roi sache que nous sommes allés dans la province de Juda, à la maison du grand Dieu. Elle se construit en pierres énormes, et le bois se pose dans les murs ; ce travail est poussé avec diligence et prospère sous leurs mains.",
+     "n": [
+      "8. Pierres énormes, m. à m. pierres à rouler, si grosses qu’on ne peut les soulever, mais seulement les rouler pour les déplacer."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Alors nous avons interrogé ces anciens et nous leur avons ainsi parlé : « Qui vous a donné l’autorisation de bâtir cette maison et de relever ces murs ? »"
+    },
+    {
+     "v": 10,
+     "t": "Nous leur avons aussi demandé leurs noms pour te les faire connaître, afin de mettre par écrit les noms des hommes qui sont à leur tête."
+    },
+    {
+     "v": 11,
+     "t": "Voici la réponse qu’ils nous ont faite : « Nous sommes les serviteurs du Dieu du ciel et de la terre, et nous rebâtissons la maison qui a été construite jadis, il y a bien des années, et qu’avait bâtie et achevée un grand roi d’Israël.",
+     "n": [
+      "11. Un grand roi d’Israël, Salomon, I Rois, vi, 1."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Mais, après que nos pères eurent irrité le Dieu du ciel, il les livra entre les mains de Nabuchodonosor, roi de Babylone, le Chaldéen, qui détruisit cette maison et emmena le peuple captif à Babylone."
+    },
+    {
+     "v": 13,
+     "t": "Toutefois, la première année de Cyrus, roi de Babylone, le roi Cyrus rendit un décret permettant de rebâtir cette maison de Dieu."
+    },
+    {
+     "v": 14,
+     "t": "Et même le roi Cyrus retira du temple de Babylone les ustensiles d’or et d’argent de la maison de Dieu, que Nabuchodonosor avait enlevés du temple qui était à Jérusalem et transportés dans le temple de Babylone ; ils furent remis au nommé Sassabasar, qu’il établit gouverneur."
+    },
+    {
+     "v": 15,
+     "t": "Et il lui dit : Prends ces ustensiles, va les déposer dans le temple qui est à Jérusalem, et que la maison de Dieu soit rebâtie sur son emplacement."
+    },
+    {
+     "v": 16,
+     "t": "Alors ce Sassabasar est venu, et il a posé les fondements de la maison de Dieu qui est à Jérusalem ; depuis lors jusqu’à présent, elle se construit, et elle n’est pas achevée. »"
+    },
+    {
+     "v": 17,
+     "t": "Maintenant, si le roi le trouve bon, que l’on fasse des recherches dans la maison des trésors du roi, là à Babylone, pour savoir s’il existe un décret rendu par le roi Cyrus, permettant de bâtir cette maison de Dieu à Jérusalem. Puis, que le roi nous transmette sa volonté à cet égard. »"
+    }
+   ]
+  },
+  {
+   "c": 6,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors le roi Darius rendit un décret et l’on fit des recherches dans la maison des archives, où étaient déposés les trésors, à Babylone."
+    },
+    {
+     "v": 2,
+     "t": "Et l’on trouva à Ecbatane, la forteresse qui est en la province de Médie, un rouleau sur lequel était écrit le document suivant :"
+    },
+    {
+     "v": 3,
+     "t": "« La première année du roi Cyrus, le roi Cyrus a donné cet ordre : que la maison de Dieu qui est à Jérusalem, que cette maison soit rebâtie pour être un lieu où l’on offre des sacrifices, et que les fondations soient solidement posées. Sa hauteur sera de soixante coudées et sa largeur de soixante coudées."
+    },
+    {
+     "v": 4,
+     "t": "Il y aura trois rangées de pierre de taille et une rangée de bois ; la dépense sera payée par la maison du roi.",
+     "n": [
+      "VI. 4 — Une rangée de bois. C’est la leçon des LXX ( chadah, fém. de chad, un). L’hébreu, s’il n’est pas lui-même susceptible d’être traduit de la même manière, voudrait dire : Une rangée de bois neuf ( chadath, neuf)."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "En outre, on rendra les ustensiles d’or et d’argent de la maison de Dieu, que Nabuchodonosor avait enlevés du temple qui est à Jérusalem, et ils seront transportés au temple qui est à Jérusalem, à la place où ils étaient, et tu les déposeras dans la maison de Dieu. »",
+     "n": [
+      "5. Tu les déposeras. C’est sans doute à Sassabasar que Cyrus s’adresse."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "« …Maintenant, Thathanaï, gouverneur d’au delà du fleuve, Stharbuzanaï et vos compagnons d’Apharsach, qui êtes au delà du fleuve, tenez-vous éloignés de là,"
+    },
+    {
+     "v": 7,
+     "t": "et laissez continuer les travaux de cette maison de Dieu ; que le gouverneur des Juifs et les anciens des Juifs rebâtissent cette maison de Dieu sur son ancien emplacement.",
+     "n": [
+      "7. Tandis que les vers. 3-5 sont une reproduction du décret de Cyrus, — sous une forme d’ailleurs assez différente de Esdr. i, 2-4, — les vers. 6-12 sont une confirmation de ce décret par Darius, avec des mesures destinées à en assurer l’exécution."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Voici l’ordre que je donne touchant ce que vous devez faire avec ces anciens des Juifs pour rebâtir cette maison de Dieu : sur les biens du roi, provenant des impôts d’au delà du fleuve, la dépense sera exactement payée à ces hommes, afin qu’il n’y ait pas d’interruption."
+    },
+    {
+     "v": 9,
+     "t": "Ce qui sera nécessaire pour les holocaustes du Dieu du ciel, jeunes taureaux, béliers et agneaux, froment, sel, vin et huile, selon l’ordonnance des prêtres qui sont à Jérusalem, leur sera donné jour par jour, sans faute,"
+    },
+    {
+     "v": 10,
+     "t": "afin qu’ils offrent des sacrifices d’agréable odeur au Dieu du ciel, et qu’ils prient pour la vie du roi et de ses fils."
+    },
+    {
+     "v": 11,
+     "t": "Je donne aussi cet ordre : Si quelqu’un change cette parole, qu’on arrache de sa maison une poutre, qu’il y soit suspendu et attaché, et qu’à cause de cela l’on fasse de sa maison un tas d’immondices."
+    },
+    {
+     "v": 12,
+     "t": "Que le Dieu qui fait résider là son nom renverse tout roi et tout peuple qui étendraient la main pour changer ce décret et détruire cette maison de Dieu qui est à Jérusalem ! Moi, Darius, j’ai donné cet ordre : qu’il soit ponctuellement exécuté. »"
+    },
+    {
+     "v": 13,
+     "t": "Alors Thathanaï, gouverneur d’au delà du fleuve, Stharbuzanaï et leurs compagnons se conformèrent ponctuellement à l’ordre que le roi Darius leur avait envoyé."
+    },
+    {
+     "v": 14,
+     "t": "Et les anciens d’Israël se mirent à bâtir et firent des progrès, soutenus par les prophéties d’Aggée, le prophète, et de Zacharie, fils d’Addo. Ils bâtirent et achevèrent, d’après l’ordre du Dieu d’Israël et d’après l’ordre de Cyrus, de Darius et d’Artaxerxès, roi de Perse."
+    },
+    {
+     "v": 15,
+     "t": "On acheva cette maison le troisième jour du mois d’Adar, dans la sixième année du règne du roi Darius.",
+     "n": [
+      "15. Le mois d’Adar, le 12 e et dernier de l’année juive, correspondait en grande partie à notre mois de mars."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Les enfants d’Israël, les prêtres et les lévites, et le reste des fils de la captivité, firent avec joie la dédicace de cette maison de Dieu."
+    },
+    {
+     "v": 17,
+     "t": "Ils offrirent, pour la dédicace de cette maison de Dieu, cent taureaux, deux cents béliers, quatre cents agneaux, et, comme victimes pour le péché, en faveur de tout Israël, douze boucs, d’après le nombre des tribus d’Israël."
+    },
+    {
+     "v": 18,
+     "t": "Ils établirent les prêtres selon leurs divisions et les lévites selon leurs classes pour le service du Dieu qui est à Jérusalem, comme il est écrit dans le livre de Moïse."
+    },
+    {
+     "v": 19,
+     "t": "Les fils de la captivité célébrèrent la Pâque le quatorzième jour du premier mois.",
+     "n": [
+      "19. Comp. Exod. xii, 6. — L’auteur reprend ici l’usage de la langue hébraïque ; il n’y aura plus jusqu’à la fin du livre, que la lettre d’Artaxerxès ( vii, 12-26 ) rédigée en araméen."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Car les prêtres et les lévites sans exception s’étaient purifiés ; tous étaient purs ; et ils immolèrent la Pâque pour tous les fils de la captivité, pour leurs frères les prêtres et pour eux-mêmes."
+    },
+    {
+     "v": 21,
+     "t": "Les enfants d’Israël revenus de la captivité mangèrent la Pâque, ainsi que tous ceux qui s’étaient séparés de l’impureté des nations du pays pour se joindre à eux afin de chercher Yahweh, le Dieu d’Israël."
+    },
+    {
+     "v": 22,
+     "t": "Ils célébrèrent avec joie pendant sept jours la fête des Azymes ; car Yahweh les avait réjouis en tournant vers eux le cœur du roi d’Assyrie, pour soutenir leurs mains dans l’œuvre de la maison de Dieu, du Dieu d’Israël. _____________ _____________"
+    }
+   ]
+  },
+  {
+   "c": 7,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Après ces événements, sous le règne d’Artaxerxès, roi de Perse, Esdras, fils de Saraïas, fils d’Azarias, fils d’Helcias,",
+     "h": "DEUXIÈME PARTIE. [VII, 1 — X, 44.] ESDRAS. SA MISSION RÉFORMATRICE.",
+     "n": [
+      "VII, 1. Après ces événements : ces mots marquent un intervalle dont l’évaluation présente d’autant plus de difficultés qu’on a beaucoup discuté en vue de déterminer si l’Artaxerxès dont il est ici question est Artaxerxès I ou Artaxerxès II."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "fils de Sellum, fils de Sadoc, fils d’Achitob,"
+    },
+    {
+     "v": 3,
+     "t": "fils d’Amarias, fils d’Azarias, fils de Maraïoth,"
+    },
+    {
+     "v": 4,
+     "t": "fils de Zarahias, fils d’Ozi, fils de Bocci,"
+    },
+    {
+     "v": 5,
+     "t": "fils d’Abisué, fils de Phinées, fils d’Eléazar, fils d’Aaron, le grand prêtre, —"
+    },
+    {
+     "v": 6,
+     "t": "cet Esdras monta de Babylone : c’était un scribe versé dans la loi de Moïse, qu’a donnée Yahweh, le Dieu d’Israël. Comme la main de Yahweh, son Dieu, était sur lui, le roi lui accorda tout ce qu’il avait demandé.",
+     "n": [
+      "6. Un scribe. Dans son sens le plus large, le mot sôphêr évoque l’idée d’un copiste, d’un secrétaire. Mais, à partir de l’exil, ce mot désigna une classe d’hommes qui, comme le dit le vers. 10, s’appliquaient à l’étude de la Loi, mettaient tout leur zèle à lui conformer leur vie et, en même temps, se plaisaient à l’enseigner au peuple fidèle. Ce furent eux aussi qui conservèrent la vieille langue hébraïque supplantée, dans l’usage populaire, par l’araméen."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Plusieurs des enfants d’Israël, des prêtres et des lévites, des chantres, des portiers et des Nathinéens montèrent aussi à Jérusalem, la septième année du roi Artaxerxès."
+    },
+    {
+     "v": 8,
+     "t": "Esdras arriva à Jérusalem le cinquième mois de la septième année du roi."
+    },
+    {
+     "v": 9,
+     "t": "C’est le premier jour du premier mois qu’il commença à monter de Babylone, et c’est le premier jour du cinquième mois qu’il arriva à Jérusalem, la main bienfaisante de son Dieu étant sur lui."
+    },
+    {
+     "v": 10,
+     "t": "Car Esdras avait appliqué son cœur à étudier la loi de Yahweh, à la mettre en pratique, et à enseigner en Israël les préceptes et les ordonnances."
+    },
+    {
+     "v": 11,
+     "t": "Voici la copie de la lettre que le roi Artaxerxès donna à Esdras, le prêtre et le scribe, scribe instruit des paroles de la loi de Yahweh et de ses préceptes, concernant Israël :",
+     "n": [
+      "11. Le prêtre et le scribe ; on traduirait aussi bien : le prêtre-scribe."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "« Artaxerxès, roi des rois, à Esdras, prêtre et scribe versé dans la loi du Dieu du ciel, etc."
+    },
+    {
+     "v": 13,
+     "t": "J’ai donné ordre pour que tous ceux du peuple d’Israël, de ses prêtres et de ses lévites, résidant dans mon royaume, qui désirent aller à Jérusalem, y aillent avec toi."
+    },
+    {
+     "v": 14,
+     "t": "Car tu es envoyé par le roi et ses sept conseillers pour inspecter Juda et Jérusalem d’après la loi de ton Dieu, laquelle est dans ta main,"
+    },
+    {
+     "v": 15,
+     "t": "et pour porter l’argent et l’or que le roi et ses conseillers ont spontanément offerts au Dieu d’Israël, dont la demeure est à Jérusalem,"
+    },
+    {
+     "v": 16,
+     "t": "ainsi que tout l’or et l’argent que tu trouveras dans toute la province de Babylone, avec les dons volontaires du peuple et des prêtres, librement offerts pour la maison de leur Dieu à Jérusalem."
+    },
+    {
+     "v": 17,
+     "t": "C’est pourquoi tu auras soin d’acheter avec cet argent des taureaux, des béliers, des agneaux, et ce qui est nécessaire pour les oblations et les libations qui les accompagnent, et tu les offriras sur l’autel de la maison de votre Dieu, qui est à Jérusalem."
+    },
+    {
+     "v": 18,
+     "t": "Vous ferez, avec le reste de l’argent et de l’or, ce qui vous paraîtra bon, à toi et à tes frères, en vous conformant à la volonté de votre Dieu."
+    },
+    {
+     "v": 19,
+     "t": "Dépose devant le Dieu de Jérusalem les ustensiles qui te sont donnés pour le service de la maison de ton Dieu."
+    },
+    {
+     "v": 20,
+     "t": "Et le reste de ce qui est nécessaire à la maison de ton Dieu, et que tu auras à fournir, tu le fourniras après l’avoir reçu de la maison des trésors du roi."
+    },
+    {
+     "v": 21,
+     "t": "Et moi, le roi Artaxerxès, je donne ordre à tous les trésoriers d’au delà du fleuve que tout ce qu’Esdras, prêtre et scribe, versé dans la loi du Dieu du ciel, vous demandera, soit exactement exécuté :"
+    },
+    {
+     "v": 22,
+     "t": "jusqu’à cent talents d’argent, cent cors de froment, cent baths de vin, cent baths d’huile, et du sel à discrétion."
+    },
+    {
+     "v": 23,
+     "t": "Que tout ce qui est ordonné par le Dieu du ciel soit ponctuellement accompli pour la maison du Dieu du ciel, afin que sa colère ne vienne pas sur le royaume du roi et de ses fils."
+    },
+    {
+     "v": 24,
+     "t": "Nous vous faisons savoir aussi qu’en ce qui concerne tous les prêtres, lévites, chantres, portiers, Nathinéens et serviteurs quelconques de cette maison de Dieu, il n’est pas permis de lever sur eux ni impôt, ni tribut, ni droit de passage."
+    },
+    {
+     "v": 25,
+     "t": "Et toi, Esdras, selon la sagesse de ton Dieu, qui est dans ta main, établis des juges et des magistrats qui rendent la justice à tout le peuple d’au delà du fleuve, à tous ceux qui connaissent les lois de ton Dieu, et enseigne-les à ceux qui ne les connaissent pas."
+    },
+    {
+     "v": 26,
+     "t": "Quiconque n’exécutera pas la loi de ton Dieu et la loi du roi, qu’il soit fait de lui exacte justice, soit par la mort, soit par le bannissement, soit par une amende, soit par la prison. »",
+     "n": [
+      "26. Le firman donnait à Esdras, avec la permission de ramener une nouvelle caravane à Jérusalem, pleins pouvoirs et pleines ressources pour assurer le triomphe de la Loi au milieu des Juifs qui étaient revenus en Palestine. C’est, en quelque sorte, la charte de fondation du Judaïsme. On peut penser, peut-être en s’appuyant sur le vers. 28, que la teneur du firman était en rapport avec les vœux exprimés par Esdras."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Béni soit Yahweh, le Dieu de nos pères, qui a mis ainsi au cœur du roi de glorifier la maison de Yahweh qui est à Jérusalem,"
+    },
+    {
+     "v": 28,
+     "t": "et qui a tourné sur moi la bienveillance du roi, de ses conseillers et de tous les plus puissants officiers du roi ! Et je pris courage parce que la main de Yahweh mon Dieu était sur moi, et je rassemblai les chefs d’Israël, afin qu’ils partissent avec moi.",
+     "n": [
+      "28. L’emploi de la première personne marque qu’au moins à partir de cet endroit on cite textuellement les Mémoires d’Esdras."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 8,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici les chefs de famille — avec leur généalogie, — de ceux qui montèrent avec moi de Babylone, sous le règne du roi Artaxerxès."
+    },
+    {
+     "v": 2,
+     "t": "Des fils de Phinées, Gersom ; des fils d’Ithamar, Daniel ; des fils de David, Hattus,"
+    },
+    {
+     "v": 3,
+     "t": "qui descendait de Séchénias ; des fils de Pharos, Zacharie, et avec lui cent cinquante mâles inscrits dans le registre de famille."
+    },
+    {
+     "v": 4,
+     "t": "Des fils de Phahath-Moab, Elioénaï, fils de Zaréhias, et avec lui deux cents mâles ;"
+    },
+    {
+     "v": 5,
+     "t": "des fils de Séchénias, fils d’Ezéchiel, et avec lui trois cents mâles ;",
+     "n": [
+      "VIII, 5. Des fils de Séchénias. LXX : des fils de Zathoès : Séchénias, etc. D’ailleurs ce verset, qui figure dans l’ Alexandrinus, manque dans le Vaticanus."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "des fils d’Adin, Abed, fils de Jonathan, et avec lui cinquante mâles ;"
+    },
+    {
+     "v": 7,
+     "t": "des fils d’Elam, Isaïe, fils d’Athalias, et avec lui soixante-dix mâles ;"
+    },
+    {
+     "v": 8,
+     "t": "des fils de Saphatias, Zébédias, fils de Michaël, et avec lui quatre-vingts mâles ;"
+    },
+    {
+     "v": 9,
+     "t": "des fils de Joab, Obédias, fils de Jéhiel, et avec lui deux cent dix-huit mâles ;"
+    },
+    {
+     "v": 10,
+     "t": "des fils de Selomith, fils de Joséphias, et avec lui cent soixante mâles ;",
+     "n": [
+      "10. Des fils de Selomith. LXX : Des fils de Baani, Selomith, etc."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "des fils de Bébaï, Zacharie, fils de Bébaï, et avec lui vingt-huit mâles ;"
+    },
+    {
+     "v": 12,
+     "t": "des fils d’Azgad, Johanan, fils d’Eccétan, et avec lui cent dix mâles ;"
+    },
+    {
+     "v": 13,
+     "t": "des fils d’Adonicam, les derniers, dont voici les noms : Eliphélet, Jéhiel et Samaïas, et avec eux soixante mâles ;"
+    },
+    {
+     "v": 14,
+     "t": "des fils de Béguaï, Uthaï et Zachur, et avec eux soixante-dix mâles."
+    },
+    {
+     "v": 15,
+     "t": "Je les rassemblai près de la rivière qui coule vers Ahava, et nous campâmes là trois jours. Ayant porté mon attention sur le peuple et sur les prêtres, je ne trouvai là aucun des fils de Lévi."
+    },
+    {
+     "v": 16,
+     "t": "Alors je fis appeler les chefs Eliézer, Ariel, Séméïas, Elnathan, Jarib, un autre Elnathan, Nathan, Zacharie et Mosollam, ainsi que les docteurs Joïarib et Elnathan."
+    },
+    {
+     "v": 17,
+     "t": "Je les envoyai vers le chef Eddo, à l’endroit appelé Chasphia, et je mis dans leur bouche les paroles qu’ils devaient dire à Eddo et à ses frères les Nathinéens qui étaient à l’endroit appelé Chasphia, afin qu’ils nous amenassent des ministres pour la maison de notre Dieu.",
+     "n": [
+      "17. À Eddo et a ses frères les Nathinéens. Ainsi traduit d’après la Vulgate, et, en partie, des LXX. L’hébreu : À Eddo, son frère, les Nathinéens, ne présente pas un sens satisfaisant."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Et comme la main bienfaisante de notre Dieu était sur nous, ils nous amenèrent un homme intelligent, d’entre les fils de Moholi, fils de Lévi, fils d’Israël, savoir Sarabias, et avec lui ses fils et ses frères au nombre de dix-huit ;",
+     "n": [
+      "18. Savoir Sarabias (comp. Néh. viii, 7 ; ix, 4 sv., etc.), litt. et Sarabias : ou bien le mot et a été inséré par suite d’une faute de copiste, ou bien un nom propre a été omis devant un homme intelligent."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Hasabias, et avec lui Isaïe, d’entre les fils de Mérari,",
+     "n": [
+      "19. Leurs fils hébr. et LXX ; Vulg., ses fils."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "ses frères et leurs fils au nombre de vingt ; et d’entre les Nathinéens, que David et les chefs avaient donnés pour le service des lévites, deux cent vingt Nathinéens, tous nominativement désignés.",
+     "n": [
+      "20. Avaient donnés. Le mot Nethînîm, Nathinéens, signifie donnés."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Je publiai là, près de la rivière d’Ahava, un jeûne pour nous affliger devant notre Dieu, afin d’implorer de lui un heureux voyage pour nous, pour nos enfants et pour tout ce qui nous appartenait."
+    },
+    {
+     "v": 22,
+     "t": "Car j’aurais eu honte de demander au roi une escorte et des cavaliers pour nous secourir contre l’ennemi pendant la route, parce que nous avions dit au roi : « La main de notre Dieu est pour leur bien sur tous ceux qui le cherchent, mais sa force et sa colère sont sur tous ceux qui l’abandonnent. »"
+    },
+    {
+     "v": 23,
+     "t": "Et à cause de cela nous jeûnâmes et nous invoquâmes notre Dieu ; et il nous exauça."
+    },
+    {
+     "v": 24,
+     "t": "Je choisis douze chefs des prêtres, Sarabias et Hasabias, et dix de leurs frères.",
+     "n": [
+      "24. Douze chefs des prêtres et, peut-être, douze lévites (vers. 30), savoir Sarabias, etc. Le lamed devant Sarabias est sans doute pour un vav."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Je pesai devant eux l’argent, l’or et les ustensiles, offrande qu’avaient prélevée pour la maison de notre Dieu le roi, ses conseillers et ses chefs, et tous ceux d’Israël qui se trouvaient là ;"
+    },
+    {
+     "v": 26,
+     "t": "et je pesai, en les remettant entre leurs mains, six cent cinquante talents d’argent, des ustensiles d’argent de la valeur de cent talents, cent talents d’or,"
+    },
+    {
+     "v": 27,
+     "t": "vingt coupes d’or de la valeur de mille dariques, et deux vases d’un bel airain brillant, aussi précieux que l’or."
+    },
+    {
+     "v": 28,
+     "t": "Et je leur dis : « Vous êtes saints devant Yahweh, et ces ustensiles sont saints, cet argent et cet or sont une offrande volontaire à Yahweh, Dieu de vos pères."
+    },
+    {
+     "v": 29,
+     "t": "Soyez vigilants à les garder, jusqu’à ce que vous les pesiez devant les chefs des prêtres et des lévites, et devant les chefs de famille d’Israël, à Jérusalem, dans les chambres de la maison de Yahweh. »"
+    },
+    {
+     "v": 30,
+     "t": "Et les prêtres et les lévites reçurent au poids l’argent, l’or et les ustensiles, pour les porter à Jérusalem dans la maison de notre Dieu."
+    },
+    {
+     "v": 31,
+     "t": "Nous partîmes de la rivière d’Ahava le douzième jour du premier mois, pour nous rendre à Jérusalem. La main de notre Dieu fut sur nous, et nous sauva des mains de l’ennemi et des embûches pendant la route."
+    },
+    {
+     "v": 32,
+     "t": "Arrivés à Jérusalem, nous nous y reposâmes trois jours."
+    },
+    {
+     "v": 33,
+     "t": "Le quatrième jour, l’argent, l’or et les ustensiles furent pesés, dans la maison de notre Dieu, entre les mains de Mérimuth, fils d’Urie, le prêtre ; il y avait avec lui Eléazar, fils de Phinées et avec eux les lévites Jozabad, fils de Josué, et Noadias, fils de Bennui."
+    },
+    {
+     "v": 34,
+     "t": "Le tout fut livré selon le nombre et selon le poids ; et le poids total fut mis par écrit en ce temps-là."
+    },
+    {
+     "v": 35,
+     "t": "Ceux qui revenaient de l’exil, les fils de la captivité, offrirent en holocauste au Dieu d’Israël douze taureaux pour tout Israël, quatre-vingt-seize béliers, soixante-dix-sept agneaux, douze boucs pour le péché, le tout en holocauste à Yahweh."
+    },
+    {
+     "v": 36,
+     "t": "Ils transmirent les ordres du roi aux satrapes du roi et aux gouverneurs d’au delà du fleuve, et ceux-ci soutinrent le peuple et la maison de Dieu.",
+     "n": [
+      "36. Satrapes (dans l’inscript. de Béhistoun Kschatrapava, c.-à-d. protecteurs du pays ), les gouverneurs des grandes provinces de l’empire; gouverneurs, à la tête des districts moindres."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 9,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Quand ces choses furent achevées, les chefs s’approchèrent de moi, en disant : « Le peuple d’Israël, les prêtres et les lévites ne se sont point séparés des peuples de ces pays ; ils imitent leurs abominations, celles des Chananéens, des Héthéens, des Phérézéens, des Jébuséens, des Ammonites, des Moabites, des Égyptiens et des Amorrhéens.",
+     "n": [
+      "IX, 1. Avant de pouvoir songer à introduire la réforme générale qui était l’objet de sa mission, Esdras est informé d’un désordre auquel il faut de suite couper court : celui des mariages avec les étrangers. Rien n’était plus contraire à l’avenir politique et religieux des Juifs ; rien n’était plus propre à hâter la dissolution de la petite communauté renaissante."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Car ils ont pris de leurs filles pour eux et pour leurs fils, et la race sainte s’est alliée avec les peuples de ces pays ; et la main des chefs et des magistrats a été la première dans cette transgression. »"
+    },
+    {
+     "v": 3,
+     "t": "Lorsque j’appris cette affaire, je déchirai mes vêtements et mon manteau, je m’arrachai les cheveux de la tête et la barbe, et je m’assis consterné."
+    },
+    {
+     "v": 4,
+     "t": "Auprès de moi se réunirent tous ceux qui tremblaient à cause des paroles du Dieu d’Israël, à cause de la transgression des fils de la captivité ; et moi, je restai assis, consterné, jusqu’à l’oblation du soir."
+    },
+    {
+     "v": 5,
+     "t": "Puis, au moment de l’oblation du soir, je me levai de mon affliction, avec mes vêtements et mon manteau déchirés, et, tombant à genoux, les mains étendues vers Yahweh, mon Dieu,"
+    },
+    {
+     "v": 6,
+     "t": "je dis : « Mon Dieu, je suis trop chargé de honte et de confusion pour lever ma face vers vous, mon Dieu ; car nos iniquités se sont multipliées par-dessus nos têtes, et notre faute est montée jusqu’au ciel."
+    },
+    {
+     "v": 7,
+     "t": "Depuis les jours de nos pères jusqu’à ce jour, nous avons été grandement coupables ; et c’est à cause de nos iniquités que nous avons été livrés, nous, nos rois et nos prêtres, aux mains des rois des pays, à l’épée, à la captivité, au pillage et à la honte, comme nous le sommes encore aujourd’hui."
+    },
+    {
+     "v": 8,
+     "t": "Et maintenant, Yahweh, notre Dieu, nous a un moment témoigné sa miséricorde, en nous laissant un reste et en nous accordant un abri dans son lieu saint, afin que notre Dieu éclaire nos yeux et nous rende un peu de vie au milieu de notre servitude.",
+     "n": [
+      "IX, 8. Un reste, des réchappes, des survivants. — Un abri, m. à m. un clou, allusion aux pieux qui fixaient la tente dans le campement."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Car nous sommes esclaves ; mais notre Dieu ne nous a pas abandonnés dans notre servitude. Il a dirigé sur nous la bienveillance des rois de Perse, pour nous rendre la vie, afin que nous bâtissions la maison de notre Dieu et que nous relevions ses ruines, et pour nous donner une demeure close en Juda et à Jérusalem."
+    },
+    {
+     "v": 10,
+     "t": "Maintenant, ô notre Dieu, que dirons-nous après cela ? Car nous avons abandonné vos commandements"
+    },
+    {
+     "v": 11,
+     "t": "que vous nous aviez prescrits par l’organe de vos serviteurs les prophètes, en disant : Le pays dans lequel vous entrez pour en prendre possession est un pays d’impureté, souillé par les impuretés des peuples de ces contrées, par les abominations dont ils l’ont rempli d’un bout à l’autre avec leurs impuretés.",
+     "n": [
+      "11. Peuples de ces contrées. m.-à-m. peuples des pays, expression qui semble consacrée en plusieurs passages du livre d’Esdras pour désigner, soit les païens qui étaient en Chanaan au temps de l’exode, soit les païens et Juifs infidèles que les rapatriés rencontraient à leur retour en Palestine."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Et maintenant, ne donnez point vos filles à leurs fils, et ne prenez point leurs filles pour vos fils, et n’ayez jamais souci de leur prospérité ni de leur bien-être, afin que vous deveniez forts, que vous mangiez les bons produits de ce pays, et que vous le transmettiez pour toujours en héritage à vos enfants..."
+    },
+    {
+     "v": 13,
+     "t": "Après tout ce qui nous est arrivé à cause de nos mauvaises actions et de nos grandes fautes, — quoique vous nous ayez épargnés, ô notre Dieu, plus que ne le méritaient nos iniquités, et que vous nous ayez laissé un reste tel que celui-ci, —",
+     "n": [
+      "13. Quoique vous nous ayez épargnés, ô notre Dieu, plus que ne le méritaient nos iniquités. M. à m. car vous avez maintenu en bas une part de notre iniquité. — Un reste tel que celui-ci, le petit nombre d’Israélites revenus de l’exil. — Dans la Vulg., les vers. 13, 14 offriraient un sens peu différent de l’hébreu, si l’on mettait entre parenthèses les mots quia tu… istarum, avec une simple virgule devant numquid."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "pourrions-nous violer de nouveau vos commandements et nous allier avec ces peuples si abominables ? Ne vous irriteriez-vous pas contre nous jusqu’à nous détruire, sans laisser ni reste ni réchappés ?"
+    },
+    {
+     "v": 15,
+     "t": "Yahweh, Dieu d’Israël, vous êtes juste, car nous ne sommes aujourd’hui qu’un reste de réchappés ; nous voici devant vous avec notre faute ; car nous ne pouvons, à cause d’elle, subsister devant votre face. »"
+    }
+   ]
+  },
+  {
+   "c": 10,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Pendant qu’Esdras, pleurant et prosterné devant la maison de Dieu, faisait cette prière et cette confession, il s’était réuni auprès de lui une assemblée très nombreuse d’Israélites, hommes, femmes et enfants ; car le peuple versait beaucoup de larmes."
+    },
+    {
+     "v": 2,
+     "t": "Alors Séchénias, fils de Jéhiel, d’entre les fils d’Élam, prit la parole et dit à Esdras : « Nous avons péché contre notre Dieu en établissant chez nous des femmes étrangères, appartenant à la population du pays. Et maintenant, il reste à cet égard à Israël une espérance."
+    },
+    {
+     "v": 3,
+     "t": "Concluons maintenant une alliance avec notre Dieu, en vue de renvoyer toutes les femmes et les enfants issus d’elles, selon le conseil de mon seigneur et de ceux qui craignent devant les commandements de notre Dieu. Et qu’il soit fait selon la Loi.",
+     "n": [
+      "X, 3. Selon le conseil de mon seigneur ( Esdras ) ; cette leçon, appuyée par les LXX, paraît préférable à celle de la Vulg. : selon la volonté du Seigneur."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Lève-toi, car c’est à toi de prendre en main cette affaire. Nous serons avec toi. Courage, et à l’œuvre ! »"
+    },
+    {
+     "v": 5,
+     "t": "Esdras se leva, et il fit jurer aux chefs des prêtres, des lévites et de tout Israël, de faire comme il venait d’être dit ; et ils le jurèrent."
+    },
+    {
+     "v": 6,
+     "t": "Puis, s’étant retiré de devant la maison de Dieu, Esdras alla dans la chambre de Johanan, fils d’Eliasib ; quand il y fut entré, il ne mangea pas de pain et ne but pas d’eau, parce qu’il était dans le deuil à cause du péché des fils de la captivité.",
+     "n": [
+      "6. Quand il y fut entré. D’après III Esdr. ix, 1, au lieu de vayyélek, quand il fut entré, il faut lire sans doute vayyalen, et il y passa la nuit. — Il ne mangea pas de pain ; il jeûna ( Exod. xxxiv, 2 ; Deut. ix, 9 )."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "On fit passer une proclamation dans Juda et à Jérusalem, pour que tous les fils de la captivité se réunissent à Jérusalem ;"
+    },
+    {
+     "v": 8,
+     "t": "et, d’après l’avis des chefs et des anciens, quiconque n’y serait pas arrivé dans trois jours, aurait tous ses biens confisqués et serait lui-même exclu de l’assemblée des fils de la captivité."
+    },
+    {
+     "v": 9,
+     "t": "Tous les hommes de Juda et de Benjamin se rassemblèrent à Jérusalem dans les trois jours ; c’était le vingtième jour du neuvième mois. Tout le peuple se tenait sur la place de la maison de Dieu, tremblant à cause de la circonstance, et parce qu’il pleuvait.",
+     "n": [
+      "9. Neuvième mois, correspondant en grande partie à notre mois de décembre ; ce mois est très pluvieux en Palestine. — À cause de la circonstance (litt. de la chose ; Vulg., du péché ), que cette convocation extraordinaire faisait juger grave."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Esdras, le prêtre, se leva et leur dit : « Vous avez péché en établissant chez vous des femmes étrangères, ajoutant ainsi à la faute d’Israël."
+    },
+    {
+     "v": 11,
+     "t": "Et maintenant, confessez votre faute à Yahweh, le Dieu de vos pères, et faites sa volonté ; séparez-vous des peuples du pays et des femmes étrangères. »"
+    },
+    {
+     "v": 12,
+     "t": "Toute l’assemblée répondit, en disant d’une voix haute : « À nous d’agir comme tu l’as dit !"
+    },
+    {
+     "v": 13,
+     "t": "Mais le peuple est nombreux, et c’est le temps des pluies, et il n’est pas possible de rester dehors ; d’ailleurs, ce n’est pas l’affaire d’un jour ou deux, car nous avons commis un grave péché en cette matière.",
+     "n": [
+      "13. Car nous avons commis un grave péché en cette matière, tant à raison du nombre des délinquants qu’à raison de la gravité du délit."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Que nos chefs restent donc pour toute l’assemblée ; et que tous ceux qui, dans nos villes, ont établi chez eux des femmes étrangères, viennent aux jours qui leur seront fixés, avec les anciens de chaque ville et ses juges, jusqu’à ce qu’on ait détourné de nous le feu de la colère de notre Dieu au sujet de cette affaire. »"
+    },
+    {
+     "v": 15,
+     "t": "Il n’y eut que Jonathan, fils d’Azahel, et Jaasias, fils de Thécuah, pour combattre cet avis ; et Mosollam et Sebéthaï, le lévite, les appuyèrent."
+    },
+    {
+     "v": 16,
+     "t": "Mais les fils de la captivité firent comme il avait été dit. Esdras, le prêtre, et des hommes, chefs de familles selon leurs maisons, tous désignés par leurs noms, se mirent à part et siégèrent le premier jour du dixième mois pour examiner l’affaire.",
+     "n": [
+      "16. Esdras et des hommes… se mirent à part. III Esdr. ix, 16 : Et Esdras se choisit (m. à m. mit à part ) des hommes, etc."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Ils en eurent fini le premier jour du premier mois avec tous les hommes qui avaient établi chez eux des femmes étrangères."
+    },
+    {
+     "v": 18,
+     "t": "Parmi les fils des prêtres, il s’en trouva qui avaient établi chez eux des femmes étrangères, savoir : des fils de Josué, fils de Josédec, et de ses frères : Maasias, Eliézer, Jarib et Godolias ;"
+    },
+    {
+     "v": 19,
+     "t": "ils donnèrent parole de renvoyer leurs femmes et, se déclarant coupables, d’offrir un bélier pour l’expiation de leur faute.",
+     "n": [
+      "19. Ils donnèrent parole, m. à m. ils donnèrent leur main, en signe d’engagement, pour renvoyer."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Des fils d’Emmer : Hanani et Zébédias."
+    },
+    {
+     "v": 21,
+     "t": "Des fils de Harim : Maasias, Elie, Séméïas, Jéhiel et Ozias."
+    },
+    {
+     "v": 22,
+     "t": "Des fils de Phashur : Elioénaï, Maasias, Ismaël, Nathanaël, Jozabed et Elasa."
+    },
+    {
+     "v": 23,
+     "t": "— Parmi les lévites : Jozabed, Séméï, Célaïas, le même que Célita, Phataïas, Juda et Eliézer."
+    },
+    {
+     "v": 24,
+     "t": "— Parmi les chantres : Eliasib. — Parmi les portiers : Selum, Télem et Uri."
+    },
+    {
+     "v": 25,
+     "t": "Parmi ceux d’Israël : Des fils de Pharos : Réméïas, Jézias, Melchias, Miamin, Eliézer, Melchias et Banaïas ;"
+    },
+    {
+     "v": 26,
+     "t": "des fils d’Elam : Mathanias, Zacharie, Jéhiel, Abdi, Jérimoth et Elie ;"
+    },
+    {
+     "v": 27,
+     "t": "des fils de Zéthua : Elioénaï, Eliasib, Mathanias, Jérimoth, Zabad et Aziza ;"
+    },
+    {
+     "v": 28,
+     "t": "des fils de Bébaï : Johanan, Ananie, Zabbaï, Athalaï ;"
+    },
+    {
+     "v": 29,
+     "t": "des fils de Bani : Mosollam, Melluch, Adaïas, Jasub, Saal et Ramoth ;"
+    },
+    {
+     "v": 30,
+     "t": "des fils de Phahath-Moab : Edna, Chalal, Banaïas, Maasias, Mathanias, Béséléel, Bennui et Manassé ;"
+    },
+    {
+     "v": 31,
+     "t": "des fils de Harim : Eliézer, Jesias, Melchias, Séméïas, Siméon,"
+    },
+    {
+     "v": 32,
+     "t": "Benjamin, Melluch, Samarias ;"
+    },
+    {
+     "v": 33,
+     "t": "des fils de Hasom : Mathanaï, Mathatha, Zabad, Eliphélet, Jermaï, Manassé, Séméï ;"
+    },
+    {
+     "v": 34,
+     "t": "des fils de Bani : Maaddi, Amram, Uel,"
+    },
+    {
+     "v": 35,
+     "t": "Banaïas, Badaïas, Chéliaü,"
+    },
+    {
+     "v": 36,
+     "t": "Vanias, Merimuth, Eliasib,"
+    },
+    {
+     "v": 37,
+     "t": "Mathanias, Mathanai, Jasi,"
+    },
+    {
+     "v": 38,
+     "t": "Bani, Bennui, Séméï,"
+    },
+    {
+     "v": 39,
+     "t": "Salmias, Nathan, Adaïas,"
+    },
+    {
+     "v": 40,
+     "t": "Mechnédébaï, Sisaï, Sarai,"
+    },
+    {
+     "v": 41,
+     "t": "Ezrel, Sélémiaü, Sémérias,"
+    },
+    {
+     "v": 42,
+     "t": "Sellum, Amarias, Joseph ;"
+    },
+    {
+     "v": 43,
+     "t": "des fils de Nébo : Jéhiel, Mathathias, Zabad, Zabina, Jeddu, Joël et Banaïas."
+    },
+    {
+     "v": 44,
+     "t": "Tous ces hommes avaient pris des femmes étrangères, et plusieurs d’entre eux en avaient eu des enfants.",
+     "n": [
+      "44. Plusieurs d’entre eux en avaient eu des enfants. D’autres traduisent : plusieurs d’entre eux les renvoyèrent avec leurs enfants. Texte et sens douteux. Il faut lire sans doute, avec III Esdr. ix, 36 : et ils ( tous ) les renvoyèrent avec leurs enfants."
+     ]
+    }
+   ]
+  }
+ ]
+}

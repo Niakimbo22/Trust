@@ -1,0 +1,99 @@
+# Calcule les timings verset par verset (audio ↔ texte) sur les serveurs GitHub.
+# Manuel uniquement. Gratuit (repo public). L'audio n'est jamais publié : il est mesuré puis supprimé.
+name: Contenu
+
+on:
+  workflow_dispatch:
+    inputs:
+      books:
+        description: "Codes séparés par des virgules (ex : MAT,MRK), « missing » (sans timings) ou « all »"
+        required: true
+        default: missing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      books: ${{ steps.p.outputs.books }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        env:
+          SEL: ${{ inputs.books }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          sel = os.environ["SEL"].strip()
+          codes = [b["code"] for b in json.load(open("tools/bible_manifest.json"))["books"]
+                   if os.path.exists(f"content/text/{b['code']}.json")]
+          if sel == "missing":
+              codes = [c for c in codes if not os.path.exists(f"content/timings/{c}.json")]
+          elif sel != "all":
+              wanted = [c.strip().upper() for c in sel.split(",") if c.strip()]
+              codes = [c for c in codes if c in wanted]
+          print("books=" + json.dumps(codes))
+          PY
+
+  timings:
+    needs: plan
+    if: needs.plan.outputs.books != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        book: ${{ fromJson(needs.plan.outputs.books) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: tools/requirements.txt
+      - name: Outils
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install -q -r tools/requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+      - name: Timings ${{ matrix.book }}
+        run: python3 tools/build_timings.py ${{ matrix.book }} "$RUNNER_TEMP/work" 2> >(tee report.log >&2)
+      - name: Rapport
+        if: always()
+        run: grep -h "REPORT\|versets faibles\|jetons" report.log >> "$GITHUB_STEP_SUMMARY" || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: timings-${{ matrix.book }}
+          path: content/timings/${{ matrix.book }}.json
+          retention-days: 3
+
+  commit:
+    needs: timings
+    if: always() && needs.timings.result != 'skipped'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: timings-*
+          path: content/timings
+          merge-multiple: true
+      - name: Publier
+        run: |
+          python3 tools/update_books.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add content
+          git diff --cached --quiet && { echo "Rien de nouveau"; exit 0; }
+          git commit -m "Contenu : timings mis à jour ($(git diff --cached --name-only | grep -c timings/) livres)"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 10; done

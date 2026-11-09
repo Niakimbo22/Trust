@@ -25,6 +25,11 @@ class MainActivity : ComponentActivity() {
         if (savedInstanceState == null) container.updateManager.checkIfDue()
     }
 
+    override fun onStart() {
+        super.onStart()
+        container.player.connect()
+    }
+
     override fun onResume() {
         super.onResume()
         container.updateManager.onActivityResumed(this)

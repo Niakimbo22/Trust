@@ -1,0 +1,803 @@
+{
+ "code": "GAL",
+ "name": "Épître aux Galates",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Paul, apôtre, non de la part des hommes, ni par l’intermédiaire d’un homme, mais par Jésus-Christ et Dieu le Père, qui l’a ressuscité d’entre les morts,",
+     "h": "PRÉAMBULE. [I, 1 — 10.]",
+     "n": [
+      "I, 1. Paul affirme deux choses : 1. Sa mission ne vient pas des hommes, mais de Dieu le Père, source première de toute mission légitime. 2. Elle ne lui a pas été conférée par un homme : il la tient directement de J.-C. ressuscité."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "ainsi que tous les frères qui sont avec moi, aux Églises de Galatie ;",
+     "n": [
+      "2. Les Églises de Galatie, pour les uns, la Galatie proprement dite, mais, pour les autres, la province romaine de ce nom."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "à tous grâce et paix de la part de Dieu le Père et de notre Seigneur Jésus-Christ,"
+    },
+    {
+     "v": 4,
+     "t": "qui s’est donné lui-même pour nos péchés, afin de nous arracher à la corruption du siècle présent, selon la volonté de notre Dieu et Père,"
+    },
+    {
+     "v": 5,
+     "t": "à qui soit la gloire aux siècles des siècles ! Amen !",
+     "n": [
+      "5. Vulg. à qui est la gloire. Le texte grec n’a pas le verbe."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Je m’étonne que si vite vous vous laissiez détourner de celui qui vous a appelés en la grâce de Jésus-Christ, pour passer à un autre Évangile :",
+     "n": [
+      "6. Un autre Évangile, la doctrine des judaïsants."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "non certes qu’il y en ait un autre ; seulement il y a des gens qui vous troublent et qui veulent changer l’Évangile du Christ."
+    },
+    {
+     "v": 8,
+     "t": "Mais quand nous-mêmes, quand un ange venu du ciel vous annoncerait un autre Évangile que celui que nous vous avons annoncé, qu’il soit anathème !"
+    },
+    {
+     "v": 9,
+     "t": "Nous l’avons dit précédemment, et je le répète à cette heure, si quelqu’un vous annonce un autre Évangile que celui que vous avez reçu, qu’il soit anathème !"
+    },
+    {
+     "v": 10,
+     "t": "En ce moment, est-ce la faveur des hommes, ou celle de Dieu que je recherche ? Mon dessein est-il de complaire aux hommes ? Si je plaisais encore aux hommes, je ne serais pas serviteur du Christ."
+    },
+    {
+     "v": 11,
+     "t": "Je vous le déclare, en effet, frères, l’Évangile que j’ai prêché n’est pas de l’homme ;",
+     "h": "PREMIÈRE PARTIE. [I, 11 — II, 21.] APOLOGIE DE SON APOSTOLAT ET DE SA DOCTRINE."
+    },
+    {
+     "v": 12,
+     "t": "car ce n’est pas d’un homme que je l’ai reçu ni appris, mais par une révélation de Jésus-Christ."
+    },
+    {
+     "v": 13,
+     "t": "Vous avez, en effet, entendu parler de ma conduite, quand j’étais dans le judaïsme ; comment je persécutais à outrance et ravageais l’Église de Dieu,"
+    },
+    {
+     "v": 14,
+     "t": "et comment je surpassais dans le judaïsme beaucoup de ceux de mon âge et de ma nation, étant à l’excès partisan jaloux des traditions de mes pères."
+    },
+    {
+     "v": 15,
+     "t": "Mais, lorsqu’il plut à celui qui m’avait mis à part dès le sein de ma mère, et qui m’a appelé par sa grâce,"
+    },
+    {
+     "v": 16,
+     "t": "de révéler en moi son Fils, afin que je l’annonce parmi les Gentils, sur-le-champ, sans consulter ni la chair ni le sang,"
+    },
+    {
+     "v": 17,
+     "t": "sans monter à Jérusalem vers ceux qui étaient apôtres avant moi, je partis pour l’Arabie ; puis je revins encore à Damas.",
+     "n": [
+      "16-17. Pour l’Arabie, non pour y prêcher l’Évangile, mais pour se préparer dans la retraite à cette prédication. Comp. Act. ix, 19, 3. Voilà pourquoi les Actes se taisent sur ce voyage."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Trois ans plus tard, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai quinze jours auprès de lui.",
+     "n": [
+      "18. Ce voyage paraît être le même qui est raconté Act. ix, 27 sv., et rappelé Act. xxii, 17."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Mais je ne vis aucun des autres Apôtres, si ce n’est Jacques, le frère du Seigneur."
+    },
+    {
+     "v": 20,
+     "t": "En tout ce que je vous écris là, je l’atteste devant Dieu, je ne mens pas."
+    },
+    {
+     "v": 21,
+     "t": "J’allai ensuite dans les contrées de la Syrie et de la Cilicie."
+    },
+    {
+     "v": 22,
+     "t": "Or, j’étais inconnu de visage aux Églises de Judée qui sont dans le Christ ;"
+    },
+    {
+     "v": 23,
+     "t": "seulement elles avaient entendu dire que celui qui les persécutait autrefois annonçait maintenant la foi qu’il s’efforçait alors de détruire."
+    },
+    {
+     "v": 24,
+     "t": "Et elles glorifiaient Dieu à mon sujet."
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Ensuite, quatorze ans plus tard, je montai à nouveau à Jérusalem avec Barnabé ayant aussi pris Tite avec moi.",
+     "n": [
+      "II, 1. Quatorze ans après sa conversion. C’est le voyage auquel les Actes font allusion xi, 30 et xii, 25. Les conférences particulières qu’il eut alors avec les chefs de l’Église de Jérusalem ne doivent pas se confondre avec le Concile de Jérusalem. Ce Concile n’eut lieu qu’après la composition de l’Épître aux Galates vers l’an 51. L’argumentation de S. Paul exige qu’il ne passe pas sous silence ce second voyage fait à Jérusalem. D’autre part on ne s’explique pas qu’il ne fasse aucune mention dans cette Épître du Concile de Jérusalem qui résolvait la question débattue, sinon parce qu’il n’avait pas encore eu lieu."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Ce fut d’après une révélation que j’y montai, et je leur exposai l’Évangile que je prêche parmi les Gentils ; je l’exposai en particulier à ceux qui étaient les plus considérés, de peur de courir ou d’avoir couru en vain."
+    },
+    {
+     "v": 3,
+     "t": "Or on n’obligea même pas Tite qui m’accompagnait, et qui était Grec, à se faire circoncire."
+    },
+    {
+     "v": 4,
+     "t": "Et cela, à cause des faux frères intrus, qui s’étaient glissés parmi nous pour épier la liberté que nous avons dans le Christ Jésus, afin de nous réduire en servitude.",
+     "n": [
+      "4. Faux frères, judéo-chrétiens de Judée, venus à Antioche ( Act. xv, 1, 2 )."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Nous n’avons pas consenti, même pour un instant, à nous soumettre à eux, afin que la vérité de l’Évangile fût maintenue parmi vous."
+    },
+    {
+     "v": 6,
+     "t": "Quant à ceux qu’on tient en si haute estime, — ce qu’ils ont été autrefois ne m’importe pas : Dieu ne fait point acception des personnes, — ces hommes si considérés ne m’imposèrent rien de plus."
+    },
+    {
+     "v": 7,
+     "t": "Au contraire, voyant que l’Évangile m’avait été confié pour les incirconcis, comme à Pierre pour les circoncis,"
+    },
+    {
+     "v": 8,
+     "t": "— car celui qui a fait de Pierre l’apôtre des circoncis a aussi fait de moi l’apôtre des Gentils, —"
+    },
+    {
+     "v": 9,
+     "t": "et ayant reconnu la grâce qui m’avait été accordée, Jacques, Céphas et Jean, qui sont regardés comme des colonnes, nous donnèrent la main, à Barnabé et à moi, en signe de communion, pour aller, nous aux païens, eux aux circoncis."
+    },
+    {
+     "v": 10,
+     "t": "Seulement nous devions nous souvenir des pauvres, ce que j’ai eu bien soin de faire.",
+     "n": [
+      "10. Rom. xv, 27."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Mais lorsque Céphas vint à Antioche, je lui résistai en face, parce qu’il était digne de blâme.",
+     "n": [
+      "11. L’incident d’Antioche eut lieu peu après le retour de S. Paul de sa première mission, ( Act. xv, 30 ) et avant que S. Paul écrivit son Épître aux Galates (vers l’an 50). La condescendance de Céphas était dangereuse dans les circonstances où elle se produisait. Par sa conduite, l’Apôtre pouvait laisser croire que les observances de la loi conservaient toute leur efficacité au point de vue du salut. De plus, contrairement à son intention, il semblait par là vouloir porter les chrétiens de la Gentilité à se les imposer, éloignant ainsi les païens de l’Évangile et jetant dans l’Église des germes funestes de division."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "En effet, avant l’arrivée de certaines gens de l’entourage de Jacques, il mangeait avec les païens ; mais après leur arrivée, il s’esquiva, et se tint à l’écart, par crainte des partisans de la circoncision."
+    },
+    {
+     "v": 13,
+     "t": "Avec lui, les autres Juifs usèrent aussi de dissimulation, en sorte que Barnabé lui-même s’y laissa entraîner."
+    },
+    {
+     "v": 14,
+     "t": "Pour moi, voyant qu’ils ne marchaient pas droit selon la vérité de l’Évangile, je dis à Céphas en présence de tous : « Si toi qui es Juif, tu vis à la manière des Gentils et non à la manière des Juifs, comment peux-tu forcer les Gentils à judaïser ? »",
+     "n": [
+      "14. Paul, dans les vers. 15-21, continue selon la plupart des exégètes, son discours à Pierre, dont il ne donne plus que les idées principales, sans le reproduire textuellement."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Pour nous, nous sommes Juifs de naissance, et non pécheurs d’entre les Gentils."
+    },
+    {
+     "v": 16,
+     "t": "Cependant sachant que l’homme est justifié, non par les œuvres de la Loi, mais par la foi dans le Christ Jésus, nous aussi nous avons cru au Christ Jésus, afin d’être justifiés par la foi en lui et non par les œuvres de la Loi ; car nul homme ne sera justifié par les œuvres de la Loi.",
+     "n": [
+      "16. Nul homme : litt. nulle chair."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Or si, tandis que nous cherchons à être justifiés par le Christ, nous étions nous-mêmes trouvés pécheurs…, le Christ serait-il donc un ministre du péché ? Loin de là !",
+     "n": [
+      "17. Sens : si la foi en J.-C. nous laisse encore pécheurs, c’est-à-dire semblables aux païens ; si elle n’a pas par elle-même, et sans les œuvres de la Loi, la vertu de nous conduire à la justice, il s’ensuit que J.-C. nous aurait entraînés à un abandon coupable de la loi ; il serait comme la cause et comme le ministre de cet état de péché dans lequel les fidèles se trouveraient encore."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Car si ce que j’ai détruit, je le rebâtis, je me constitue moi-même prévaricateur,"
+    },
+    {
+     "v": 19,
+     "t": "puisque c’est par la Loi que je suis mort à la Loi, afin de vivre pour Dieu. J’ai été crucifié avec le Christ,",
+     "n": [
+      "19. La Loi fait vivre le péché, en donne la conscience, et par suite du péché, toute l’humanité est sujette à la malédiction et à la mort. Le Christ, en montant sur la croix, a pris sur lui cette malédiction ; il est donc mort par, ou à cause de la Loi (Comp. iii, 10 sv.). Or les fidèles lui étant unis par la foi et le baptême, sont entrés en communion de sa mort et de sa résurrection ( Rom. vi, 3 sv. ) ; par conséquent eux aussi sont morts par la Loi, et sont morts à la Loi ; le lien qui les attachait à elle est rompu ; ils vivent de la vie divine, la Loi ne peut plus ni les accuser, ni les convaincre de péché ( Rom. vii, 1-11 )."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "et si je vis, ce n’est plus moi qui vis, c’est le Christ qui vit en moi. Ce que je vis maintenant dans la chair, je le vis dans la foi au Fils de Dieu, qui m’a aimé et qui s’est livré lui-même pour moi.",
+     "n": [
+      "20. Comp. Rom. vi, 11 ; viii, 9 sv. ; Eph. iii, 17."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Je ne rejette pas la grâce de Dieu ; car si la justice s’obtient par la Loi, le Christ est donc mort pour rien."
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Ô Galates insensés ! qui vous a fascinés, vous aux yeux de qui a été tracée l’image de Jésus-Christ crucifié.",
+     "h": "DEUXIÈME PARTIE. [III, 1 — IV, 31.] DOCTRINE DU SALUT PAR LA FOI.",
+     "n": [
+      "III, 1. Après fascinés, la Vulg. ajoute, pour ne pas obéir à la vérité : ces mots manquent dans les manuscrits grecs, dans l’ancienne italique et dans plusieurs manuscrits de la Vulg. elle-même. Cf. v. 7. Quelques manuscrits ont, comme la Vulgate, in vobis crucifixus, c’est-à-dire « comme s’il eût été crucifié parmi vous »."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Voici seulement ce que je voudrais savoir de vous : Est-ce par les œuvres de la Loi que vous avez reçu l’Esprit, ou par la soumission de la foi ?"
+    },
+    {
+     "v": 3,
+     "t": "Avez-vous si peu de sens, qu’après avoir commencé par l’esprit, vous finissiez par la chair ?"
+    },
+    {
+     "v": 4,
+     "t": "Avez-vous fait une telle expérience en vain ? si toutefois c’est en vain."
+    },
+    {
+     "v": 5,
+     "t": "Celui qui vous confère l’Esprit et qui opère parmi vous des miracles, le fait-il donc par les œuvres de la Loi, ou par la soumission de la foi ?"
+    },
+    {
+     "v": 6,
+     "t": "comme il est écrit : « Abraham crut à Dieu, et cela lui fut imputé à justice. »"
+    },
+    {
+     "v": 7,
+     "t": "Reconnaissez donc que ceux-là sont fils d’Abraham, qui sont de la foi.",
+     "n": [
+      "7. Reconnaissez, ou bien avec quelques bons manuscrits de la Vulgate, vous reconnaissez."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Aussi l’Écriture, prévoyant que Dieu justifierait les nations par la foi, annonça d’avance à Abraham cette bonne nouvelle : « Toutes les nations seront bénies en toi. »",
+     "n": [
+      "8. L’Écriture personnifiée, l’Esprit-Saint parlant par elle ( Gen. xii, 3 ; comp. xviii, 18 )."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "De sorte que ceux qui sont de la foi sont bénis avec le fidèle Abraham."
+    },
+    {
+     "v": 10,
+     "t": "En effet tous ceux qui s’appuient sur les œuvres de la Loi sont sous la malédiction ; car il est écrit : « Maudit quiconque n’est pas constant à observer tout ce qui est écrit dans le livre de la Loi. »",
+     "n": [
+      "10. Citation libre, d’après les Septante, de Deut. xxvii, 26."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Or que par la Loi nul ne soit justifié devant Dieu, cela est manifeste, puisque le « juste vivra par la foi. »",
+     "n": [
+      "11. Hab. ii, 4. Comp. Rom. i, 17."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Or la Loi ne procède pas de la foi ; mais elle dit : « Celui qui accomplira ces commandements vivra en eux. »",
+     "n": [
+      "12. Lév. xviii, 5."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Le Christ nous a rachetés de la malédiction de la Loi, en se faisant malédiction pour nous, — car il est écrit : « Maudit quiconque est pendu au bois, » —",
+     "n": [
+      "13. Maudit… : citation libre, d’après les Septante, de Deut. xxi, 23."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "afin que la bénédiction promise à Abraham s’étendît aux nations dans le Christ Jésus, afin que nous pussions recevoir par la foi l’Esprit promis."
+    },
+    {
+     "v": 15,
+     "t": "Frères, — je parle selon les usages des hommes, — un contrat en bonne forme, bien que l’engagement soit pris par un homme, n’est annulé par personne, et personne n’y ajoute."
+    },
+    {
+     "v": 16,
+     "t": "Or les promesses ont été faites à Abraham et à sa descendance. On ne dit pas : « Et à ses descendants », comme s’il s’agissait de plusieurs ; mais il dit : « À ta descendance », comme ne parlant que d’un seul, savoir le Christ.",
+     "n": [
+      "16. Gen. xiii, 15 ; xvii, 8. — À ses descendants, litt. à ses descendances. L’Esprit de Dieu, en choisissant un mot qui désigne une unité collective, de préférence à un pluriel, enfants ou descendants, par exemple, indiquait un objet de la promesse collectivement un, savoir le Christ uni à tous ceux qui ne forment avec lui qu’un seul corps, le Christ personnel et le Christ mystique, Jésus-Christ et son Église, dit S. Augustin."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Voici ce que je veux dire : Dieu ayant conclu une alliance en bonne forme, la loi qui est venue quatre cent trente ans après ne la rend pas nulle, de manière à rendre vaine la promesse.",
+     "n": [
+      "17. Le texte reçu ajoute : en vue du Christ. — S. Paul compte les 400 ans à partir du dernier renouvellement de la promesse."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Car si l’héritage s’obtenait par la Loi, il ne viendrait plus d’une promesse ; or, c’est par une promesse que Dieu a fait à Abraham ce don de sa grâce."
+    },
+    {
+     "v": 19,
+     "t": "Pourquoi donc la Loi ? Elle a été ajoutée à cause des transgressions, jusqu’à ce que vînt « la descendance » à qui la promesse avait été faite ; elle a été promulguée par les anges, par l’entremise d’un médiateur.",
+     "n": [
+      "19. Rom. v, 20 ; vii, 7-13. — Les anges, selon une tradition juive, dont la première trace se trouve, Deut. xxxiii, 2 (LXX) et qui est clairement affirmée dans le N. T. Comp. Act. vii, 53 ; Hébr. ii, 2. — D’un médiateur entre Dieu et le peuple, Moïse ( Deut. v, 5 sv. Comp. ix, 9 sv. ). S. Paul fait ressortir par là le caractère intermédiaire et subordonné de la Loi."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Or le médiateur n’est pas médiateur d’un seul ; et Dieu est un.",
+     "n": [
+      "20. L’entremise d’un médiateur prouve que l’alliance conclue au pied du Sinaï avait le caractère d’un véritable contrat. Dieu s’obligeait vis-à-vis du peuple hébreu à le bénir sous la condition qu’il observât sa Loi (comp. v, 12 ) ; et c’est en effet à quoi les fils d’Israël s’engagèrent ( Exod. xix, 5-8 ; Deut. v, 24 sv. ). Au contraire, dans la promesse, Dieu est seul ; il ne contracte aucune dette vis-à-vis de l’homme à qui il promet. La Loi n’a donc pas pu se substituer à la promesse et l’abolir."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "La Loi va-t-elle donc contre les promesses de Dieu ? Loin de là ! S’il eût été donné une loi capable de procurer la vie, la justice viendrait réellement de la loi."
+    },
+    {
+     "v": 22,
+     "t": "Mais l’Écriture a tout enfermé sous le péché, afin que, par la foi en Jésus-Christ, ce qui avait été promis fût donné à ceux qui croient.",
+     "n": [
+      "22. L’Écriture personnifiée, comme au v. 8. ( Rom. iii, 10 sv. )."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Avant que vînt la foi, nous étions enfermés sous la garde de la Loi, en vue de la foi qui devait être révélée."
+    },
+    {
+     "v": 24,
+     "t": "Ainsi la Loi a été notre pédagogue pour nous conduire au Christ, afin que nous fussions justifiés par la foi.",
+     "n": [
+      "24. Les pédagogues, chez les Grecs et les Romains, étaient ordinairement des esclaves qui accompagnaient partout les enfants confiés à leurs soins, veillaient sur eux et leur apprenaient les premiers éléments des connaissances, jusqu’à ce que l’enfant pût entendre plus tard les leçons de quelque maître renommé. Tel fut exactement le rôle de la loi auprès du peuple juif."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Mais la foi étant venue, nous ne sommes plus sous un pédagogue."
+    },
+    {
+     "v": 26,
+     "t": "Car vous êtes tous fils de Dieu par la foi dans le Christ Jésus.",
+     "n": [
+      "26. Dans le Christ Jésus, peut, dans le grec, se joindre à fils de Dieu."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Vous tous, en effet, qui avez été baptisés dans le Christ, vous avez revêtu le Christ.",
+     "n": [
+      "27. Dans le Christ ( in Christum ), de manière à sortir de la race pécheresse du premier Adam, pour devenir membre du corps mystique de J.-C. — Revêtu le Christ : cette image, familière à S. Paul ( Rom. xiii, 14 ; Eph. iv, 24 ; Col. iii, 9 sv. ), signifie l’intime communauté de vie et d’esprit dans laquelle l’homme entre avec J.-C. par le baptême."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Il n’y a plus ni Juif ni Grec ; il n’y a plus ni esclave ni homme libre ; il n’y a plus ni homme ni femme : car vous n’êtes tous qu’une personne dans le Christ Jésus.",
+     "n": [
+      "28. Comp. Col. iii, 18. — Une personne (en gr. εἷς, unus, selon les meilleurs manuscrits). La Vulg. a lu in unum. Sens : J.-C. appelle tous les hommes à devenir enfants de Dieu, et il a mérité cette grâce à tous, sans distinction."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Et si vous êtes au Christ, vous êtes donc « descendance » d’Abraham, héritiers selon la promesse.",
+     "n": [
+      "29. Au Christ, membres de son corps mystique. — Vous êtes, comme lui et en lui, descendance, etc. Comp. ix, 18."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Or je dis ceci : Aussi longtemps que l’héritier est enfant, il ne diffère en rien d’un esclave, quoiqu’il soit le maître de tout ;"
+    },
+    {
+     "v": 2,
+     "t": "mais il est soumis à des tuteurs et à des curateurs jusqu’au temps marqué par le père."
+    },
+    {
+     "v": 3,
+     "t": "De même, nous aussi, quand nous étions enfants, nous étions sous l’esclavage des rudiments du monde."
+    },
+    {
+     "v": 4,
+     "t": "Mais lorsque est venue la plénitude des temps, Dieu a envoyé son Fils, formé d’une femme, né sous la Loi,",
+     "n": [
+      "IV, 4. Formé d’une femme. Quelques Pères et de bons manuscrits de la Vulgate lisent natum ex muliere au lieu de factum. Quelques manuscrits du texte original portent en effet γεννώμενον au lieu de γενόμενον. La leçon γενόμενον, mieux recommandée par le nombre comme par l’autorité des témoignages, doit être retenue de préférence."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "pour affranchir ceux qui sont sous la Loi, afin de nous conférer l’adoption."
+    },
+    {
+     "v": 6,
+     "t": "Et parce que vous êtes fils, Dieu a envoyé dans vos cœurs l’Esprit de son Fils, lequel crie : Abba ! Père !",
+     "n": [
+      "6. Rom. viii, 15."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Ainsi tu n’es plus esclave, tu es fils ; et si tu es fils, tu es aussi héritier, grâce à Dieu."
+    },
+    {
+     "v": 8,
+     "t": "Autrefois, il est vrai, ne connaissant pas Dieu, vous serviez ceux qui par leur nature ne sont pas dieux ;"
+    },
+    {
+     "v": 9,
+     "t": "mais à présent que vous avez connu Dieu, ou plutôt que vous avez été connus de Dieu, comment retournez-vous à ces pauvres et faibles rudiments, auxquels de nouveau vous voulez vous asservir encore ?"
+    },
+    {
+     "v": 10,
+     "t": "Vous observez les jours, les mois, les temps et les années !"
+    },
+    {
+     "v": 11,
+     "t": "J’ai peur pour vous d’avoir travaillé en vain parmi vous."
+    },
+    {
+     "v": 12,
+     "t": "Devenez comme moi, puisque moi-même je suis comme vous, frères, je vous en supplie. Vous ne m’avez blessé en rien."
+    },
+    {
+     "v": 13,
+     "t": "Quand je vous ai pour la première fois annoncé l’Évangile, vous savez quelle était l’infirmité de ma chair ; et cependant ce qui dans ma chair était une épreuve pour vous,",
+     "n": [
+      "13. Allusion aux persécutions qui affligèrent l’Apôtre et entravèrent son apostolat lors de sa première mission aux Galates ( Act. xiii, 14 ; xix, 22 )."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "vous ne l’avez ni méprisé ni repoussé ; mais vous m’avez reçu comme un ange de Dieu, comme le Christ Jésus."
+    },
+    {
+     "v": 15,
+     "t": "Que sont devenus ces heureux sentiments ? Car je vous rends ce témoignage que, s’il eût été possible, vous vous seriez arraché les yeux pour me les donner."
+    },
+    {
+     "v": 16,
+     "t": "Je serais donc devenu votre ennemi, parce que je vous ai dit la vérité ?"
+    },
+    {
+     "v": 17,
+     "t": "L’affection dont ces gens font étalage pour vous, n’est pas bonne, ils veulent vous détacher de nous, afin que vous vous attachiez à eux."
+    },
+    {
+     "v": 18,
+     "t": "Il est beau d’être l’objet d’une vive affection, quand c’est dans le bien, toujours, et non pas seulement quand je suis présent parmi vous."
+    },
+    {
+     "v": 19,
+     "t": "Mes petits enfants, pour qui j’éprouve de nouveau les douleurs de l’enfantement, jusqu’à ce que le Christ soit formé en vous ;"
+    },
+    {
+     "v": 20,
+     "t": "combien je voudrais être auprès de vous à cette heure et changer de langage, car je suis dans une grande perplexité à votre sujet !"
+    },
+    {
+     "v": 21,
+     "t": "Dites-moi, vous qui voulez être sous la Loi, n’entendez-vous pas la Loi ?",
+     "n": [
+      "21. Vulg., n’avez-vous pas lu, etc. L’usage de lire les livres de l’A. T., la Loi et les Prophètes, avait passé de la Synagogue dans les assemblées chrétiennes. Comp. Act. xv, 21."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Car il est écrit qu’Abraham eut deux fils, l’un de la servante, l’autre de la femme libre.",
+     "n": [
+      "22. Il est écrit, Gen. xvi, 15 ; xxi, 2 sv. — Deux fils : Ismaël, né d’Agar, et Isaac, né de Sara."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Mais le fils de la servante naquit selon la chair, et celui de la femme libre en vertu de la promesse."
+    },
+    {
+     "v": 24,
+     "t": "Ces choses ont un sens allégorique ; car ces femmes sont deux alliances. L’une, du mont Sinaï, enfantant pour la servitude : c’est Agar,"
+    },
+    {
+     "v": 25,
+     "t": "— car Sinaï est une montagne en Arabie — elle correspond à la Jérusalem actuelle, laquelle est esclave, elle et ses enfants.",
+     "n": [
+      "25. D’après d’autres manuscrits : Cette Agar, c’est le mont Sinaï en Arabie ; elle correspond à, ressemble, va de pair avec la Jérusalem actuelle (avant la venue du Messie) centre du mosaïsme, dont les fils sont assujettis à la Loi. — Descendants d’Ismaël, le fils d’Agar et d’Abraham ( Gen. xxi, 12 sv.), et exclus dans la personne de leur père de l’héritage promis à Abraham, les Arabes habitaient la région où se trouve le Sinaï ( Gen. xxi, 21 ; xxv, 18 ). Dans le dessein de la Providence l’alliance mosaïque devait enseigner aux fils d’Israël, par son origine même, qu’elle était une alliance de servitude, ne donnant pas droit par elle-même à l’héritage des promesses."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Mais la Jérusalem d’en haut est libre : c’est elle qui est notre mère ;"
+    },
+    {
+     "v": 27,
+     "t": "car il est écrit : « Réjouis-toi, stérile, toi qui n’enfantais point ! Éclate en cris de joie et d’allégresse, toi qui ne connaissais pas les douleurs de l’enfantement ! Car les enfants de la délaissée seront plus nombreux que les enfants de celle qui avait l’époux. »",
+     "n": [
+      "27. Is. liv, 1."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Pour vous, frères, vous êtes, à la manière d’Isaac, enfants de la promesse.",
+     "n": [
+      "28. Pour vous, autrefois païens, aujourd’hui membres de J.-C. par la foi et le baptême, vous êtes (Vulg. et qq. mss. pour nous… nous sommes ) enfants d’Abraham."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Mais de même qu’alors celui qui était né selon la chair persécutait celui qui était né selon l’Esprit, ainsi en est-il encore maintenant.",
+     "n": [
+      "29. Gen. xxi, 9."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "Mais que dit l’Écriture ? « Chasse l’esclave et son fils, car le fils de l’esclave ne saurait hériter avec le fils de la femme libre. »",
+     "n": [
+      "30. L’Écriture, Gen. xxi, 10."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "C’est pourquoi, frères, nous ne sommes pas enfants de la servante, mais de la femme libre.",
+     "n": [
+      "31. Les vers. iv, 31 et v, 1, offrent de nombreuses variantes. Dans la Vulgate, le premier membre de phrase de v, 1, est rattaché à iv, 31, avec ce sens : Cette liberté, c’est du Christ que nous l’avons reçue."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Dans la liberté par laquelle le Christ nous a affranchis, tenez ferme, et ne vous laissez pas mettre de nouveau sous le joug de la servitude.",
+     "h": "TROISIÈME PARTIE. [V — VI.] LIBERTÉ CHRÉTIENNE : USAGE ET ABUS."
+    },
+    {
+     "v": 2,
+     "t": "C’est moi, Paul, qui vous le dis : Si vous vous faites circoncire, le Christ ne vous servira de rien."
+    },
+    {
+     "v": 3,
+     "t": "Au contraire, je déclare encore une fois à tout homme qui se fait circoncire, qu’il est tenu d’accomplir la Loi tout entière."
+    },
+    {
+     "v": 4,
+     "t": "Vous n’avez plus rien de commun avec le Christ, vous tous qui cherchez la justification dans la Loi ; vous êtes déchus de la grâce."
+    },
+    {
+     "v": 5,
+     "t": "Nous, c’est de la foi, par l’Esprit, que nous attendons l’espérance de la justice."
+    },
+    {
+     "v": 6,
+     "t": "Car dans le Christ Jésus ni circoncision ni incirconcision n’ont de valeur, mais la foi qui est agissante par la charité."
+    },
+    {
+     "v": 7,
+     "t": "Vous couriez si bien : qui vous a arrêtés, pour vous empêcher d’obéir à la vérité ?",
+     "n": [
+      "V, 7. Image familière à S. Paul ( I Cor. ix, 24 )."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Cette persuasion ne vient pas de celui qui vous appelle."
+    },
+    {
+     "v": 9,
+     "t": "Un peu de levain fait fermenter toute la pâte.",
+     "n": [
+      "9. Proverbe également familier à S. Paul ( II Cor. v, 6 )."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "J’ai cette confiance en vous dans le Seigneur, que vous ne penserez pas autrement ; mais celui qui met le trouble parmi vous, en portera la peine, quel qu’il soit."
+    },
+    {
+     "v": 11,
+     "t": "Pour moi, mes frères, s’il est vrai que je prêche encore la circoncision, pourquoi suis-je encore persécuté ? Le scandale de la croix a donc été levé !"
+    },
+    {
+     "v": 12,
+     "t": "Ah ! qu’ils se fassent plutôt mutiler complètement ceux qui vous troublent !"
+    },
+    {
+     "v": 13,
+     "t": "Pour vous, mes frères, vous avez été appelés à la liberté ; seulement ne faites pas de cette liberté un prétexte pour vivre selon la chair ; mais, rendez-vous, par la charité, serviteurs les uns des autres."
+    },
+    {
+     "v": 14,
+     "t": "Car toute la Loi est contenue dans un seul mot : « Tu aimeras ton prochain comme toi-même. »"
+    },
+    {
+     "v": 15,
+     "t": "Mais si vous vous mordez et vous dévorez les uns les autres, prenez garde que vous ne soyez détruits les uns par les autres."
+    },
+    {
+     "v": 16,
+     "t": "Je dis donc : « Marchez selon l’esprit ; et vous n’accomplirez pas les convoitises de la chair.",
+     "n": [
+      "16. L’esprit désigne souvent dans S. Paul l’esprit de l’homme nouveau éclairé et fortifié par l’Esprit-Saint ( Rom. viii, 4 ). La chair, le principe de toute concupiscence (voy. I Cor. xv, 44 )."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Car la chair a des désirs contraires à ceux de l’esprit, et l’esprit en a de contraires à ceux de la chair ; ils sont opposés l’un à l’autre, de telle sorte que vous ne faites pas ce que vous voulez."
+    },
+    {
+     "v": 18,
+     "t": "Mais si vous êtes conduits par l’esprit, vous n’êtes plus sous la Loi."
+    },
+    {
+     "v": 19,
+     "t": "Or les œuvres de la chair sont manifestes : ce sont l’impudicité, l’impureté, le libertinage,"
+    },
+    {
+     "v": 20,
+     "t": "l’idolâtrie, les maléfices, les inimitiés, les contentions, les jalousies, les emportements, les disputes, les dissensions, les sectes,"
+    },
+    {
+     "v": 21,
+     "t": "l’envie, [les meurtres], l’ivrognerie, les excès de table, et autres choses semblables. Je vous préviens, comme je l’ai déjà fait, que ceux qui commettent de telles choses n’hériteront pas du royaume de Dieu."
+    },
+    {
+     "v": 22,
+     "t": "Le fruit de l’Esprit, au contraire, c’est la charité, la joie, la paix, la patience, la mansuétude, la bonté, la fidélité,",
+     "n": [
+      "22-23. La Vulgate ajoute la longanimité et la modestie, et met chasteté au lieu de tempérance."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "la douceur, la tempérance. Contre de pareils fruits, il n’y a pas de loi."
+    },
+    {
+     "v": 24,
+     "t": "Ceux qui sont à Jésus-Christ ont crucifié la chair avec ses passions et ses convoitises."
+    },
+    {
+     "v": 25,
+     "t": "Si nous vivons par l’esprit, marchons aussi par l’esprit."
+    },
+    {
+     "v": 26,
+     "t": "Ne cherchons pas une vaine gloire en nous provoquant les uns les autres, en nous portant mutuellement envie.",
+     "n": [
+      "26. Nous rattachons ce verset à la série d’exhortations particulières qui commencent le chapitre suivant."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 6,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Frères, lors même qu’un homme se serait laissé surprendre à quelque faute, vous qui êtes spirituels, redressez-le avec un esprit de douceur, prenant garde à vous-mêmes, de peur que vous ne tombiez aussi en tentation.",
+     "n": [
+      "VI, 1. Comp. Matth. xviii, 15 ; I Cor. x, 12."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Portez les fardeaux les uns des autres, et vous accomplirez ainsi la parole du Christ ;"
+    },
+    {
+     "v": 3,
+     "t": "car si quelqu’un croit être quelque chose, alors qu’il n’est rien, il s’abuse lui-même."
+    },
+    {
+     "v": 4,
+     "t": "Que chacun examine ses propres œuvres, et alors il aura sujet de se glorifier pour lui seul, et non en se comparant à autrui ;"
+    },
+    {
+     "v": 5,
+     "t": "car chacun aura son propre fardeau à porter."
+    },
+    {
+     "v": 6,
+     "t": "Que celui à qui on enseigne la parole fasse part de tous ses biens à celui qui l’enseigne."
+    },
+    {
+     "v": 7,
+     "t": "Ne vous y trompez pas : on ne se rit pas de Dieu."
+    },
+    {
+     "v": 8,
+     "t": "Ce qu’on aura semé, on le moissonnera. Celui qui sème dans sa chair moissonnera, de la chair, la corruption ; celui qui sème dans l’esprit moissonnera, de l’esprit, la vie éternelle.",
+     "n": [
+      "8. Ce qu’on aura semé : proverbe. Comp. Job, iv, 8 ; Prov. xxii, 8 ; Osée, viii, 7."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Ne nous lassons point de faire le bien ; car nous moissonnerons en son temps, si nous ne nous relâchons pas.",
+     "n": [
+      "9. Comp. Jac. v, 7."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Ainsi donc, pendant que nous en avons le temps, faisons le bien envers tous, et surtout envers les frères dans la foi."
+    },
+    {
+     "v": 11,
+     "t": "Voyez quelles lettres j’ai tracées pour vous de ma propre main !",
+     "h": "ÉPILOGUE.",
+     "n": [
+      "11. De ma propre main. Il avait dicté, comme à l’ordinaire, le reste de l’épître. Ce serait, d’après plusieurs exégètes, une allusion aux grands caractères que l’obligent à tracer la faiblesse de sa vue et sa maladie."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Tous ceux qui veulent gagner les bonnes grâces des hommes, ce sont ceux-là qui vous contraignent à vous faire circoncire, à l’unique fin de n’être pas persécutés pour la croix du Christ."
+    },
+    {
+     "v": 13,
+     "t": "Car ces circoncis, n’observent pas eux-mêmes la Loi ; mais ils veulent que vous receviez la circoncision, afin de se glorifier en votre chair. —"
+    },
+    {
+     "v": 14,
+     "t": "Pour moi, Dieu me garde de me glorifier, si ce n’est dans la croix de Notre Seigneur Jésus-Christ, par qui le monde est crucifié pour moi, comme je le suis pour le monde !"
+    },
+    {
+     "v": 15,
+     "t": "Car [en Jésus-Christ] la circoncision n’est rien, l’incirconcision n’est rien ; ce qui est, tout, c’est d’être une nouvelle créature.",
+     "n": [
+      "15. Comp. II Cor. v, 17 ; Eph. ii, 15."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Paix et miséricorde sur tous ceux qui suivront cette règle, et sur l’Israël de Dieu !",
+     "n": [
+      "16. Cette règle, le principe de conduite énoncé au vers. 15. — L’Israël de Dieu, les chrétiens de Galatie, par opposition à l’Israël selon la chair (comp. Ps. cxxv (124), 5 ; I Cor. x, 18 )."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Au reste, que personne désormais ne me suscite plus d’embarras ; car je porte sur mon corps les stigmates de Jésus.",
+     "n": [
+      "17. Je porte, dans les cicatrices des coups de fouet et de bâton que j’ai reçus pour la cause de l’Évangile, les stigmates, ou marques de Jésus : allusion aux caractères que portaient imprimés sur leurs corps les esclaves. L’Apôtre témoigne par là qu’il est à Jésus et que nul autre n’a droit sur lui."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Frères, que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit ! Amen !"
+    }
+   ]
+  }
+ ]
+}

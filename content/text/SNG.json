@@ -1,0 +1,690 @@
+{
+ "code": "SNG",
+ "name": "Cantique des cantiques",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Cantique des Cantiques, de Salomon.",
+     "n": [
+      "I, 1. Cantique des Cantiques ; forme hébraïque du superlatif. Le sens est : cantique excellent. Le cantique par excellence. — Le caractère même de ce petit livre fait qu’il ne comporte pas d’analyse à la façon des autres écrits de l’Ancien Testament. Nous indiquons les changements de personnages d’après le P. Jouon, Le Cantique des Cantiques. Toutefois nous n’avons mis aucune indication pour les vers. 2-4. Jouon les attribue au chœur des filles de Jérusalem, et cette attribution semble appuyée par le vers. 5 ; mais elle entraîne des modifications du texte qui la rendent assez douteuse. — Dans la Vulg., ce titre est détaché du texte si bien que i, 1 correspond à i, 2 de l’hébreu ; de la sorte, la Vulg. est, dans tout le chap., en retard d’un vers. sur l’hébreu."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Qu’il me baise des baisers de sa bouche ! Car ton amour est meilleur que le vin ;",
+     "h": "INTRODUCTION. [I, 2-4.]",
+     "n": [
+      "2. Ton amour. LXX et Vulg. (avec une autre ponctuation des consonnes), tes mamelles."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "tes parfums ont une odeur suave, ton nom est une huile épandue ; c’est pourquoi les jeunes filles t’aiment.",
+     "n": [
+      "3. Tes parfums etc. Vulg. (rattachant ces mots à ubera ), parfumées d’excellents parfums."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Entraîne-moi après toi ; courons ! Le roi m’a fait entrer dans ses appartements ; nous tressaillirons, nous nous réjouirons en toi : nous célébrerons ton amour plus que le vin. Qu’on a raison de t’aimer !",
+     "n": [
+      "4. Ton amour. LXX et Vulg. comme au vers. 2. Qu’on a raison de t’aimer ; m. à m., on t’aime avec raison. Vulg. les justes ( recti ) t’aiment."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Je suis noire, mais belle, filles de Jérusalem, comme les tentes de Cédar, comme les pavillons de Salomon.",
+     "h": "PREMIÈRE PARTIE. [I, 5 — V, 1.] — L’ÉPOUSE.",
+     "n": [
+      "5. Noire ; exactement brune, brunie. — Les tentes de Cédar : les tentes des nomades du désert, formées de peaux de chèvres, étaient noires. — Les pavillons, litt. les rideaux des pavillons."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Ne prenez pas garde à mon teint noir, c’est le soleil qui m’a brûlée ; les fils de ma mère se sont irrités contre moi ; ils m’ont mise à garder des vignes ; ma vigne, à moi, je ne l’ai pas gardée."
+    },
+    {
+     "v": 7,
+     "t": "Dis-moi, ô toi que mon cœur aime, où tu mènes paître tes brebis, où tu les fais reposer à midi, pour que je ne sois pas comme une égarée, autour des troupeaux de tes compagnons."
+    },
+    {
+     "v": 8,
+     "t": "Si tu ne le sais pas, ô la plus belle des femmes, sors sur les traces de ton troupeau, et mène paître tes chevreaux près des huttes des bergers.",
+     "h": "LE CHŒUR.",
+     "n": [
+      "8. Si tu ne le sais pas. LXX et Vulg., si tu ne te connais pas."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "À ma cavale, quand elle est attelée aux chars de Pharaon, je te compare, ô mon amie.",
+     "h": "L’ÉPOUX."
+    },
+    {
+     "v": 10,
+     "t": "Tes joues sont belles au milieu des colliers, ton cou est beau au milieu des rangées de perles.",
+     "n": [
+      "10. Au milieu des colliers. LXX et Vulg. ont la beauté de la tourterelle."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Nous te ferons des colliers d’or, pointillés d’argent.",
+     "n": [
+      "11. Pointillés d’argent, m. à m. avec des points d’argent. D’autres, et des colliers d’argent."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Tandis que le roi était à son divan, mon nard a donné son parfum.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 13,
+     "t": "Mon bien-aimé est pour moi un sachet de myrrhe, qui repose entre mes seins."
+    },
+    {
+     "v": 14,
+     "t": "Mon bien-aimé est pour moi une grappe de cypre, dans les vignes d’Engaddi."
+    },
+    {
+     "v": 15,
+     "t": "Oui, tu es belle, mon amie ; oui, tu es belle ! Tes yeux sont des yeux de colombe.",
+     "h": "L’ÉPOUX.",
+     "n": [
+      "15. Des yeux de colombes. La comparaison est peut-être directement avec l’oiseau lui-même, à cause de son éclat chatoyant."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Oui, tu es beau, mon bien-aimé ; oui, tu es charmant ! Notre lit est un lit de verdure.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 17,
+     "t": "Les poutres de nos maisons sont des cèdres, nos lambris sont des cyprès.",
+     "h": "L’ÉPOUX."
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Je suis le narcisse de Saron, le lis des vallées.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 2,
+     "t": "Comme un lis au milieu des épines, telle est mon amie parmi les jeunes filles.",
+     "h": "L’ÉPOUX.",
+     "n": [
+      "II, 2. D’autres. Comme le lis l’emporte sur les épines, ainsi mon amie sur les jeunes filles. Ce serait une réplique de l’époux à l’épouse qui vient de parler ; de même i, 17 par rapport à i, 16. D’autres font de i, 16 — ii, i un discours continu de l’épouse."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Comme un pommier au milieu des arbres de la forêt, tel est mon bien-aimé parmi les jeunes hommes. J’ai désiré m’asseoir à son ombre, et son fruit est doux à mon palais.",
+     "h": "L’ÉPOUSE.",
+     "n": [
+      "3. Même remarque pour le sens qu’au vers. 2. — J’ai désiré m’asseoir ; ou, selon mon désir, je me suis assise."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Il m’a fait entrer dans son cellier, et la bannière qu’il lève sur moi, c’est l’amour."
+    },
+    {
+     "v": 5,
+     "t": "Soutenez-moi avec des gâteaux de raisin, fortifiez-moi avec des pommes, car je suis malade d’amour."
+    },
+    {
+     "v": 6,
+     "t": "Que sa main gauche soutienne ma tête, et que sa droite me tienne embrassée."
+    },
+    {
+     "v": 7,
+     "t": "Je vous en conjure, filles de Jérusalem, par les gazelles et les biches des champs, n’éveillez pas, ne réveillez pas la bien-aimée, avant qu’elle le veuille.",
+     "h": "L’ÉPOUX."
+    },
+    {
+     "v": 8,
+     "t": "La voix de mon bien-aimé ! Voici qu’il vient, bondissant sur les montagnes, sautant sur les collines.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 9,
+     "t": "Mon bien-aimé est semblable à la gazelle, ou au faon des biches. Le voici, il est derrière notre mur, regardant par la fenêtre, épiant par le treillis."
+    },
+    {
+     "v": 10,
+     "t": "Mon bien-aimé a pris la parole, il m’a dit : « Lève-toi, mon amie, ma belle, et viens !",
+     "n": [
+      "10. Lève-toi etc. Vulg. Lève-toi, hâte-toi mon amie, ma colombe, ma belle, et viens."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Car voici que l’hiver est fini ; la pluie a cessé, elle a disparu."
+    },
+    {
+     "v": 12,
+     "t": "Les fleurs ont paru sur la terre, le temps des chants est arrivé ; la voix de la tourterelle s’est fait entendre dans nos campagnes ;",
+     "n": [
+      "12. Le temps des chants. LXX et Vulg. Le temps de la taille."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "le figuier pousse ses fruits naissants, la vigne en fleur donne son parfum. Lève-toi, mon amie, ma belle, et viens !"
+    },
+    {
+     "v": 14,
+     "t": "Ma colombe, qui te tiens dans la fente du rocher, dans l’abri des parois escarpées. montre-moi ton visage, fais-moi entendre ta voix ; car ta voix est douce, et ton visage charmant."
+    },
+    {
+     "v": 15,
+     "t": "Prenez-nous les renards, les petits renards, qui ravagent les vignes, car nos vignes sont en fleur. »"
+    },
+    {
+     "v": 16,
+     "t": "Mon bien-aimé est à moi, et je suis à lui ; il fait paître son troupeau parmi les lis."
+    },
+    {
+     "v": 17,
+     "t": "Avant que vienne la fraîcheur du jour, et que les ombres fuient, reviens !... Sois semblable, mon bien-aimé, à la gazelle ou au faon des biches, sur les montagnes ravinées.",
+     "n": [
+      "17. Que vienne la fraîcheur du jour, m. à m., que le jour souffle. — Montagnes ravinées, Vulg. montagnes de Bether."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Sur ma couche, pendant la nuit, j’ai cherché celui que mon cœur aime ; je l’ai cherché et je ne l’ai point trouvé."
+    },
+    {
+     "v": 2,
+     "t": "« Levons-nous, me suis-je dit, parcourons la ville, les rues et les places, cherchons celui que mon Cœur aime. » Je l’ai cherché et je ne l’ai point trouvé."
+    },
+    {
+     "v": 3,
+     "t": "Les gardes m’ont rencontrée, ceux qui font la ronde dans la ville : « Avez-vous vu celui que mon cœur aime ? »"
+    },
+    {
+     "v": 4,
+     "t": "À peine les avais-je dépassés, que j’ai trouvé celui que mon cœur aime. Je l’ai saisi et je ne le lâcherai pas, jusqu’à ce que je l’aie introduit dans la maison de ma mère, et dans la chambre de celle qui m’a donné le jour.",
+     "n": [
+      "III, 4. Et je ne le lâcherai pas etc. On pourrait aussi traduire : Et je ne l’ai point lâché, que je ne l’aie introduit etc."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Je vous en conjure, filles de Jérusalem, par les gazelles et les biches des champs, n’éveillez pas, ne réveillez pas la bien-aimée, avant qu’elle le veuille. LE CHOEUR.",
+     "h": "L’ÉPOUX.",
+     "n": [
+      "5. Répétition de ii, 7."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Quelle est celle-ci qui monte du désert, comme une colonne de fumée, exhalant la myrrhe et l’encens, tous les aromates des marchands ? –",
+     "n": [
+      "6. Quelle est celle-ci… Plusieurs commentateurs modernes, avec une légère correction du texte, lisent : Qu’est ce qui monte… Cette leçon paraît mieux répondre à la suite du contexte."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Voici le palanquin de Salomon ; autour de lui, soixante braves, d’entre les vaillants d’Israël ;"
+    },
+    {
+     "v": 8,
+     "t": "tous sont armés de l’épée, exercés au combat ; chacun porte son épée sur sa hanche, pour écarter les alarmes de la nuit."
+    },
+    {
+     "v": 9,
+     "t": "Le roi Salomon s’est fait une litière des bois du Liban."
+    },
+    {
+     "v": 10,
+     "t": "Il en a fait les colonnes d’argent, le dossier d’or, le siège de pourpre ; au milieu est une broderie, œuvre d’amour des filles de Jérusalem.",
+     "n": [
+      "10. Au milieu est une broderie etc. Vulg. Il a paré le milieu d’amour, à cause des filles de Jérusalem."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Sortez, filles de Sion, et voyez le roi Salomon, avec la couronne dont sa mère l’a couronné, le jour de ses épousailles, le jour de la joie de son cœur. L’ÉPOUX."
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Oui, tu es belle, mon amie ; oui, tu es belle ! Tes yeux sont des yeux de colombes derrière ton voile ; tes cheveux sont comme un troupeau de chèvres, suspendues aux flancs de la montagne de Galaad.",
+     "n": [
+      "IV, 1. Derrière ton voile. Vulg. sans ce qui est caché au dedans."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Tes dents sont comme un troupeau de brebis tondues, qui remontent du lavoir ; chacune porte deux jumeaux, et, parmi elles, il n’est pas de stérile."
+    },
+    {
+     "v": 3,
+     "t": "Tes lèvres sont comme un fil de pourpre, et ta bouche est charmante ; ta joue est comme une moitié de grenade, derrière ton voile.",
+     "n": [
+      "3. Ta joue, litt. ta tempe."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Ton cou est comme la tour de David, bâtie pour servir d’arsenal ; mille boucliers y sont suspendus, tous les boucliers des braves.",
+     "n": [
+      "4. Bâtie pour servir d’arsenal. Vulg. qui est bâtie avec des défenses."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Tes deux seins sont comme deux faons, jumeaux d’une gazelle, qui paissent au milieu des lis."
+    },
+    {
+     "v": 6,
+     "t": "Avant que vienne la fraîcheur du jour, et que les ombres fuient, j’irai à la montagne de la myrrhe, et à la colline de l’encens."
+    },
+    {
+     "v": 7,
+     "t": "Tu es toute belle, mon amie, et il n’y a pas de tache en toi !"
+    },
+    {
+     "v": 8,
+     "t": "Avec moi, viens du Liban, ma fiancée, viens avec moi du Liban ! Regarde du sommet de l’Amana, du sommet du Sanir et de l’Hermon, des tanières des lions, des montagnes des léopards.",
+     "n": [
+      "8. Regarde du sommet etc, Vulg. tu seras couronnée du sommet etc. — L’Amana, partie de l’Anti-Liban qui regarde Damas. — Sanir, nom amorrhéen de l’ Hermon, appelé aussi Sirion."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Tu m’as ravi le cœur, ma sœur fiancée tu m’as ravi le cœur par un seul de tes regards, par une seule des perles de ton collier."
+    },
+    {
+     "v": 10,
+     "t": "Que ton amour a de charme, ma sœur fiancée ! Combien ton amour est meilleur que le vin, et l’odeur de tes parfums, que tous les aromates !",
+     "n": [
+      "10. Ton amour. LXX et Vulg. tes mamelles."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Tes lèvres distillent le miel, ma fiancée, le miel et le lait sont sous ta langue, et l’odeur de tes vêtements est comme l’odeur du Liban."
+    },
+    {
+     "v": 12,
+     "t": "C’est un jardin fermé que ma sœur fiancée, une source fermée, une fontaine scellée."
+    },
+    {
+     "v": 13,
+     "t": "Tes pousses sont un bosquet de grenadiers, avec les fruits les plus exquis ; le cypre avec le nard,"
+    },
+    {
+     "v": 14,
+     "t": "le nard et le safran, la cannelle et le cinnamome, avec tous les arbres à encens, la myrrhe et l’aloès, avec tous les meilleurs baumiers."
+    },
+    {
+     "v": 15,
+     "t": "Source de jardins, puits d’eaux vives, ruisseau qui coule du Liban !"
+    },
+    {
+     "v": 16,
+     "t": "Levez-vous aquilons ; venez autans ! Soufflez sur mon jardin, et que ses baumiers exsudent ! Que mon bien-aimé entre dans son jardin, et qu’il mange de ses beaux fruits !",
+     "h": "L’ÉPOUSE.",
+     "n": [
+      "16. La deuxième partie du vers. est, dans la Vulg., rattachée au vers. v, 1."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Je suis entré dans mon jardin, ma sœur fiancée, j’ai cueilli ma myrrhe avec mon baume ; j’ai mangé mon rayon avec mon miel, j’ai bu mon vin avec mon lait !… Mangez, amis, buvez, enivrez-vous, mes bien-aimés.",
+     "h": "L’ÉPOUX."
+    },
+    {
+     "v": 2,
+     "t": "Je dors mais mon cœur veille… C’est la voix de mon bien-aimé ! Il frappe : « Ouvre-moi, ma sœur, mon amie, ma colombe, mon immaculée ; car ma tête est couverte de rosée, les boucles de mes cheveux sont trempées des gouttes de la nuit. » —",
+     "h": "DEUXIÈME PARTIE. [V, 2 — VIII, 7.] — L’ÉPOUSE.",
+     "n": [
+      "V, 2. Le mouvement de la deuxième partie est sensiblement le même que celui de la première."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "J’ai ôté ma tunique, comment la remettre ? J’ai lavé mes pieds, comment les salirais-je ?"
+    },
+    {
+     "v": 4,
+     "t": "Mon bien-aimé a passé la main par le trou de la serrure, et mes entrailles se sont émues sur lui.",
+     "n": [
+      "4. Émues sur lui. Vulg émues en l’entendant frapper."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Je me suis levée pour ouvrir à mon bien-aimé, et de mes mains a dégoutté la myrrhe, de mes doigts la myrrhe exquise, sur la poignée du verrou.",
+     "n": [
+      "5. Sur la poignée du verrou (6). J’ouvre à mon bien-aimé. Vulg. J’ai levé le verrou de ma porte pour mon bien-aimé."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "J’ouvre à mon bien-aimé ; mais mon bien-aimé avait disparu, il avait fui. J’étais hors de moi quand il me parlait. Je l’ai cherché, et ne l’ai pas trouvé ; je l’ai appelé, il ne m’a pas répondu.",
+     "n": [
+      "6. J’étais hors de moi ; m. à m., mon âme était sortie."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Les gardes m’ont rencontrée, ceux qui font la ronde dans la ville ; ils m’ont frappée, ils m’ont meurtrie ; Ils m’ont enlevé mon manteau, ceux qui gardent la muraille.",
+     "n": [
+      "7. Mon manteau, ou mon voile."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Je vous en conjure, filles de Jérusalem, si vous trouvez mon bien-aimé, que lui direz-vous ?… Que je suis malade d’amour ! LE CHŒUR."
+    },
+    {
+     "v": 9,
+     "t": "Qu’a donc ton bien-aimé de plus qu’un autre bien-aimé, ô la plus belle des femmes ? Qu’a donc ton bien-aimé de plus qu’un autre bien-aimé, pour que tu nous conjures de la sorte ?"
+    },
+    {
+     "v": 10,
+     "t": "Mon bien-aimé est frais et vermeil ; il se distingue entre dix mille.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 11,
+     "t": "Sa tête est de l’or pur, ses boucles de cheveux, flexibles comme des palmes, sont noires comme le corbeau."
+    },
+    {
+     "v": 12,
+     "t": "Ses yeux sont comme des colombes au bord des ruisseaux, se baignant dans le lait, posées sur les rives."
+    },
+    {
+     "v": 13,
+     "t": "Ses joues sont comme des parterres de baumiers, des carrés de plantes odorantes ; ses lèvres sont des lis, d’où découle la myrrhe la plus pure.",
+     "n": [
+      "13. Des parterres de baumiers, des carrés de plantes odorantes. LXX des vases de parfums, produisant des onguents. Vulg. des parterres d’aromates, plantés par des parfumeurs."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Ses mains sont des cylindres d’or, émaillés de pierres de Tharsis ; son sein est un chef-d’œuvre d’ivoire, couvert de saphirs."
+    },
+    {
+     "v": 15,
+     "t": "Ses jambes sont des colonnes d’albâtre, posées sur des bases d’or pur. Son aspect est celui du Liban, élégant comme le cèdre."
+    },
+    {
+     "v": 16,
+     "t": "Son palais n’est que douceur, et toute sa personne n’est que charme. Tel est mon bien-aimé, tel est mon ami, filles de Jérusalem. LE CHŒUR."
+    }
+   ]
+  },
+  {
+   "c": 6,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Où est allé ton bien-aimé, ô la plus belle des femmes ? De quel côté ton bien-aimé s’est-il tourné, pour que nous le cherchions avec toi ?",
+     "n": [
+      "VI, 1 de l’hébreu est rattaché à v (vers. 17) dans la Vulg., en sorte que, dans tout le chap. vi, la Vulg. est en retard d’un vers, sur l’hébreu."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Mon bien-aimé est descendu dans son jardin, aux parterres de baumiers, pour faire paître son troupeau dans les jardins, et pour cueillir des lis.",
+     "h": "L’ÉPOUSE.",
+     "n": [
+      "2. Pour faire paître. Vulg. pour être nourri."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Je suis à mon bien-aimé, et mon bien-aimé est à moi ; il fait paître son troupeau parmi les lis. L’ÉPOUX."
+    },
+    {
+     "v": 4,
+     "t": "Tu es belle, mon amie, comme Thirsa, charmante comme Jérusalem, mais terrible comme des bataillons.",
+     "n": [
+      "4. Comme Thirsa. LXX comme la bonne volonté, la bienveillance. Vulg. et douce."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Détourne de moi tes yeux, car ils me troublent. Tes cheveux sont comme un troupeau de chèvres, suspendues aux flancs de la montagne de Galaad."
+    },
+    {
+     "v": 6,
+     "t": "Tes dents sont comme un troupeau de brebis, qui remontent du lavoir ; chacune porte deux jumeaux ; et parmi elles, il n’est pas de stérile."
+    },
+    {
+     "v": 7,
+     "t": "Ta joue est comme une moitié de grenade, derrière ton voile."
+    },
+    {
+     "v": 8,
+     "t": "Il y a soixante reines, quatre-vingts concubines, et des jeunes filles sans nombre :"
+    },
+    {
+     "v": 9,
+     "t": "une seule est ma colombe, mon immaculée ; elle est l’unique de sa mère, la préférée de celle qui lui donna le jour. Les jeunes filles l’ont vue et l’ont proclamée bienheureuse ; les reines et les concubines l’ont vue et l’ont louée :"
+    },
+    {
+     "v": 10,
+     "t": "« Quelle est celle-ci qui apparaît comme l’aurore, belle comme la lune, pure comme le soleil, mais terrible comme des bataillons ? »"
+    },
+    {
+     "v": 11,
+     "t": "J’étais descendu au jardin des noyers, pour voir les herbes de la vallée, pour voir si la vigne pousse, si les grenadiers sont en fleurs."
+    },
+    {
+     "v": 12,
+     "t": "Je ne sais, mais mon amour m’a fait monter sur les chars de mon noble peuple. LE CHOEUR.",
+     "n": [
+      "12. Mon amour, litt. mon âme. Vulg. Je ne sais, mon âme m’a troublée, à cause des chars d’Aminadab. Texte difficile et incertain."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 7,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Reviens, reviens, Sulamite ? Reviens, reviens, afin que nous te regardions. L’ÉPOUX. Pourquoi regardez-vous la Sulamite, comme une danse de Machanaïm. LE CHŒUR.",
+     "n": [
+      "VII, 1. La première partie de ce verset forme dans la Vulg. le vers. 12 du chap. vi. — Comme une danse de Machanaün. D’autres : Comme une danse à deux chœurs. Phrase très difficile. LXX : Que voyez-vous dans la Sulamite. qui vient comme des chœurs de camp ? Vulg. Que verras-tu dans la Sulamite, si ce n’est des chœurs de camps ?"
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Que tes pieds sont beaux dans tes sandales, fille de prince ! La courbure de tes reins est comme un collier, œuvre d’un artiste.",
+     "n": [
+      "2 constitue, avec la fin du vers. 1, le vers. vii, 1 de la Vulg. ; de ce fait, la Vulg. est, dans tout ce chap., en retard d’un vers. sur l’hébreu. — De tes reins. D’autres : de tes jambes. Vulg., les jointures de tes jambes. — Un collier, ou, en un sens plus général, un ornement."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Ton nombril est une coupe arrondie, où le vin aromatisé ne manque pas. Ton ventre est un monceau de froment, entouré de lis."
+    },
+    {
+     "v": 4,
+     "t": "Tes deux seins sont comme deux faons, jumeaux d’une gazelle."
+    },
+    {
+     "v": 5,
+     "t": "Ton cou est comme une tour d’ivoire ; tes yeux sont comme les piscines d’Hésébon, près de la porte de cette ville populeuse. Ton nez est comme la Tour du Liban, qui surveille le côté de Damas.",
+     "n": [
+      "5. Près de la porte de cette ville populeuse. D’autres voient ici un nom propre : près de la porte de Bath Rabbim (peut être allusion à une porte d’Hésébon, d’où partait la route de Rabbat-Ammon)."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Ta tête est posée sur toi comme le Carmel, la chevelure de ta tête est comme la pourpre rouge : un roi est enchaîné à ses boucles.",
+     "n": [
+      "6. La chevelure de ta tête est comme la pourpre etc. La Vulg. a compris et coupé autrement : Comme la pourpre du roi liée (dans) les canaux (où on la teint)."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Que tu es belle, que tu es charmante, mon amour, au milieu des délices !",
+     "h": "L’ÉPOUX."
+    },
+    {
+     "v": 8,
+     "t": "Ta taille ressemble au palmier, et tes seins à ses grappes.",
+     "n": [
+      "8. Ta taille litt., celle-ci ta taille, ta taille que voici, que je vois."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "J’ai dit : je monterai au palmier, j’en saisirai les régimes. Que tes seins soient comme les grappes de la vigne, le parfum de ton souffle comme celui des pommes,"
+    },
+    {
+     "v": 10,
+     "t": "et ton palais comme un vin exquis !… Qui coule aisément pour mon bien-aimé, qui glisse sur les lèvres de ceux qui s’endorment.",
+     "n": [
+      "10. Qui glisse sur les lèvres de ceux qui s’endorment. LXX : suffisant à mes lèvres et à mes dents. Vulg. à ses lèvres et à ses dents."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Je suis à mon bien-aimé, et c’est vers moi qu’il porte ses désirs.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 12,
+     "t": "Viens, mon bien-aimé, sortons dans les champs, passons la nuit dans les villages."
+    },
+    {
+     "v": 13,
+     "t": "Dès le matin nous irons aux vignes, nous verrons si la vigne bourgeonne, si les bourgeons se sont ouverts, si les grenadiers sont en fleurs ; là je te donnerai mon amour.",
+     "n": [
+      "13. Mon amour. Vulg. mes mamelles."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Les mandragores font sentir leur parfum, et nous avons à nos portes tous les meilleurs fruits, les nouveaux et aussi les vieux : mon bien-aimé, je les ai gardés pour toi."
+    }
+   ]
+  },
+  {
+   "c": 8,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Oh ! que ne m’es-tu un frère, qui aurait sucé les mamelles de ma mère ! Te rencontrant dehors, je t’embrasserais, et on ne pourrait me mépriser."
+    },
+    {
+     "v": 2,
+     "t": "Je t’amènerais, je t’introduirais dans la maison de ma mère : tu m’enseignerais ; et je te ferais boire du vin aromatisé, le jus de mes grenades."
+    },
+    {
+     "v": 3,
+     "t": "Sa main gauche est sous ma tête, et sa droite me tient embrassée."
+    },
+    {
+     "v": 4,
+     "t": "Je vous en conjure, filles de Jérusalem, n’éveillez pas, ne réveillez pas la bien-aimée, avant qu’elle le veuille.",
+     "h": "L’ÉPOUX."
+    },
+    {
+     "v": 5,
+     "t": "Quelle est celle-ci qui monte du désert, appuyée sur son bien-aimé ? Je t’ai réveillée sous le pommier, là, ta mère t’a conçue ; là, elle t’a conçue, là, elle t’a donné le jour.",
+     "h": "LE CHŒUR.",
+     "n": [
+      "VIII, 5a. Du désert. Vulg. ajoute : abondant en délices. — 5b-7. Ces paroles sont généralement mises sur les lèvres de l’époux s’adressant à son épouse. Si cette interprétation est exacte, il faut reconnaître que les pronoms suffixes de l’hébreu sont mal ponctués dans la Massore. — Là, ta mère t’a conçue etc. Vulg., Ibi corrupta est mater tua, ibi violata est genitrix tua."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Mets-moi comme un sceau sur ton cœur, comme un sceau sur ton bras ; car l’amour est fort comme la mort, la jalousie est inflexible comme le schéol. Ses ardeurs sont des ardeurs de feu, une flamme de Yahweh.",
+     "h": "L’ÉPOUX.",
+     "n": [
+      "6. Ses ardeurs etc. Vulg., ses lampes sont des lampes de feu et de flamme."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Les grandes eaux ne sauraient éteindre l’amour, et les fleuves ne le submergeraient pas. Un homme donnerait-il pour l’amour toutes les richesses de sa maison, on ne ferait que le mépriser.",
+     "n": [
+      "7. On ne ferait que le mépriser. Vulg., il (l’homme) le (l’amour) mépriserait comme rien."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Nous avons une petite sœur, qui n’a pas encore de mamelles : que ferons-nous à notre sœur, le jour où on la recherchera ?",
+     "h": "APPENDICES. [VIII, 8 — 14.] — LE CHŒUR.",
+     "n": [
+      "8. Ce passage, jusqu’à la fin du poème, est obscur, et le lien des idées bien difficile à marquer."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Si elle est un mur, nous lui ferons un couronnement d’argent ; si elle est une porte, nous la fermerons avec des ais de cèdre.",
+     "n": [
+      "9. « Une fille à marier, une femme sans mari, est comme un mur sans tours et sans défense… Il lui faut un homme riche, puissant, illustre, qualités figurées par les tours et les créneaux d’argent. » (Dom Calmet.)"
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Je suis un mur, et mes seins sont comme des tours, aussi suis-je, à ses yeux, celle qui a trouvé la paix.",
+     "h": "L’ÉPOUSE."
+    },
+    {
+     "v": 11,
+     "t": "Salomon avait une vigne à Baal-Hamon, il remit la vigne à des gardiens, et pour son fruit chacun devait lui apporter mille sicles d’argent.",
+     "h": "LE CHŒUR.",
+     "n": [
+      "11 sv. « C’est ici une fiction poétique, où l’Époux, sous la personne d’un homme de campagne, compare son bien à celui du roi Salomon et dit qu’il ne donnerait point sa vigne (il entend son Épouse) pour toutes celles de Salomon. » (Dom Calmet.)",
+      "11. Salomon avait une vigne à Baal-Hamon, Vulg. (en traduisant étymologiquement les noms propres). Le pacifique avait une vigne dans celle (la terre) qui a des peuples."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "La vigne qui est à moi, j’en dispose : à toi, Salomon, les milles sicles, et deux cents aux gardiens de son fruit.",
+     "h": "L’ÉPOUSE.",
+     "n": [
+      "12. À toi Salomon, les mille sicles. Vulg. Mille tui pacifici."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Toi qui habites les jardins, les compagnons prêtent l’oreille à ta voix : daigne me la faire entendre.",
+     "h": "L’ÉPOUX."
+    },
+    {
+     "v": 14,
+     "t": "Cours, mon bien aimé, et sois semblable à la gazelle, ou au faon des biches, sur les montagnes des baumiers !",
+     "h": "L’ÉPOUSE."
+    }
+   ]
+  }
+ ]
+}

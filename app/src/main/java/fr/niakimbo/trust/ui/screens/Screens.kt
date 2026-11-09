@@ -32,8 +32,13 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import fr.niakimbo.trust.AppContainer
+import androidx.compose.foundation.layout.size
+import androidx.compose.material.icons.filled.PlayArrow
+import androidx.compose.material3.FilledIconButton
+import androidx.compose.material3.TextButton
+import androidx.compose.runtime.produceState
+import fr.niakimbo.trust.content.BooksIndex
 import fr.niakimbo.trust.data.ThemeMode
-import fr.niakimbo.trust.ui.components.ComingSoon
 import fr.niakimbo.trust.ui.components.ScreenTitle
 import fr.niakimbo.trust.ui.components.SectionLabel
 import fr.niakimbo.trust.ui.components.TrustCard
@@ -47,8 +52,10 @@ private val screenPadding = Modifier.padding(horizontal = 20.dp)
 // ---------------- Accueil ----------------
 
 @Composable
-fun HomeScreen(container: AppContainer) {
+fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () -> Unit) {
     val update by container.updateManager.state.collectAsStateWithLifecycle()
+    val resume by container.player.resume.collectAsStateWithLifecycle()
+    val index by produceState<BooksIndex?>(null) { value = runCatching { container.content.index() }.getOrNull() }
     val greeting = if (LocalTime.now().hour in 5..17) "Bonjour" else "Bonsoir"
 
     Column(
@@ -64,13 +71,32 @@ fun HomeScreen(container: AppContainer) {
 
         TrustCard {
             SectionLabel("Reprendre")
-            Text("Aucune écoute pour l'instant", style = MaterialTheme.typography.titleMedium)
-            Text(
-                "Ta dernière écoute apparaîtra ici, prête à reprendre au verset près.",
-                style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
-                modifier = Modifier.padding(top = 4.dp),
-            )
+            val r = resume
+            if (r == null) {
+                Text("Aucune écoute pour l'instant", style = MaterialTheme.typography.titleMedium)
+                Text(
+                    "Choisis un livre : ta dernière écoute apparaîtra ici, prête à reprendre au verset près.",
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.padding(top = 4.dp),
+                )
+                TextButton(onClick = onOpenBible, modifier = Modifier.padding(top = 4.dp)) { Text("Ouvrir la Bible") }
+            } else {
+                val name = index?.books?.firstOrNull { it.code == r.code }?.short ?: r.code
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f)) {
+                        Text("$name ${r.chapter}", style = MaterialTheme.typography.titleLarge)
+                        Text(
+                            if (r.verse > 0) "Verset ${r.verse}" else "Début du chapitre",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                    FilledIconButton(onClick = onResume, modifier = Modifier.size(52.dp)) {
+                        Icon(Icons.Filled.PlayArrow, contentDescription = "Reprendre")
+                    }
+                }
+            }
         }
 
         Column(Modifier.padding(vertical = 24.dp)) {
@@ -90,14 +116,6 @@ fun HomeScreen(container: AppContainer) {
         }
     }
 }
-
-// ---------------- Bible / Lecteur (étapes suivantes) ----------------
-
-@Composable
-fun BibleScreen() = ComingSoon("Bible", "Les livres, chapitres et versets arrivent bientôt, en commençant par l'Évangile de Jean.")
-
-@Composable
-fun PlayerScreen() = ComingSoon("Lecteur", "Le lecteur audio, précis au verset près, arrive à l'étape 3.")
 
 // ---------------- Réglages ----------------
 

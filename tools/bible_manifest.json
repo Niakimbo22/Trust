@@ -1,0 +1,989 @@
+{
+ "books": [
+  {
+   "code": "GEN",
+   "wikisource": "Genèse",
+   "name": "Genèse",
+   "short": "Genèse",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Pentateuque/01-genese_ch01_25.ogg",
+     "duration": 6677.44
+    },
+    {
+     "url": "https://archive.org/download/Pentateuque/02-genese_ch26_50.ogg",
+     "duration": 8483.28
+    }
+   ]
+  },
+  {
+   "code": "EXO",
+   "wikisource": "Exode",
+   "name": "Exode",
+   "short": "Exode",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Pentateuque/03-exode_ch01_18.ogg",
+     "duration": 5395.12
+    },
+    {
+     "url": "https://archive.org/download/Pentateuque/04-exode_ch19_40.ogg",
+     "duration": 6960.59
+    }
+   ]
+  },
+  {
+   "code": "LEV",
+   "wikisource": "Lévitique",
+   "name": "Lévitique",
+   "short": "Lévitique",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Pentateuque/05-levitique.ogg",
+     "duration": 8912.17
+    }
+   ]
+  },
+  {
+   "code": "NUM",
+   "wikisource": "Nombres",
+   "name": "Nombres",
+   "short": "Nombres",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Pentateuque/06-nombres.ogg",
+     "duration": 12616.12
+    }
+   ]
+  },
+  {
+   "code": "DEU",
+   "wikisource": "Deutéronome",
+   "name": "Deutéronome",
+   "short": "Deutéronome",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Pentateuque/07-deuteronome.ogg",
+     "duration": 11007.21
+    }
+   ]
+  },
+  {
+   "code": "JOS",
+   "wikisource": "Josué",
+   "name": "Josué",
+   "short": "Josué",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/01-josue.ogg",
+     "duration": 7604.8
+    }
+   ]
+  },
+  {
+   "code": "JDG",
+   "wikisource": "Juges",
+   "name": "Juges",
+   "short": "Juges",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/02-juges.ogg",
+     "duration": 7134.68
+    }
+   ]
+  },
+  {
+   "code": "RUT",
+   "wikisource": "Ruth",
+   "name": "Ruth",
+   "short": "Ruth",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/03-ruth.ogg",
+     "duration": 1060.91
+    }
+   ]
+  },
+  {
+   "code": "1SA",
+   "wikisource": "1_Samuel",
+   "name": "1 Samuel",
+   "short": "1 Samuel",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/04-1samuel.ogg",
+     "duration": 9622.24
+    }
+   ]
+  },
+  {
+   "code": "2SA",
+   "wikisource": "2_Samuel",
+   "name": "2 Samuel",
+   "short": "2 Samuel",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/05-2samuel.ogg",
+     "duration": 7773.12
+    }
+   ]
+  },
+  {
+   "code": "1KI",
+   "wikisource": "1_Rois",
+   "name": "1 Rois",
+   "short": "1 Rois",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/06-1rois.ogg",
+     "duration": 9635.66
+    }
+   ]
+  },
+  {
+   "code": "2KI",
+   "wikisource": "2_Rois",
+   "name": "2 Rois",
+   "short": "2 Rois",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/07-2rois.ogg",
+     "duration": 8635.59
+    }
+   ]
+  },
+  {
+   "code": "1CH",
+   "wikisource": "1_Chroniques",
+   "name": "1 Chroniques",
+   "short": "1 Chroniques",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/08-1chroniques.ogg",
+     "duration": 9757.95
+    }
+   ]
+  },
+  {
+   "code": "2CH",
+   "wikisource": "2_Chroniques",
+   "name": "2 Chroniques",
+   "short": "2 Chroniques",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/09-2chroniques.ogg",
+     "duration": 10837.95
+    }
+   ]
+  },
+  {
+   "code": "EZR",
+   "wikisource": "Esdras",
+   "name": "Esdras",
+   "short": "Esdras",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/10-esdras.ogg",
+     "duration": 3124.48
+    }
+   ]
+  },
+  {
+   "code": "NEH",
+   "wikisource": "Néhémie",
+   "name": "Néhémie",
+   "short": "Néhémie",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/11-nehemie.ogg",
+     "duration": 4432.86
+    }
+   ]
+  },
+  {
+   "code": "TOB",
+   "wikisource": "Tobie",
+   "name": "Tobie",
+   "short": "Tobie",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/12-tobie.ogg",
+     "duration": 2862.44
+    }
+   ]
+  },
+  {
+   "code": "JDT",
+   "wikisource": "Judith",
+   "name": "Judith",
+   "short": "Judith",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/13-judith.ogg",
+     "duration": 3951.94
+    }
+   ]
+  },
+  {
+   "code": "EST",
+   "wikisource": "Esther",
+   "name": "Esther",
+   "short": "Esther",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/14-esther.ogg",
+     "duration": 3612.0
+    }
+   ]
+  },
+  {
+   "code": "1MA",
+   "wikisource": "1_Machabées",
+   "name": "1 Maccabées",
+   "short": "1 Maccabées",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/15-1machabees.ogg",
+     "duration": 9965.74
+    }
+   ]
+  },
+  {
+   "code": "2MA",
+   "wikisource": "2_Machabées",
+   "name": "2 Maccabées",
+   "short": "2 Maccabées",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/LaBible-LesLivresHistoriques/16-2machabees.ogg",
+     "duration": 7142.38
+    }
+   ]
+  },
+  {
+   "code": "JOB",
+   "wikisource": "Job",
+   "name": "Job",
+   "short": "Job",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/01-job.ogg",
+     "duration": 7852.12
+    }
+   ]
+  },
+  {
+   "code": "PSA",
+   "wikisource": "Psaumes",
+   "name": "Psaumes",
+   "short": "Psaumes",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/02-psaumes1.ogg",
+     "duration": 5363.77
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/03-psaumes2.ogg",
+     "duration": 4077.11
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/04-psaumes3.ogg",
+     "duration": 2347.64
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/05-psaumes4.ogg",
+     "duration": 2604.09
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/06-psaumes5.ogg",
+     "duration": 4800.56
+    }
+   ]
+  },
+  {
+   "code": "PRO",
+   "wikisource": "Proverbes",
+   "name": "Proverbes",
+   "short": "Proverbes",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/07-proverbes.ogg",
+     "duration": 6722.77
+    }
+   ]
+  },
+  {
+   "code": "ECC",
+   "wikisource": "Ecclésiaste",
+   "name": "Ecclésiaste",
+   "short": "Ecclésiaste",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/08-ecclesiaste.ogg",
+     "duration": 2256.19
+    }
+   ]
+  },
+  {
+   "code": "SNG",
+   "wikisource": "Cantique",
+   "name": "Cantique des cantiques",
+   "short": "Cantique",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/09-cantique.ogg",
+     "duration": 1246.23
+    }
+   ]
+  },
+  {
+   "code": "WIS",
+   "wikisource": "Sagesse",
+   "name": "Sagesse",
+   "short": "Sagesse",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/10-sagesse.ogg",
+     "duration": 4362.56
+    }
+   ]
+  },
+  {
+   "code": "SIR",
+   "wikisource": "Ecclésiastique",
+   "name": "Ecclésiastique",
+   "short": "Ecclésiastique",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/11-ecclesiastique.ogg",
+     "duration": 12373.17
+    }
+   ]
+  },
+  {
+   "code": "ISA",
+   "wikisource": "Isaïe",
+   "name": "Isaïe",
+   "short": "Isaïe",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/01-isaie_ch1_33.ogg",
+     "duration": 7643.98
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/02-isaie_ch34_66.ogg",
+     "duration": 8726.83
+    }
+   ]
+  },
+  {
+   "code": "JER",
+   "wikisource": "Jérémie",
+   "name": "Jérémie",
+   "short": "Jérémie",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/03-jeremie_ch1_29.ogg",
+     "duration": 9554.05
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/04-jeremie_ch30_52.ogg",
+     "duration": 8879.13
+    }
+   ]
+  },
+  {
+   "code": "LAM",
+   "wikisource": "Lamentations",
+   "name": "Lamentations",
+   "short": "Lamentations",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/05-lamentations.ogg",
+     "duration": 1628.56
+    }
+   ]
+  },
+  {
+   "code": "BAR",
+   "wikisource": "Baruch",
+   "name": "Baruch",
+   "short": "Baruch",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/06-baruch.ogg",
+     "duration": 2040.02
+    }
+   ]
+  },
+  {
+   "code": "EZK",
+   "wikisource": "Ézéchiel",
+   "name": "Ézéchiel",
+   "short": "Ézéchiel",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/07-ezechiel_ch1_24.ogg",
+     "duration": 7738.47
+    },
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/08-ezechiel_ch25_48.ogg",
+     "duration": 8886.59
+    }
+   ]
+  },
+  {
+   "code": "DAN",
+   "wikisource": "Daniel",
+   "name": "Daniel",
+   "short": "Daniel",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/09-daniel.ogg",
+     "duration": 6178.5
+    }
+   ]
+  },
+  {
+   "code": "HOS",
+   "wikisource": "Osée",
+   "name": "Osée",
+   "short": "Osée",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/10-osee.ogg",
+     "duration": 2140.79
+    }
+   ]
+  },
+  {
+   "code": "JOL",
+   "wikisource": "Joël",
+   "name": "Joël",
+   "short": "Joël",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/11-joel.ogg",
+     "duration": 842.07
+    }
+   ]
+  },
+  {
+   "code": "AMO",
+   "wikisource": "Amos",
+   "name": "Amos",
+   "short": "Amos",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/12-amos.ogg",
+     "duration": 1677.22
+    }
+   ]
+  },
+  {
+   "code": "OBA",
+   "wikisource": "Abdias",
+   "name": "Abdias",
+   "short": "Abdias",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/13-abdias.ogg",
+     "duration": 270.53
+    }
+   ]
+  },
+  {
+   "code": "JON",
+   "wikisource": "Jonas",
+   "name": "Jonas",
+   "short": "Jonas",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/14-jonas.ogg",
+     "duration": 524.65
+    }
+   ]
+  },
+  {
+   "code": "MIC",
+   "wikisource": "Michée",
+   "name": "Michée",
+   "short": "Michée",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/15-michee.ogg",
+     "duration": 1296.22
+    }
+   ]
+  },
+  {
+   "code": "NAM",
+   "wikisource": "Nahum",
+   "name": "Nahum",
+   "short": "Nahum",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/16-nahum.ogg",
+     "duration": 539.33
+    }
+   ]
+  },
+  {
+   "code": "HAB",
+   "wikisource": "Habacuc",
+   "name": "Habacuc",
+   "short": "Habacuc",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/17-habacuc.ogg",
+     "duration": 636.09
+    }
+   ]
+  },
+  {
+   "code": "ZEP",
+   "wikisource": "Sophonie",
+   "name": "Sophonie",
+   "short": "Sophonie",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/18-sophonie.ogg",
+     "duration": 684.36
+    }
+   ]
+  },
+  {
+   "code": "HAG",
+   "wikisource": "Aggée",
+   "name": "Aggée",
+   "short": "Aggée",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/19-aggee.ogg",
+     "duration": 491.99
+    }
+   ]
+  },
+  {
+   "code": "ZEC",
+   "wikisource": "Zacharie",
+   "name": "Zacharie",
+   "short": "Zacharie",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/20-zacharie.ogg",
+     "duration": 2503.44
+    }
+   ]
+  },
+  {
+   "code": "MAL",
+   "wikisource": "Malachie",
+   "name": "Malachie",
+   "short": "Malachie",
+   "testament": "AT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-LesLivresProphetiques/21-malachie.ogg",
+     "duration": 751.33
+    }
+   ]
+  },
+  {
+   "code": "MAT",
+   "wikisource": "Matthieu",
+   "name": "Évangile selon saint Matthieu",
+   "short": "Matthieu",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/01-matthieu_entier_128.ogg",
+     "duration": 9881.1
+    }
+   ]
+  },
+  {
+   "code": "MRK",
+   "wikisource": "Marc",
+   "name": "Évangile selon saint Marc",
+   "short": "Marc",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/02-marc_entier_128.ogg",
+     "duration": 6241.41
+    }
+   ]
+  },
+  {
+   "code": "LUK",
+   "wikisource": "Luc",
+   "name": "Évangile selon saint Luc",
+   "short": "Luc",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/03-luc_entier_128.ogg",
+     "duration": 10527.65
+    }
+   ]
+  },
+  {
+   "code": "JHN",
+   "wikisource": "Jean",
+   "name": "Évangile selon saint Jean",
+   "short": "Jean",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/04-jean_entier_128.ogg",
+     "duration": 8095.03
+    }
+   ]
+  },
+  {
+   "code": "ACT",
+   "wikisource": "Actes",
+   "name": "Actes des Apôtres",
+   "short": "Actes",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/05-actes_entier_128.ogg",
+     "duration": 9794.25
+    }
+   ]
+  },
+  {
+   "code": "ROM",
+   "wikisource": "Romains",
+   "name": "Épître aux Romains",
+   "short": "Romains",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/06-lettre_romains_128.ogg",
+     "duration": 4185.26
+    }
+   ]
+  },
+  {
+   "code": "1CO",
+   "wikisource": "1_Corinthiens",
+   "name": "1re épître aux Corinthiens",
+   "short": "1 Corinthiens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/07-lettre_1corinthiens_128.ogg",
+     "duration": 4168.27
+    }
+   ]
+  },
+  {
+   "code": "2CO",
+   "wikisource": "2_Corinthiens",
+   "name": "2e épître aux Corinthiens",
+   "short": "2 Corinthiens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/08-lettre_2corinthiens_128.ogg",
+     "duration": 2732.78
+    }
+   ]
+  },
+  {
+   "code": "GAL",
+   "wikisource": "Galates",
+   "name": "Épître aux Galates",
+   "short": "Galates",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/09-lettre_galates_128.ogg",
+     "duration": 1406.24
+    }
+   ]
+  },
+  {
+   "code": "EPH",
+   "wikisource": "Éphésiens",
+   "name": "Épître aux Éphésiens",
+   "short": "Éphésiens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/10-lettre_ephesiens_128.ogg",
+     "duration": 1406.73
+    }
+   ]
+  },
+  {
+   "code": "PHP",
+   "wikisource": "Philippiens",
+   "name": "Épître aux Philippiens",
+   "short": "Philippiens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/11-lettre_philippiens_128.ogg",
+     "duration": 968.13
+    }
+   ]
+  },
+  {
+   "code": "COL",
+   "wikisource": "Colossiens",
+   "name": "Épître aux Colossiens",
+   "short": "Colossiens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/12-lettre_colossiens_128.ogg",
+     "duration": 907.13
+    }
+   ]
+  },
+  {
+   "code": "1TH",
+   "wikisource": "1_Thessaloniciens",
+   "name": "1re épître aux Thessaloniciens",
+   "short": "1 Thessaloniciens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/13-lettre_1thessaloniciens_128.ogg",
+     "duration": 838.68
+    }
+   ]
+  },
+  {
+   "code": "2TH",
+   "wikisource": "2_Thessaloniciens",
+   "name": "2e épître aux Thessaloniciens",
+   "short": "2 Thessaloniciens",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/14-lettre_2thessaloniciens_128.ogg",
+     "duration": 466.22
+    }
+   ]
+  },
+  {
+   "code": "1TI",
+   "wikisource": "1_Timothée",
+   "name": "1re épître à Timothée",
+   "short": "1 Timothée",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/15-lettre_1timothee_128.ogg",
+     "duration": 1038.12
+    }
+   ]
+  },
+  {
+   "code": "2TI",
+   "wikisource": "2_Timothée",
+   "name": "2e épître à Timothée",
+   "short": "2 Timothée",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/16-lettre_2timothee_128.ogg",
+     "duration": 745.3
+    }
+   ]
+  },
+  {
+   "code": "TIT",
+   "wikisource": "Tite",
+   "name": "Épître à Tite",
+   "short": "Tite",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/17-lettre_tite_128.ogg",
+     "duration": 446.11
+    }
+   ]
+  },
+  {
+   "code": "PHM",
+   "wikisource": "Philémon",
+   "name": "Épître à Philémon",
+   "short": "Philémon",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/18-lettre_philemon_128.ogg",
+     "duration": 213.34
+    }
+   ]
+  },
+  {
+   "code": "HEB",
+   "wikisource": "Hébreux",
+   "name": "Épître aux Hébreux",
+   "short": "Hébreux",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/19-lettre_hebreux_128.ogg",
+     "duration": 3046.25
+    }
+   ]
+  },
+  {
+   "code": "JAS",
+   "wikisource": "Jacques",
+   "name": "Épître de saint Jacques",
+   "short": "Jacques",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/20-lettre_st_jacques_128.ogg",
+     "duration": 1027.3
+    }
+   ]
+  },
+  {
+   "code": "1PE",
+   "wikisource": "1_Pierre",
+   "name": "1re épître de saint Pierre",
+   "short": "1 Pierre",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/21-premiere_lettre_st_pierre_128.ogg",
+     "duration": 1120.06
+    }
+   ]
+  },
+  {
+   "code": "2PE",
+   "wikisource": "2_Pierre",
+   "name": "2e épître de saint Pierre",
+   "short": "2 Pierre",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/22-deuxieme_lettre_st_pierre_128.ogg",
+     "duration": 725.59
+    }
+   ]
+  },
+  {
+   "code": "1JN",
+   "wikisource": "1_Jean",
+   "name": "1re épître de saint Jean",
+   "short": "1 Jean",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/23-premiere_lettre_st_jean_128.ogg",
+     "duration": 1032.17
+    }
+   ]
+  },
+  {
+   "code": "2JN",
+   "wikisource": "2_Jean",
+   "name": "2e épître de saint Jean",
+   "short": "2 Jean",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/24-deuxieme_lettre_st_jean_128.ogg",
+     "duration": 137.92
+    }
+   ]
+  },
+  {
+   "code": "3JN",
+   "wikisource": "3_Jean",
+   "name": "3e épître de saint Jean",
+   "short": "3 Jean",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/25-troisieme_lettre_st_jean_128.ogg",
+     "duration": 144.82
+    }
+   ]
+  },
+  {
+   "code": "JUD",
+   "wikisource": "Jude",
+   "name": "Épître de saint Jude",
+   "short": "Jude",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/26-lettre_st_jude_128.ogg",
+     "duration": 300.83
+    }
+   ]
+  },
+  {
+   "code": "REV",
+   "wikisource": "Apocalypse",
+   "name": "Apocalypse",
+   "short": "Apocalypse",
+   "testament": "NT",
+   "audio": [
+    {
+     "url": "https://archive.org/download/Bible-NouveauTestament/27-apocalypse_entier_128.ogg",
+     "duration": 4700.88
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4608 @@
+{
+ "code": "PRO",
+ "name": "Proverbes",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Proverbes de Salomon, fils de David, roi d’Israël :",
+     "h": "TITRE ET PROLOGUE. [I, 1-7.]",
+     "n": [
+      "I, 1. Proverbes : ce mot a ici le sens large de maximes, sentences."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "pour connaître la sagesse et l’instruction ; pour comprendre les discours sensés ;",
+     "n": [
+      "2. Le mot sagesse (hébr. chokmâh ) est susceptible de plusieurs significations. Pris dans son sens le plus général, il désigne la connaissance solide, l’intelligence vraie et pratique des choses ; dans le domaine religieux, c’est la connaissance des choses de Dieu et principalement de sa Loi, manifestation la plus parfaite de sa volonté. D’une manière plus concrète, ce terme désigne l’ensemble des principes et des maximes qui président à l’organisation de la vie et qui peuvent jusqu’en ses moindres détails diriger la conduite. Mais, au regard des sages, toute sagesse humaine n’est autre chose qu’un reflet de la sagesse même de Dieu, une communication de cette sagesse éternelle. Et c’est pourquoi le mot chokmâh désigne souvent la sagesse divine. — L’instruction (hébr. mûsâr ), morale, l’éducation, moyen pratique pour arriver à la sagesse."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "pour acquérir une instruction éclairée, la justice, l’équité et la droiture ;"
+    },
+    {
+     "v": 4,
+     "t": "pour donner aux simples le discernement, au jeune homme la connaissance et la réflexion."
+    },
+    {
+     "v": 5,
+     "t": "Que le sage écoute, et il gagnera en savoir ; l’homme intelligent connaîtra les conseils prudents,"
+    },
+    {
+     "v": 6,
+     "t": "il comprendra les proverbes et les sens mystérieux, les maximes des sages et leurs énigmes."
+    },
+    {
+     "v": 7,
+     "t": "La crainte de Yahweh est le commencement de la sagesse ; les insensés méprisent la sagesse et l’instruction..",
+     "n": [
+      "7. Ce verset exprime l’idée fondamentale du livre : il ne peut y avoir de vraie sagesse là où il n’y a pas de religion. La crainte de Yahweh, c’est la pratique de la religion et l’observation des commandements. — Le commencement. Selon d’autres et plus probablement : la perfection, le comble de la sagesse. Les LXX allongent ce verset : Le commencement de la sagesse est la crainte du Seigneur ; tous ceux qui l’observent ont une intelligence saine (Cf. Ps. cxi, 10 ). La piété envers Dieu est le commencement de la science ; les impies méprisent la sagesse et la correction."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Écoute, mon fils, l’instruction de ton père, et ne rejette pas l’enseignement de ta mère ;",
+     "h": "PREMIÈRE PARTIE. [I, 8 — IX, 18.] AVERTISSEMENTS GÉNÉRAUX DE LA SAGESSE.",
+     "n": [
+      "8. On peut dire très justement que la première partie du livre des Proverbes ( i, 8, — ix, 18) a le caractère d’une introduction générale aux maximes qui constituent comme le fond principal de tout l’ouvrage."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "car c’est une couronne de grâce pour ta tête, et une parure pour ton cou."
+    },
+    {
+     "v": 10,
+     "t": "Mon fils, si des pécheurs veulent te séduire, ne donne pas ton acquiescement."
+    },
+    {
+     "v": 11,
+     "t": "S’ils disent : « Viens avec nous, dressons des embûches pour répandre le sang, tendons sans raison des pièges à l’innocent."
+    },
+    {
+     "v": 12,
+     "t": "Engloutissons-les tout vifs, comme fait le schéol, tout entiers, comme ceux qui descendent dans la fosse."
+    },
+    {
+     "v": 13,
+     "t": "Nous trouverons toutes sortes de biens précieux, nous remplirons de butin nos maisons ;"
+    },
+    {
+     "v": 14,
+     "t": "tu tireras ta part au sort avec nous, il n’y aura qu’une bourse pour nous tous. » —"
+    },
+    {
+     "v": 15,
+     "t": "Mon fils, ne va pas avec eux sur le chemin, détourne ton pied de leur sentier ;"
+    },
+    {
+     "v": 16,
+     "t": "car leurs pieds courent au mal, ils se hâtent pour répandre le sang.",
+     "n": [
+      "16. Ce verset manque dans les LXX."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "C’est vainement qu’on jette le filet devant les yeux de tout ce qui a des ailes ;",
+     "n": [
+      "17. C’est vainement. LXX : et ce n’est pas vainement."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "eux, c’est contre leur propre sang qu’ils dressent des embûches ; c’est à leur âme qu’ils tendent des pièges.",
+     "n": [
+      "18. LXX. Ceux qui participent au meurtre accumulent pour eux-mêmes des maux. Ils ajoutent : La ruine des impies est terrible."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Telles sont les voies de tout homme âpre au gain ; le gain cause la perte de ceux qui le détiennent."
+    },
+    {
+     "v": 20,
+     "t": "La sagesse crie dans les rues, elle élève sa voix sur les places."
+    },
+    {
+     "v": 21,
+     "t": "Elle prêche dans des carrefours bruyants ; à l’entrée des portes, dans la ville, elle dit ses paroles :"
+    },
+    {
+     "v": 22,
+     "t": "« Jusques à quand, simples, aimerez-vous la simplicité ? Jusques à quand les railleurs se plairont-ils à la raillerie, et les insensés haïront-ils la science ?",
+     "n": [
+      "22. Simples, simplicité, c.-à.-d. sots, sottise."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Retournez-vous pour entendre ma réprimande ; voici que je répandrai sur vous mon esprit, je vous ferai connaître mes paroles."
+    },
+    {
+     "v": 24,
+     "t": "« Puisque j’appelle et que vous résistez, que j’étends ma main et que personne n’y prend garde,"
+    },
+    {
+     "v": 25,
+     "t": "puisque vous négligez tous mes conseils et que vous ne voulez pas de ma réprimande,"
+    },
+    {
+     "v": 26,
+     "t": "moi aussi je rirai de votre malheur, je me moquerai quand viendra sur vous l’épouvante,"
+    },
+    {
+     "v": 27,
+     "t": "quand l’épouvante viendra sur vous comme une tempête, que le malheur fondra sur vous comme un tourbillon, que viendront sur vous la détresse et l’angoisse.",
+     "n": [
+      "27. Viendront sur vous. LXX ajoute : que viendra sur vous la ruine."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "« Alors ils m’appelleront, et je ne répondrai pas ; ils me chercheront, et ils ne me trouveront pas."
+    },
+    {
+     "v": 29,
+     "t": "Parce qu’ils ont haï la science, et qu’ils n’ont pas désiré la crainte de Yahweh,"
+    },
+    {
+     "v": 30,
+     "t": "parce qu’ils n’ont pas voulu de mes conseils, et qu’ils ont dédaigné toutes mes réprimandes,"
+    },
+    {
+     "v": 31,
+     "t": "ils mangeront du fruit de leur voie, et ils se rassasieront de leurs propres conseils."
+    },
+    {
+     "v": 32,
+     "t": "Car l’égarement des simples les tue, et la sécurité des insensés les perd.",
+     "n": [
+      "32. Des simples. Vulg., des enfants."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "Mais celui qui m’écoute reposera avec sécurité, il vivra tranquille, sans craindre le malheur. »"
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon fils, si tu reçois mes paroles, et si tu gardes avec toi mes préceptes,"
+    },
+    {
+     "v": 2,
+     "t": "rendant ton oreille attentive à la sagesse, et inclinant ton cœur vers l’intelligence ;",
+     "n": [
+      "II, 2. Vers l’intelligence. LXX ajoute : et l’appliquant (ton cœur ?) à l’avertissement de ton fils."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "oui, si tu appelles la prudence, et si tu élèves ta voix vers l’intelligence,",
+     "n": [
+      "3. Si tu élèves la voix. Vulg., si tu inclines ton cœur vers l’intelligence, pour l’appeler."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "si tu la cherches comme l’argent, et si tu la creuses comme pour découvrir un trésor ; —",
+     "n": [
+      "4. Comme l’argent caché dans les entrailles de la terre : allusion au travail des mines."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "alors tu comprendras la crainte de Yahweh, et tu trouveras la connaissance de Dieu."
+    },
+    {
+     "v": 6,
+     "t": "Car Yahweh donne la sagesse, de sa bouche sortent la science et la prudence ;"
+    },
+    {
+     "v": 7,
+     "t": "il garde le bonheur pour les hommes droits, il est un bouclier pour ceux qui marchent dans la perfection,"
+    },
+    {
+     "v": 8,
+     "t": "il protège les sentiers de l’équité, il veille sur la voie de ses fidèles. —"
+    },
+    {
+     "v": 9,
+     "t": "Alors tu comprendras la justice, l’équité, la droiture et tous les sentiers du bien."
+    },
+    {
+     "v": 10,
+     "t": "Lorsque la sagesse viendra dans ton cœur, et que la science fera les délices de ton âme,"
+    },
+    {
+     "v": 11,
+     "t": "la réflexion veillera sur toi, et l’intelligence te gardera,"
+    },
+    {
+     "v": 12,
+     "t": "pour te délivrer de la voie du mal, de l’homme qui tient des discours pervers,"
+    },
+    {
+     "v": 13,
+     "t": "de ceux qui abandonnent les droits sentiers, afin de marcher dans des chemins ténébreux,"
+    },
+    {
+     "v": 14,
+     "t": "qui se réjouissent de faire le mal, et mettent leur plaisir dans les pires perversités,"
+    },
+    {
+     "v": 15,
+     "t": "dont les sentiers sont tortueux et qui suivent des voies obliques ; —"
+    },
+    {
+     "v": 16,
+     "t": "pour te délivrer de la femme qui est à un autre, de l’étrangère qui use de paroles doucereuses,",
+     "n": [
+      "16. De la femme qui est à un autre, litt. de la femme étrangère, qui appartient à une autre famille, c.-à-d. de la femme adultère. Les LXX n’ayant pas compris qu’il s’agissait au v. 16 de la femme adultère s’écartent beaucoup du texte dans 16-19."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "qui abandonne le compagnon de sa jeunesse, et oublie l’alliance de son Dieu ;"
+    },
+    {
+     "v": 18,
+     "t": "car elle penche avec sa maison vers la mort, et sa route conduit aux enfers ;"
+    },
+    {
+     "v": 19,
+     "t": "de tous ceux qui vont à elle, nul ne revient, aucun ne retrouve les sentiers de la vie."
+    },
+    {
+     "v": 20,
+     "t": "Ainsi tu marcheras dans la voie des hommes de bien, et tu garderas les sentiers des justes."
+    },
+    {
+     "v": 21,
+     "t": "Car les hommes droits habiteront la terre et les hommes intègres y demeureront ;"
+    },
+    {
+     "v": 22,
+     "t": "mais les méchants seront retranchés de la terre, et les infidèles en seront arrachés."
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon fils, n’oublie pas mes enseignements, et que ton cœur garde mes préceptes."
+    },
+    {
+     "v": 2,
+     "t": "Ils te procureront de longs jours, des années de vie et la paix."
+    },
+    {
+     "v": 3,
+     "t": "Que la miséricorde et la vérité ne t’abandonnent pas ; attache-les à ton cou, grave-les sur la table de ton cœur."
+    },
+    {
+     "v": 4,
+     "t": "Ainsi tu trouveras faveur et auras la vraie sagesse, aux yeux de Dieu et des hommes."
+    },
+    {
+     "v": 5,
+     "t": "Confie-toi de tout ton cœur en Yahweh, et ne t’appuie pas sur ta propre intelligence."
+    },
+    {
+     "v": 6,
+     "t": "Pense à lui dans toutes tes voies, et il aplanira tes sentiers."
+    },
+    {
+     "v": 7,
+     "t": "Ne sois pas sage à tes propres yeux ; crains Yahweh et détourne-toi du mal."
+    },
+    {
+     "v": 8,
+     "t": "Ce sera la santé pour ton corps, et un rafraîchissement pour tes os.",
+     "n": [
+      "III, 8. Pour ton corps : d’après les LXX, et le syriaque. Hébreu et Vulg. pour ton ombilic."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Fais honneur à Dieu de tes biens, des prémices de tout ton revenu.",
+     "n": [
+      "9. Fais honneur à Dieu de tes biens, en lui en consacrant une partie."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Alors tes greniers seront abondamment remplis, et tes cuves déborderont de vin nouveau."
+    },
+    {
+     "v": 11,
+     "t": "Mon fils, ne méprise pas la correction de Yahweh, et n’aie pas d’aversion pour ses châtiments.",
+     "n": [
+      "11. La correction, litt. L’instruction ou l’éducation, par la correction et l’épreuve."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Car Yahweh châtie celui qu’il aime, comme un père châtie l’enfant qu’il chérit.",
+     "n": [
+      "12. Comme un père etc. D’autres, avec la Vulg., et il met en lui son affection comme un père dans son enfant."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Heureux l’homme qui a trouvé la sagesse, et l’homme qui a acquis l’intelligence !"
+    },
+    {
+     "v": 14,
+     "t": "Son acquisition vaut mieux que celle de l’argent, sa possession que celle de l’or pur.",
+     "n": [
+      "14. Sa possession ; d’autres, le profit qu’on en tire."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Elle est plus précieuse que les perles, tous les joyaux ne l’égalent pas.",
+     "n": [
+      "15. Les perles. LXX ajoutent : aucun mal ne lui résiste ; elle est bien connue (ou facile à connaître ) de ceux qui l’approchent. — Les joyaux, litt., les objets de prix."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Dans sa droite est une longue vie, dans sa gauche, la richesse et la gloire.",
+     "n": [
+      "16. La gloire. LXX ajoutent : De sa bouche sort la justice, elle porte sur sa langue la loi et la miséricorde."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Ses voies sont des voies agréables, tous ses sentiers, des sentiers de paix."
+    },
+    {
+     "v": 18,
+     "t": "Elle est un arbre de vie pour ceux qui la saisissent et celui qui s’y attache est heureux."
+    },
+    {
+     "v": 19,
+     "t": "C’est par la sagesse que Yahweh a fondé la terre, par l’intelligence qu’il a affermi les cieux.",
+     "n": [
+      "19, 20. Ici la sagesse n’est plus seulement un attribut divin, elle nous apparaît comme une puissance vivante."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "C’est par sa science que les abîmes se sont ouverts, et que les nuages distillent la rosée.",
+     "n": [
+      "20. Les abîmes, le réservoir des eaux souterraines, se sont ouverts, litt. séparés, pour former les mers particulières, les fleuves et les rivières qui arrosent le sol."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Mon fils, qu’elles ne s’éloignent pas de tes yeux, garde la sagesse et la réflexion ;",
+     "n": [
+      "21. Qu'elles, la sagesse et la réflexion dont il est question dans le membre suivant."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "elles seront la vie de ton âme, et l’ornement de ton cou.",
+     "n": [
+      "22. L’ornement de ton cou. LXX ajoutent : elle sera santé pour ta chair, et guérison pour tes os."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Alors tu marcheras en sécurité dans ton chemin, et ton pied ne heurtera pas."
+    },
+    {
+     "v": 24,
+     "t": "Si tu te couches, tu seras sans crainte ; et quand tu seras couché, ton sommeil sera doux."
+    },
+    {
+     "v": 25,
+     "t": "Tu n’auras à redouter ni une terreur subite, ni une attaque qui vienne des méchants."
+    },
+    {
+     "v": 26,
+     "t": "Car Yahweh sera ton assurance, et il préservera ton pied de tout piège."
+    },
+    {
+     "v": 27,
+     "t": "Ne refuse pas un bienfait à ceux à qui il est dû, quand il est en ton pouvoir de l’accorder."
+    },
+    {
+     "v": 28,
+     "t": "Ne dis pas à ton prochain : « Va et reviens, demain je donnerai, » quand tu peux donner sur l’heure.",
+     "n": [
+      "28. Sur l’heure. LXX ajoutent : Tu ne sais pas en effet ce que le lendemain amènera."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Ne médite pas le mal contre ton prochain, lorsqu’il reste tranquille près de toi."
+    },
+    {
+     "v": 30,
+     "t": "Ne conteste pas sans motif avec quelqu’un, lorsqu’il ne t’a point fait de mal."
+    },
+    {
+     "v": 31,
+     "t": "Ne porte pas envie à l’homme de violence, et ne choisis aucune de ses voies :"
+    },
+    {
+     "v": 32,
+     "t": "car Yahweh a en horreur les hommes pervers, mais avec les cœurs droits est son intimité."
+    },
+    {
+     "v": 33,
+     "t": "La malédiction de Yahweh est dans la maison du méchant, mais il bénit le toit des justes.",
+     "n": [
+      "33. La malédiction de Yahweh. Vulg., la disette de la part du Seigneur."
+     ]
+    },
+    {
+     "v": 34,
+     "t": "Il se moque des moqueurs, et il donne la grâce aux humbles."
+    },
+    {
+     "v": 35,
+     "t": "La gloire sera le partage des sages, mais les insensés ont pour leur part l’ignominie.",
+     "n": [
+      "35. Mais les insensés etc. : m. à m., mais l’ignominie exalte (?) les insensés."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Écoutez, mes fils, l’instruction d’un père, et soyez attentifs, pour apprendre l’intelligence ;"
+    },
+    {
+     "v": 2,
+     "t": "car je vous donne une bonne doctrine : n’abandonnez pas mon enseignement."
+    },
+    {
+     "v": 3,
+     "t": "Moi aussi j’ai été un fils pour mon père, un fils tendre et unique auprès de ma mère."
+    },
+    {
+     "v": 4,
+     "t": "Il m’instruisait et il me disait : « Que ton cœur retienne mes paroles, observe mes préceptes, et tu vivras."
+    },
+    {
+     "v": 5,
+     "t": "Acquiers la sagesse, acquiers l’intelligence ; n’oublie pas les paroles de ma bouche, et ne t’en détourne pas.",
+     "n": [
+      "IV, 5. Acquiers la sagesse, acquiers l’intelligence manque dans LXX."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Ne l’abandonne pas, et elle te gardera ; aime-la, et elle te conservera."
+    },
+    {
+     "v": 7,
+     "t": "Voici le commencement de la sagesse : acquiers la sagesse ; au prix de tout ce que tu possèdes, acquiers l’intelligence.",
+     "n": [
+      "7. Manque dans LXX."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Tiens-la en haute estime, et elle t’exaltera ; elle fera ta gloire, si tu l’embrasses."
+    },
+    {
+     "v": 9,
+     "t": "Elle mettra sur ta tête une couronne de grâce, elle t’ornera d’un magnifique diadème. »"
+    },
+    {
+     "v": 10,
+     "t": "Écoute, mon fils, et reçois mes paroles, et les années de ta vie se multiplieront.",
+     "n": [
+      "10. Se multiplieront. LXX ajoutent : afin que nombreuses soient pour toi tes années de la vie."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Je t’enseigne la voie de la sagesse, je te conduis dans les sentiers de la droiture."
+    },
+    {
+     "v": 12,
+     "t": "Si tu marches, tes pas ne seront point à l’étroit, et si tu cours, tu ne trébucheras pas."
+    },
+    {
+     "v": 13,
+     "t": "Retiens l’instruction, ne l’abandonne pas ; garde-la, car elle est ta vie."
+    },
+    {
+     "v": 14,
+     "t": "N’entre pas dans le sentier des méchants, et ne marche pas dans la voie des hommes mauvais."
+    },
+    {
+     "v": 15,
+     "t": "Évite-la, n’y passe point, détourne-t’en et passe."
+    },
+    {
+     "v": 16,
+     "t": "Car ils ne dorment pas, s’ils ne font le mal ; leur sommeil s’enfuit s’ils ne font tomber personne."
+    },
+    {
+     "v": 17,
+     "t": "Car ils mangent le pain du crime, ils boivent le vin de la violence.",
+     "n": [
+      "17. Ou bien : ils mangent le pain acquis par leurs crimes. Ou bien : ils se nourrissent du crime comme on mange du pain."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Le sentier des justes est comme la brillante lumière du matin, dont l’éclat va croissant jusqu’à ce que paraisse le jour."
+    },
+    {
+     "v": 19,
+     "t": "La voie des méchants est comme les ténèbres ; ils n’aperçoivent pas ce qui les fera tomber."
+    },
+    {
+     "v": 20,
+     "t": "Mon fils, sois attentif à mes paroles, prête l’oreille à mes discours."
+    },
+    {
+     "v": 21,
+     "t": "Qu’ils ne s’éloignent pas de tes yeux, garde-les au milieu de ton cœur."
+    },
+    {
+     "v": 22,
+     "t": "Car ils sont vie pour ceux qui les trouvent, santé pour tout leur corps."
+    },
+    {
+     "v": 23,
+     "t": "Garde ton cœur avant toute chose, car de lui jaillissent les sources de la vie.",
+     "n": [
+      "23. Garde ton cœur etc. ; m. à m. plus que toute garde, garde ton cœur."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Écarte de ta bouche les paroles tortueuses, et éloigne de tes lèvres la fausseté.",
+     "n": [
+      "24. M. à m. Écarte de toi la tortuosité de la bouche, éloigné de toi la fausseté des lèvres."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Que tes yeux regardent en face, et que tes paupières se dirigent devant toi."
+    },
+    {
+     "v": 26,
+     "t": "Fais à tes pieds un chemin uni, et que toutes tes voies soient droites."
+    },
+    {
+     "v": 27,
+     "t": "N’incline ni à droite ni à gauche, et détourne ton pied du mal.",
+     "n": [
+      "27. LXX et Vulg. ajoutent : car le Seigneur connaît les voies qui sont à droite, mais celles qui sont à gauche sont mauvaises. Lui-même dirigera ta course, et te fera prendre ton chemin dans la paix."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon fils, sois attentif à ma sagesse, et prête l’oreille à mon intelligence,"
+    },
+    {
+     "v": 2,
+     "t": "afin que tu conserves la réflexion, et que tes lèvres gardent la science.",
+     "n": [
+      "V, 2. LXX et Vulg. ajoutent : ne donne aucune attention aux artifices de la femme ; c’est comme le titre du chapitre."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Car les lèvres de l’étrangère distillent le miel, et son palais est plus doux que l’huile."
+    },
+    {
+     "v": 4,
+     "t": "Mais à la fin elle est amère comme l’absinthe, aiguë comme un glaive à deux tranchants."
+    },
+    {
+     "v": 5,
+     "t": "Ses pieds descendent vers la mort, ses pas vont droit au schéol.",
+     "n": [
+      "5. Au scheol. LXX ajoutent : et ses pas ne sont pas fermes."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Elle ne considère pas le chemin de la vie, ses pas s’en vont incertains elle ne sait où."
+    },
+    {
+     "v": 7,
+     "t": "Et maintenant, mes fils, écoutez-moi, et ne vous écartez pas des paroles de ma bouche."
+    },
+    {
+     "v": 8,
+     "t": "Eloigne d’auprès d’elle ton chemin, ne t’approche pas de la porte de sa maison,"
+    },
+    {
+     "v": 9,
+     "t": "de peur que tu ne livres à d’autres la fleur de ta jeunesse, et tes années au tyran cruel ;",
+     "n": [
+      "9. La fleur, ou la vigueur, de ta jeunesse, litt. ton honneur, ce qui fait l’honneur d’un jeune homme."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "de peur que des étrangers ne se rassasient de tes biens, et que le fruit de ton travail ne passe dans la maison d’autrui ;"
+    },
+    {
+     "v": 11,
+     "t": "de peur que tu ne gémisses à la fin, quand ta chair et ton corps seront consumés,"
+    },
+    {
+     "v": 12,
+     "t": "et que tu ne dises : Comment donc ai-je pu haïr la correction, et comment mon cœur a-t-il dédaigné la réprimande ?"
+    },
+    {
+     "v": 13,
+     "t": "Comment ai-je pu ne pas écouter la voix de mes maîtres, ne pas prêter l’oreille à ceux qui m’instruisaient ?"
+    },
+    {
+     "v": 14,
+     "t": "J’ai failli en venir au comble du malheur, au milieu du peuple et de l’assemblée."
+    },
+    {
+     "v": 15,
+     "t": "Bois l’eau de ta citerne, les ruisseaux qui sortent de ton puits."
+    },
+    {
+     "v": 16,
+     "t": "Que tes sources se répandent au dehors, que tes ruisseaux coulent sur les places publiques !",
+     "n": [
+      "16. Que tes sources se répandent au dehors. LXX, que tes eaux ne se répandent pas hors de ta source."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Qu’ils soient pour toi seul, et non pour des étrangers avec toi !"
+    },
+    {
+     "v": 18,
+     "t": "Que ta source soit bénie, et mets ta joie dans la femme de ta jeunesse."
+    },
+    {
+     "v": 19,
+     "t": "Biche charmante, gracieuse gazelle, — que ses charmes t’enivrent en tout temps, sois toujours épris de son amour !",
+     "n": [
+      "19. Ses charmes, litt. sa poitrine, son sein."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Pourquoi, mon fils, t’éprendrais-tu d’une étrangère, et embrasserais-tu le sein d’une inconnue ?"
+    },
+    {
+     "v": 21,
+     "t": "Car devant les yeux de Yahweh sont les voies de l’homme, il considère tous ses sentiers."
+    },
+    {
+     "v": 22,
+     "t": "Le méchant est pris dans ses propres iniquités, il est saisi par les liens de son péché."
+    },
+    {
+     "v": 23,
+     "t": "Il mourra faute de correction, il sera trompé par l’excès de sa folie.",
+     "n": [
+      "23. Il sera trompé par l’excès de sa folie. LXX, il est privé de l’abondance de sa vie, et perdu à cause de sa folie."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 6,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon fils, si tu t’es rendu caution pour ton ami, si tu t’es engagé pour un étranger,",
+     "n": [
+      "VI, 1. Si tu t’es engagé, m. à m. si tu as frappé de la main."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "si tu es lié par les paroles de ta bouche, si tu es pris par les paroles de ta bouche,"
+    },
+    {
+     "v": 3,
+     "t": "fais donc ceci, mon ami : dégage-toi ! Puisque tu es tombé aux mains de ton prochain, va, prosterne-toi et presse-le vivement !",
+     "n": [
+      "3. Prosterne-toi, litt. fais-toi fouler aux pieds, d’autres, frappe du pied ; Vulg., hâte-toi."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Ne donne ni sommeil à tes yeux, ni assoupissement à tes paupières ;"
+    },
+    {
+     "v": 5,
+     "t": "dégage-toi, comme la gazelle de la main du chasseur, comme l’oiseau de la main de l’oiseleur."
+    },
+    {
+     "v": 6,
+     "t": "Va vers la fourmi ô paresseux ; considère ses voies et deviens sage."
+    },
+    {
+     "v": 7,
+     "t": "Elle qui n’a ni chef, ni inspecteur de travaux, ni souverain,"
+    },
+    {
+     "v": 8,
+     "t": "elle amasse en été de quoi manger, elle recueille pendant la moisson sa nourriture.",
+     "n": [
+      "8. Après le v. 8, les LXX ajoutent : Ou bien va vers l’abeille et apprends comme elle est laborieuse et comme elle fait une œuvre sacrée (ou attentive ), elle dont les rois et les sujets emploient les produits pour leur santé ; elle est désirée et respectée de tous, et, quoique dénuée de forces, elle obtient le respect en honorant la sagesse."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Jusques à quand, ô paresseux, seras-tu couché, quand te lèveras-tu de ton sommeil ?"
+    },
+    {
+     "v": 10,
+     "t": "« Un peu de sommeil, un peu d’assoupissement, un peu croiser les mains sur son lit. »",
+     "n": [
+      "10. LXX et Vulg., tu dors un peu…, etc."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Et ta pauvreté viendra comme un voyageur, et ta disette comme un homme en armes !",
+     "n": [
+      "11. LXX et Vulg. ajoutent : mais si tu es actif, il te viendra une moisson abondante, comme l’eau d’ une source, et l’indigence s’éloignera de toi."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Un homme pervers, un homme inique, marche la perversité dans la bouche ;",
+     "n": [
+      "12. Un homme pervers, litt. de Bélial."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "il cligne les yeux, gratte du pied, fait des signes avec les doigts.",
+     "n": [
+      "13. Gratte. D’autres, parle."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "La perversité est dans son cœur, il médite le mal en tout temps, il suscite des querelles."
+    },
+    {
+     "v": 15,
+     "t": "Aussi sa ruine viendra subitement ; il sera brisé tout d’un coup et sans remède."
+    },
+    {
+     "v": 16,
+     "t": "Il y a six choses que hait Yahweh, il y en a sept qu’il a en horreur :"
+    },
+    {
+     "v": 17,
+     "t": "les yeux altiers, la langue menteuse, les mains qui font couler le sang innocent,"
+    },
+    {
+     "v": 18,
+     "t": "le cœur qui médite des projets coupables, les pieds empressés à courir au mal,"
+    },
+    {
+     "v": 19,
+     "t": "le faux témoin qui profère des mensonges, et celui qui sème la discorde entre frères."
+    },
+    {
+     "v": 20,
+     "t": "Mon fils, garde le précepte de ton père, et ne rejette pas l’enseignement de ta mère."
+    },
+    {
+     "v": 21,
+     "t": "Lie-les constamment sur ton cœur, attache-les à ton cou."
+    },
+    {
+     "v": 22,
+     "t": "Il te dirigera dans ta marche, il te gardera dans ton sommeil ; à ton réveil, il conversera avec toi."
+    },
+    {
+     "v": 23,
+     "t": "Car le précepte est une lampe, et la loi une lumière, et les avertissements qui instruisent sont le chemin de la vie."
+    },
+    {
+     "v": 24,
+     "t": "Ils te préserveront de la femme perverse, de la langue doucereuse de l’étrangère."
+    },
+    {
+     "v": 25,
+     "t": "Ne convoite pas sa beauté dans ton cœur, et qu’elle ne te séduise pas par ses paupières.",
+     "n": [
+      "25. Dans son cœur. LXX ajoutent et ne sois pas victime de tes yeux."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Car pour la courtisane on se réduit à un morceau de pain, et la femme mariée prend au piège une vie précieuse.",
+     "n": [
+      "26. On se réduit à un morceau de pain. LXX et Vulg., pour jouir d’une courtisane, il suffit d’un morceau de pain, mais la femme mariée ravit la vie précieuse elle-même."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Se peut-il qu’un homme mette du feu dans son sein, sans que ses vêtements s’enflamment ?"
+    },
+    {
+     "v": 28,
+     "t": "Ou bien un homme marchera-t-il sur des charbons ardents sans que ses pieds soient brûlés ?"
+    },
+    {
+     "v": 29,
+     "t": "Ainsi en est-il de celui qui va vers la femme de son prochain : quiconque la touche ne saurait rester impuni."
+    },
+    {
+     "v": 30,
+     "t": "On ne méprise pas un voleur qui dérobe pour satisfaire sa faim, quand il n’a rien à manger :",
+     "n": [
+      "30. D’aucuns supposent une interrogation. Ne méprise-t-on pas… Vulg. Ce n’est pas une grande faute si quelqu’un vole ; il vole pour rassasier son âme affamée. LXX. Ce n’est pas une merveille si quelqu’un est pris volant ; il vole pour se rassasier quand il est affamé."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "surpris, il rend sept fois autant, il donne tout ce qu’il a dans sa maison."
+    },
+    {
+     "v": 32,
+     "t": "Mais celui qui corrompt une femme est dépourvu de sens ; il se perd lui-même, celui qui agit de la sorte ;"
+    },
+    {
+     "v": 33,
+     "t": "il ne recueille que plaie et ignominie, et son opprobre ne s’effacera pas."
+    },
+    {
+     "v": 34,
+     "t": "Car la jalousie excite la fureur de l’homme outragé ; il est sans pitié au jour de la vengeance ;"
+    },
+    {
+     "v": 35,
+     "t": "il n’a égard à aucune rançon ; il n’en veut pas, quand même tu multiplierais les présents."
+    }
+   ]
+  },
+  {
+   "c": 7,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon fils, retiens mes paroles, et garde avec toi mes préceptes."
+    },
+    {
+     "v": 2,
+     "t": "Observe mes préceptes, et tu vivras, garde mon enseignement comme la prunelle de tes yeux.",
+     "n": [
+      "VII, 2. Mes préceptes. LXX ajoutent : Mon fils crains le Seigneur et tu seras fort ; et en dehors de lui ne crains personne."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Lie-les sur tes doigts, écris-les sur la table de ton cœur."
+    },
+    {
+     "v": 4,
+     "t": "Dis à la sagesse : Tu es ma sœur ! et appelle l’intelligence ton amie,"
+    },
+    {
+     "v": 5,
+     "t": "pour qu’elle te préserve de la femme d’autrui, de l’étrangère qui fait entendre de douces paroles."
+    },
+    {
+     "v": 6,
+     "t": "Étant à la fenêtre de ma maison, je regardais à travers le treillis.",
+     "n": [
+      "6. Les LXX appliquent les v. 6, 7 à la courtisane qui, de sa fenêtre, épie le passage du jeune insensé."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "J’aperçus parmi les insensés, je remarquai parmi les jeunes gens un garçon dépourvu de sens."
+    },
+    {
+     "v": 8,
+     "t": "Il passait dans la rue, près du logis d’une étrangère, et il s’avançait vers sa demeure."
+    },
+    {
+     "v": 9,
+     "t": "C’était au crépuscule, à la chute du jour, au milieu de la nuit et de l’obscurité."
+    },
+    {
+     "v": 10,
+     "t": "Et voilà qu’une femme l’aborde, ayant la mise d’une courtisane et la dissimulation dans le cœur.",
+     "n": [
+      "10. La dissimulation dans le cœur, litt. retenue quant au cœur. Vulg., toute préparée à prendre les âmes."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Elle est impétueuse et indomptable ; ses pieds ne peuvent se reposer dans sa maison ;"
+    },
+    {
+     "v": 12,
+     "t": "tantôt dans la rue, tantôt sur les places, et près de tous les angles, elle se tient aux aguets."
+    },
+    {
+     "v": 13,
+     "t": "Elle saisit le jeune homme et l’embrasse, et avec un visage effronté lui dit :"
+    },
+    {
+     "v": 14,
+     "t": "« Je devais offrir des victimes pacifiques, aujourd’hui j’ai accompli mes vœux."
+    },
+    {
+     "v": 15,
+     "t": "C’est pourquoi je suis sortie à ta rencontre, pour te chercher, et je t’ai trouvé.",
+     "n": [
+      "14. Dans les sacrifices d’actions de grâces, une part notable de la victime revenait à l’offrant, qui la mangeait le jour même dans un festin sacré avec ses parents et ses amis ( Lév. vii, 15, sv. ). Le premier membre du vers. parait vouloir dire que le moment est venu de manger le repas du sacrifice pacifique."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "J’ai garni mon lit de couvertures, de tapis de fil d’Égypte."
+    },
+    {
+     "v": 17,
+     "t": "J’ai parfumé ma couche de myrrhe, d’aloès et de cinnamome."
+    },
+    {
+     "v": 18,
+     "t": "Viens, enivrons-nous d’amour jusqu’au matin, livrons-nous aux délices de la volupté."
+    },
+    {
+     "v": 19,
+     "t": "Car mon mari n’est pas à la maison, il est parti pour un lointain voyage ;"
+    },
+    {
+     "v": 20,
+     "t": "il a pris avec lui le sac de l’argent, il ne reviendra à la maison qu’à la pleine lune. »"
+    },
+    {
+     "v": 21,
+     "t": "Elle le séduit à force de paroles, elle l’entraîne par les paroles de ses lèvres ;"
+    },
+    {
+     "v": 22,
+     "t": "il se met aussitôt à la suivre, comme le bœuf qui va à la boucherie, comme l’insensé qui court au châtiment des entraves,",
+     "n": [
+      "22. Comme l’insensé… D’autres : comme les entraves (aux pieds) servent au châtiment de l’insensé. Vulg., comme un agneau folâtrant, qui ignore sottement qu’on l’entraîne pour le lier. LXX, comme un chien conduit à la chaîne."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "jusqu’à ce qu’une flèche lui perce le foie, comme l’oiseau qui se précipite dans le filet, sans savoir qu’il y va pour lui de sa vie.",
+     "n": [
+      "23. Jusqu’à ce qu’une flèche lui perce le foie. LXX, comme un cerf frappé d’une flèche au foie."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Et maintenant, mes fils, écoutez-moi, et soyez attentifs aux paroles de ma bouche."
+    },
+    {
+     "v": 25,
+     "t": "Que ton cœur ne se détourne pas vers ses voies, ne t’égare pas dans ses sentiers."
+    },
+    {
+     "v": 26,
+     "t": "Car elle a fait de nombreux blessés, et nombreuses ont été ses victimes."
+    },
+    {
+     "v": 27,
+     "t": "Sa maison est le chemin du schéol, qui descend au séjour de la mort."
+    }
+   ]
+  },
+  {
+   "c": 8,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La sagesse ne crie-t-elle pas, l’intelligence n’élève-t-elle pas sa voix ?"
+    },
+    {
+     "v": 2,
+     "t": "C’est au sommet des hauteurs, sur la route, à la jonction des chemins, qu’elle se place ;"
+    },
+    {
+     "v": 3,
+     "t": "près des portes, aux abords de la ville, à l’entrée des portes, elle fait entendre sa voix :"
+    },
+    {
+     "v": 4,
+     "t": "« Hommes, c’est à vous que je crie, et ma voix s’adresse aux enfants des hommes."
+    },
+    {
+     "v": 5,
+     "t": "Simples, apprenez la prudence ; insensés, apprenez l’intelligence."
+    },
+    {
+     "v": 6,
+     "t": "Écoutez, car j’ai à dire des choses magnifiques, et mes lèvres s’ouvrent pour enseigner ce qui est droit."
+    },
+    {
+     "v": 7,
+     "t": "« Car ma bouche proclame la vérité, et mes lèvres ont l’iniquité en horreur.",
+     "n": [
+      "VIII, 7. Ma bouche, litt. mon palais."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Toutes les paroles de ma bouche sont justes ; il n’y a en elles rien de faux ni de tortueux."
+    },
+    {
+     "v": 9,
+     "t": "Toutes sont justes pour celui qui est intelligent, et droites pour ceux qui ont trouvé la science."
+    },
+    {
+     "v": 10,
+     "t": "Recevez mon instruction plutôt que l’argent, et la science plutôt que l’or pur."
+    },
+    {
+     "v": 11,
+     "t": "Car la sagesse vaut mieux que les perles, et les objets les plus précieux ne l’égalent pas."
+    },
+    {
+     "v": 12,
+     "t": "« Moi, la sagesse, j’habite avec la prudence, et je possède la science de la réflexion."
+    },
+    {
+     "v": 13,
+     "t": "La crainte de Yahweh, c’est la haine du mal ; l’arrogance et l’orgueil, la voie du mal et la bouche perverse, voilà ce que je hais."
+    },
+    {
+     "v": 14,
+     "t": "Le conseil et le succès m’appartiennent ; je suis l’intelligence, la force est à moi.",
+     "n": [
+      "14. Je suis l’intelligence : LXX et Vulg., à moi l’intelligence."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Par moi les rois règnent, et les princes ordonnent ce qui est juste.",
+     "n": [
+      "15. La sagesse préside au gouvernement des États, non pas, comme on l’entend quelquefois, qu’elle donne l’autorité ou le pouvoir de gouverner, mais en ce sens qu’elle inspire les chefs des peuples et leur dicte des lois justes."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Par moi gouvernent les chefs, et les grands, — tous les juges de la terre."
+    },
+    {
+     "v": 17,
+     "t": "J’aime ceux qui m’aiment, et ceux qui me cherchent avec empressement me trouvent."
+    },
+    {
+     "v": 18,
+     "t": "Avec moi sont les richesses et la gloire, les biens durables et la justice."
+    },
+    {
+     "v": 19,
+     "t": "Mon fruit vaut mieux que l’or, que l’or pur, et ce qui vient de moi mieux que l’argent éprouvé.",
+     "n": [
+      "19. Que l’or pur. LXX et Vulg., que la pierre précieuse."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Je marche dans le chemin de la justice, au milieu des sentiers du jugement,"
+    },
+    {
+     "v": 21,
+     "t": "pour donner des biens à ceux qui m’aiment, et combler leurs trésors.",
+     "n": [
+      "21. Leurs trésors. LXX ajoutent : Si je vous annonce ce qui arrive chaque jour, je me souviendrai aussi de raconter les choses du passé. Cette addition a pour but de servir de transition entre le v. 21 et le v. 22."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "« Yahweh m’a possédée au commencement de ses voies, avant ses œuvres les plus anciennes.",
+     "n": [
+      "22. L’auteur a en vue la sagesse essentielle de Dieu, personnifiée comme archétype du monde physique."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "J’ai été fondée dès l’éternité, dès le commencement, avant les origines de la terre."
+    },
+    {
+     "v": 24,
+     "t": "Il n’y avait point d’abîmes quand je fus enfantée, point de sources chargées d’eaux.",
+     "n": [
+      "24. Abîmes, réservoirs des eaux souterraine ; sources, d’où ces eaux jaillirent à la surface de la terre."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Avant que les montagnes fussent affermies, avant les collines, j’étais enfantée,"
+    },
+    {
+     "v": 26,
+     "t": "lorsqu’il n’avait encore fait ni la terre, ni les plaines, ni les premiers éléments de la poussière du globe."
+    },
+    {
+     "v": 27,
+     "t": "Lorsqu’il disposa les cieux, j’étais là, lorsqu’il traça un cercle à la surface de l’abîme,"
+    },
+    {
+     "v": 28,
+     "t": "lorsqu’il affermit les nuages en haut, et qu’il dompta les sources de l’abîme,"
+    },
+    {
+     "v": 29,
+     "t": "lorsqu’il fixa sa limite à la mer, pour que les eaux n’en franchissent pas les bords, lorsqu’il posa les fondements de la terre.",
+     "n": [
+      "29. Beaucoup de manuscrits des LXX n’ont que le dernier membre du verset."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "J’étais à l’œuvre auprès de lui, me réjouissant chaque jour, et jouant sans cesse en sa présence,",
+     "n": [
+      "30. Me réjouissant : m. à m., et j’étais délices. D’autres : et je faisais des délices chaque jour."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "jouant sur le globe de sa terre, et trouvant mes délices parmi les enfants des hommes."
+    },
+    {
+     "v": 32,
+     "t": "« Et maintenant, mes fils, écoutez-moi ; heureux ceux qui gardent mes voies !",
+     "n": [
+      "32. Beaucoup de manuscrits des LXX n’ont ni le second membre de ce verset ni le v. 33."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "Écoutez l’instruction pour devenir sages ; ne la rejetez pas."
+    },
+    {
+     "v": 34,
+     "t": "Heureux l’homme qui m’écoute, qui veille chaque jour à mes portes, et qui en garde les montants !"
+    },
+    {
+     "v": 35,
+     "t": "Car celui qui me trouve a trouvé la vie, et il obtient la faveur de Yahweh.",
+     "n": [
+      "35. La faveur. Vulg., le salut. Les LXX (de même le Syriaque), ayant lu le verbe au passif, traduisent la volonté est préparée par Yahweh. S. Augustin s’est souvent servi de ce texte pour établir contre les Pélagiens la nécessité de la grâce prévenante."
+     ]
+    },
+    {
+     "v": 36,
+     "t": "Mais celui qui m’offense blesse son âme ; tous ceux qui me haïssent aiment la mort. »"
+    }
+   ]
+  },
+  {
+   "c": 9,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La sagesse a bâti sa maison, elle a taillé ses sept colonnes."
+    },
+    {
+     "v": 2,
+     "t": "Elle a immolé ses victimes, mêlé son vin, et dressé sa table."
+    },
+    {
+     "v": 3,
+     "t": "Elle a envoyé ses servantes, elle appelle, au sommet des hauteurs de la ville :"
+    },
+    {
+     "v": 4,
+     "t": "« Que celui qui est simple entre ici ! » Elle dit à celui qui est dépourvu de sens :",
+     "n": [
+      "IX, 4. Entre, litt. se détourne de son chemin pour venir ici."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "« Venez, mangez de mon pain, et buvez du vin que j’ai mêlé ;"
+    },
+    {
+     "v": 6,
+     "t": "quittez l’ignorance, et vous vivrez, et marchez dans la voie de l’intelligence. »",
+     "n": [
+      "6. Et vous vivrez. LXX, et vous régnerez à jamais. Ils ajoutent : recherchez la prudence."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Celui qui reprend le moqueur s’attire la raillerie, et celui qui réprimande le méchant s’attire l’outrage.",
+     "n": [
+      "7-12. Ces versets, au moins 7-10, ne se relient pas étroitement à ceux qui précèdent et ressemblent à une digression."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Ne reprends pas le moqueur, de peur qu’il ne te haïsse ; reprends le sage, et il t’aimera."
+    },
+    {
+     "v": 9,
+     "t": "Donne au sage, et il deviendra plus sage ; instruis le juste, et il augmentera son savoir."
+    },
+    {
+     "v": 10,
+     "t": "Le commencement de la sagesse, c’est la crainte de Yahweh ; et l’intelligence, c’est la science du Saint.",
+     "n": [
+      "10. Du Saint, c.-à-d. de Dieu, lequel est trois fois saint. LXX et Vulg., des saints, traduction trop servile du pluriel de majesté employé dans l’hébreu. LXX ajoutent : connaître la loi est d’une bonne intelligence."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Car par moi tes jours se multiplieront, par moi s’augmenteront les années de ta vie."
+    },
+    {
+     "v": 12,
+     "t": "Si tu es sage, tu es sage à ton profit ; si tu es moqueur, tu en porteras seul la peine.",
+     "n": [
+      "12. À ton profit. LXX, à ton profit et à celui des proches. À la fin du v. 12, les LXX ajoutent : Celui qui s’appuie sur le mensonge se repaît de vent, et se met à la poursuite d’oiseaux volants. Il oublie les voies de sa vigne, et s’écarte du chemin de son patrimoine. Il voyage au travers du désert aride, au travers d’une terre livrée à la sécheresse, et de ses mains il recueille la stérilité."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "La folie est une femme bruyante, stupide et ne sachant rien.",
+     "n": [
+      "13. On pourrait traduire Dame Folie est bruyante. LXX et Vulg. n’ont pas compris qu’il s’agissait ici de la folie personnifiée et ont traduit : Une femme sotte et bruyante etc."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Elle s’est assise, à la porte de sa maison, sur un siège, dans les hauteurs de la ville,"
+    },
+    {
+     "v": 15,
+     "t": "pour inviter les passants qui vont droit leur chemin :"
+    },
+    {
+     "v": 16,
+     "t": "« Que celui qui est simple entre ici ! » Elle dit à celui qui est dépourvu de sens :"
+    },
+    {
+     "v": 17,
+     "t": "« Les eaux dérobées sont plus douces, et le pain du mystère est plus agréable ! »"
+    },
+    {
+     "v": 18,
+     "t": "Et il ne sait pas qu’il y a là des ombres, et que ses invités sont déjà dans les profondeurs du schéol.",
+     "n": [
+      "18. Après le vers. 18, LXX ajoutent : Mais détourne-toi, ne t’attarde pas à cette place, et ne jette pas les yeux sur elle, car ainsi tu iras au travers de l’eau étrangère, et tu franchiras un torrent étranger. Abstiens-toi de l’eau étrangère, ne bois pas de la source étrangère, afin que tu vives longtemps, et que des années de vie te soient surajoutées."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 10,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Paraboles de Salomon. Le fils sage fait la joie de son père, et le fils insensé le chagrin de sa mère.",
+     "h": "DEUXIÈME PARTIE. [X, 1. — XXXI, 31.] MAXIMES PARTICULIÈRES DE CONDUITE. — I. — LE GRAND RECUEIL SALOMONIEN. [X, 1 — XXII, 16.]",
+     "n": [
+      "X, 1. Il est impossible de songer à une analyse de cette deuxième partie du livre des Proverbes. Le plus souvent, chaque verset forme un tout par lui-même, sans connexion avec ce qui précède et ce qui suit. Lorsqu’une série de versets se rattache à un même sujet, nous indiquons celui-ci par un sous-titre."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Les trésors acquis par le crime ne profitent pas, mais la justice délivre de la mort."
+    },
+    {
+     "v": 3,
+     "t": "Yahweh ne laisse pas le juste souffrir de la faim, mais il repousse la convoitise du méchant."
+    },
+    {
+     "v": 4,
+     "t": "Il s’appauvrit celui qui travaille d’une main paresseuse, mais la main des diligents amasse des richesses.",
+     "n": [
+      "4. Après ce verset, la Vulgate ajoute : s’appuyer sur des mensonges, c’est se nourrir de vent, c’est poursuivre l’oiseau à travers les airs. Cf. l’addition des LXX, ix, 12. Ici les LXX ajoutent : Un fils instruit sera sage, et il se servira de l’insensé comme d’un serviteur."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Celui qui recueille pendant l’été est un fils prudent ; celui qui dort au temps de la moisson est un fils de confusion."
+    },
+    {
+     "v": 6,
+     "t": "La bénédiction vient sur la tête du juste, mais l’injustice couvre la bouche des méchants."
+    },
+    {
+     "v": 7,
+     "t": "La mémoire du juste est en bénédiction, mais le nom des méchants tombe en pourriture."
+    },
+    {
+     "v": 8,
+     "t": "Celui qui est sage de cœur reçoit les préceptes, mais celui qui est insensé des lèvres va à sa perte."
+    },
+    {
+     "v": 9,
+     "t": "Celui qui marche dans l’intégrité marche en confiance, mais celui qui prend des voies tortueuses sera découvert."
+    },
+    {
+     "v": 10,
+     "t": "Celui qui cligne les yeux sera une cause de chagrin, et celui qui est insensé des lèvres va à sa perte."
+    },
+    {
+     "v": 11,
+     "t": "La bouche du juste est une source de vie, mais l’injustice couvre la bouche du méchant."
+    },
+    {
+     "v": 12,
+     "t": "La haine suscite des querelles, mais l’amour couvre toutes les fautes."
+    },
+    {
+     "v": 13,
+     "t": "Sur les lèvres de l’homme intelligent se trouve la sagesse, mais la verge est pour le dos de celui qui manque de sens."
+    },
+    {
+     "v": 14,
+     "t": "Les sages tiennent la sagesse en réserve, mais la bouche de l’insensé est un malheur prochain."
+    },
+    {
+     "v": 15,
+     "t": "La fortune est pour le riche sa place forte, le malheur des misérables, c’est leur pauvreté."
+    },
+    {
+     "v": 16,
+     "t": "L’œuvre du juste est pour la vie, le gain du méchant est pour le péché."
+    },
+    {
+     "v": 17,
+     "t": "Celui qui prend garde à l’instruction prend le chemin de la vie ; mais celui qui oublie la réprimande s’égare."
+    },
+    {
+     "v": 18,
+     "t": "Celui qui cache la haine a des lèvres menteuses, et celui qui répand la calomnie est un insensé."
+    },
+    {
+     "v": 19,
+     "t": "L’abondance de paroles ne va pas sans péché, mais celui qui retient ses lèvres est un homme prudent."
+    },
+    {
+     "v": 20,
+     "t": "La langue du juste est un argent de choix ; le cœur des méchants est de peu de prix."
+    },
+    {
+     "v": 21,
+     "t": "Les lèvres du juste nourrissent beaucoup d’hommes, mais les insensés meurent par défaut d’intelligence."
+    },
+    {
+     "v": 22,
+     "t": "C’est la bénédiction du Seigneur qui procure la richesse, et la peine que l’on prend n’y ajoute rien."
+    },
+    {
+     "v": 23,
+     "t": "Commettre le crime paraît un jeu à l’insensé ; il en est de même de la sagesse pour l’homme intelligent."
+    },
+    {
+     "v": 24,
+     "t": "Ce que redoute le méchant lui arrive, et Dieu accorde au juste ce qu’il désire."
+    },
+    {
+     "v": 25,
+     "t": "Comme passe le tourbillon, le méchant disparaît ; le juste est établi sur un fondement éternel."
+    },
+    {
+     "v": 26,
+     "t": "Ce que le vinaigre est aux dents et la fumée aux yeux, tel est le paresseux pour ceux qui l’envoient."
+    },
+    {
+     "v": 27,
+     "t": "La crainte de Yahweh augmente les jours, mais les années des méchants sont abrégées."
+    },
+    {
+     "v": 28,
+     "t": "L’attente des justes n’est que joie, mais l’espérance des méchants périra."
+    },
+    {
+     "v": 29,
+     "t": "La voie de Yahweh est un rempart pour le juste, mais elle est une ruine pour ceux qui font le mal."
+    },
+    {
+     "v": 30,
+     "t": "Le juste ne chancellera jamais, mais les méchants n’habiteront pas la terre."
+    },
+    {
+     "v": 31,
+     "t": "La bouche du juste produit la sagesse, et la langue perverse sera arrachée."
+    },
+    {
+     "v": 32,
+     "t": "Les lèvres du juste connaissent la grâce, et la bouche des méchants la perversité."
+    }
+   ]
+  },
+  {
+   "c": 11,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La balance fausse est en horreur à Yahweh, mais le poids juste lui est agréable.",
+     "n": [
+      "XI, 1. Le poids juste, litt. la pierre complète : on se servait encore de pierres pour peser."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Si l’orgueil vient, viendra aussi l’ignominie ; mais la sagesse est avec les humbles."
+    },
+    {
+     "v": 3,
+     "t": "L’innocence des hommes droits les dirige, mais les détours des perfides les ruinent."
+    },
+    {
+     "v": 4,
+     "t": "Au jour de la colère, la richesse ne sert de rien, mais la justice délivre de la mort.",
+     "n": [
+      "4. Manque dans les LXX."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "La justice de l’homme intègre dirige ses voies, mais le méchant tombe par sa méchanceté."
+    },
+    {
+     "v": 6,
+     "t": "La justice des hommes droits les délivre, mais les perfides sont pris par leur propre malice."
+    },
+    {
+     "v": 7,
+     "t": "Quand meurt le méchant, son espoir périt, et l’attente du pervers est anéantie."
+    },
+    {
+     "v": 8,
+     "t": "Le juste est délivré de l’angoisse, et le méchant y tombe à sa place."
+    },
+    {
+     "v": 9,
+     "t": "Par sa bouche l’impie prépare la ruine de son prochain, mais les justes seront délivrés par la science."
+    },
+    {
+     "v": 10,
+     "t": "Quand les justes sont heureux, la ville se réjouit ; quand les méchants périssent, on pousse des cris de joie."
+    },
+    {
+     "v": 11,
+     "t": "Par la bénédiction des hommes droits la ville prospère ; elle est renversée par la bouche des impies."
+    },
+    {
+     "v": 12,
+     "t": "Celui qui méprise son prochain est dépourvu de sens, mais l’homme intelligent se tait."
+    },
+    {
+     "v": 13,
+     "t": "Le médisant dévoile les secrets, mais l’homme au cœur fidèle tient la chose cachée."
+    },
+    {
+     "v": 14,
+     "t": "Quand la direction fait défaut, le peuple tombe ; le salut est le grand nombre des conseillers."
+    },
+    {
+     "v": 15,
+     "t": "Qui cautionne un inconnu s’en repent, mais celui qui craint de s’engager est en sécurité."
+    },
+    {
+     "v": 16,
+     "t": "La femme qui a de la grâce obtient la gloire, les hommes énergiques acquièrent la richesse.",
+     "n": [
+      "16. LXX. La femme qui a de la grâce attire de la gloire à son mari, mais la femme qui hait la justice est un trône de déshonneur. Les hommes mous viennent à perdre leurs richesses, mais les hommes énergiques acquièrent la richesse."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "L’homme charitable fait du bien à son âme, mais l’homme cruel afflige sa propre chair."
+    },
+    {
+     "v": 18,
+     "t": "Le méchant fait un travail trompeur, mais celui qui sème la justice a une récompense assurée."
+    },
+    {
+     "v": 19,
+     "t": "La justice conduit à la vie, mais celui qui poursuit le mal va à la mort."
+    },
+    {
+     "v": 20,
+     "t": "Les hommes au cœur pervers sont en abomination à Yahweh, mais ceux qui sont intègres en leur voie sont l’objet de ses complaisances."
+    },
+    {
+     "v": 21,
+     "t": "Non, le méchant ne restera pas impuni, mais la postérité des justes sera sauvée."
+    },
+    {
+     "v": 22,
+     "t": "Un anneau d’or au nez d’un pourceau, telle est la femme belle et dépourvue de sens."
+    },
+    {
+     "v": 23,
+     "t": "Le désir des justes, c’est uniquement le bien ; l’attente des méchants, c’est la fureur."
+    },
+    {
+     "v": 24,
+     "t": "Celui-ci donne libéralement et s’enrichit ; cet autre épargne outre mesure et s’appauvrit."
+    },
+    {
+     "v": 25,
+     "t": "L’âme bienfaisante sera rassasiée, et celui qui arrose sera lui-même arrosé.",
+     "n": [
+      "25. LXX. Âme bénie, tout homme simple ; l’homme irascible n’est pas honorable."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Celui qui retient le blé est maudit du peuple, mais la bénédiction est sur la tête de celui qui le vend.",
+     "n": [
+      "26. LXX. Que celui qui garde le blé le laisse au peuple, mais…"
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Celui qui recherche le bien trouve la faveur, mais celui qui cherche le mal, le mal l’atteindra.",
+     "n": [
+      "27. Vulg., il a raison de se lever matin celui qui cherche le bien."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Celui qui se confie dans sa richesse tombera, mais les justes germeront comme le feuillage."
+    },
+    {
+     "v": 29,
+     "t": "Celui qui trouble sa maison héritera le vent, et l’insensé sera l’esclave de l’homme sage."
+    },
+    {
+     "v": 30,
+     "t": "Le fruit du juste est un arbre de vie, et qui fait la conquête des âmes est sage.",
+     "n": [
+      "30. Et qui fait la conquête etc. Traduction douteuse. LXX, Les vies des impies sont emportées avant le temps."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "Si le juste reçoit sur la terre une rétribution de peines, combien plus le méchant et le pécheur !"
+    }
+   ]
+  },
+  {
+   "c": 12,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Celui qui aime l’instruction aime la science ; celui qui hait la réprimande est insensé."
+    },
+    {
+     "v": 2,
+     "t": "Celui qui est bon obtient la faveur de Yahweh, mais Yahweh condamne l’homme de malice.",
+     "n": [
+      "XII, 2. L’homme de malice. Vulg., mais celui qui met sa confiance dans ses propres pensées agit en impie."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "L’homme ne s’affermit pas par la méchanceté, mais la racine des justes ne sera pas ébranlée."
+    },
+    {
+     "v": 4,
+     "t": "Une femme vertueuse est la couronne de son mari, mais la femme sans honneur est comme la carie dans ses os.",
+     "n": [
+      "4. Mais la femme sans honneur, m. à m. qui fait honte. LXX, pareille au ver dans les bois, la femme méchante perd son mari."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Les pensées des justes sont l’équité ; les conseils des méchants, la fraude."
+    },
+    {
+     "v": 6,
+     "t": "Les paroles des méchants sont des pièges de mort, mais la bouche des hommes droits les sauve."
+    },
+    {
+     "v": 7,
+     "t": "Le méchant fait un tour, et il n’est plus ; mais la maison des justes reste debout."
+    },
+    {
+     "v": 8,
+     "t": "L’homme est estimé dans la mesure de son intelligence ; mais l’homme au cœur pervers sera méprisé."
+    },
+    {
+     "v": 9,
+     "t": "Mieux vaut un homme humble qui suffit à ses besoins, qu’un glorieux manquant de pain.",
+     "n": [
+      "9. Qui suffit à ses besoins, m. à m. qui est esclave (serviteur) pour lui-même. D’autres : et qui a quand même un serviteur."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Le juste s’occupe de son bétail, mais les entrailles des méchants sont cruelles."
+    },
+    {
+     "v": 11,
+     "t": "Celui qui cultive son champ est rassasié de pain, mais celui qui poursuit des choses inutiles est dépourvu de sens.",
+     "n": [
+      "11. LXX et Vulg. ajoutent : celui qui se plaît dans les réunions où l’on boit le vin laisse la honte dans ses citadelles."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Le méchant convoite la proie des méchants, mais la racine des justes donne son fruit.",
+     "n": [
+      "12. Le méchant convoite… Vulg., le méchant désire que ses pareils s’affermissent. LXX, les désirs des impies sont mauvais."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Il y a dans le péché des lèvres un piège funeste, mais le juste se tire de la détresse.",
+     "n": [
+      "13. Après le v. 13, LXX ajoutent : celui qui regarde avec bonté, sera traité avec miséricorde ; mais celui qui se présente aux portes (pour disputer) afflige les âmes."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "C’est par le fruit de sa bouche qu’on est rassasié de biens, et il sera rendu à chacun suivant l’œuvre de ses mains."
+    },
+    {
+     "v": 15,
+     "t": "La voie de l’insensé est droite à ses yeux, mais le sage écoute les conseils."
+    },
+    {
+     "v": 16,
+     "t": "L’insensé laisse voir aussitôt sa colère, mais l’homme prudent sait dissimuler un outrage."
+    },
+    {
+     "v": 17,
+     "t": "Celui qui proclame la vérité dit ce qui est juste, et le faux témoin profère la perfidie.",
+     "n": [
+      "17. Vulg. : celui qui dit ce qu’il sait manifeste la justice, la vérité : mais l’homme de mensonge est un témoin trompeur."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Tel qui parle inconsidérément blesse comme un glaive, mais la langue des sages procure la guérison.",
+     "n": [
+      "18. Vulg. ( 1 er membre) : tel qui promet à la légère est ensuite percé par le glaive de sa conscience."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "La langue véridique restera toujours, mais la langue mensongère est confondue en un clin d’œil."
+    },
+    {
+     "v": 20,
+     "t": "La fraude est dans le cœur de ceux qui méditent le mal, mais la joie est pour ceux qui conseillent la paix."
+    },
+    {
+     "v": 21,
+     "t": "Aucun malheur n’arrive au juste, mais les méchants sont accablés de maux."
+    },
+    {
+     "v": 22,
+     "t": "Les lèvres menteuses sont en horreur à Yahweh, mais ceux qui agissent selon la vérité lui sont agréables."
+    },
+    {
+     "v": 23,
+     "t": "L’homme prudent cache sa science, mais le cœur de l’insensé publie sa folie.",
+     "n": [
+      "23. LXX. L’homme intelligent est un trône de prudence, le cœur des insensés rencontre les malédictions."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "La main vigilante dominera, mais la main indolente sera tributaire."
+    },
+    {
+     "v": 25,
+     "t": "Le chagrin dans le cœur de l’homme l’abat, mais une bonne parole le réjouit."
+    },
+    {
+     "v": 26,
+     "t": "Le juste montre la voie à son ami, mais la voie des méchants les égare.",
+     "n": [
+      "26. Montre la voie. Vulg. : le juste s’inquiète peu d’éprouver un dommage pour son ami."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Le paresseux ne rôtit pas son gibier, mais l’activité est pour l’homme un précieux trésor.",
+     "n": [
+      "27. Le paresseux, litt., la paresse, l’abstrait pour le concret. Ne rôtit pas, ou ne fait pas lever ou n’atteint pas. Vulg., le trompeur ne fait pas de profit, tandis que les biens du juste ont le prix de l’or."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Dans le sentier de la justice est la vie, et dans le chemin qu’elle trace l’immortalité.",
+     "n": [
+      "28. Et dans le chemin. Vulg., mais le chemin détourné conduit à la mort."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 13,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Le fils sage révèle l’instruction de son père, mais le moqueur n’écoute pas la réprimande."
+    },
+    {
+     "v": 2,
+     "t": "Du fruit de sa bouche l’homme goûte le bien, mais le désir des perfides, c’est la violence."
+    },
+    {
+     "v": 3,
+     "t": "Celui qui veille sur sa bouche garde son âme ; celui qui ouvre trop ses lèvres court à sa perte."
+    },
+    {
+     "v": 4,
+     "t": "Le paresseux à des désirs, et ils ne sont pas satisfaits, mais le désir des hommes diligents sera rassasié.",
+     "n": [
+      "XIII, 4. Vulg. ( 1 er membre), le paresseux veut et ne veut pas. LXX. Tout paresseux a des désirs, mais les mains des virils sont diligentes."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Le juste déteste les paroles mensongères ; le méchant procure la honte et la confusion.",
+     "n": [
+      "5. Le méchant procure la honte et la confusion. Vulg., attire la confusion sur les autres et sur lui-même."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "La justice garde la voie de l’homme intègre, mais la méchanceté cause la ruine du pécheur.",
+     "n": [
+      "6. Manque dans les LXX. — La voie de l’homme intègre, litt. l’intégrité de voie. — Du pécheur, litt. du péché."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Tel fait le riche qui n’a rien, tel fait le pauvre qui a de grands biens."
+    },
+    {
+     "v": 8,
+     "t": "La richesse d’un homme est rançon de sa vie, mais le pauvre n’entend même pas la menace."
+    },
+    {
+     "v": 9,
+     "t": "La lumière du juste brille joyeusement, mais la lampe des méchants s’éteint.",
+     "n": [
+      "9. LXX ajoutent après le v. 9. Les âmes rusées errent dans les péchés, mais les justes ont de la pitié et de la miséricorde."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "L’orgueil ne produit que des querelles ; mais la sagesse est avec ceux qui se laissent conseiller.",
+     "n": [
+      "10. Mais la sagesse… LXX, mais ceux qui se connaissent sont des sages."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "La richesse mal acquise s’évanouit, mais celui qui l’amasse peu à peu l’augmente.",
+     "n": [
+      "11. L’augmente. LXX ajoutent : Le juste a pitié et prête (Cf. Ps. cxii, 5 )."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "L’espoir différé rend le cœur malade, mais le désir accompli est un arbre de vie.",
+     "n": [
+      "12. LXX. Mieux vaut celui qui commence à donner de bon cœur que celui qui promet et donne des espérances ; le bon désir est un arbre de vie."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Celui qui méprise la parole se perd, mais celui qui respecte le précepte sera récompensé.",
+     "n": [
+      "13. Celui qui méprise la parole, se perd, m. à m. lui est engagé, est obligé de payer une amende. Vulg., celui qui dénigre une chose s’engage lui-même pour l’avenir. La Vulg. ajoute au vers. 13 (Cf. LXX, après vers. 9) : Les âmes trompeuses s’égarent dans leurs péchés, mais les justes sont miséricordieux et compatissants. Ici les LXX ajoutent : Un fils rusé n’aura aucun bien, mais les affaires d’un serviteur sage prospéreront, et sa voie sera dans la droiture."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "L’enseignement du sage est une source de vie, pour échapper aux pièges de la mort."
+    },
+    {
+     "v": 15,
+     "t": "Une intelligence cultivée produit la grâce, mais la voie des perfides est rude.",
+     "n": [
+      "15. La grâce. LXX ajoutent : connaître la loi est d’une bonne intelligence."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Tout homme prudent agit avec réflexion, mais l’insensé étale sa folie."
+    },
+    {
+     "v": 17,
+     "t": "Un envoyé méchant tombe dans le malheur, mais un messager fidèle procure la guérison.",
+     "n": [
+      "17. Un envoyé méchant. Vulg., le messager du méchant ou de l’impie. LXX, un roi."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Misère et honte à qui rejette la correction ; celui qui reçoit la réprimande est honoré."
+    },
+    {
+     "v": 19,
+     "t": "Le désir satisfait réjouit l’âme, et s’éloigner du mal fait horreur aux insensés.",
+     "n": [
+      "19. LXX. Les désirs des hommes pieux réjouissent l’âme, les œuvres des impies sont loin de la science."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Celui qui fréquente les sages devient sage, mais celui qui se plaît avec les insensés devient méchant."
+    },
+    {
+     "v": 21,
+     "t": "Le malheur poursuit les pécheurs, mais le bonheur récompense les justes."
+    },
+    {
+     "v": 22,
+     "t": "L’homme de bien laisse sont héritage aux enfants de ses enfants ; mais la richesse du pécheur est réservée au juste."
+    },
+    {
+     "v": 23,
+     "t": "Dans le champ défriché par le pauvre abonde la nourriture, mais il en est qui périssent faute de justice.",
+     "n": [
+      "23. LXX. Les justes passent de nombreuses années dans la richesse, mais les impies périssent à bref délai. Vulg., Il y a beaucoup de nourriture dans les champs paternels ; mais les biens rassemblés sans justice sont pour (passent à) d’autres."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Celui qui ménage sa verge hait son fils, mais celui qui l’aime le corrige de bonne heure."
+    },
+    {
+     "v": 25,
+     "t": "Le juste mange et satisfait son appétit, mais le ventre des méchants éprouve la disette."
+    }
+   ]
+  },
+  {
+   "c": 14,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La femme sage bâtit sa maison, et la femme insensée la renverse de ses propres mains.",
+     "n": [
+      "XIV, 1. La femme sage bâtit, m. à m. La sagesse de la femme bâtit."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Celui-là marche dans sa droiture qui craint Yahweh, et celui qui le méprise est pervers dans sa voie.",
+     "n": [
+      "2. Vulg. : celui qui marche dans la voie droite et qui craint Yahweh, est méprisé par celui qui suit une voie honteuse."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Dans la bouche de l’insensé est la verge de son orgueil, mais les lèvres des sages les gardent."
+    },
+    {
+     "v": 4,
+     "t": "Où il n’y a pas de bœufs, la crèche est vide, mais la vigueur des bœufs procure des revenus abondants."
+    },
+    {
+     "v": 5,
+     "t": "Le témoin fidèle ne ment pas, mais le faux témoin profère des mensonges.",
+     "n": [
+      "5. Répétit. de xii, 17."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Le moqueur cherche la sagesse et ne la trouve pas, mais pour l’homme intelligent la science est facile."
+    },
+    {
+     "v": 7,
+     "t": "Éloigne-toi de l’insensé ; car tu sais que la science n’est pas sur ses lèvres.",
+     "n": [
+      "7. Traduction incertaine d’un texte douteux. Vulg. ( 2 e membre), qui ne connaît pas les lèvres de la science. LXX. Toutes choses sont contraires à l’insensé, mais les lèvres sages sont des armes de prudence."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "La sagesse de l’homme prudent est de comprendre sa voie ; la folie des insensés, c’est la tromperie."
+    },
+    {
+     "v": 9,
+     "t": "L’insensé se rit du péché, mais parmi les hommes droits est la bienveillance.",
+     "n": [
+      "9. LXX. Les maisons des impies devront être purifiées, mais les maisons des justes sont acceptables (à Dieu et aux hommes)."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Le cœur connaît ses propres chagrins, et un étranger ne peut partager sa joie.",
+     "n": [
+      "10. Et un étranger… LXX, et quand il se réjouit, il n’a pas d’alliance avec l’orgueil."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "La maison des méchants sera détruite, mais la tente des hommes droits fleurira."
+    },
+    {
+     "v": 12,
+     "t": "Telle voie paraît droite à un homme, mais son issue, c’est la voie de la mort."
+    },
+    {
+     "v": 13,
+     "t": "Même dans le rire le cœur trouve la douleur, et la joie se termine par le deuil.",
+     "n": [
+      "13. LXX ( 1 er membre) : Dans la joie ne se mêle pas la douleur."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "L’impie sera rassasié de ses voies, et l’homme de bien de ses fruits.",
+     "n": [
+      "14. Vulg. ( 2 e membre) : et l’homme de bien sera au-dessus de lui."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "L’homme simple croit à toute parole, mais l’homme prudent veille sur ses pas.",
+     "n": [
+      "15. La Vulg. introduit ici l’addition de LXX, xiii, 13."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Le sage craint et se détourne du mal, mais l’insensé s’emporte et reste en sécurité.",
+     "n": [
+      "16. S’emporte. LXX, se mêle au méchant."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "L’homme prompt à s’irriter fait des sottises, et le malicieux s’attire la haine.",
+     "n": [
+      "17. Le malicieux… LXX et l’homme prudent souffre beaucoup de choses."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Les simples ont en partage la folie, et les prudents se font de la science une couronne.",
+     "n": [
+      "18. Vulg. ( 2 e membre) : et les habiles attendront la science."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Les méchants s’inclinent devant les bons, et les impies aux portes du juste."
+    },
+    {
+     "v": 20,
+     "t": "Le pauvre est odieux même à son ami ; mais les amis du riche sont nombreux."
+    },
+    {
+     "v": 21,
+     "t": "Celui qui méprise son prochain commet un péché ; mais heureux celui qui a pitié des malheureux !",
+     "n": [
+      "21. Des malheureux. Vulg. ajoute : celui qui croit au Seigneur aime la miséricorde."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Ne s’égarent-ils pas ceux qui méditent le mal, et la faveur et la vérité ne sont-elles pas pour ceux qui méditent le bien ?",
+     "n": [
+      "22. LXX. Ceux qui errent méditent le mal, les bons méditent la miséricorde et la vérité. Ceux qui méditent le mal ne connaissent ni miséricorde ni fidélité, les actes de miséricorde et de fidélité sont chez ceux qui méditent le bien. Vulg. ( 2 e membre), la miséricorde et la vérité procurent le bonheur."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Tout travail produit l’abondance, mais les paroles vaines mènent à la disette."
+    },
+    {
+     "v": 24,
+     "t": "La richesse est une couronne pour les sages ; la folie des insensés est toujours folie."
+    },
+    {
+     "v": 25,
+     "t": "Le témoin véridique délivre des âmes, l’astuce profère des mensonges."
+    },
+    {
+     "v": 26,
+     "t": "Celui qui craint Yahweh trouve un appui solide, et ses enfants ont un sûr refuge."
+    },
+    {
+     "v": 27,
+     "t": "La crainte de Yahweh est une source de vie, pour échapper aux pièges de la mort."
+    },
+    {
+     "v": 28,
+     "t": "Le peuple nombreux est la gloire du roi ; le manque de sujets, c’est la ruine du prince."
+    },
+    {
+     "v": 29,
+     "t": "Celui qui est lent à la colère a une grande intelligence ; mais celui qui est prompt à s’emporter publie sa folie."
+    },
+    {
+     "v": 30,
+     "t": "Un cœur tranquille est la vie du corps, mais l’envie est la carie des os."
+    },
+    {
+     "v": 31,
+     "t": "Celui qui opprime le pauvre outrage celui qui l’a fait ; mais il l’honore celui qui a pitié de l’indigent."
+    },
+    {
+     "v": 32,
+     "t": "Par sa propre malice le méchant est renversé ; jusque dans sa mort le juste a confiance."
+    },
+    {
+     "v": 33,
+     "t": "Dans le cœur de l’homme intelligent repose la sagesse, et au milieu des insensés on la reconnaît.",
+     "n": [
+      "33. Et au milieu… Vulg., et elle instruira tous les ignorants."
+     ]
+    },
+    {
+     "v": 34,
+     "t": "La justice élève une nation, mais le péché est l’opprobre des peuples.",
+     "n": [
+      "34. Est l’opprobre des peuples. LXX et Vulg., rend les peuples misérables."
+     ]
+    },
+    {
+     "v": 35,
+     "t": "La faveur du roi est pour le serviteur intelligent, et sa colère pour celui qui fait honte.",
+     "n": [
+      "35. Pour celui qui fait honte. Vulg., pour le serviteur inutile."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 15,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Une réponse douce calme la fureur, mais une parole dure excite la colère.",
+     "n": [
+      "XV, 1. Au début du chap. LXX ajoutent : La colère perd même les prudents."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "La langue des sages rend la science aimable ; de la bouche des insensés déborde la folie."
+    },
+    {
+     "v": 3,
+     "t": "Les yeux de Yahweh sont en tout lieu, observant les méchants et les bons."
+    },
+    {
+     "v": 4,
+     "t": "la parole douce est un arbre de vie, mais la langue perverse brise le cœur."
+    },
+    {
+     "v": 5,
+     "t": "L’insensé méprise l’instruction de son père, mais celui qui profite de la réprimande devient plus sage.",
+     "n": [
+      "5. Vulg. et LXX ajoutent : Dans une justice abondante se trouve une grande force, mais les conseils des méchants seront déracinés."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Il y a grande richesse dans la maison du juste, mais il y a du trouble dans les gains du méchant."
+    },
+    {
+     "v": 7,
+     "t": "Les lèvres du sage répandent la science, mais non le cœur de l’insensé."
+    },
+    {
+     "v": 8,
+     "t": "Le sacrifice des méchants est en horreur à Yahweh, mais la prière des hommes droits lui plaît."
+    },
+    {
+     "v": 9,
+     "t": "La voie du méchant est en abomination à Yahweh, mais il aime celui qui poursuit la justice."
+    },
+    {
+     "v": 10,
+     "t": "Une correction sévère frappe celui qui abandonne le sentier ; celui qui hait la réprimande mourra."
+    },
+    {
+     "v": 11,
+     "t": "Le schéol et l’abîme sont à nu devant Yahweh : combien plus les cœurs des enfants des hommes !"
+    },
+    {
+     "v": 12,
+     "t": "Le moqueur n’aime pas qu’on le reprenne, il ne va pas vers les sages."
+    },
+    {
+     "v": 13,
+     "t": "Un cœur joyeux rend le visage serein, mais, quand le cœur est triste, l’esprit est abattu."
+    },
+    {
+     "v": 14,
+     "t": "Le cœur intelligent cherche la science, mais la bouche des insensés se repaît de folie."
+    },
+    {
+     "v": 15,
+     "t": "Tous les jours de l’affligé sont mauvais, mais le cœur content est un festin perpétuel."
+    },
+    {
+     "v": 16,
+     "t": "Mieux vaut peu avec la crainte de Yahweh, qu’un grand trésor avec le trouble."
+    },
+    {
+     "v": 17,
+     "t": "Mieux vaut des légumes avec de l’affection, qu’un bœuf gras avec de la haine."
+    },
+    {
+     "v": 18,
+     "t": "L’homme violent excite des querelles, mais le patient apaise les disputes.",
+     "n": [
+      "18. LXX. L’homme irascible suscite des querelles ; le patient adoucit celles qui sont en voie de se produire. L’homme patient éteint les procès, l’impie les excite plutôt."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Le chemin du paresseux est comme une haie d’épines, mais le sentier des hommes droits est aplani."
+    },
+    {
+     "v": 20,
+     "t": "Un fils sage fait la joie de son père, et l’insensé méprise sa mère."
+    },
+    {
+     "v": 21,
+     "t": "La folie est une joie pour l’homme dépourvu de sens, mais un homme intelligent suit le droit chemin."
+    },
+    {
+     "v": 22,
+     "t": "Les projets échouent faute de délibération, mais ils réussissent quand il y a de nombreux conseillers."
+    },
+    {
+     "v": 23,
+     "t": "L’homme a de la joie pour une bonne réponse de sa bouche, et combien est agréable une parole dite à propos !"
+    },
+    {
+     "v": 24,
+     "t": "Le sage suit un sentier de vie qui mène en haut, pour se détourner du schéol qui est en bas.",
+     "n": [
+      "24. Vulg., le sentier de la vie est au-dessus de l’homme instruit, pour lui faire éviter le profond abîme du schéol. LXX. Les pensées de l’homme intelligent sont un chemin de vie, pour que, se détournant, il évite l’enfer."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Yahweh renverse la maison des orgueilleux, mais il affermit les bornes de la veuve."
+    },
+    {
+     "v": 26,
+     "t": "Les pensées mauvaises sont en horreur à Yahweh, mais les paroles bienveillantes sont pures à ses yeux.",
+     "n": [
+      "26. Les mots firmabitut ab eo sont une addition de la Vulgate."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Celui qui est âpre au gain trouble sa maison, mais celui qui hait les présents vivra.",
+     "n": [
+      "27. Entre le v. 27 et le v. 28, les LXX et la Vulg. insèrent le v. 6 du chap. xvi."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Le cœur du juste médite ce qu’il doit répondre, mais le mal jaillit de la bouche des méchants.",
+     "n": [
+      "28. Mais le mal etc. ; m. à m., mais la bouche des méchants profère des méchancetés. Entre les v. 28 et 29, LXX insèrent xvi, 7."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Yahweh est loin des méchants, mais il écoute la prière des justes.",
+     "n": [
+      "29. Entre les v. 29 et 30, LXX insèrent xvi, 8, 9."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "Un regard bienveillant réjouit le cœur ; une bonne nouvelle engraisse les os.",
+     "n": [
+      "30. Un regard bienveillant ; m. à m., la lumière des yeux."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "L’oreille qui écoute les réprimandes salutaires a sa demeure parmi les sages.",
+     "n": [
+      "31. Ce vers. manque dans la plupart des manuscrits grecs. — Réprimandes salutaires, litt. réprimandes de vie."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "Celui qui rejette la correction méprise son âme, mais celui qui écoute la réprimande acquiert la sagesse."
+    },
+    {
+     "v": 33,
+     "t": "La crainte de Yahweh est l’école de la sagesse, et l’humilité précède la gloire.",
+     "n": [
+      "33. LXX : La crainte du Seigneur est discipline et sagesse, et le commencement de la gloire lui correspondra. Toutes les œuvres de l’humble sont manifestes devant Dieu, mais les impies périront au jour mauvais."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 16,
+   "verses": [
+    {
+     "v": 1,
+     "t": "À l’homme de former des projets dans son cœur, mais la réponse de la langue vient de Yahweh.",
+     "n": [
+      "1. À l’homme etc. ; m. à m., à l’homme les préparations du cœur. Vulg., à l’homme de préparer son âme, et à Dieu de gouverner la langue.",
+      "XVI, 1-3. Manquent dans les principaux manuscrits des LXX."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Toutes les voies de l’homme sont pures à ses yeux, mais Yahweh pèse les esprits."
+    },
+    {
+     "v": 3,
+     "t": "Recommande tes œuvres à Yahweh, et tes projets réussiront."
+    },
+    {
+     "v": 4,
+     "t": "Yahweh a tout fait pour son but, et le méchant lui-même pour le jour du malheur.",
+     "n": [
+      "4. Pour son but. Vulg., pour lui-même. LXX (qui placent ce v. après le v. 5), toutes les œuvres du Seigneur sont avec justice, et l’impie est réservé pour le jour mauvais."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Quiconque a le cœur hautain est en abomination à Yahweh ; sûrement, il ne sera pas impuni.",
+     "n": [
+      "5. Sûrement, litt. la main sur la main : formule de serment, comme xi, 21. Vulg. et LXX ajoutent : le commencement de la bonne voie, c’est de pratiquer la justice, laquelle est plus agréable à Dieu que les victimes offertes en sacrifice ; celui qui cherche le Seigneur trouvera la science avec la justice ; ceux qui le cherchent avec soin trouveront la paix."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Par la bonté et la fidélité on expie l’iniquité, et par la crainte de Yahweh on se détourne du mal.",
+     "n": [
+      "6-9. Paraît manquer dans les LXX."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Quand Yahweh a pour agréables les voies d’un homme, il réconcilie avec lui ses ennemis mêmes."
+    },
+    {
+     "v": 8,
+     "t": "Mieux vaut peu avec la justice, que de grands revenus avec l’injustice."
+    },
+    {
+     "v": 9,
+     "t": "Le cœur de l’homme médite sa voie, mais c’est Yahweh qui dirige ses pas. Devoirs des rois ; leur faveur (xvi, 10-15)."
+    },
+    {
+     "v": 10,
+     "t": "Des oracles sont sur les lèvres du roi ; que sa bouche ne pèche pas quand il juge !",
+     "n": [
+      "10. Sens : puisque le peuple regarde comme un oracle la parole du roi, que celui-ci se garde de rendre une décision injuste."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "La balance et les plateaux justes sont de Yahweh, tous les poids du sac sont son ouvrage.",
+     "n": [
+      "11. Vulg. ( 1 er membre) : le poids et la balance sont des jugements de Dieu."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "C’est une abomination pour les rois de faire le mal, car c’est par la justice que le trône s’affermit."
+    },
+    {
+     "v": 13,
+     "t": "Les lèvres justes jouissent de la faveur des rois, et ils aiment celui qui parle avec droiture."
+    },
+    {
+     "v": 14,
+     "t": "La fureur du roi est un messager de mort, mais un homme sage l’apaise."
+    },
+    {
+     "v": 15,
+     "t": "La sérénité du visage du roi donne la vie, et sa faveur est comme la pluie du printemps."
+    },
+    {
+     "v": 16,
+     "t": "Acquérir la sagesse vaut bien mieux que l’or ; acquérir l’intelligence est bien préférable à l’argent."
+    },
+    {
+     "v": 17,
+     "t": "Le grand chemin des hommes droits, c’est d’éviter le mal ; celui-là garde son âme qui veille sur sa voie.",
+     "n": [
+      "17. LXX. Les sentiers de la vie s’écartent du mal, et les voies de la justice sont une longueur de vie ; celui qui reçoit la correction sera dans la prospérité, et celui qui observe les réprimandes deviendra sage. Celui qui veille sur ses voies garde son âme, et celui qui aime sa vie veille sur sa bouche."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "L’orgueil précède la ruine, et la fierté précède la chute."
+    },
+    {
+     "v": 19,
+     "t": "Mieux vaut être humble avec les petits que de partager le butin avec les orgueilleux."
+    },
+    {
+     "v": 20,
+     "t": "Celui qui est attentif à la parole trouve le bonheur, et celui qui se confie en Yahweh est heureux.",
+     "n": [
+      "20. À la parole, celle de Dieu de celle des sages."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Celui qui est sage de cœur est appelé intelligent, et la douceur des lèvres augmente le savoir."
+    },
+    {
+     "v": 22,
+     "t": "La sagesse est une source de vie pour celui qui la possède, et le châtiment de l’insensé, c’est sa folie."
+    },
+    {
+     "v": 23,
+     "t": "Le cœur du sage donne la sagesse à sa bouche, et sur ses lèvres accroît le savoir."
+    },
+    {
+     "v": 24,
+     "t": "Les bonnes paroles sont un rayon de miel, douces à l’âme et salutaires au corps."
+    },
+    {
+     "v": 25,
+     "t": "Telle voie paraît droite à un homme, mais son issue, c’est la voie de la mort."
+    },
+    {
+     "v": 26,
+     "t": "Le travailleur travaille pour lui, car sa bouche l’y excite.",
+     "n": [
+      "26. Le sens précis de cette maxime n’est pas absolument sûr. LXX : Un homme qui travaille, travaille pour lui-même et bannit sa ruine, mais le pervers attire la ruine sur sa bouche."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "L’homme pervers prépare le malheur, et il y a sur ses lèvres comme un feu ardent.",
+     "n": [
+      "27. Prépare, litt. creuse le malheur."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "L’homme pervers excite des querelles, et le rapporteur divise les amis.",
+     "n": [
+      "28. Divise les amis, ou encore, écarte l’ami du rapporteur lui-même."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "L’homme violent séduit son prochain, et le conduit dans une voie qui n’est pas bonne."
+    },
+    {
+     "v": 30,
+     "t": "Celui qui ferme les yeux pour méditer la tromperie, celui qui pince les lèvres, commet déjà le mal."
+    },
+    {
+     "v": 31,
+     "t": "Les cheveux blancs sont une couronne d’honneur ; c’est dans le chemin de la justice qu’on la trouve."
+    },
+    {
+     "v": 32,
+     "t": "Celui qui est lent à la colère vaut mieux qu’un héros ; et celui qui domine son esprit, que le guerrier qui prend les villes."
+    },
+    {
+     "v": 33,
+     "t": "On jette les sorts dans le pan de la robe, mais de Yahweh vient toute décision."
+    }
+   ]
+  },
+  {
+   "c": 17,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mieux vaut un morceau de pain sec avec la paix, qu’une maison pleine de viande avec la discorde.",
+     "n": [
+      "XVII, 1. Pleine de viande avec la discorde ; m à m., pleine de victimes de discorde."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Un serviteur prudent l’emporte sur le fils qui fait honte, et il partagera l’héritage avec les frères."
+    },
+    {
+     "v": 3,
+     "t": "Le creuset éprouve l’argent et le fourneau l’or ; celui qui éprouve les cœurs, c’est le Seigneur."
+    },
+    {
+     "v": 4,
+     "t": "Le méchant écoute la lèvre inique, le menteur prête l’oreille à la mauvaise langue."
+    },
+    {
+     "v": 5,
+     "t": "Celui qui se moque du pauvre outrage celui qui l’a fait ; celui qui se réjouit d’un malheur ne restera pas impuni.",
+     "n": [
+      "5. Ne restera pas impuni. LXX ajoutent : et celui qui a de la compassion trouvera miséricorde."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Les enfants des enfants sont la couronne des vieillards, et les pères sont la gloire de leurs enfants.",
+     "n": [
+      "6. LXX ajoutent : À celui qui est fidèle un monde tout entier de richesses ; à celui qui est infidèle, pas une obole."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Des paroles distinguées ne conviennent pas à l’insensé ; mais bien moins à un noble les paroles mensongères !"
+    },
+    {
+     "v": 8,
+     "t": "Un présent est une pierre précieuse aux yeux de qui le possède ; partout où il se tourne, il a du succès.",
+     "n": [
+      "8. Vulg. ( 1 er membre) : l’attente d’un présent est déjà un joyau très précieux."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Celui qui couvre une faute cherche l’amitié, et celui qui la rappelle en ses paroles divise les amis."
+    },
+    {
+     "v": 10,
+     "t": "Un blâme fait plus d’impression sur l’homme intelligent que cent coups sur l’insensé."
+    },
+    {
+     "v": 11,
+     "t": "Le méchant ne cherche que rébellion, mais un messager cruel sera envoyé contre lui."
+    },
+    {
+     "v": 12,
+     "t": "Mieux vaut rencontrer une ourse privée de ses petits qu’un insensé pendant sa folie.",
+     "n": [
+      "12. LXX. Un souci peut survenir à l’homme sage, mais les insensés méditent toujours le mal."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Celui qui rend le mal pour le bien ne verra jamais le malheur quitter sa maison."
+    },
+    {
+     "v": 14,
+     "t": "C’est ouvrir une digue que de commencer une querelle ; avant que la dispute s’allume, retire-toi.",
+     "n": [
+      "14. LXX. Le commencement de la discussion (?) est de donner du pouvoir aux paroles ; mais les disputes et les querelles précèdent la disette."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Celui qui absout le coupable et celui qui condamne le juste sont tous deux en abomination à Yahweh."
+    },
+    {
+     "v": 16,
+     "t": "À quoi sert l’argent dans la main de l’insensé ? À acheter la sagesse ? Il n’a pas le sens pour le faire.",
+     "n": [
+      "16. LXX et Vulg. ajoutent : Celui qui élève bien haut sa maison cherche la ruine, et celui qui néglige d’apprendre tombera dans le malheur."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "L’ami aime en tout temps ; dans le malheur il devient un frère.",
+     "n": [
+      "17. Dans le malheur il devient un frère. D’autres, et un frère est né pour le temps du malheur."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "L’homme sans intelligence prend des engagements, il se fait caution pour son prochain.",
+     "n": [
+      "18. Prends des engagements, litt. frappe (dans) la main."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Celui qui aime les querelles aime le péché ; celui qui élève sa parole aime sa ruine.",
+     "n": [
+      "19. Celui qui élève… manque dans LXX."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Qui a un cœur faux ne trouve pas le bonheur, et qui a une langue perverse tombe dans le malheur."
+    },
+    {
+     "v": 21,
+     "t": "Celui qui donne naissance à un insensé en aura du chagrin ; le père d’un fou ne sera pas joyeux.",
+     "n": [
+      "21. LXX ajoutent : mais un fils sage réjouit sa mère."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Un cœur joyeux est un excellent remède ; un esprit abattu dessèche les os."
+    },
+    {
+     "v": 23,
+     "t": "Le méchant reçoit des présents cachés dans le pli du manteau, pour pervertir les sentiers de la justice."
+    },
+    {
+     "v": 24,
+     "t": "L’homme intelligent a devant lui la sagesse, mais les yeux de l’insensé sont à l’extrémité de la terre.",
+     "n": [
+      "24. Vulg. ( 1 er membre), sur le visage de l’homme prudent brille la sagesse."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Un fils insensé fait le chagrin de son père, et l’amertume de sa mère."
+    },
+    {
+     "v": 26,
+     "t": "Il n’est pas bon de frapper le juste d’amende, ni de condamner les nobles à cause de leur droiture."
+    },
+    {
+     "v": 27,
+     "t": "Celui qui contient ses paroles possède la science, et celui qui est calme d’esprit est un homme d’intelligence.",
+     "n": [
+      "27. Vulg. ( 2 e membre), et c’est un précieux esprit que l’homme instruit."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "L’insensé lui-même, quand il se tait, passe pour un sage, pour intelligent, quand il ferme ses lèvres."
+    }
+   ]
+  },
+  {
+   "c": 18,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Celui qui se tient à l’écart ne cherche qu’à contenter sa passion, il s’irrite contre tout sage conseil.",
+     "n": [
+      "XVIII, 1. LXX et Vulg. ( 1 er membre), celui qui veut se séparer de son ami épie les occasions. Cette traduction pourrait être une bonne interprétation du texte massorétique."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Ce n’est pas l’intelligence qui plaît à l’insensé, c’est la manifestation de ses pensées.",
+     "n": [
+      "2. Vulg. L’insensé n’accueille pas les paroles prudentes, à moins que vous ne lui teniez un langage conforme à ce qu’il a dans son cœur."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Quand vient le méchant, vient aussi le mépris, et avec la honte vient l’opprobre.",
+     "n": [
+      "3. LXX et Vulg. L’impie, lorsqu’il est descendu au fond de l’abîme du péché, se moque ; mais la honte et l’opprobre le suivent."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Les paroles de la bouche de l’homme sont des eaux profondes ; la source de la sagesse est un torrent qui déborde."
+    },
+    {
+     "v": 5,
+     "t": "Il n’est pas bon d’avoir égard à la personne du méchant, pour faire tort au juste dans le jugement."
+    },
+    {
+     "v": 6,
+     "t": "Les lèvres de l’insensé se mêlent aux querelles et sa bouche provoque les outrages."
+    },
+    {
+     "v": 7,
+     "t": "La bouche de l’insensé cause sa ruine, et ses lèvres sont un piège pour son âme."
+    },
+    {
+     "v": 8,
+     "t": "Les paroles du rapporteur sont des morceaux friands, elles descendent jusqu’au fond des entrailles.",
+     "n": [
+      "8. Manque dans les LXX. Vulg. et LXX ajoutent : la crainte abat le paresseux, mais les âmes des efféminés éprouveront la faim."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Celui qui est lâche dans son travail est frère de celui qui va à la perdition.",
+     "n": [
+      "9. De celui qui va à la perdition. D’autres : du destructeur."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Le nom de Yahweh est une tour forte ; le juste s’y réfugie et y est en sûreté."
+    },
+    {
+     "v": 11,
+     "t": "La fortune du riche est sa ville forte ; dans sa pensée, c’est une muraille élevée."
+    },
+    {
+     "v": 12,
+     "t": "Avant la ruine, le cœur de l’homme s’élève, mais l’humilité précède la gloire."
+    },
+    {
+     "v": 13,
+     "t": "Celui qui répond avant d’avoir écouté, c’est pour lui folie et confusion."
+    },
+    {
+     "v": 14,
+     "t": "L’esprit de l’homme le soutient dans la maladie mais l’esprit abattu, qui le relèvera ?",
+     "n": [
+      "14. Le soutient dans la maladie ; m. à m., soutient sa maladie."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Un cœur intelligent acquiert la science, et l’oreille des sages cherche la science."
+    },
+    {
+     "v": 16,
+     "t": "Le présent d’un homme lui élargit la voie, et l’introduit auprès des grands."
+    },
+    {
+     "v": 17,
+     "t": "Le premier qui expose sa cause paraît juste ; vient la partie adverse, et on examine le différend.",
+     "n": [
+      "17. LXX et Vulg. Le juste est le premier à s’accuser lui-même ; survient son ami (LXX, l’adversaire ), qui l’examinera à fond."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Le sort fait cesser les contestations, et décide entre les puissants."
+    },
+    {
+     "v": 19,
+     "t": "Un frère ennemi de son frère résiste plus qu’une ville forte, et leurs querelles sont comme les verrous d’un palais.",
+     "n": [
+      "19. Un frère ennemi de son frère. D’autres : frère lésé dans son droit. Le sens précis de tout le verset est difficile à déterminer. Sens général : les querelles entre frères ou entre amis forment un obstacle insurmontable à leur réconciliation. LXX et Vulg. Le frère aidé par son frère est comme une ville forte (LXX, et élevée ) et leur décisions sont comme les verrous des cités (LXX, et il est fort comme un palais fortifié )."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "C’est du fruit de la bouche de l’homme que se nourrit son corps, du produit de ses lèvres qu’il se rassasie."
+    },
+    {
+     "v": 21,
+     "t": "La mort et la vie sont au pouvoir de la langue ; suivant son choix, on mangera ses fruits.",
+     "n": [
+      "21. Suivant son choix etc. ; m. à m., celui qui l’aime en mangera le fruit."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Celui qui trouve une femme trouve le bonheur ; c’est une faveur qu’il a reçue de Yahweh.",
+     "n": [
+      "22. LXX et Vulg. ajoutent : Celui qui chasse une femme bonne chasse le bonheur, et celui qui garde l’adultère est sot et impie."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Le pauvre parle en suppliant, et le riche répond durement."
+    },
+    {
+     "v": 24,
+     "t": "L’homme aux nombreux amis les a pour sa perte, mais il est tel ami plus attaché qu’un frère."
+    }
+   ]
+  },
+  {
+   "c": 19,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mieux vaut le pauvre qui marche dans son intégrité, que l’homme aux lèvres dédaigneuses et qui est insensé.",
+     "n": [
+      "XIX, 1, 2, manquent dans beaucoup de manuscrits grecs."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "L’ignorance de l’âme n’est pas bonne, et celui dont les pieds se hâtent tombe.",
+     "n": [
+      "2 a. D’autres : si quelqu’un ne prend pan attention à son âme (aux désirs de son âme ; ?), cela n’est pas bon."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "La folie de l’homme pervertit sa voie, et c’est contre Yahweh que son cœur s’irrite."
+    },
+    {
+     "v": 4,
+     "t": "La richesse procure un grand nombre d’amis, mais le pauvre se voit séparé de son ami."
+    },
+    {
+     "v": 5,
+     "t": "Le faux témoin ne restera pas impuni, et celui qui dit des mensonges n’échappera pas."
+    },
+    {
+     "v": 6,
+     "t": "Nombreux sont les flatteurs de l’homme généreux, et tous sont les amis de celui qui fait des présents."
+    },
+    {
+     "v": 7,
+     "t": "Tous les frères du pauvre le haïssent ; combien plus ses amis s’éloignent-ils de lui ! Il cherche des paroles bienveillantes, et il n’en trouve pas.",
+     "n": [
+      "7. LXX. Quiconque hait son frère pauvre est loin, lui aussi, de l’amitié. La bonne pensée s’approche de ceux qui la connaissent, et l’homme prudent la trouvera. Celui qui tait beaucoup de mal prépare un malheur complet, celui qui profère des paroles irritantes ne sera pas sauvé."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Celui qui acquiert de l’intelligence aime son âme ; et celui qui observe la prudence obtiendra le bonheur."
+    },
+    {
+     "v": 9,
+     "t": "Le faux témoin ne restera pas impuni, et celui qui dit des mensonges périra."
+    },
+    {
+     "v": 10,
+     "t": "Il ne sied pas à l’insensé de vivre dans les délices ; moins encore à l’esclave de dominer sur les princes !"
+    },
+    {
+     "v": 11,
+     "t": "La sagesse d’un homme le rend patient, et il se fait une gloire d’oublier les offenses."
+    },
+    {
+     "v": 12,
+     "t": "La colère du roi est comme le rugissement d’un lion, et sa faveur est comme la rosée sur l’herbe."
+    },
+    {
+     "v": 13,
+     "t": "Un fils insensé est le malheur de son père, et les querelles d’une femme une gouttière sans fin.",
+     "n": [
+      "13. Une gouttière sans fin ; Vulg., un toit d'où l’eau dégoutte toujours."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Une maison et des richesses sont un héritage paternel ; mais une femme intelligente est un don de Yahweh."
+    },
+    {
+     "v": 15,
+     "t": "La paresse fait tomber dans l’assoupissement, et l’âme nonchalante éprouvera la faim."
+    },
+    {
+     "v": 16,
+     "t": "Celui qui garde le commandement garde son âme ; celui qui n’est pas attentif à sa voie mourra."
+    },
+    {
+     "v": 17,
+     "t": "Celui qui a pitié du pauvre prête à Yahweh, qui récompensera sa bonne œuvre."
+    },
+    {
+     "v": 18,
+     "t": "Châtie ton fils, car il y a encore de l’espérance, mais ne va pas jusqu’à le faire mourir."
+    },
+    {
+     "v": 19,
+     "t": "L’homme à la colère violente en subira la peine ; si tu le sauves une fois, il te faudra recommencer.",
+     "n": [
+      "19 a. D’autres : Celui qui paie une amende grandement irrité. — 19 b. Traduction incertaine d’un texte obscur. Vulg. : lorsqu’il aura enlevé par violence, il ajoutera autre chose."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Écoute les conseils et reçois l’instruction, afin que tu sois sage dans la suite de ta vie."
+    },
+    {
+     "v": 21,
+     "t": "Beaucoup de projets s’agitent dans le cœur de l’homme, mais c’est le dessein de Yahweh qui s’accomplit."
+    },
+    {
+     "v": 22,
+     "t": "Ce qui recommande un homme, c’est sa bonté, et mieux vaut un pauvre qu’un menteur.",
+     "n": [
+      "22. Ce qui recommande un homme ; m. à m. le désir (ce qui le fait désirer) d’un homme. LXX. Le fruit d’un homme est l’aumône. Vulg. l’indigent a de la compassion."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "La crainte de Yahweh mène à la vie, et l’on reste rassasié, sans être visité par le malheur."
+    },
+    {
+     "v": 24,
+     "t": "Le paresseux plonge sa main dans le plat, et ne la ramène pas à sa bouche."
+    },
+    {
+     "v": 25,
+     "t": "Frappe le moqueur, et l’homme simple deviendra sage ; reprends l’homme intelligent, et il comprendra la science."
+    },
+    {
+     "v": 26,
+     "t": "Celui qui maltraite son père et qui fait fuir sa mère est un fils qui se couvre de honte et d’opprobre."
+    },
+    {
+     "v": 27,
+     "t": "Cesse, mon fils, d’écouter l’instruction, et tu t’éloigneras des paroles de la science.",
+     "n": [
+      "27. Vulg. Ne cesse pas d’écouter l’instruction, et n’ignore pas les paroles de la science."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Un témoin pervers se moque de la justice, et la bouche des méchants avale l’iniquité."
+    },
+    {
+     "v": 29,
+     "t": "Les jugements sont prêts pour les railleurs, et les coups pour le dos des insensés."
+    }
+   ]
+  },
+  {
+   "c": 20,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Le vin est moqueur, les boissons fermentées tumultueuses ; quiconque s’y adonne n’est pas sage."
+    },
+    {
+     "v": 2,
+     "t": "Semblable au rugissement du lion est la terreur qu’inspire le roi ; celui qui l’irrite pèche contre lui-même."
+    },
+    {
+     "v": 3,
+     "t": "C’est une gloire pour l’homme de s’abstenir des querelles, mais tout insensé s’abandonne à la colère."
+    },
+    {
+     "v": 4,
+     "t": "À cause du mauvais temps, le paresseux ne laboure pas ; à la moisson, il cherchera, et il n’y aura rien."
+    },
+    {
+     "v": 5,
+     "t": "La pensée dans le cœur de l’homme est une eau profonde, mais l’homme intelligent y puisera."
+    },
+    {
+     "v": 6,
+     "t": "Beaucoup d’hommes vantent leur bonté ; mais un homme fidèle, qui le trouvera ?"
+    },
+    {
+     "v": 7,
+     "t": "Le juste marche dans son intégrité ; heureux ses enfants après lui !"
+    },
+    {
+     "v": 8,
+     "t": "Le roi, assis sur le trône de la justice, dissipe tout mal par son regard."
+    },
+    {
+     "v": 9,
+     "t": "Qui dira : « J’ai purifié mon cœur, je suis net de mon péché ? »",
+     "n": [
+      "XX, 9. Entre les versets 9 et 10, les LXX transposent les versets 20-22."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Poids et poids, épha et épha, sont l’un et l’autre en horreur à Yahweh."
+    },
+    {
+     "v": 11,
+     "t": "L’enfant montre déjà par ses actions si ses œuvres seront pures et droites."
+    },
+    {
+     "v": 12,
+     "t": "L’oreille qui entend et l’œil qui voit, c’est Yahweh qui les a faits l’un et l’autre."
+    },
+    {
+     "v": 13,
+     "t": "N’aime pas le sommeil, pour ne pas devenir pauvre ; ouvre les yeux, et rassasie-toi de pain."
+    },
+    {
+     "v": 14,
+     "t": "Mauvais ! Mauvais ! dit l’acheteur, et, en s’en allant, il se félicite.",
+     "n": [
+      "14. Les vers. 14-19 manquent dans les LXX."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Il y a de l’or et beaucoup de perles, mais les lèvres sages sont un vase précieux."
+    },
+    {
+     "v": 16,
+     "t": "Prends son vêtement, car il a répondu pour autrui ; exige de lui des gages à cause des étrangers."
+    },
+    {
+     "v": 17,
+     "t": "Le pain de fourberie est doux à l’homme, mais à la fin sa bouche est remplie de gravier."
+    },
+    {
+     "v": 18,
+     "t": "Les projets s’affermissent par le conseil ; conduis la guerre avec prudence."
+    },
+    {
+     "v": 19,
+     "t": "Celui qui s’en va médisant dévoile les secrets ; évite avec soin celui qui a les lèvres toujours ouvertes.",
+     "n": [
+      "19. Vulg. Évite celui qui dévoile les secrets, qui agit avec fourberie et qui tient ses lèvres toujours ouvertes."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Si quelqu’un maudit son père et sa mère, sa lampe s’éteindra au sein des ténèbres."
+    },
+    {
+     "v": 21,
+     "t": "Un héritage hâté à l’origine ne sera pas béni à la fin."
+    },
+    {
+     "v": 22,
+     "t": "Ne dis pas : « Je rendrai le mal ; » espère en Yahweh, et il te délivrera."
+    },
+    {
+     "v": 23,
+     "t": "Poids et poids sont en horreur à Yahweh, et la balance fausse n’est pas une chose bonne."
+    },
+    {
+     "v": 24,
+     "t": "C’est Yahweh qui dirige les pas de l’homme ; et l’homme peut-il comprendre sa voie ?"
+    },
+    {
+     "v": 25,
+     "t": "C’est un piège pour l’homme de dire à la légère : « Cela est sacré ! » et de ne réfléchir qu’après le vœu fait.",
+     "n": [
+      "25. Vulg. C’est une ruine pour un homme de persécuter les saints, et ensuite de rétracter ses vœux."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Un roi sage dissipe les méchants, et fait passer sur eux la roue."
+    },
+    {
+     "v": 27,
+     "t": "L’âme de l’homme est une lampe de Yahweh ; elle pénètre jusqu’au fond des entrailles."
+    },
+    {
+     "v": 28,
+     "t": "La bonté et la fidélité gardent le roi, et il affermit son trône par la bonté."
+    },
+    {
+     "v": 29,
+     "t": "La force est la parure des jeunes gens, et les cheveux blancs sont l’ornement des vieillards."
+    },
+    {
+     "v": 30,
+     "t": "La meurtrissure qui déchire la chair guérit le mal ; de même les coups qui atteignent au fond des entrailles."
+    }
+   ]
+  },
+  {
+   "c": 21,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Le cœur du roi est un cours d’eau dans la main de Yahweh, il l’incline partout où il veut.",
+     "n": [
+      "XXI, 1. Le cœur du roi, si impénétrable qu’il soit pour ses sujets, est dans la main de Dieu semblable à un cours d’eau qu’on dirige où l’on veut."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Toutes les voies de l’homme sont droites à ses yeux ; mais celui qui pèse les cœurs, c’est Yahweh."
+    },
+    {
+     "v": 3,
+     "t": "Pratiquer la justice et l’équité, est aux yeux de Yahweh préférable aux sacrifices."
+    },
+    {
+     "v": 4,
+     "t": "Des regards hautains et un cœur superbe : flambeau des méchants, ce n’est que péché.",
+     "n": [
+      "4. Vulg. Les yeux altiers marquent un cœur orgueilleux ; le flambeau des impies, c’est le péché."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Les projets de l’homme diligent ne vont qu’à l’abondance ; mais quiconque précipite ses démarches n’arrive qu’à la disette.",
+     "n": [
+      "5. Manque dans les LXX."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Des trésors acquis par une langue mensongère : vanité fugitive d’hommes qui courent à la mort.",
+     "n": [
+      "6. LXX et Vulg. Celui qui amasse des trésors par une langue de mensonge est vain et insensé, et il tombera dans les filets de la mort."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "La violence des méchants les égare, parce qu’ils n’ont pas voulu pratiquer la justice."
+    },
+    {
+     "v": 8,
+     "t": "La voie du criminel est tortueuse, mais l’innocent agit avec droiture.",
+     "n": [
+      "8. Vulg. ( 1 er membre), la voie perverse de l’homme est une voie détournée."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Mieux vaut habiter à l’angle d’un toit, que de rester avec une femme querelleuse.",
+     "n": [
+      "9. Que de rester etc. ; m. à m., qu’une femme querelleuse et une maison commune."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "L’âme du méchant désire le mal ; son ami ne trouve pas grâce à ses yeux."
+    },
+    {
+     "v": 11,
+     "t": "Quand on châtie le méchant, le simple devient sage, et quand on instruit le sage, il devient plus sage."
+    },
+    {
+     "v": 12,
+     "t": "Le juste considère la maison du méchant ; Dieu précipite les méchants dans le malheur.",
+     "n": [
+      "12. Le juste. Des interprètes voient dans ce mot une épithète désignant Dieu, qui est sûrement le sujet du 2 e membre."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Celui qui ferme l’oreille au cri du pauvre criera lui-même sans qu’on lui réponde."
+    },
+    {
+     "v": 14,
+     "t": "Un don fait en secret apaise la colère, un présent tiré du pli du manteau calme la fureur violente.",
+     "n": [
+      "14. Un présent tiré du pli du manteau, m. à m. ; un présent dans le sein. Selon les uns, un présent tiré de la cachette où il était renfermé ; c’est ce sens qu’indique l’interprétation donnée ci-dessus. Selon d’autres : un présent jeté dans le sein. Le sens général n’est pas douteux."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "C’est une joie pour le juste de pratiquer la justice, mais l’épouvante est pour ceux qui font le mal."
+    },
+    {
+     "v": 16,
+     "t": "L’homme qui s’écarte du sentier de la prudence reposera dans l’assemblée des morts."
+    },
+    {
+     "v": 17,
+     "t": "Celui qui aime la joie sera indigent ; celui qui aime le vin et l’huile parfumée ne s’enrichit pas."
+    },
+    {
+     "v": 18,
+     "t": "Le méchant sert de rançon pour le juste, et le perfide pour les hommes droits.",
+     "n": [
+      "18. Le 2 e membre manque dans les LXX."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Mieux vaut habiter dans une terre déserte qu’avec une femme querelleuse et colère."
+    },
+    {
+     "v": 20,
+     "t": "De précieux trésors, de l’huile sont dans la maison du sage ; mais un homme insensé les engloutit."
+    },
+    {
+     "v": 21,
+     "t": "Celui qui poursuit la justice et la miséricorde trouvera la vie, la justice et la gloire."
+    },
+    {
+     "v": 22,
+     "t": "Le sage prend d’assaut une ville de héros, et il renverse le rempart où elle mettait sa confiance."
+    },
+    {
+     "v": 23,
+     "t": "Celui qui garde sa bouche et sa langue garde son âme des angoisses."
+    },
+    {
+     "v": 24,
+     "t": "On appelle moqueur l’homme hautain, enflé d’orgueil, qui agit avec un excès d’arrogance."
+    },
+    {
+     "v": 25,
+     "t": "Les désirs du paresseux le tuent, parce que ses mains refusent de travailler."
+    },
+    {
+     "v": 26,
+     "t": "Tout le jour il désire avec ardeur, mais le juste donne sans relâche."
+    },
+    {
+     "v": 27,
+     "t": "Le sacrifice des méchants est abominable, surtout quand ils l’offrent avec des pensées criminelles !"
+    },
+    {
+     "v": 28,
+     "t": "Le témoin menteur périra, mais l’homme qui écoute pourra parler toujours.",
+     "n": [
+      "28. Mais l’homme… Vulg. : l’homme obéissant racontera des victoires."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Le méchant prend un air effronté, mais l’homme droit dirige sa voie."
+    },
+    {
+     "v": 30,
+     "t": "Il n’y a ni sagesse, ni prudence, ni conseil en face de Yahweh."
+    },
+    {
+     "v": 31,
+     "t": "On équipe le cheval pour le jour du combat, mais de Yahweh dépend la victoire."
+    }
+   ]
+  },
+  {
+   "c": 22,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La bonne renommée vaut mieux que de grandes richesses, et l’estime a plus de prix que l’argent et que l’or."
+    },
+    {
+     "v": 2,
+     "t": "Le riche et le pauvre se rencontrent ; Yahweh est leur auteur à tous deux."
+    },
+    {
+     "v": 3,
+     "t": "L’homme prudent voit le mal et se cache, mais les simples passent outre et en portent la peine."
+    },
+    {
+     "v": 4,
+     "t": "Le fruit de l’humilité, c’est la crainte de Yahweh ; c’est la richesse, la gloire et la vie."
+    },
+    {
+     "v": 5,
+     "t": "Des épines et des pièges sont sur la voie du pervers ; celui qui garde son âme s’en éloigne."
+    },
+    {
+     "v": 6,
+     "t": "Instruis l’enfant selon la voie qu’il doit suivre ; et, même lorsqu’il sera vieux, il ne s’en détournera pas.",
+     "n": [
+      "XXII, 6. Instruis l’enfant etc. D’autres : Instruis l’enfant au début de sa vie, quand il est jeune. Vulgate ( 1 er membre) : C’est un proverbe : le jeune homme une fois engagé dans sa voie, ne la quittera plus. Ce verset manque dans les LXX."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Le riche domine sur les pauvres, et celui qui emprunte est l’esclave de celui qui prête."
+    },
+    {
+     "v": 8,
+     "t": "Celui qui sème l’injustice moissonne le malheur, et la verge de sa colère disparaît.",
+     "n": [
+      "8. LXX ajoutent : Dieu bénit l’homme joyeux et prêt à donner ; mais il consumera la vanité de ses œuvres."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "L’homme au regard bienveillant sera béni, parce qu’il donne de son pain au pauvre.",
+     "n": [
+      "9. LXX et Vulg. ajoutent : Celui qui fait des présents obtiendra la victoire et l’honneur, et ravira l’âme de ceux qui les reçoivent."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Chasse le moqueur, et la querelle prendra fin ; la dispute et l’outrage cesseront."
+    },
+    {
+     "v": 11,
+     "t": "Celui qui aime la pureté du cœur, et qui a la grâce sur les lèvres, a le roi pour ami."
+    },
+    {
+     "v": 12,
+     "t": "Les yeux de Yahweh gardent la science, mais il confond les paroles du pervers."
+    },
+    {
+     "v": 13,
+     "t": "Le paresseux dit : « Il y a un lion dehors ! Je serai tué au milieu des places ! »"
+    },
+    {
+     "v": 14,
+     "t": "La bouche des étrangères est une fosse profonde ; celui contre qui Yahweh est irrité y tombera.",
+     "n": [
+      "14. LXX ajoutent : Il y a des voies mauvaises en présence de l’homme, et il n’aime pas à s’en détourner ; mais il faut se détourner de la voie perverse et mauvaise."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "La folie est attachée au cœur de l’enfant ; la verge de la discipline l’éloignera de lui."
+    },
+    {
+     "v": 16,
+     "t": "Opprimer un pauvre, c’est l’enrichir ; donner à un riche, c’est l’appauvrir. [XXII, 17 — XXXI, 31.] PAROLES DES SAGES."
+    },
+    {
+     "v": 17,
+     "t": "Prête l’oreille et écoute les paroles des sages, applique ton cœur à mon enseignement."
+    },
+    {
+     "v": 18,
+     "t": "Car c’est une chose agréable, si tu les gardes au dedans de toi : puissent-elles toutes demeurer sur tes lèvres !"
+    },
+    {
+     "v": 19,
+     "t": "Afin que ta confiance repose sur Yahweh, c’est toi que je veux instruire aujourd’hui."
+    },
+    {
+     "v": 20,
+     "t": "N’ai-je pas, plusieurs fois déjà, mis pour toi par écrit des conseils et des enseignements ?"
+    },
+    {
+     "v": 21,
+     "t": "Pour t’enseigner la vérité des choses certaines, afin que tu répondes par des paroles vraies à eux qui t’envoient."
+    },
+    {
+     "v": 22,
+     "t": "Ne dépouille pas le pauvre parce qu’il est pauvre, et n’opprime pas le malheureux à la porte."
+    },
+    {
+     "v": 23,
+     "t": "Car Yahweh prendra en main leur cause, et il ôtera la vie à ceux qui les auront dépouillés."
+    },
+    {
+     "v": 24,
+     "t": "Ne lie pas société avec l’homme colère, et ne va pas avec l’homme violent,"
+    },
+    {
+     "v": 25,
+     "t": "de peur que tu n’apprennes ses voies, et que tu ne prépares un piège à ton âme."
+    },
+    {
+     "v": 26,
+     "t": "Ne sois pas de ceux qui prennent des engagements, de ceux qui se portent caution pour dettes.",
+     "n": [
+      "26. Qui prennent des engagements, m. à m. qui frappent la main."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Si tu n’as pas de quoi payer, pourquoi t’exposer à ce qu’on enlève ton lit de dessous toi ?"
+    },
+    {
+     "v": 28,
+     "t": "Ne déplace pas la borne ancienne, que tes pères ont posée."
+    },
+    {
+     "v": 29,
+     "t": "Vois-tu un homme habile dans son ouvrage ? Il demeurera auprès des rois, il ne demeurera pas auprès des gens obscurs."
+    }
+   ]
+  },
+  {
+   "c": 23,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Si tu es à table avec un grand, fais attention à ce qui est devant toi."
+    },
+    {
+     "v": 2,
+     "t": "Mets un couteau à ta gorge, si tu as trop d’avidité."
+    },
+    {
+     "v": 3,
+     "t": "Ne convoite pas ses mets délicats, c’est un aliment trompeur."
+    },
+    {
+     "v": 4,
+     "t": "Ne te tourmente pas pour devenir riche, abstiens-toi d’y appliquer ton intelligence."
+    },
+    {
+     "v": 5,
+     "t": "Veux-tu poursuivre du regard ce qui va s’évanouir ? Car la richesse se fait des ailes, et, comme l’aigle, elle s’envole vers les cieux.",
+     "n": [
+      "XXIII, 5 a. Sens douteux. M. à m. Feras-tu voler ( qere ) tes yeux (tes regards) sur lui (sur les richesses ?), et il n’est pas ou plus ?"
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Ne mange pas le pain de l’homme envieux, et ne convoite pas ses mets délicats ;"
+    },
+    {
+     "v": 7,
+     "t": "car il ne vaut pas plus que les pensées de son âme. « Mange et bois, » te dira-t-il ; mais son cœur n’est pas avec toi.",
+     "n": [
+      "7 a. Le mot à mot paraît être : Car selon qu’il a calculé en lui-même, tel il est (tel il se montre). —"
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Tu vomiras le morceau que tu as mangé, et tu en seras pour tes belles paroles.",
+     "n": [
+      "8 b. M. à m., et tu détruiras (tu rendras vaines) tes belles paroles."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Ne parle pas aux oreilles de l’insensé, car il méprisera la sagesse de tes discours."
+    },
+    {
+     "v": 10,
+     "t": "Ne déplace pas la borne antique, et n’entre pas dans le champ des orphelins."
+    },
+    {
+     "v": 11,
+     "t": "Car leur vengeur est puissant : il défendra leur cause contre toi."
+    },
+    {
+     "v": 12,
+     "t": "Applique ton cœur à l’instruction, et tes oreilles aux paroles de la science."
+    },
+    {
+     "v": 13,
+     "t": "N’épargne pas la correction à l’enfant ; si tu le frappes de la verge, il ne mourra point."
+    },
+    {
+     "v": 14,
+     "t": "Tu le frappes de la verge, et tu délivres son âme du schéol."
+    },
+    {
+     "v": 15,
+     "t": "Mon fils, si ton cœur est sage, mon cœur, à moi aussi, sera dans la joie."
+    },
+    {
+     "v": 16,
+     "t": "Mes entrailles tressailliront d’allégresse, quand tes lèvres diront ce qui est droit."
+    },
+    {
+     "v": 17,
+     "t": "Que ton cœur n’envie pas les pécheurs, mais qu’il reste toujours dans la crainte de Yahweh ;"
+    },
+    {
+     "v": 18,
+     "t": "car il y a un avenir, et ton espérance ne sera pas anéantie."
+    },
+    {
+     "v": 19,
+     "t": "Écoute, mon fils, et sois sage ; dirige ton cœur dans la voie droite."
+    },
+    {
+     "v": 20,
+     "t": "Ne sois pas parmi les buveurs de vin, parmi ceux qui se gorgent de viandes ;"
+    },
+    {
+     "v": 21,
+     "t": "car le buveur et le gourmand s’appauvrissent, et la somnolence fait porter des haillons.",
+     "n": [
+      "21. Le gourmand. Vulg., ceux qui font des repas communs."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Écoute ton père, lui qui t’a engendré, et ne méprise pas ta mère, quand elle est devenue vieille."
+    },
+    {
+     "v": 23,
+     "t": "Acquiers la vérité, et ne la vend pas, la sagesse, l’instruction et l’intelligence.",
+     "n": [
+      "23. Manque dans les LXX."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Le père du juste est dans l’allégresse, celui qui donne le jour à un sage en aura de la joie."
+    },
+    {
+     "v": 25,
+     "t": "Que ton père et ta mère se réjouissent ! Que celle qui t’a enfanté soit dans l’allégresse !"
+    },
+    {
+     "v": 26,
+     "t": "Mon fils, donne-moi ton cœur, et que tes yeux gardent mes voies :",
+     "n": [
+      "26. Et que tes yeux gardent mes voies ; d’après le qerev. D’après le kethib : Et que tes yeux courent dans mes voies."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "car la courtisane est une fosse profonde, et l’étrangère un puits étroit.",
+     "n": [
+      "27. Un puits étroit qu’une pierre suffit à fermer ; celui qui y est tombé ne peut plus en sortir."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Elle dresse des embûches comme pour une proie et elle augmente parmi les hommes le nombre des prévaricateurs."
+    },
+    {
+     "v": 29,
+     "t": "Pour qui les ah ? Pour qui les hélas ? Pour qui les disputes ? Pour qui les murmures ? Pour qui les blessures sans raison ? Pour qui les yeux rouges ?…"
+    },
+    {
+     "v": 30,
+     "t": "Pour ceux qui s’attardent auprès du vin, pour ceux qui vont goûter du vin aromatisé."
+    },
+    {
+     "v": 31,
+     "t": "Ne regarde pas le vin : comme il est vermeil, comme il donne son éclat dans la coupe, comme il coule aisément.",
+     "n": [
+      "31. LXX : Ne vous enivrez pas avec le vin, mais conversez avec les hommes justes, et conversez dans les endroits où l’on se promène; car si tu appliques tes yeux aux coupes et aux flacons, tu iras plus dépourvu que le pilon à mortier (?)."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "Il finit par mordre comme un serpent, et par piquer comme un basilic."
+    },
+    {
+     "v": 33,
+     "t": "Tes yeux se porteront sur des étrangères, et ton cœur tiendra des discours pervers."
+    },
+    {
+     "v": 34,
+     "t": "Tu seras comme un homme couché au milieu de la mer, comme un homme endormi au sommet d’un mât."
+    },
+    {
+     "v": 35,
+     "t": "« On m’a frappé… Je n’ai point de mal ! On m’a battu… Je ne sens rien !… Quand me réveillerai-je ?… Il m’en faut encore ! » Ne pas porter envie aux méchants (xxiv, 1, 2).",
+     "n": [
+      "35. Il m’en faut encore ! M. à m., j’en rechercherai encore."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 24,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Ne porte pas envie aux hommes méchants, et ne désire pas d’être avec eux."
+    },
+    {
+     "v": 2,
+     "t": "Car leur cœur médite la violence, et leurs lèvres ne profèrent que le malheur. Avantages pratiques de la sagesse (xxiv, 3-7)."
+    },
+    {
+     "v": 3,
+     "t": "C’est par la sagesse qu’une maison s’élève, et par l’intelligence qu’elle s’affermit."
+    },
+    {
+     "v": 4,
+     "t": "C’est par la science que l’intérieur se remplit, de tous les biens précieux et agréables."
+    },
+    {
+     "v": 5,
+     "t": "Un homme sage est plein de force, et celui qui a de la science montre une grande puissance."
+    },
+    {
+     "v": 6,
+     "t": "Car avec la prudence tu conduiras la guerre, et le salut est dans le grand nombre des conseillers."
+    },
+    {
+     "v": 7,
+     "t": "La sagesse est trop haute pour l’insensé ; il n’ouvre pas la bouche à la porte de la ville. L’intrigant (xxiv, 8)."
+    },
+    {
+     "v": 8,
+     "t": "Celui qui pense à faire le mal s’appelle un artisan d’intrigues. L’insensé (xxiv, 9)."
+    },
+    {
+     "v": 9,
+     "t": "Le dessein de l’insensé, c’est le péché, et le railleur est en abomination parmi les hommes. L’indolent (xxiv, 10)."
+    },
+    {
+     "v": 10,
+     "t": "Si tu te montres faible au jour de la détresse, ta force n’est que faiblesse. Porter secours aux malheureux opprimés (xxiv, 11, 12).",
+     "n": [
+      "XXIV, 10. D’autres : Si tu es indolent, au jour de la détresse, tes ressources seront épuisées."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Délivre ceux qu’on traîne à la mort ; ceux qui vont en chancelant au massacre, sauve-les !"
+    },
+    {
+     "v": 12,
+     "t": "Si tu dis : « Mais ! Nous ne le savions pas ! » Celui qui pèse les cœurs ne le voit-il pas ? Celui qui veille sur ton âme ne le connaît-il pas, et ne rendra-t-il pas à chacun selon ses œuvres ?"
+    },
+    {
+     "v": 13,
+     "t": "Mon fils, mange du miel, car il est bon ; un rayon de miel est doux à ton palais."
+    },
+    {
+     "v": 14,
+     "t": "Sache que la sagesse est la même chose pour ton âme ; si tu l’acquiers, il est un avenir, et ton espérance ne sera pas frustrée."
+    },
+    {
+     "v": 15,
+     "t": "Ne tends pas, ô méchant, des embûches à la demeure du juste, et ne dévaste pas le lieu où il repose ;"
+    },
+    {
+     "v": 16,
+     "t": "car sept fois le juste tombe, et il se relève, mais les méchants sont précipités dans le malheur."
+    },
+    {
+     "v": 17,
+     "t": "Si ton ennemi tombe, ne te réjouis pas, et que ton cœur ne se réjouisse pas de sa ruine,"
+    },
+    {
+     "v": 18,
+     "t": "de peur que Yahweh ne le voie, que cela soit mauvais à ses yeux, et qu’il ne détourne de lui sa colère."
+    },
+    {
+     "v": 19,
+     "t": "Ne t’irrite pas à cause des méchants, ne porte pas envie aux pervers,"
+    },
+    {
+     "v": 20,
+     "t": "car il n’y a point d’avenir pour celui qui fait le mal, et la lampe des méchants s’éteindra."
+    },
+    {
+     "v": 21,
+     "t": "Mon fils, crains Yahweh et le roi ; ne te mêle pas avec les hommes remuants ;"
+    },
+    {
+     "v": 22,
+     "t": "car soudain surgira leur malheur, et qui connaît la ruine des uns et des autres ?",
+     "n": [
+      "22. Les LXX ajoutent : Le fils qui garde la parole, après qu’il l’a reçue avec soin, sera préservé de la perdition. Qu’aucun mensonge ne soit dit par la bouche du roi ; et qu’aucun mensonge ne sorte de sa langue. La langue du roi n’est pas une langue de chair, mais un glaive : quiconque est livré, est brisé. Car, si sa fureur est excitée, il consume les hommes avec les nerfs, et il dévore les os des hommes, et les brûle comme la flamme, au point qu’ils soient impropres à la nourriture des petits des aigles."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Ce qui suit vient encore des sages : Il n’est pas bon, dans les jugements, d’avoir égard aux personnes.",
+     "h": "AUTRES PAROLES DES SAGES",
+     "n": [
+      "Entre les vers. 22 et 23, les LXX intercalent xxx, 1-14."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Celui qui dit aux méchants : « Tu es juste », les peuples le maudissent, les nations l’exècrent."
+    },
+    {
+     "v": 25,
+     "t": "Mais ceux qui le corrigent sont applaudis, sur eux viennent la bénédiction et le bonheur."
+    },
+    {
+     "v": 26,
+     "t": "Il baise sur les lèvres celui qui répond des paroles justes."
+    },
+    {
+     "v": 27,
+     "t": "Règle ton travail au dehors, applique-le à ton champ, puis tu bâtiras ta maison."
+    },
+    {
+     "v": 28,
+     "t": "Ne témoigne pas à la légère contre ton prochain : voudrais-tu tromper par tes lèvres ?"
+    },
+    {
+     "v": 29,
+     "t": "Ne dis pas : « Comme il m’a fait, je lui ferai ; je rendrai à cet homme selon ses œuvres. »"
+    },
+    {
+     "v": 30,
+     "t": "J’ai passé près du champ d’un paresseux, et près de la vigne d’un insensé."
+    },
+    {
+     "v": 31,
+     "t": "Et voici,… les épines y croissaient partout, les ronces en couvraient la surface, et le mur de pierres était écroulé.",
+     "n": [
+      "30-34. Les LXX n’ont pas compris qu’il s’agissait du paresseux ; aussi leur traduction s’écarte-t-elle tout à fait de l’hébreu dans ces versets."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "J’ai regardé, et j’ai appliqué mon cœur, j’ai considéré et j’ai tiré cette leçon :"
+    },
+    {
+     "v": 33,
+     "t": "« Un peu de sommeil, un peu d’assoupissement, un peu croiser les mains pour dormir,"
+    },
+    {
+     "v": 34,
+     "t": "et ta pauvreté viendra comme un rôdeur, et ton indigence comme un homme armé. »"
+    }
+   ]
+  },
+  {
+   "c": 25,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici encore des Proverbes de Salomon, recueillis par les gens d’Ézéchias, roi de Juda.",
+     "h": "PROVERBES DE SALOMON RECUEILLIS PAR LES GENS D’ÉZÉCHIAS. [ 211 ]"
+    },
+    {
+     "v": 2,
+     "t": "La gloire de Dieu, c’est de cacher les choses ; la gloire des rois, c’est de les examiner."
+    },
+    {
+     "v": 3,
+     "t": "Le ciel dans sa hauteur, la terre dans sa profondeur, et le cœur des rois sont impénétrables."
+    },
+    {
+     "v": 4,
+     "t": "Ôte les scories de l’argent, et il en sortira un vase pour le fondeur."
+    },
+    {
+     "v": 5,
+     "t": "Ôte le méchant de devant le roi, et son trône s’affermira dans la justice."
+    },
+    {
+     "v": 6,
+     "t": "Ne prends pas des airs superbes devant le roi, et ne te mets pas à la place des grands ;"
+    },
+    {
+     "v": 7,
+     "t": "car il vaut mieux qu’on te dise : « Monte ici », que si l’on t’humilie devant le prince que tes yeux ont vu.",
+     "n": [
+      "XXV, 7 (finale), 8, 9. Vulg. Ce que tes yeux ont vu ne le révèle pas précipitamment dans une discussion, de peur qu’ensuite tu ne trouves plus de remède au déshonneur que tu auras infligé à ton ami. Les LXX traduisent, pour la finale du 7 : ce que tes yeux ont vu, dis-le. Le vers. 9 a manque dans les LXX."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Ne pars pas trop vite en contestation, de peur qu’à la fin tu ne saches que faire."
+    },
+    {
+     "v": 9,
+     "t": "Lorsque ton prochain t’aura outragé, défends ta cause contre ton prochain, mais ne révèle pas le secret d’un autre,"
+    },
+    {
+     "v": 10,
+     "t": "de peur que celui qui l’apprendra ne te couvre de honte, et que ton ignominie ne s’efface pas.",
+     "n": [
+      "10. LXX. De peur que ton ami ne te couvre de honte. Ta dispute et ton inimitié ne s’éloigneront pas, mais elles seront pour toi pareilles à la mort. (La bonté et l’amitié donnent la liberté d’âme ; garde-les de peur d’être en butte au mépris), mais garde tes voies avec délicatesse (?). Les deux vers. mis entre parenthèses se trouvent aussi dans la Vulg."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Comme des pommes d’or sur des ciselures d’argent, ainsi est une parole dite à propos."
+    },
+    {
+     "v": 12,
+     "t": "Comme un anneau d’or et un ornement d’or fin, ainsi est le sage qui reprend une oreille docile."
+    },
+    {
+     "v": 13,
+     "t": "Comme la fraîcheur de la neige au temps de la moisson, ainsi est le messager fidèle pour ceux qui l’envoient ; il réjouit l’âme de son maître."
+    },
+    {
+     "v": 14,
+     "t": "Des nuages et du vent sans pluie, tel est l’homme qui se glorifie de présents mensongers."
+    },
+    {
+     "v": 15,
+     "t": "Par la patience le juge se laisse persuader, et une langue douce peut briser des os. Autre forme de discrétion (xxv, 16, 17)."
+    },
+    {
+     "v": 16,
+     "t": "Si tu trouves du miel, n’en mange que ce qui te suffit, de peur que, rassasié, tu ne le vomisses."
+    },
+    {
+     "v": 17,
+     "t": "Mets rarement le pied dans la maison de ton prochain, de peur que, fatigué de toi, il ne te haïsse.",
+     "n": [
+      "17. M. à m. Fais rare ton pied et tiens-toi hors de la maison de ton ami."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Une massue, une épée et une flèche aiguë, tel est l’homme qui porte un faux témoignage contre son prochain."
+    },
+    {
+     "v": 19,
+     "t": "Une dent cassée et un pied qui glisse, c’est la confiance qu’inspire un perfide au jour du malheur.",
+     "n": [
+      "19. Le second membre est incomplet dans les LXX."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Oter son manteau un jour de froid, répandre du vinaigre sur du nitre, ainsi fait celui qui dit des chansons à un cœur affligé. Noble vengeance (xxv, 21, 22).",
+     "n": [
+      "20. Le 1 er membre manque dans les LXX. — Les LXX et la Vulg. ajoutent : comme la teigne nuit aux vêtements et le ver au bois, ainsi la tristesse nuit au cœur de l’homme."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Si ton ennemi a faim, donne-lui du pain à manger ; s’il a soif, donne-lui de l’eau à boire ;"
+    },
+    {
+     "v": 22,
+     "t": "car tu amasses ainsi des charbons sur sa tête, et Yahweh te récompensera."
+    },
+    {
+     "v": 23,
+     "t": "Le vent du nord enfante la pluie, et la langue qui médit en secret, un visage irrité.",
+     "n": [
+      "23 b. Vulg. Et le visage attristé dissipe (fait taire) la langue mensongère."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Mieux vaut habiter à l’angle d’un toit, que de rester avec une femme querelleuse.",
+     "n": [
+      "24 b. M. à m., qu’avec une femme querelleuse et dans une demeure commune."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "De l’eau fraîche pour une personne altérée, telle est une bonne nouvelle venant d’une terre lointaine."
+    },
+    {
+     "v": 26,
+     "t": "Une fontaine troublée et une source corrompue, tel est le juste qui chancelle devant le méchant."
+    },
+    {
+     "v": 27,
+     "t": "Il n’est pas bon de manger beaucoup de miel ; ainsi celui qui veut sonder la majesté divine sera accablé par sa gloire.",
+     "n": [
+      "27 b. Sens incertain ; la traduction est celle de la Vulgate. Le m. à m. de l’hébreu est : Et la scrutation de leur gloire est (?) gloire. LXX. Il faut estimer les discours illustres."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Une ville forcée qui n’a plus de murailles, tel est l’homme qui ne peut se contenir."
+    }
+   ]
+  },
+  {
+   "c": 26,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Comme la neige en été, et la pluie pendant la moisson, ainsi la gloire ne convient pas à un insensé."
+    },
+    {
+     "v": 2,
+     "t": "Comme le passereau qui s’échappe, comme l’hirondelle qui s’envole, ainsi la malédiction sans cause n’atteint pas. À propos des insensés (xxvi, 3-12).",
+     "n": [
+      "XXVI, 2. N’atteint pas ; m. à m., ne vient pas."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Le fouet est pour le cheval, le mors pour l’âne et la verge pour le dos des insensés."
+    },
+    {
+     "v": 4,
+     "t": "Ne réponds pas à l’insensé selon sa folie, de peur de lui ressembler toi-même."
+    },
+    {
+     "v": 5,
+     "t": "Réponds à l’insensé selon sa folie, de peur qu’il ne se regarde comme sage."
+    },
+    {
+     "v": 6,
+     "t": "Il se coupe les pieds, il boit l’iniquité, celui qui donne des messages à un insensé."
+    },
+    {
+     "v": 7,
+     "t": "Ôtez les jambes au boiteux, est la sentence de la bouche de l’insensé.",
+     "n": [
+      "7 b. Sens incertain."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "C’est attacher une pierre à la fronde, que de rendre gloire à un insensé.",
+     "n": [
+      "8. Attacher une pierre à la fronde, c’est l’empêcher de partir et d’atteindre son but, c’est faire une chose absurde. Vulg. (premier membre) : c’est mettre une pierre au monceau de Mercure. Mercure était chez les païens le dieu des voyageurs ; on lui élevait de loin en loin sur les chemins des statues sans bras ni jambes, des Hermès, et chaque voyageur qui passait jetait devant elles une pierre en hommage. Les tas ainsi formés s’appelaient monceaux de Mercure."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Comme une épine qui s’enfonce dans la main d’un homme ivre, ainsi est une sentence dans la bouche des insensés."
+    },
+    {
+     "v": 10,
+     "t": "Comme un archer qui blesse tout le monde, ainsi est celui qui prend à gage les insensés et les passants.",
+     "n": [
+      "10. Sens assez imprécis. Vulg. Le jugement décide les procès, et celui qui impose silence à l’insensé apaise les colères."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Comme un chien qui retourne à son vomissement, ainsi est un insensé qui revient à sa folie.",
+     "n": [
+      "11. LXX ajoutent : Il y a une honte qui est source de péché, et il y a une honte qui n’est que gloire et grâce."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Si tu vois un homme qui est sage à ses yeux, il faut plus espérer d’un insensé que de lui. Le paresseux (xxvi, 13-16)."
+    },
+    {
+     "v": 13,
+     "t": "Le paresseux dit : « Il y a un lion sur la route, il y a un lion dans les rues. »"
+    },
+    {
+     "v": 14,
+     "t": "La porte tourne sur ses gonds, ainsi le paresseux sur sa couche."
+    },
+    {
+     "v": 15,
+     "t": "Le paresseux met sa main dans le plat, et il a de la peine à la porter à la bouche."
+    },
+    {
+     "v": 16,
+     "t": "Le paresseux est plus sage à ses yeux que sept conseillers prudents."
+    },
+    {
+     "v": 17,
+     "t": "Comme celui qui saisit un chien par les oreilles, tel est le passant qui s’échauffe dans la querelle d’autrui.",
+     "n": [
+      "17. LXX. C’est prendre un chien par la queue que de présider à un procès étranger."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Comme un furieux qui lance des traits enflammés, des flèches et la mort,"
+    },
+    {
+     "v": 19,
+     "t": "ainsi est un homme qui a trompé son prochain et qui dit : « Est-ce que je ne plaisantais pas. » Le rapporteur (xxvi, 20-22)."
+    },
+    {
+     "v": 20,
+     "t": "Faute de bois, le feu s’éteint ; éloignez le rapporteur, et la querelle s’apaise."
+    },
+    {
+     "v": 21,
+     "t": "Le charbon donne un brasier et le bois du feu : ainsi l’homme querelleur irrite une discussion.",
+     "n": [
+      "21. M. à m. : Le charbon pour le brasier et le bois pour le feu, ainsi l’homme querelleur pour irriter une discussion."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Les paroles du rapporteur sont comme des friandises ; elles descendent jusqu’au fond des entrailles. Le haineux (xxvi, 23-26)."
+    },
+    {
+     "v": 23,
+     "t": "Des scories d’argent appliquées sur un vase de terre, telles sont les lèvres brûlantes avec un cœur mauvais."
+    },
+    {
+     "v": 24,
+     "t": "Celui qui hait se déguise par ses lèvres, mais il met au dedans de lui la perfidie."
+    },
+    {
+     "v": 25,
+     "t": "Quand il adoucit sa voix, ne te fies pas à lui, car il a sept abominations dans son cœur."
+    },
+    {
+     "v": 26,
+     "t": "Il peut bien cacher sa haine sous la dissimulation, mais sa méchanceté se révélera dans l’assemblée."
+    },
+    {
+     "v": 27,
+     "t": "Celui qui creuse une fosse y tombe, et la pierre revient sur celui qui la roule."
+    },
+    {
+     "v": 28,
+     "t": "La langue fausse hait ceux qu’elle blesse, et la bouche flatteuse cause la ruine."
+    }
+   ]
+  },
+  {
+   "c": 27,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Ne te glorifie pas du lendemain, car tu ne sais pas ce qu’enfantera le jour suivant."
+    },
+    {
+     "v": 2,
+     "t": "Qu’un autre te loue, et non ta bouche ; un étranger, et non tes lèvres."
+    },
+    {
+     "v": 3,
+     "t": "La pierre est lourde et le sable est pesant : plus que l’un et l’autre pèse la colère de l’insensé.",
+     "n": [
+      "XXVII, 3 a. M. à m. Poids de la pierre et pesanteur du sable."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "La fureur est cruelle et la colère impétueuse ; mais qui pourra tenir devant la jalousie ?",
+     "n": [
+      "4 a. M. à m. Cruauté de la colère et effusion de la fureur."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Mieux vaut une réprimande ouverte qu’une amitié cachée."
+    },
+    {
+     "v": 6,
+     "t": "Les blessures d’un ami sont inspirées par la fidélité, mais les baisers d’un ennemi sont trompeurs."
+    },
+    {
+     "v": 7,
+     "t": "Celui qui est rassasié foule aux pieds le rayon de miel, mais à celui qui a faim tout ce qui est amer paraît doux."
+    },
+    {
+     "v": 8,
+     "t": "Comme l’oiseau qui erre loin de son nid, ainsi l’homme qui erre loin de son lieu."
+    },
+    {
+     "v": 9,
+     "t": "L’huile et les parfums réjouissent le cœur ; telle la douceur d’un ami dont le conseil vient du cœur."
+    },
+    {
+     "v": 10,
+     "t": "N’abandonne pas ton ami et l’ami de ton père, et n’entre pas dans la maison de ton frère au jour de ta détresse ; mieux vaut un voisin proche qu’un frère éloigné."
+    },
+    {
+     "v": 11,
+     "t": "Mon fils, deviens sage et réjouis mon cœur, afin que je puisse répondre à celui qui m’outrage."
+    },
+    {
+     "v": 12,
+     "t": "L’homme prudent voit le mal et se cache ; les simples passent et en portent la peine."
+    },
+    {
+     "v": 13,
+     "t": "Prends son vêtement, car il a répondu pour autrui ; demande des gages à cause des étrangers."
+    },
+    {
+     "v": 14,
+     "t": "Bénir son prochain à haute voix et de grand matin est réputé comme une malédiction."
+    },
+    {
+     "v": 15,
+     "t": "Une gouttière continue dans un jour de pluie et une femme querelleuse se ressemblent."
+    },
+    {
+     "v": 16,
+     "t": "Celui qui la retient, retient le vent, et sa main saisit de l’huile.",
+     "n": [
+      "16. Sa main saisit (litt. rencontre ) de l’huile : il n’est pas plus facile de faire taire une femme querelleuse que d’arrêter le vent ou d’empêcher l’huile de couler. Vulg., et il appellera l’huile pour sa main, pour guérir la blessure qu’il se sera faite en luttant contre sa femme."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Le fer aiguise le fer ; ainsi un homme aiguise un autre homme."
+    },
+    {
+     "v": 18,
+     "t": "Celui qui garde son figuier en mangera les fruits, et celui qui garde son maître sera honoré."
+    },
+    {
+     "v": 19,
+     "t": "Comme dans l’eau le visage répond au visage, ainsi le cœur de l’homme répond à l’homme.",
+     "n": [
+      "19. LXX. De même que les visages ne se ressemblent pas, ainsi en est-il des pensées des hommes."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Le schéol et l’abîme ne sont jamais rassasiés, de même les yeux de l’homme ne sont jamais rassasiés.",
+     "n": [
+      "20. LXX ajoutent : Celui qui fixe ses yeux est en abomination au Seigneur, et les ignorants ne modèrent pas leurs langues."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Le creuset est pour l’argent, et le fourneau pour l’or ; que l’homme éprouve de même la louange qu’il reçoit !",
+     "n": [
+      "21. Que l’homme éprouve. D’autres : on juge quelqu’un selon la louange qu’il se donne à lui-même, ou encore selon sa renommée. Vulg. et LXX : Ce qui éprouve l’homme, c’est la bouche de celui qui le loue. Vulg. et LXX ajoutent : le cœur du méchant recherche le mal, mais le cœur droit recherche la science."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Quand tu pilerais l’insensé dans un mortier, comme on broie le grain, avec le pilon, sa folie ne se séparerait pas de lui. Prévoyance (xxvii, 23-27).",
+     "n": [
+      "22. Comme on broie le grain avec un pilon. D’autres : parmi le grain, avec un pilon."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Connais bien l’état de tes brebis, applique ton attention à ton troupeau ;"
+    },
+    {
+     "v": 24,
+     "t": "car la richesse ne dure pas toujours, ni une couronne d’âge en âge."
+    },
+    {
+     "v": 25,
+     "t": "Mais quand l’herbe a paru, que la verdure s’est montrée, que le foin des montagnes est recueilli,"
+    },
+    {
+     "v": 26,
+     "t": "tu as des agneaux pour te vêtir, des boucs pour payer un champ ;"
+    },
+    {
+     "v": 27,
+     "t": "tu as en abondance le lait des chèvres, pour ta nourriture et celle de ta maison, et pour l’entretien de tes servantes."
+    }
+   ]
+  },
+  {
+   "c": 28,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Les méchants fuient sans qu’on les poursuive, mais les justes ont de l’assurance comme un lion."
+    },
+    {
+     "v": 2,
+     "t": "Dans un pays en révolte, les chefs se multiplient ; mais avec un homme intelligent et sage l’ordre se prolonge."
+    },
+    {
+     "v": 3,
+     "t": "Un homme pauvre qui opprime les malheureux, c’est une pluie violente qui cause la disette."
+    },
+    {
+     "v": 4,
+     "t": "Ceux qui abandonnent la loi louent le méchant, ceux qui l’observent s’irritent contre lui."
+    },
+    {
+     "v": 5,
+     "t": "Les hommes pervers ne comprennent pas ce qui est juste, mais ceux qui cherchent Yahweh comprennent tout."
+    },
+    {
+     "v": 6,
+     "t": "Mieux vaut le pauvre dans son intégrité que l’homme aux voies tortueuses et qui est riche."
+    },
+    {
+     "v": 7,
+     "t": "Celui qui observe la loi est un fils intelligent, mais celui qui nourrit les débauchés fait honte à son père."
+    },
+    {
+     "v": 8,
+     "t": "Celui qui augmente ses biens par l’intérêt et l’usure les amasse pour celui qui a pitié des pauvres."
+    },
+    {
+     "v": 9,
+     "t": "Si quelqu’un détourne l’oreille pour ne pas écouter la loi, sa prière même est une abomination."
+    },
+    {
+     "v": 10,
+     "t": "Celui qui égare les hommes droits dans la voie mauvaise tombera lui-même dans la fosse qu’il a creusée ; mais les hommes intègres posséderont le bonheur."
+    },
+    {
+     "v": 11,
+     "t": "L’homme riche est sage à ses yeux ; mais le pauvre intelligent le connaît."
+    },
+    {
+     "v": 12,
+     "t": "Quand les justes triomphent, c’est une grande fête ; quand les méchants se lèvent, chacun se cache.",
+     "n": [
+      "XXVIII, 12. Chacun se cache. litt. est cherché."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Celui qui cache ses fautes ne prospérera point, mais celui qui les avoue et les quitte obtiendra miséricorde."
+    },
+    {
+     "v": 14,
+     "t": "Heureux l’homme qui est continuellement dans la crainte ! Mais celui qui endurcit son cœur tombera dans le malheur."
+    },
+    {
+     "v": 15,
+     "t": "Un lion rugissant et un ours affamé, tel est le méchant qui domine sur un peuple pauvre."
+    },
+    {
+     "v": 16,
+     "t": "Le prince sans intelligence multiplie l’oppression, mais celui qui hait la cupidité aura de longs jours.",
+     "n": [
+      "16. M. à m. : Un prince petit en intelligence est grand en oppression."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Un homme chargé du sang d’un autre fuit jusqu’à la fosse : ne l’arrêtez pas !",
+     "n": [
+      "17. LXX ajoutent : Corrige ton fils et il t’aimera, et il donnera de la parure à ton âme, et il obéira plus à la nation perverse."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Celui qui marche dans l’intégrité trouvera le salut, mais celui qui suit des voies tortueuses tombera pour ne plus se relever.",
+     "n": [
+      "18. Pour ne plus se relever ; m. à m., tout d’une fois."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Celui qui cultive son champ sera rassasié de pain, mais celui qui poursuit des choses vaines sera rassasié de pauvreté."
+    },
+    {
+     "v": 20,
+     "t": "Un homme fidèle sera comblé de bénédictions, mais celui qui a hâte de s’enrichir n’échappera pas à la faute."
+    },
+    {
+     "v": 21,
+     "t": "Il n’est pas bon de faire acception des personnes ; pour un morceau de pain un homme devient criminel."
+    },
+    {
+     "v": 22,
+     "t": "L’homme envieux a hâte de s’enrichir ; il ne sait pas que la disette viendra sur lui."
+    },
+    {
+     "v": 23,
+     "t": "Celui qui reprend quelqu’un trouve ensuite plus de faveur que celui qui rend sa langue flatteuse."
+    },
+    {
+     "v": 24,
+     "t": "Celui qui vole son père et sa mère, et qui dit : « Ce n’est pas un péché, » c’est le compagnon du brigand."
+    },
+    {
+     "v": 25,
+     "t": "L’homme cupide excite les querelles ; mais celui qui se confie en Yahweh sera rassasié."
+    },
+    {
+     "v": 26,
+     "t": "Celui qui a confiance dans son propre cœur est un insensé, mais celui qui marche dans la sagesse sera sauvé."
+    },
+    {
+     "v": 27,
+     "t": "Celui qui donne au pauvre n’éprouve pas la disette, mais celui qui ferme les yeux est chargé de malédictions."
+    },
+    {
+     "v": 28,
+     "t": "Quand les méchants s’élèvent, chacun se cache ; quand ils périssent, les justes se multiplient."
+    }
+   ]
+  },
+  {
+   "c": 29,
+   "verses": [
+    {
+     "v": 1,
+     "t": "L’homme digne de reproches et qui raidit le cou sera brisé subitement et sans remède."
+    },
+    {
+     "v": 2,
+     "t": "Quand les justes se multiplient, le peuple est dans la joie ; quand le méchant exerce le pouvoir, le peuple gémit."
+    },
+    {
+     "v": 3,
+     "t": "L’homme qui aime la sagesse réjouit son père, mais celui qui fréquente les courtisanes dissipe son bien."
+    },
+    {
+     "v": 4,
+     "t": "Un roi affermit le pays par la justice ; mais celui qui est avide de présents le ruine."
+    },
+    {
+     "v": 5,
+     "t": "L’homme qui flatte son prochain tend un filet sous ses pieds."
+    },
+    {
+     "v": 6,
+     "t": "Dans le péché de l’homme méchant il y a un piège, mais le juste est dans la jubilation et la joie."
+    },
+    {
+     "v": 7,
+     "t": "Le juste connaît la cause des pauvres, mais le méchant ne comprend pas la science."
+    },
+    {
+     "v": 8,
+     "t": "Les railleurs soufflent le feu dans la ville, mais les sages apaisent la colère.",
+     "n": [
+      "XXIX, 8 a. Vulgate, les hommes corrompus bouleversent la ville."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Si un sage conteste avec un insensé, qu’il se fâche ou qu’il rie, il n’y aura pas de paix.",
+     "n": [
+      "9. Si un sage etc. : interprétation conforme à la Vulg. D’autres : Si un sage entre en discussion avec un insensé, celui ci s’emporte et rit tour à tour, et il n’y a pas de paix."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Les hommes de sang haïssent l’homme intègre, mais les hommes droits protègent sa vie.",
+     "n": [
+      "10 b. Protègent sa vie ; m. a m., recherchent son âme. L’interprétation n’est pas au dessus de tout conteste."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "L’insensé fait éclater toute sa passion, mais le sage la calme et la retient."
+    },
+    {
+     "v": 12,
+     "t": "Quand le prince écoute les paroles mensongères, tous ses serviteurs sont des méchants."
+    },
+    {
+     "v": 13,
+     "t": "Le pauvre et l’oppresseur se rencontrent ; c’est Yahweh qui éclaire les yeux de l’un et de l’autre."
+    },
+    {
+     "v": 14,
+     "t": "Un roi qui juge fidèlement les pauvres aura son trône affermi pour toujours."
+    },
+    {
+     "v": 15,
+     "t": "La verge et la correction donnent la sagesse, mais l’enfant abandonné à son caprice fait honte à sa mère."
+    },
+    {
+     "v": 16,
+     "t": "Quand les méchants se multiplient, le crime se multiplie, mais les justes contempleront leur chute."
+    },
+    {
+     "v": 17,
+     "t": "Corrige ton fils, et il te donnera du repos, et il procurera des délices à ton âme."
+    },
+    {
+     "v": 18,
+     "t": "Quand il n’y a plus de vision, le peuple est sans frein ; heureux qui observe la loi !",
+     "n": [
+      "18. Quand il n’y a plus de vision. c’est-à-dire, quand Dieu ne se montre plus."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Ce n’est pas par des paroles qu’on corrige un esclave ; quand même il comprend, il n’obéit pas."
+    },
+    {
+     "v": 20,
+     "t": "Si tu vois un homme prompt à parler, il y a plus à espérer d’un insensé que de lui."
+    },
+    {
+     "v": 21,
+     "t": "Si quelqu’un traite mollement son esclave dès l’enfance, celui-ci finit par se croire un fils.",
+     "n": [
+      "21 b. Sens douteux."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Un homme colère excite des querelles, et l’homme violent tombe dans beaucoup de péchés."
+    },
+    {
+     "v": 23,
+     "t": "L’orgueil d’un homme le conduit à l’humiliation, mais l’humble d’esprit obtient la gloire."
+    },
+    {
+     "v": 24,
+     "t": "Celui qui partage avec un voleur hait son âme ; il entend la malédiction et ne dit rien.",
+     "n": [
+      "24. La malédiction : aussitôt qu’un vol était constaté, la personne volée ( Jug. xvii, 2 ) ou le juge de la ville ( Lév. v, 1 ) prononçait une malédiction solennelle contre le voleur et tous ceux qui, le connaissant, ne le dénonceraient pas."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "La crainte des hommes porte avec elle un piège, mais celui qui se confie en Yahweh est mis en sûreté.",
+     "n": [
+      "25. LXX ajoutent : L’impiété donne à l’homme une occasion de chute, mais celui qui se fie au Seigneur sera sauvé."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Beaucoup de gens recherchent la faveur du prince, mais c’est de Yahweh que vient à chacun la justice."
+    },
+    {
+     "v": 27,
+     "t": "L’homme inique est en abomination aux justes, et celui dont la voie est droite est en abomination aux méchants.",
+     "n": [
+      "27. Vulg. ajoute : le fils qui garde la parole est à l’abri de la perdition. (Cf. LXX, xxiv, 22 a )."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 30,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Paroles d’Agur, fils de Jaké ; sentence. Cet homme a dit : Je me suis fatigué pour connaître Dieu, pour connaître Dieu, et je suis à bout de forces.",
+     "h": "PAROLES D’AGUR.",
+     "n": [
+      "XXX, 1. Verset très difficile et diversement interprété. Vulg. (prenant dans un sens allégorique tous les noms de ce verset) : Paroles de celui qui rassemble, fils de celui qui vomit. Vision racontée par un homme avec qui Dieu est et, qui, fortifié par la présence de Dieu en lui, dit. LXX : Mon fils, crains mes paroles, et en les recevant, fais pénitence. Voici ce que dit l’homme à ceux qui croient à Dieu, et je me repose."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Car je suis plus stupide que personne, et je n’ai pas l’intelligence d’un homme."
+    },
+    {
+     "v": 3,
+     "t": "Je n’ai pas appris la sagesse, et je ne connais pas la science du Saint."
+    },
+    {
+     "v": 4,
+     "t": "Qui monte au ciel et qui en descend ? Qui a recueilli le vent dans ses mains ? Qui a lié les eaux dans son vêtement ? Qui a affermi toutes les extrémités de la terre ? Quel est son nom et quel est le nom de son fils ? Le sais-tu ?"
+    },
+    {
+     "v": 5,
+     "t": "Toute parole de Dieu est éprouvée par le feu ; il est un bouclier pour ceux qui se réfugient auprès de lui."
+    },
+    {
+     "v": 6,
+     "t": "N’ajoute rien à ses paroles, de peur qu’il ne te reprenne et que tu ne sois trouvé menteur."
+    },
+    {
+     "v": 7,
+     "t": "Je te demande deux choses, ne me les refuse pas avant que je meure :"
+    },
+    {
+     "v": 8,
+     "t": "Éloigne de moi la fausseté et la parole mensongère ; ne me donne ni pauvreté, ni richesse, accorde-moi le pain qui m’est nécessaire :"
+    },
+    {
+     "v": 9,
+     "t": "de peur que, rassasié, je ne te renie et ne dise : « Qui est Yahweh ? »; et que, devenu pauvre, je ne dérobe, et n’outrage le nom de mon Dieu."
+    },
+    {
+     "v": 10,
+     "t": "Ne calomnie pas un serviteur auprès de son maître, de peur qu’il ne te maudisse et que tu n’en portes la peine."
+    },
+    {
+     "v": 11,
+     "t": "Il est une race qui maudit son père, et qui ne bénit pas sa mère."
+    },
+    {
+     "v": 12,
+     "t": "Il est une race qui est pure à ses propres yeux, et qui n’est pas lavée de sa souillure."
+    },
+    {
+     "v": 13,
+     "t": "Il est une race — combien ses regards sont altiers, et ses paupières élevées !"
+    },
+    {
+     "v": 14,
+     "t": "Il est une race dont les dents sont des glaives, et les molaires des couteaux, pour dévorer les malheureux de dessus la terre, et les indigents parmi les hommes."
+    },
+    {
+     "v": 15,
+     "t": "La sangsue a deux filles : Donne ! donne ! Trois choses sont insatiables, quatre ne disent jamais : Assez :"
+    },
+    {
+     "v": 16,
+     "t": "le schéol, le sein stérile, la terre qui n’est pas rassasiée d’eau et le feu qui ne dit jamais : Assez !"
+    },
+    {
+     "v": 17,
+     "t": "L’œil qui se moque d’un père, et qui dédaigne l’obéissance envers une mère, les corbeaux du torrent le perceront, et les petits de l’aigle le dévoreront."
+    },
+    {
+     "v": 18,
+     "t": "Il y a trois choses qui me dépassent, et même quatre que je ne comprends pas :"
+    },
+    {
+     "v": 19,
+     "t": "la trace de l’aigle dans les cieux, la trace du serpent sur le rocher, la trace du navire au milieu de la mer, et la trace de l’homme chez la jeune fille.",
+     "n": [
+      "19. Et la trace de l’homme, etc. Vulg. et la trace de l’homme dans sa jeunesse."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Telle est la voie de la femme adultère : elle mange et, s’essuyant la bouche, elle dit : « Je n’ai pas fait de mal. »",
+     "n": [
+      "20. Elle mange… LXX, toutes les fois qu’elle a agi (commis le mal ?), elle se lave, et dit quelle n’a rien fait d’inconvenant."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Sous trois choses la terre tremble, et sous quatre, qu’elle ne peut supporter :"
+    },
+    {
+     "v": 22,
+     "t": "sous un esclave lorsqu’il vient à régner, et un insensé lorsqu’il est rassasié de pain,"
+    },
+    {
+     "v": 23,
+     "t": "sous une femme dédaignée lorsqu’elle se marie, et sous une servante lorsqu’elle hérite de sa maîtresse."
+    },
+    {
+     "v": 24,
+     "t": "Il y a sur la terre quatre animaux bien petits, et qui sont cependant très sages :",
+     "n": [
+      "24. Il y a sur la terre etc. M. à m., Quatre animaux sont les plus petits de la terre."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Les fourmis, peuple sans force, préparent en été leur nourriture ;"
+    },
+    {
+     "v": 26,
+     "t": "les damans, peuple sans puissance, placent leur gîte dans les rochers ;"
+    },
+    {
+     "v": 27,
+     "t": "les sauterelles n’ont pas de roi, et elles sortent toutes par bandes ;"
+    },
+    {
+     "v": 28,
+     "t": "tu peux prendre le lézard avec la main, et il se trouve dans le palais des rois.",
+     "n": [
+      "28. Tu peux prendre le lézard avec la main ; Vulgate, le lézard se soutient sur ses mains."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Il y en a trois qui ont une belle allure, et quatre qui ont une belle démarche :"
+    },
+    {
+     "v": 30,
+     "t": "le lion, le plus brave des animaux, ne reculant devant aucun adversaire ;"
+    },
+    {
+     "v": 31,
+     "t": "l’animal aux reins agiles, ou le bouc, et le roi, à qui personne ne résiste.",
+     "n": [
+      "31. L’animal aux reins agiles. On ne sait au juste quel animal est ainsi désigné. On a nommé le cheval et le lévrier. LXX et Vulg., le coq."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "Si tu es assez fou pour te laisser emporter par l’orgueil, et si tu en as la pensée, mets la main sur ta bouche,",
+     "n": [
+      "32. D’autres : si tu as agi follement en t’élevant toi-même, et si tu as de mauvaises pensées, mets la main sur ta bouche."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "car la pression du lait produit du beurre, la pression du nez produit du sang, et la pression de la colère produit la querelle."
+    }
+   ]
+  },
+  {
+   "c": 31,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Paroles du roi Lamuel ; sentences par lesquelles sa mère l’instruisit :",
+     "h": "PAROLES DU ROI LAMUEL.",
+     "n": [
+      "XXXI, 1. LXX. Mes paroles sont dites par Dieu : oracle du (ou pour le ) roi que sa mère a instruit."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Que te dirai-je, mon fils ? Que te dirai-je, fils de mes entrailles ? Que te dirai-je, mon fils, objet de mes vœux ?"
+    },
+    {
+     "v": 3,
+     "t": "Ne livre pas ta vigueur aux femmes, et tes voies à celles qui perdent les rois.",
+     "n": [
+      "3. Tes voies. Vulg., et tes richesses aux courtisanes pour la perte des rois."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Ce n’est point aux rois, Lamuel, ce n’est point aux rois de boire du vin, ni aux puissants de rechercher les liqueurs fermentées :",
+     "n": [
+      "4. Ni aux puissants etc. Vulg., car il n’y a pas de secret où règne l’ivresse."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "de peur qu’en buvant ils n’oublient la loi, et ne faussent le droit de tous les malheureux."
+    },
+    {
+     "v": 6,
+     "t": "Donnez des liqueurs fortes à celui qui périt, et du vin à celui dont l’âme est remplie d’amertume :"
+    },
+    {
+     "v": 7,
+     "t": "qu’il boive, et qu’il oublie sa misère, et qu’il ne se souvienne plus de ses peines."
+    },
+    {
+     "v": 8,
+     "t": "Ouvre ta bouche en faveur du muet, pour la cause de tous les abandonnés."
+    },
+    {
+     "v": 9,
+     "t": "Ouvre ta bouche, rends de justes arrêts, et fais justice au malheureux et à l’indigent."
+    },
+    {
+     "v": 10,
+     "t": "ALEPH. Qui peut trouver une femme forte ? Son prix l’emporte de loin sur celui des perles.",
+     "h": "LA FEMME FORTE.",
+     "n": [
+      "10 sv. Dans ce petit poème, alphabétique en hébreu, l’auteur trace le portrait idéal de la femme forte, dont il emprunte les traits aux mœurs de son pays. La femme forte est une femme vertueuse, amie du travail, qui remplit ses devoirs d’épouse et de mère avec intelligence et courage."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "BETH. Le cœur de son mari a confiance en elle, et les profits ne lui feront pas défaut."
+    },
+    {
+     "v": 12,
+     "t": "GHIMEL. Elle lui fait du bien, et non du mal, tous les jours de sa vie."
+    },
+    {
+     "v": 13,
+     "t": "DALETH. Elle recherche de la laine et du lin, et travaille de sa main joyeuse."
+    },
+    {
+     "v": 14,
+     "t": "HÉ. Elle est comme le vaisseau du marchand, elle apporte son pain de loin."
+    },
+    {
+     "v": 15,
+     "t": "VAV. Elle se lève lorsqu’il est encore nuit, et elle donne la nourriture à sa maison, et la tâche à ses servantes.",
+     "n": [
+      "15. Et la tâche. Ou encore et le pain auquel elles ont droit (comp. xxx, 8)."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "ZAÏ. Elle pense à un champ, et elle l’acquiert ; du fruit de ses mains, elle plante une vigne."
+    },
+    {
+     "v": 17,
+     "t": "HETH. Elle ceint de force ses reins, et elle affermit ses bras."
+    },
+    {
+     "v": 18,
+     "t": "TETH. Elle sent que son gain est bon ; sa lampe ne s’éteint pas pendant la nuit."
+    },
+    {
+     "v": 19,
+     "t": "YOD. Elle met la main à la quenouille, et ses doigts prennent le fuseau."
+    },
+    {
+     "v": 20,
+     "t": "CAPH. Elle tend la main au malheureux, elle ouvre la main à l’indigent."
+    },
+    {
+     "v": 21,
+     "t": "LAMED. Elle ne craint pas la neige pour sa maison, car toute sa maison est vêtue de cramoisi.",
+     "n": [
+      "21. De cramoisi. Vulg. d’un double vêtement ( schenaim, au lieu de schânîm )."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "MEM. Elle se fait des couvertures, le byssus et la pourpre sont ses vêtements."
+    },
+    {
+     "v": 23,
+     "t": "NUN. Son époux est bien connu aux portes de la ville, lorsqu’il siège avec les anciens du pays."
+    },
+    {
+     "v": 24,
+     "t": "SAMECH. Elle fait des chemises et les vend, et elle livre des ceintures au marchand."
+    },
+    {
+     "v": 25,
+     "t": "AÏ. La force et la grâce sont sa parure, et elle se rit de l’avenir."
+    },
+    {
+     "v": 26,
+     "t": "PHÉ. Elle ouvre la bouche avec sagesse, et les bonnes paroles sont sur sa langue.",
+     "n": [
+      "26. Bonnes paroles ; m. à m., loi ou instruction de bienveillance. — LXX ajoutent : Elle ouvre la bouche avec attention et justesse, et elle impose une direction à sa langue. C’est une simple variante du v. 26."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "TSADÉ. Elle surveille les sentiers de sa maison, et elle ne mange pas le pain d’oisiveté."
+    },
+    {
+     "v": 28,
+     "t": "QOPH. Ses fils se lèvent et la proclament heureuse ; son époux se lève et lui donne des éloges :"
+    },
+    {
+     "v": 29,
+     "t": "RESCH. « Beaucoup de filles se sont montrées vertueuses ; mais toi, tu les surpasses toutes. »",
+     "n": [
+      "29. Éloge annoncé au vers, précédent."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "SCHIN. Trompeuse est la grâce, et vaine est la beauté ; la femme qui craint Yahweh est celle qui sera louée.",
+     "n": [
+      "30. La femme qui craint etc. LXX : la femme intelligente est bénie, qu’elle loue la crainte de Dieu."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "THAV. Donnez-lui du fruit de ses mains, et que ses œuvres disent sa louange aux portes de la ville."
+    }
+   ]
+  }
+ ]
+}

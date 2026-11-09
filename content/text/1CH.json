@@ -1,0 +1,4256 @@
+{
+ "code": "1CH",
+ "name": "1 Chroniques",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Adam, Seth, Enos,",
+     "h": "PREMIÈRE PARTIE. [I, I — IX, 44.] D’ADAM À SAÜL. — TABLES GÉNÉALOGIQUES. — I — D’ADAM AUX FILS DE JACOB. [I, i — II, 2.]",
+     "n": [
+      "I, 1-4. Comp. Gen. v."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Caïnan, Malaléel, Jared,"
+    },
+    {
+     "v": 3,
+     "t": "Hénoch, Mathusalé, Lamech,"
+    },
+    {
+     "v": 4,
+     "t": "Noé, Sem, Cham et Japheth."
+    },
+    {
+     "v": 5,
+     "t": "Fils de Japheth : Gomer, Magog, Madaï, Javan, Thubal, Mosoch et Thiras. —",
+     "n": [
+      "5-23. Comp. Gen. x."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Fils de Gomer : Ascénez, Riphath et Thogorma. —",
+     "n": [
+      "6. Riphath, d’après le Keri : la leçon Diphath est fautive."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Fils de Javan : Élisa, Tharsis, Céthim et Dodanim."
+    },
+    {
+     "v": 8,
+     "t": "Fils de Cham : Chus, Mesraïm, Phut et Chanaan. —"
+    },
+    {
+     "v": 9,
+     "t": "Fils de Chus : Saba, Hévila, Sabatha, Regma et Sabathacha. — Fils de Regma : Saba et Dadan. —"
+    },
+    {
+     "v": 10,
+     "t": "Chus engendra Nemrod ; c’est lui qui commença à être puissant sur la terre. —"
+    },
+    {
+     "v": 11,
+     "t": "Mesraïm engendra les Ludim, les Anamim, les Laabim, les Nephthuhim,"
+    },
+    {
+     "v": 12,
+     "t": "les Phétrusim, les Casluhim, d’où sont sortis les Philistins, et les Caphthorim. —"
+    },
+    {
+     "v": 13,
+     "t": "Chanaan engendra Sidon, son premier-né, et Heth,"
+    },
+    {
+     "v": 14,
+     "t": "ainsi que les Jébuséens, les Amorrhéens, les Gergéséens,"
+    },
+    {
+     "v": 15,
+     "t": "les Hévéens, les Aracéens, les Sinéens,"
+    },
+    {
+     "v": 16,
+     "t": "les Aradiens, les Samaréens et les Hamathéens."
+    },
+    {
+     "v": 17,
+     "t": "Fils de Sem : Elam, Assur, Arphaxad, Lud, Aram ; Hus, Hul, Géther et Mosoch. —",
+     "n": [
+      "17. Fils de Sem : l’auteur a commencé par donner la descendance de Japheth ; puis celle de Cham, sur lesquelles il n’aura plus à revenir ; il termine par celle de Sem, tige des généalogies qui suivent. Le même procédé d’élimination d’une part, et de réserve de l’autre, sera appliqué à Ismaël et Isaac (vers. 29 sv.), à Esaü et Jacob (35 sv.). — D’après Gen. x, 23, il faut, après Aram, introduire : — Fils d’Aram : Hus, etc."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Arphaxad engendra Salé, et Salé engendra Héber."
+    },
+    {
+     "v": 19,
+     "t": "Il naquit à Héber deux fils : le nom de l’un fut Phaleg, parce que de son temps la terre fut partagée, et le nom de son frère fut Jectan. —"
+    },
+    {
+     "v": 20,
+     "t": "Jectan engendra Elmodad, Saleph, Asarmoth, Jaré,"
+    },
+    {
+     "v": 21,
+     "t": "Adoram, Huzal, Décla,"
+    },
+    {
+     "v": 22,
+     "t": "Hébal, Abimaël, Saba,"
+    },
+    {
+     "v": 23,
+     "t": "Ophir, Hévila et Jobab. Tous ceux-là furent fils de Jectan."
+    },
+    {
+     "v": 24,
+     "t": "Sem, Arphaxad, Salé,",
+     "n": [
+      "24-27. Comp. Gen. xi, 10-26."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Héber, Phaleg, Ragau,"
+    },
+    {
+     "v": 26,
+     "t": "Serug, Nachor, Tharé,"
+    },
+    {
+     "v": 27,
+     "t": "Abram, qui est Abraham."
+    },
+    {
+     "v": 28,
+     "t": "Fils d’Abraham : Isaac et Ismaël."
+    },
+    {
+     "v": 29,
+     "t": "Voici leur postérité : Nabaïoth, premier-né d’Ismaël, puis Cédar, Adbéel, Mabsam,",
+     "n": [
+      "29-31. Comp. Gen xxv, 13-16."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "Masma, Duma, Massa, Hadad, Thema,"
+    },
+    {
+     "v": 31,
+     "t": "Jétur, Naphis, Cedma. Ce sont les fils d’Ismaël."
+    },
+    {
+     "v": 32,
+     "t": "Fils de Cétura, concubine d’Abraham : elle enfanta Zamram, Jecsan, Madan, Madian, Jesboc et Sué. — Fils de Jecsan : Saba et Dadan. —",
+     "n": [
+      "32, 33. Comp. Gen. xxv, 1-4.",
+      "32. Après et Dadan les LXX et la Vulgate ajoutent : Fils de Dadan : les Assurim, les Latussim et les Laomim, mots qui se trouvent dans le passage parallèle, Gen. xxv, 3."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "Fils de Madian : Epha, Epher, Hénoch, Abida et Eldaa. — Tous ceux-là sont fils de Cétura."
+    },
+    {
+     "v": 34,
+     "t": "Abraham engendra Isaac. Fils d’Isaac : Ésaü et Jacob."
+    },
+    {
+     "v": 35,
+     "t": "Fils d’Ésaü : Eliphaz, Rahuel, Jéhus, Ihélom et Coré. —",
+     "n": [
+      "35-37. Comp. Gen. xxxvi, 10-14."
+     ]
+    },
+    {
+     "v": 36,
+     "t": "Fils d’Eliphaz : Théman, Omar, Séphi, Gathan, Cénez, Thamna, Amalec. —"
+    },
+    {
+     "v": 37,
+     "t": "Fils de Rahuel : Nahath, Zara, Samma et Méza."
+    },
+    {
+     "v": 38,
+     "t": "Fils de Séir : Lotan, Sobal, Sébéon, Ana, Dison, Eser et Disan. —",
+     "n": [
+      "38-42. Comp. Gen. xxxvi, 20-28."
+     ]
+    },
+    {
+     "v": 39,
+     "t": "Fils de Lotan : Hori et Homam. Sœur de Lotan : Thamna. —"
+    },
+    {
+     "v": 40,
+     "t": "Fils de Sobal : Alian, Manahath, Ebal, Séphi et Onam. — Fils de Sébéon : Aïa et Ana. — Fils d’Ana : Dison. —"
+    },
+    {
+     "v": 41,
+     "t": "Fils de Dison : Hamram, Eséban, Jéthran et Charan. —",
+     "n": [
+      "41. Hatnram, ou Hamdam, Gen. xxxvi, 26."
+     ]
+    },
+    {
+     "v": 42,
+     "t": "Fils d’Eser : Balaan, Zavan et Jacan. — Fils de Disan : Hus et Aran."
+    },
+    {
+     "v": 43,
+     "t": "Voici les rois qui ont régné dans le pays d’Edom avant qu’un roi régnât sur les enfants d’Israël : Béla, fils de Béor ; le nom de sa ville était Dénaba.",
+     "n": [
+      "43-51 a. Comp. Gen. xxxvi, 31-39."
+     ]
+    },
+    {
+     "v": 44,
+     "t": "Béla mourut, et, à sa place, régna Jobab, fils de Zaré, de Bosra."
+    },
+    {
+     "v": 45,
+     "t": "Jobab mourut, et à sa place régna Husam, du pays des Thémanites."
+    },
+    {
+     "v": 46,
+     "t": "Husam mourut, et, à sa place, régna Hadad, fils de Badad, qui défit Madian dans les champs de Moab ; le nom de sa ville était Avith."
+    },
+    {
+     "v": 47,
+     "t": "Hadad mourut, et, à sa place, régna Semla, de Masréca."
+    },
+    {
+     "v": 48,
+     "t": "Semla mourut, et, à sa place, régna Saül, de Rohoboth sur le Fleuve."
+    },
+    {
+     "v": 49,
+     "t": "Saül mourut, et à sa place, régna Balanan, fils d’Achobor."
+    },
+    {
+     "v": 50,
+     "t": "Balanan mourut, et, à sa place, régna Hadad ; le nom de sa ville était Phau, et le nom de sa femme, Méétabel, fille de Matred, fille de Mézaab."
+    },
+    {
+     "v": 51,
+     "t": "Hadad mourut. Les chefs d’Edom étaient : le chef Thamna, le chef Alva, le chef Jétheth,",
+     "n": [
+      "51 b -54. Comp. Gen. xxxvi, 40-43.",
+      "51. Les chefs d’Edom étaient. Vulg. : Hadad étant mort, il commença à y avoir dans Edom des chefs au lieu de rois. C’est une interprétation qui est loin d’être certaine ; rien n’indique une corrélation entre la liste des rois et celle des chefs. — Le chef Thamna. etc. Nous avons traduit comme dans le passage parallèle Gen. xxxvi, 40 sv. On pourrait aussi traduire aux deux endroits : le chef de Thamna, etc. Ces noms propres, au lieu de désigner ici des noms de personnes, pourraient désigner des localités où s’étaient fixés les chefs de famille iduméens, dont elles porteraient les noms."
+     ]
+    },
+    {
+     "v": 52,
+     "t": "le chef Oolibama, le chef Ela, le chef Phinon,"
+    },
+    {
+     "v": 53,
+     "t": "le chef Cénez, le chef Théman, le chef Mabsar,"
+    },
+    {
+     "v": 54,
+     "t": "le chef Magdiel, le chef Hiram. Ce sont là les chefs d’Edom."
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici les fils d’Israël : Ruben, Siméon, Lévi, Juda, Issachar, Zabulon,"
+    },
+    {
+     "v": 2,
+     "t": "Dan, Joseph, Benjamin, Nephthali, Gad et Aser."
+    },
+    {
+     "v": 3,
+     "t": "Fils de Juda : Her, Onan et Séla ; ces trois lui naquirent de la fille de Sué, la Chananéenne. — Her, premier-né de Juda, était méchant aux yeux de Yahweh, qui le fit mourir. —",
+     "h": "II. — DESCENDANTS DES FILS DE JACOB. [II, 3 — VII, 40.] — descendants de Juda.",
+     "n": [
+      "II, 3. Fils de Juda : a ) les tribus d’Israël viennent dans un ordre qui tient compte à la fois de l’importance de leur rôle historique et de leur position respective dans la terre promise. b ) Dans les généalogies de chaque tribu, l’auteur ne procède pas systématiquement et ne prétend pas être complet ; il se contente de reproduire les listes ou les fragments de listes généalogiques qu’il a pu retrouver dans les familles après l’exil. Comme le plus grand nombre de ces familles appartenaient aux tribus de Juda, de Benjamin et de Lévi, ce sont aussi leurs généalogies qui offrent le moins de lacunes. Pour 3, 4, comp. Gen. xxxviii."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Thamar, belle-fille de Juda, lui enfanta Pharès et Zara. — Tous les fils de Juda furent au nombre de cinq."
+    },
+    {
+     "v": 5,
+     "t": "Fils de Pharès : Hesron et Hamul. —"
+    },
+    {
+     "v": 6,
+     "t": "Fils de Zara : Zamri, Ethan, Eman, Chalchal et Dara : en tout, cinq. —"
+    },
+    {
+     "v": 7,
+     "t": "Fils de Charmi : Achar, qui troubla Israël par une transgression au sujet d’une chose vouée à l’anathème. —"
+    },
+    {
+     "v": 8,
+     "t": "Fils d’Ethan : Azarias."
+    },
+    {
+     "v": 9,
+     "t": "Fils qui naquirent à Hesron : Jéraméel, Ram et Calubi."
+    },
+    {
+     "v": 10,
+     "t": "Ram engendra Aminadab ; Aminadab engendra Nahasson, prince des fils de Juda ;"
+    },
+    {
+     "v": 11,
+     "t": "Nahasson engendra Salma ; Salma engendra Booz ;"
+    },
+    {
+     "v": 12,
+     "t": "Booz engendra Obed ; Obed engendra Isaï ;"
+    },
+    {
+     "v": 13,
+     "t": "Isaï engendra Eliab son premier-né, Abinadab, le deuxième, Simmaa le troisième,"
+    },
+    {
+     "v": 14,
+     "t": "Nathanaël, le quatrième, Raddaï, le cinquième,"
+    },
+    {
+     "v": 15,
+     "t": "Asom, le sixième, et David, le septième."
+    },
+    {
+     "v": 16,
+     "t": "Leurs sœurs étaient : Sarvia et Abigaïl. — Fils de Sarvia : Abisaï, Joab et Asaël, trois. —"
+    },
+    {
+     "v": 17,
+     "t": "Abigaïl enfanta Amasa, dont le père fut Jéther, l’Ismaélite."
+    },
+    {
+     "v": 18,
+     "t": "Caleb, fils de Hesron eut des enfants d’Azuba, sa femme, et de Jérioth. Voici les fils qu’il eut d’Azuba : Jaser, Sobab et Ardon.",
+     "n": [
+      "18. Depuis ce verset jusqu’à la fin du chap. l’auteur a puisé la plupart de ses renseignements à des sources particulières (non scripturaires). — Et de Jérioth, sa concubine : les enfants nés de Jérioth ne sont pas mentionnés. Le texte hébreu est ici assez obscur. Plusieurs le regardent comme corrompu et lui prêtèrent le sens donné par les versions Syriaque et Vulg. Caleb… prit une femme nommée Azuba, dont il eut (un fils appelé) Jérioth ; ses fils (petits-fils) furent, etc."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Azuba mourut, et Caleb prit pour femme Ephrata, qui lui enfanta Hur."
+    },
+    {
+     "v": 20,
+     "t": "Hur engendra Uri, et Uri engendra Bézéléel. —"
+    },
+    {
+     "v": 21,
+     "t": "Ensuite Hesron s’unit à la fille de Machir, père de Galaad : il avait soixante ans quand il la prit ; elle lui enfanta Ségub."
+    },
+    {
+     "v": 22,
+     "t": "Ségub engendra Jaïr, qui eut vingt-trois villes dans le pays de Galaad."
+    },
+    {
+     "v": 23,
+     "t": "Les Gessuriens et les Syriens leur prirent les Bourgs de Jaïr, ainsi que Canath et les villes de sa dépendance : soixante villes. Tous ceux-là étaient fils de Machir, père de Galaad."
+    },
+    {
+     "v": 24,
+     "t": "Après la mort de Hesron à Caleb-Ephrata, Abia, la femme de Hesron, lui enfanta Ashur, père de Thécua.",
+     "n": [
+      "24. Ni les LXX ni la Vulgate ne sont d’accord ici avec l’hébreu, ce qui fait croire que ce dernier texte est corrompu. Vulg. : Après la mort de Hesron, Caleb alla vers Ephrata (leçon préférable à l’hébreu ; comp. vers. 19) ; Hesron avait eu aussi pour femme Abia, qui lui enfanta, etc."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Les fils de Jéraméel, premier-né de Hesron, furent : Ram, le premier-né, Buna, Aran, Asom et Achia."
+    },
+    {
+     "v": 26,
+     "t": "Jéraméel eut une autre femme, nommée Athara, qui fut mère d’Onam. —"
+    },
+    {
+     "v": 27,
+     "t": "Les fils de Ram, premier-né de Jéraméel furent : Moos, Jamin et Acar. —"
+    },
+    {
+     "v": 28,
+     "t": "Les fils d’Onam furent : Séméï et Jada. — Fils de Séméï : Nadab et Abisur."
+    },
+    {
+     "v": 29,
+     "t": "Le nom de la femme d’Abisur était Abihaïl, et elle lui enfanta Ahobban et Molid."
+    },
+    {
+     "v": 30,
+     "t": "Fils de Nadab : Saled et Apphaïm. Saled mourut sans fils."
+    },
+    {
+     "v": 31,
+     "t": "Fils d’Apphaïm : Jési. Fils de Jési : Sésan. Fils de Sesan : Oholaï. —"
+    },
+    {
+     "v": 32,
+     "t": "Fils de Jada, frère de Séméï : Jéther et Jonathan. Jéther mourut sans fils."
+    },
+    {
+     "v": 33,
+     "t": "Fils de Jonathan : Phaleth et Ziza. — Ce sont là les fils de Jéraméel. —"
+    },
+    {
+     "v": 34,
+     "t": "Sésan n’eut pas de fils, mais il eut des filles. Il avait un esclave Égyptien, nommé Jéraa ;"
+    },
+    {
+     "v": 35,
+     "t": "il lui donna sa fille pour femme, et elle lui enfanta Ethéï."
+    },
+    {
+     "v": 36,
+     "t": "Ethéï engendra Nathan ; Nathan engendra Zabad ;"
+    },
+    {
+     "v": 37,
+     "t": "Zabad engendra Ophlal ; Ophlal engendra Obed ;"
+    },
+    {
+     "v": 38,
+     "t": "Obed engendra Jéhu ; Jéhu engendra Azarias ;"
+    },
+    {
+     "v": 39,
+     "t": "Azarias engendra Hellès ; Hellès engendra Elasa ;"
+    },
+    {
+     "v": 40,
+     "t": "Elasa engendra Sisamoï ; Sisamoï engendra Sellum ;"
+    },
+    {
+     "v": 41,
+     "t": "Sellum engendra Icamias, et Icamias engendra Elisama."
+    },
+    {
+     "v": 42,
+     "t": "Fils de Caleb, frère de Jéraméel : Mésa, son premier-né, qui fut père de Ziph, et les fils de Marésa, père d’Hébron. —"
+    },
+    {
+     "v": 43,
+     "t": "Fils d’Hébron : Coré, Thaphua, Récem et Samma."
+    },
+    {
+     "v": 44,
+     "t": "Samma engendra Raham, père de Jercaam ; Récem engendra Sammaï. —"
+    },
+    {
+     "v": 45,
+     "t": "Fils de Sammaï : Maon ; et Maon fut père de Bethsur. —"
+    },
+    {
+     "v": 46,
+     "t": "Epha, concubine de Caleb, enfanta Haran, Mosa et Gézez. Haran engendra Gézez. —"
+    },
+    {
+     "v": 47,
+     "t": "Fils de Jahaddaï : Regom, Joathan, Gosan, Phalet, Epha et Saaph. —"
+    },
+    {
+     "v": 48,
+     "t": "Maacha, concubine de Caleb, enfanta Saber et Tharana."
+    },
+    {
+     "v": 49,
+     "t": "Elle enfanta encore Saaph, père de Madména, Sué, père de Machbéna et père de Gabaa. La fille de Caleb était Achsa."
+    },
+    {
+     "v": 50,
+     "t": "Ceux-ci furent fils de Caleb. Fils de Hur, premier-né d’Ephrata : Sobal, père de Cariathiarim ;"
+    },
+    {
+     "v": 51,
+     "t": "Salma, père de Bethléem ; Hariph, père de Bethgader. —"
+    },
+    {
+     "v": 52,
+     "t": "Les fils de Sobal, père de Cariathiarim, furent : Haroé, Hatsi-Hamménuhoth.",
+     "n": [
+      "52. Haroé, Hatsi-Hamménuhoth, c.-à-d. le voyant, moitié des repos (Vulg.). Ces noms propres des localités (inconnues) habitées par les familles issues de Sobal, sont mis pour les noms des chefs de ces familles. LXX : Araa, Eisi et Ammanith."
+     ]
+    },
+    {
+     "v": 53,
+     "t": "Les familles de Cariathiarim, furent : les Jethréens, les Aphuthéens, les Sémathéens et les Maséréens. D’eux sont sortis les Saréens et les Esthaoliens. —"
+    },
+    {
+     "v": 54,
+     "t": "Fils de Salma : Bethléem et les Nétophatiens, Ataroth-Beth-Joab, moitié des Manachtiens, les Saréens,"
+    },
+    {
+     "v": 55,
+     "t": "ainsi que les familles des Scribes demeurant à Jabès, savoir, les Thiratiens, les Schimathiens et les Sucathiens. Ce sont les Cinéens, issus de Hamath, père de la maison de Réchab."
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici les fils de David qui lui naquirent à Hébron : le premier-né, Amnon, d’Achinoam de Jezraël ; le second, Daniel, d’Abigaïl de Carmel ;"
+    },
+    {
+     "v": 2,
+     "t": "le troisième, Absalom, fils de Maacha, fille de Tholmaï, roi de Gessur ; le quatrième, Adonias, fils de Haggith ;"
+    },
+    {
+     "v": 3,
+     "t": "le cinquième, Saphatias, d’Abital ; le sixième, Jéthraham, d’Egla, sa femme.",
+     "n": [
+      "III, I 4. Comp. II Sam. iii, 2-5."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Ces six lui naquirent à Hébron, où il régna sept ans et six mois ; puis il régna trente-trois ans à Jérusalem."
+    },
+    {
+     "v": 5,
+     "t": "Et ceux-ci lui naquirent à Jérusalem : Simmaa, Sobab, Nathan, Salomon, quatre, de Bethsué, fille d’Ammiel ;",
+     "n": [
+      "5-8. Et ceux-ci : cette liste se retrouve, avec quelques variantes orthographiques ch. xix, 37, et II Sam. v, 14-16."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Jébaar, Elisama, Eliphaleth,"
+    },
+    {
+     "v": 7,
+     "t": "Nogé, Népheg, Japhia,"
+    },
+    {
+     "v": 8,
+     "t": "Elisama, Eliada, Eliphéleth, neuf."
+    },
+    {
+     "v": 9,
+     "t": "Ce sont là tous les fils de David, sans compter les fils des concubines. Thamar était leur sœur."
+    },
+    {
+     "v": 10,
+     "t": "Fils de Salomon : Roboam ; Abias, son fils ; Asa, son fils ; Josaphat, son fils ;"
+    },
+    {
+     "v": 11,
+     "t": "Joram, son fils ; Ochozias, son fils ; Joas, son fils ;"
+    },
+    {
+     "v": 12,
+     "t": "Amazias, son fils ; Azarias, son fils ; Joatham, son fils ;"
+    },
+    {
+     "v": 13,
+     "t": "Achaz, son fils ; Ezéchias, son fils ; Manassé, son fils ;"
+    },
+    {
+     "v": 14,
+     "t": "Amon, son fils ; Josias, son fils."
+    },
+    {
+     "v": 15,
+     "t": "Fils de Josias : le premier-né Johanan ; le deuxième, Joakim ; le troisième, Sédécias ; le quatrième, Sellum. —"
+    },
+    {
+     "v": 16,
+     "t": "Fils de Joakim : Jéchonias, son fils ; Sédécias, son fils. —"
+    },
+    {
+     "v": 17,
+     "t": "Fils de Jéchonias : Asir, Salathiel, son fils,",
+     "n": [
+      "17. Asir, c.-à-d. captif. On pourrait donc aussi traduire : fils de Jéchonias le captif : Salathiel. Les Massorètes semblent l’avoir ainsi compris, et le nom d’Asir ne figure pas dans la généalogie de S. Matthieu entre Jéchonias et Salathiel. La Vulgate traduit : les fils de Jéchonias furent : Asir, Salathiel ; mais les LXX portent comme l’hébreu : Asir, Salathiel, son fils, c.-à-d. fils d’Asir."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Melchiram, Phadaïa, Sennéser, Jécémias, Sama et Nadabias. —"
+    },
+    {
+     "v": 19,
+     "t": "Fils de Phadaïas : Zorobabel et Séméï. — Fils de Zorobabel : Mosollam, Hananias et Salomith, leur sœur ;",
+     "n": [
+      "19. Zorobabel (voy. Esdr. iii, 2 ) est dit fils de Salathiel Matth. i, 12 : comp. Agg. i, 1, 12 : Esdr. iii, 2. Peut-être faut-il invoquer la loi du lévirat ( Deut. xxv, 5 sv. )."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "et Hasaban, Ohol, Barachias, Hasadias, Josabhésed, cinq. —"
+    },
+    {
+     "v": 21,
+     "t": "Fils de Hananias : Phaltias et Jéséïas, les fils de Raphaïa, les fils d’Arnan, les fils d’Obdia, les fils de Séchénias. —",
+     "n": [
+      "21. Les fils de Raphaïa, etc. : au lieu de cette formule nouvelle qui introduit ici, à la place d’individus, des familles, les LXX lisent beno au lieu de benê, et ont : Fils de Hananias : Phaltias ; Jesélas, son fils ; Raphaïa, son fils ; Aman, son fils, et ainsi des autres. De même la Vulgate."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Fils de Séchénias : Séméïa. — Fils de Séméïa : Hattus, Jégaal, Baria, Naaria, Saphat, six. —",
+     "n": [
+      "22. Six : l’hébreu, les LXX et la Vulg. n’énumèrent que cinq fils de Séméia ; les versions Syr. et Arab, suppléent Azarias après Naaria."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Fils de Naaria : Elioénaï, Ezéchias et Ezricam : trois. —"
+    },
+    {
+     "v": 24,
+     "t": "Fils d’Elioénaï : Oduïa, Eliasub, Phéléïa, Accub, Johanan, Dalaïa et Anani : sept."
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Fils de Juda : Pharès, Hesron, Charmi, Hur et Sobal. —"
+    },
+    {
+     "v": 2,
+     "t": "Raïa, fils de Sobal, engendra Jahath ; Jahath engendra Achamaï et Lahad. Ce sont les familles des Saréens."
+    },
+    {
+     "v": 3,
+     "t": "Voici les descendants du père d’Etam : Jezrahel, Jéséma et Jédébos ; le nom de leur sœur était Asalelphuni.",
+     "n": [
+      "IV, 3. Le père, le chef ou le principal possesseur d’Etam, ville située dans la montagne de Juda ( II Par. xi, 6 )."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Phanuel fut le père de Gédor, et Ezer celui de Hosa. Ce sont là les fils de Hur, premier-né d’Ephrata, père de Bethléem.",
+     "n": [
+      "4. Gédor ( Jos. xv, 58 ) et Hosa paraissent désigner des localités, comme Bethléem, dont Salma, descendant de Hur, est aussi appelé le père ( I Par. ii, 51, 54 ), parce qu’elle était habitée et possédée en grande partie par des familles issues de lui."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Assur, père de Thécué, eut deux femmes : Halaa et Naara."
+    },
+    {
+     "v": 6,
+     "t": "Naara lui enfanta Oozam, Hépher, Thémani et Ahasthari : ce sont là les fils de Naara. —"
+    },
+    {
+     "v": 7,
+     "t": "Fils de Halaa : Séreth, Isaar et Ethnan."
+    },
+    {
+     "v": 8,
+     "t": "Cos engendra Anob et Soboba, et les familles d’Aharéhel, fils d’Arum."
+    },
+    {
+     "v": 9,
+     "t": "Jabès était plus honoré que ses frères ; sa mère lui donna le nom de Jabès, en disant : « C’est parce que je l’ai enfanté avec douleur. »"
+    },
+    {
+     "v": 10,
+     "t": "Jabès invoqua le Dieu d’Israël en disant : « Si vous me bénissez et que vous étendiez mes limites, si votre main est avec moi et si vous me préservez du malheur, en sorte que je ne sois pas dans l’affliction !… » Et Dieu lui accorda ce qu’il avait demandé.",
+     "n": [
+      "10. Si vous me préservez du malheur, m. à m. Si vous faites (?) du (ex) malheur. Texte douteux."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Kélub, frère de Sua, engendra Mahir, qui fut père d’Esthon."
+    },
+    {
+     "v": 12,
+     "t": "Esthon engendra la maison de Rapha, Phessé et Tehinna, père de la ville de Naas. Ce sont là les hommes de Récha."
+    },
+    {
+     "v": 13,
+     "t": "Fils de Cénez : Othoniel et Saraïa. — Fils d’Othoniel : Hathath et Maonathi ;"
+    },
+    {
+     "v": 14,
+     "t": "Maonathi engendra Ophra — Saraïa engendra Joab, père de ceux qui habitaient la vallée de Charaschim, car ils étaient ouvriers. —"
+    },
+    {
+     "v": 15,
+     "t": "Fils de Caleb, fils de Jéphoné : Hir, Ela et Maham. — Fils d’Ela : Cénez."
+    },
+    {
+     "v": 16,
+     "t": "Fils de Jaléléel : Ziph, Zipha, Thiria et Asraël."
+    },
+    {
+     "v": 17,
+     "t": "Fils d’Esra : Jéther, Méred, Epher et Jalon. La femme de Méred, l’Égyptienne, enfanta Mariam, Sammaï et Jesba, père d’Esthamo.",
+     "n": [
+      "17, 18. Au vers. 17 l’addition des mots en italique est nécessitée par le verbe elle enfanta, ou, plus exactement, elle conçut, qui réclame un sujet féminin. Toutefois il y aurait peut-être moyen de corriger autrement le texte. Au vers. 18, le membre de phrase : Ceux-là sont les fils de Béthia, etc., paraît en dehors de son contexte. La véritable place de ces mots serait au vers. 17 après Jalon : Voici les fils de Béthia, etc. C’est peut-être une erreur de copiste qui les a reportés au vers. 18. Au vers. 17, les LXX portent : Fils d’Estel : Jetherei, Phôrad, Apher et Amon. Et Jéiher engendra Maion, Semen et Mareth, père d’Esthaimon. Et sa femme, Adéia, enfanta Jared, etc., etc."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Son autre femme, la Juive, enfanta Jared, père de Gédor, Héber, père de Socho, et Icuthiel, père de Zanoé. Ceux-là sont les fils de Béthia, fille de Pharaon, que Méred avait prise pour femme."
+    },
+    {
+     "v": 19,
+     "t": "Fils de la femme d’Odaïa, sœur de Naham : le père de Céïla, le Garmien, et le père d’Esthamo, le Machathien."
+    },
+    {
+     "v": 20,
+     "t": "Fils de Simon : Amnon, Rinna, Ben-Hanan et Thilon. Fils de Jési : Zoheth et Ben-Zoheth."
+    },
+    {
+     "v": 21,
+     "t": "Fils de Séla, fils de Juda : Her, père de Lécha, Laada, père de Marésa, et les familles de la maison où l’on travaille le byssus, de la maison d’Aschbéa,"
+    },
+    {
+     "v": 22,
+     "t": "et Jokim, et les hommes de Cozéba, et Joas, et Saraph, qui dominèrent sur Moab, et Jaschubi-Léchem. Ces choses sont anciennes.",
+     "n": [
+      "22. Ces choses sont anciennes, remontent très haut. Ou bien : ce sont de vieilles traditions. Vulgate : Et celui qui fit arrêter le soleil, et les hommes de mensonge, et l’assuré, et le brûlant, et ceux qui retournèrent à Lachem (Bethléem). Cette interprétation remplace les noms propres par leur signification étymologique."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "C’étaient les potiers et les habitants de Nétaïm et de Gédéra ; ils demeuraient là, près du roi, travaillant pour lui."
+    },
+    {
+     "v": 24,
+     "t": "Fils de Siméon : Namuel, Jamin, Jarib, Zara, Saül.",
+     "h": "descendants de siméon, ruben, gad et manassé.",
+     "n": [
+      "24. Comp. Gen. xlvi, 10 ; Exod. vi, 15 ; Nombr. xxvi, 12, 13."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Sellum, son fils ; Madsam, son fils ; Masma, son Fils. —"
+    },
+    {
+     "v": 26,
+     "t": "Fils de Masma : Hamuel, son fils ; Zachur, son fils ; Séméï, son fils. —"
+    },
+    {
+     "v": 27,
+     "t": "Séméï eut seize fils et six filles ; ses frères n’eurent pas beaucoup de fils, et toutes leurs familles ne se multiplièrent pas autant que les fils de Juda."
+    },
+    {
+     "v": 28,
+     "t": "Ils habitaient à Bersabée, à Molada, à Hasar-Suhal,",
+     "n": [
+      "28-32. Comp. Jos. xix, 2-9."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "à Bala, à Asom, à Tholad,"
+    },
+    {
+     "v": 30,
+     "t": "à Bathuel, à Horma, à Sicéleg,"
+    },
+    {
+     "v": 31,
+     "t": "à Beth-Marchaboth, à Hasar-Susim, à Beth-Béraï et à Saarim : ce furent là leurs villes jusqu’au règne de David,"
+    },
+    {
+     "v": 32,
+     "t": "et leurs villages. Ils avaient encore : Etam, Aën, Remmon, Thochen et Asan, cinq villes,",
+     "n": [
+      "32. — Et leurs villages ou bourgs (comp. Jos. xix, 6 ). Les Massorètes, les LXX et la Vulg. lient ces mots à ce qui suit : leurs villages étaient : Etam, etc. ; mais ces localités son : appelées des villes."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "et tous leurs villages, qui étaient aux environs de ces villes, jusqu’à Baal. Voilà leurs habitations, et leurs registres généalogiques."
+    },
+    {
+     "v": 34,
+     "t": "Mosobab, Jemlech, Josa, fils d’Amasias,"
+    },
+    {
+     "v": 35,
+     "t": "Joël, Jéhu, fils de Josabias, fils de Saraïas, fils d’Asiel,"
+    },
+    {
+     "v": 36,
+     "t": "Elioénaï, Jacoba, Isuhaïa, Asaïa, Adiel, Ismiel, Banaïa,"
+    },
+    {
+     "v": 37,
+     "t": "Ziza, fils de Séphéï, fils d’Allon, fils d’Idaïa, fils de Semri, fils de Samaïa."
+    },
+    {
+     "v": 38,
+     "t": "Ces hommes désignés par leurs noms étaient princes dans leurs familles. Leurs maisons patriarcales ayant pris un grand accroissement,"
+    },
+    {
+     "v": 39,
+     "t": "ils allèrent vers l’entrée de Gador, jusqu’à l’orient de la vallée, afin de chercher des pâturages pour leurs troupeaux."
+    },
+    {
+     "v": 40,
+     "t": "Ils trouvèrent des pâturages gras et bons, et un territoire spacieux, tranquille et paisible ; ceux qui y habitaient auparavant provenaient de Cham."
+    },
+    {
+     "v": 41,
+     "t": "Ces hommes, inscrits par leurs noms, arrivèrent du temps d’Ézéchias, roi de Juda ; ils détruisirent leurs tentes, ainsi que les Maonites qui se trouvaient là et, les ayant dévoués à l’anathème jusqu’à ce jour, ils s’établirent à leur place, car il y avait là des pâturages pour leurs troupeaux."
+    },
+    {
+     "v": 42,
+     "t": "Des fils de Siméon allèrent aussi à la montagne de Séïr, au nombre de cinq cents hommes ; Phaltias, Naarias, Raphaïas et Oziel, fils de Jési, étaient à leur tête."
+    },
+    {
+     "v": 43,
+     "t": "Ils battirent le reste des Amalécites qui avaient échappé, et ils s’établirent là jusqu’à ce jour."
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Fils de Ruben, premier-né d’Israël. — Car il était le premier-né ; mais, parce qu’il souilla la couche de son père, son droit d’aînesse fut donné aux fils de Joseph, fils d’Israël, non, toutefois, pour que Joseph fût inscrit dans les généalogie comme premier-né.",
+     "n": [
+      "V, 1 sv. Voy. Gen. xxxv, 22 ; xlix, 4. Le droit d’aînesse donnait deux sortes d’avantages : 1. la dignité et la prééminence sur tous les frères ; 2. une double part dans l’héritage paternel. Joseph eut ce dernier avantage, en ce que ses deux fils, Ephraïm et Manassé, furent les chefs de deux tribus, ayant chacune son territoire distinct ; mais la prééminence échut à Juda, à qui ses frères devaient rendre hommage, et de qui devait sortir le prince, savoir David, chef de la dynastie royale, puis le Prince, le Dominateur par excellence, le Messie."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Car Judas fut puissant parmi ses frères, et de lui est issu un prince. Mais le droit d’aînesse est à Joseph. —"
+    },
+    {
+     "v": 3,
+     "t": "Fils de Ruben, premier-né d’Israël : Enoch, Phallu, Esron et Charmi."
+    },
+    {
+     "v": 4,
+     "t": "Fils de Joël : Samia, son fils ; Gog, son fils ; Séméï, son fils ;"
+    },
+    {
+     "v": 5,
+     "t": "Micha, son fils ; Réïa, son fils ; Baal, son fils ;"
+    },
+    {
+     "v": 6,
+     "t": "Bééra, son fils, que Thelgathphalnasar, roi d’Assyrie, emmena captif : il fut un des princes des Rubénites. —"
+    },
+    {
+     "v": 7,
+     "t": "Frères de Bééra, chacun selon sa famille, tels qu’ils sont inscrits dans les généalogies selon leurs générations : le chef, Jéhiel ; Zacharie ;",
+     "n": [
+      "7. Tels qu’ils sont inscrits, etc. Ou bien : lorsqu’ils furent reconnus dans les genealogies, selon leurs générations."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Bala, fils d’Azaz, fils de Samma, fils de Joël. Bala habitait à Aroër, et jusqu’à Nébo et à Béel-Méon ;"
+    },
+    {
+     "v": 9,
+     "t": "à l’orient, il habitait jusqu’à l’entrée du désert, qui va depuis le fleuve de l’Euphrate, car leurs troupeaux étaient nombreux dans le pays de Galaad."
+    },
+    {
+     "v": 10,
+     "t": "Du temps de Saül, ils firent la guerre aux Agaréens, qui tombèrent entre leurs mains, et ils habitèrent dans leurs tentes, sur tout le côté oriental de Galaad."
+    },
+    {
+     "v": 11,
+     "t": "Les fils de Gad habitaient vis-à-vis d’eux dans le pays de Basan, jusqu’à Selcha."
+    },
+    {
+     "v": 12,
+     "t": "C’étaient : le chef, Joël ; le second, Saphan, puis Janaï et Saphath, en Basan."
+    },
+    {
+     "v": 13,
+     "t": "Leurs frères, d’après leurs maisons patriarcales, étaient : Michaël, Mosollam, Sébé, Joraï, Jachan, Zié et Héber : sept."
+    },
+    {
+     "v": 14,
+     "t": "Ils étaient fils d’Abihaïl, fils de Huri, fils de Jara, fils de Galaad, fils de Michaël, fils de Jésési, fils de Jeddo, fils de Buz."
+    },
+    {
+     "v": 15,
+     "t": "Achi, fils d’Abdiel, fils de Guni, était chef de leurs maisons patriarcales."
+    },
+    {
+     "v": 16,
+     "t": "Ils habitaient en Galaad, en Basan, et dans les villes de leurs dépendances, et dans tous les pâturages de Saron jusqu’à leurs extrémités."
+    },
+    {
+     "v": 17,
+     "t": "Tous ces fils de Gad furent enregistrés dans les généalogies du temps de Joatham, roi de Juda, et du temps de Jéroboam, roi d’Israël.",
+     "n": [
+      "17. Comp. II Rois, xiv, 23-29 et xv, 32-38."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Les fils de Ruben, les Gadites et la demi-tribu de Manassé avaient de vaillants hommes, portant le bouclier et l’épée, tirant de l’arc, et exercés à la guerre, au nombre de quarante quatre mille sept cent soixante, en état d’aller à l’armée."
+    },
+    {
+     "v": 19,
+     "t": "Ils firent la guerre aux Agaréens, à Jéthur, à Naphis et à Nodab."
+    },
+    {
+     "v": 20,
+     "t": "Ils furent aidés contre eux, et les Agaréens et tous ceux qui étaient avec eux furent livrés entre leurs mains. Car ils avaient crié vers Dieu pendant le combat, et il les avait exaucés, parce qu’ils s’étaient confiés en lui."
+    },
+    {
+     "v": 21,
+     "t": "Ils enlevèrent leurs troupeaux, cinquante mille chameaux, deux cent cinquante mille brebis, deux mille ânes, et cent mille personnes,"
+    },
+    {
+     "v": 22,
+     "t": "car il était tombé beaucoup de morts, parce que la guerre était de Dieu. Et ils s’établirent à leur place jusqu’à la captivité."
+    },
+    {
+     "v": 23,
+     "t": "Les fils de la demi-tribu de Manassé habitaient dans le pays depuis Basan jusqu’à Baal-Hermon et à Sanir, et à la montagne d’Hermon ; ils étaient nombreux."
+    },
+    {
+     "v": 24,
+     "t": "Voici les chefs de leurs familles : Epher, Jési, Eliel, Ezriel, Jérémia, Odoïa et Jédiel, hommes forts et vaillants, hommes de renom, chefs de leurs maisons patriarcales."
+    },
+    {
+     "v": 25,
+     "t": "Mais ils furent infidèles au Dieu de leurs pères, et ils se prostituèrent en servant les dieux des peuples du pays que Dieu avait détruits devant eux."
+    },
+    {
+     "v": 26,
+     "t": "Le Dieu d’Israël excita l’esprit de Phul, roi d’Assyrie, et l’esprit de Thelgathphalnasar, roi d’Assyrie ; et Thelgathphalnasar emmena captifs les Rubénites, les Gadites et la demi-tribu de Manassé, et il les conduisit à Hala, à Habor, à Ara et au fleuve de Gozan, où ils sont demeurés jusqu’à ce jour.",
+     "n": [
+      "26. Voy. II Rois, xv, 19, 29."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Fils de Lévi : Gersom, Caath et Mérari.",
+     "h": "descendants de lévi.",
+     "n": [
+      "27-41 de l’hébreu correspond à vi, 1-15 de la Vulgate. Ces vers, donnent la généalogie des grands prêtres jusqu’à la captivité."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Fils de Caath : Amram, Isaar et Oziel."
+    },
+    {
+     "v": 29,
+     "t": "Fils d’Amram : Aaron, Moïse et Marie. — Fils d’Aaron : Nadab, Abiu, Eléazar et Ithamar. —"
+    },
+    {
+     "v": 30,
+     "t": "Eléazar engendra Phinées ; Phinées engendra Abisué ;"
+    },
+    {
+     "v": 31,
+     "t": "Abisué engendra Bocci ; Bocci engendra Ozi ;"
+    },
+    {
+     "v": 32,
+     "t": "Ozi engendra Zaraïas ; Zaraïas engendra Méraïoth ;"
+    },
+    {
+     "v": 33,
+     "t": "Méraïoth engendra Amarias ; Amarias engendra Achitob ;"
+    },
+    {
+     "v": 34,
+     "t": "Achitob engendra Sadoc ; Sadoc engendra Achimaas ;"
+    },
+    {
+     "v": 35,
+     "t": "Achimaas engendra Azarias ; Azarias engendra Johanan ;"
+    },
+    {
+     "v": 36,
+     "t": "Johanan engendra Azarias : c’est lui qui exerça le sacerdoce dans la maison que Salomon bâtit à Jérusalem ;"
+    },
+    {
+     "v": 37,
+     "t": "Azarias engendra Amarias ; Amarias engendra Achitob ;"
+    },
+    {
+     "v": 38,
+     "t": "Achitob engendra Sadoc ; Sadoc engendra Sellum ;"
+    },
+    {
+     "v": 39,
+     "t": "Sellum engendra Helcias ; Helcias engendra Azarias ;"
+    },
+    {
+     "v": 40,
+     "t": "Azarias engendra Saraïas ; Saraïas engendra Josédec."
+    },
+    {
+     "v": 41,
+     "t": "Josédec partit pour l’exil quand Yahweh fit emmener en captivité Juda et Jérusalem par l’intermédiaire de Nabuchodonosor."
+    }
+   ]
+  },
+  {
+   "c": 6,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Fils de Lévi : Gersom, Caath et Mérari. —",
+     "n": [
+      "VI, 1-15 de l’hébreu correspond à vi, 16-30 de la Vulgate."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Voici les noms des fils de Gersom : Lobni et Séméï. —"
+    },
+    {
+     "v": 3,
+     "t": "Fils de Caath : Amram, Isaar, Hébron et Oziel. —"
+    },
+    {
+     "v": 4,
+     "t": "Fils de Mérari : Moholi et Musi. Voici les familles de Lévi selon leurs pères :"
+    },
+    {
+     "v": 5,
+     "t": "De Gersom : Lobni, son fils ; Jahath, son fils ; Zamma, son fils ;"
+    },
+    {
+     "v": 6,
+     "t": "Joah, son fils ; Addo, son fils ; Zara, son fils ; Jethraï, son fils. —"
+    },
+    {
+     "v": 7,
+     "t": "Fils de Caath : Aminadab, son fils ; Coré, son fils ; Asir, son fils ;"
+    },
+    {
+     "v": 8,
+     "t": "Elcana, son fils ; Abiasaph, son fils ; Asir, son fils ;"
+    },
+    {
+     "v": 9,
+     "t": "Thahath, son fils ; Uriel, son fils ; Ozias, son fils ; Saül, son fils."
+    },
+    {
+     "v": 10,
+     "t": "Fils d’Elcana : Amasaï et Achimoth ;"
+    },
+    {
+     "v": 11,
+     "t": "Elcana, son fils ; Sophaï, son fils ; Nahath, son fils ;",
+     "n": [
+      "11. Le texte hébreu est altéré ; nous suivons celui des LXX."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Eliab, son fils ; Jéroham, son fils ; Elcana, son fils."
+    },
+    {
+     "v": 13,
+     "t": "Fils de Samuel : le premier-né Vasséni, et Abia. —"
+    },
+    {
+     "v": 14,
+     "t": "Fils de Mérari : Moholi ; Lobni, son fils ; Séméï, son fils ; Oza, son fils ;"
+    },
+    {
+     "v": 15,
+     "t": "Sammaa, son fils ; Haggia, son fils ; Asaïa, son fils."
+    },
+    {
+     "v": 16,
+     "t": "Voici ceux que David établit pour diriger le chant dans la maison de Yahweh, depuis que l’arche eut un lieu de repos :",
+     "n": [
+      "16-34 de l’hébreu correspond à vi, 31-49 de la Vulgate."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "ils remplirent les fonctions de chantres devant la Demeure de la tente de réunion, jusqu’à ce que Salomon eût bâti la maison de Yahweh à Jérusalem, et ils se tenaient à leur service selon leur règlement. —"
+    },
+    {
+     "v": 18,
+     "t": "Voici ceux qui officiaient avec leurs fils : — D’entre les fils des Caathites : Héman, le chantre, fils de Joël, fils de Samuel,"
+    },
+    {
+     "v": 19,
+     "t": "fils d’Elcana, fils de Jéroham, fils d’Eliel, fils de Thohu,"
+    },
+    {
+     "v": 20,
+     "t": "fils de Suph, fils d’Elcana, fils de Mahath, fils d’Amasaï,"
+    },
+    {
+     "v": 21,
+     "t": "fils d’Elcana, fils de Joël, fils d’Azarias, fils de Sophonias,"
+    },
+    {
+     "v": 22,
+     "t": "fils de Thahath, fils d’Asir, fils d’Abiasaph, fils de Coré,"
+    },
+    {
+     "v": 23,
+     "t": "fils d’Isaar, fils de Caath, fils de Lévi, fils d’Israël."
+    },
+    {
+     "v": 24,
+     "t": "— Son frère Asaph, qui se tenait à sa droite : Asaph, fils de Barachias, fils de Samaa,"
+    },
+    {
+     "v": 25,
+     "t": "fils de Michaël, fils de Basaïas, fils de Melchias,"
+    },
+    {
+     "v": 26,
+     "t": "fils d’Athanaï, fils de Zara, fils d’Adaïa,"
+    },
+    {
+     "v": 27,
+     "t": "fils d’Ethan, fils de Zamma, fils de Séméï,"
+    },
+    {
+     "v": 28,
+     "t": "fils de Jeth, fils de Gersom, fils de Lévi."
+    },
+    {
+     "v": 29,
+     "t": "— Fils de Mérari, leurs frères, à la gauche : Ethan, fils de Cusi, fils d’Abdi, fils de Maloch,"
+    },
+    {
+     "v": 30,
+     "t": "fils de Hasabias, fils d’Amasias, fils de Helcias,"
+    },
+    {
+     "v": 31,
+     "t": "fils d’Amasaï, fils de Boni, fils de Somer,"
+    },
+    {
+     "v": 32,
+     "t": "fils de Moholi, fils de Musi, fils de Mérari, fils de Lévi."
+    },
+    {
+     "v": 33,
+     "t": "Leurs frères, les lévites, étaient chargés de tout le service du tabernacle de la maison de Yahweh."
+    },
+    {
+     "v": 34,
+     "t": "Mais Aaron et ses fils brûlaient les victimes sur l’autel des holocaustes et l’encens sur l’autel des parfums ; ils avaient à remplir tout le ministère du saint des saints, et à faire l’expiation pour Israël, selon tout ce qu’avait ordonné Moïse, serviteur de Dieu."
+    },
+    {
+     "v": 35,
+     "t": "Voici les fils d’Aaron : Eléazar, son fils ; Phinées, son fils ; Abisué, son fils ;",
+     "n": [
+      "35-38 de l’hébreu correspond à vi, 50-53 de la Vulgate."
+     ]
+    },
+    {
+     "v": 36,
+     "t": "Bocci, son fils ; Ozi, son fils ; Zaraïas, son fils ;"
+    },
+    {
+     "v": 37,
+     "t": "Méraïoth, son fils ; Amarias, son fils ; Achitob, son fils ;"
+    },
+    {
+     "v": 38,
+     "t": "Sadoc, son fils ; Achimaas, son fils.",
+     "n": [
+      "38. Comp. Jos. xxi, 46 De la tribu de la demi-tribu, etc. D’après Jos. xxi, ce verset doit être ainsi complété : De la tribu d’Éphraïm, de la tribu de Dan et de la demi-tribu, etc. Comp. vers. 54 et Jos. xxi, 20-25."
+     ]
+    },
+    {
+     "v": 39,
+     "t": "Voici leurs habitations, selon leurs enceintes, dans leurs territoires : — Aux fils d’Aaron, de la famille des Caathites, désignés les premiers par le sort,",
+     "n": [
+      "39-66 de l’hébreu correspond à vi, 54-81 de la Vulgate."
+     ]
+    },
+    {
+     "v": 40,
+     "t": "on donna Hébron, dans le pays de Juda, et les pâturages qui l’entourent ;"
+    },
+    {
+     "v": 41,
+     "t": "mais on donna le territoire de la ville et ses villages à Caleb, fils de Jéphoné."
+    },
+    {
+     "v": 42,
+     "t": "On donna donc aux fils d’Aaron la ville de refuge Hébron, Lobna et ses pâturages,"
+    },
+    {
+     "v": 43,
+     "t": "Jéther, Esthémo et ses pâturages, Hélon et ses pâturages, Dabir et ses pâturages,"
+    },
+    {
+     "v": 44,
+     "t": "Asan et ses pâturages, Bethsémès et ses pâturages ;"
+    },
+    {
+     "v": 45,
+     "t": "de la tribu de Benjamin, Gabée et ses pâturages, Almath et ses pâturages, Anathoth et ses pâturages. Total de leurs villes : treize villes, d’après leurs familles."
+    },
+    {
+     "v": 46,
+     "t": "— Les autres fils de Caath eurent par le sort dix villes des familles de la tribu, de la demi-tribu de Manassé."
+    },
+    {
+     "v": 47,
+     "t": "Les fils de Gersom, d’après leurs familles, eurent treize villes de la tribu d’Issachar, de la tribu d’Aser, de la tribu de Nephthali et de la tribu de Manassé, en Basan."
+    },
+    {
+     "v": 48,
+     "t": "Les fils de Mérari, d’après leurs familles, eurent par le sort douze villes de la tribu de Ruben, de la tribu de Gad et de la tribu de Zabulon."
+    },
+    {
+     "v": 49,
+     "t": "Les enfants d’Israël donnèrent aux Lévites les villes et leurs pâturages.",
+     "n": [
+      "49, 50. La place primitive de ces deux versets pourrait avoir été au milieu du vers. 39, avant les mots : Aux fils d’Aaron."
+     ]
+    },
+    {
+     "v": 50,
+     "t": "Ils donnèrent par le sort, de la tribu des enfants de Juda, de la tribu des enfants de Siméon et de la tribu des enfants de Benjamin, ces villes qu’ils désignèrent par leurs noms."
+    },
+    {
+     "v": 51,
+     "t": "Pour les autres familles des fils de Caath, les villes qui leur échurent furent de la tribu d’Éphraïm."
+    },
+    {
+     "v": 52,
+     "t": "On leur donna : la ville de refuge Sichem et ses pâturages, dans la montagne d’Éphraïm, Gazer et ses pâturages,"
+    },
+    {
+     "v": 53,
+     "t": "Jecmaam et ses pâturages, Bethoron et ses pâturages,",
+     "n": [
+      "53. Après Bethoron et ses pâturages, Jos. xxi, 23 ajoute : de la tribu de Dan, Elthaco et ses pâturages, Gabbathon et ses pâturages, Hélon, etc."
+     ]
+    },
+    {
+     "v": 54,
+     "t": "Hélon et ses pâturages, Geth-Remmon et ses pâturages ;"
+    },
+    {
+     "v": 55,
+     "t": "et de la demi-tribu de Manassé, Aner et ses pâturages, Balaam et ses pâturages : pour les familles des autres fils de Caath."
+    },
+    {
+     "v": 56,
+     "t": "On donna aux fils de Gersom : de la famille de la demi-tribu de Manassé, Gaulon en Basan et ses pâturages, Astharoth et ses pâturages ;"
+    },
+    {
+     "v": 57,
+     "t": "de la tribu d’Issachar, Cédès et ses pâturages, Dabéreth et ses pâturages,"
+    },
+    {
+     "v": 58,
+     "t": "Ramoth et ses pâturages, Anem et ses pâturages ;"
+    },
+    {
+     "v": 59,
+     "t": "de la tribu d’Aser, Masal et ses pâturages, Abdon et ses pâturages,"
+    },
+    {
+     "v": 60,
+     "t": "Hucac et ses pâturages, Rohob et ses pâturages ;"
+    },
+    {
+     "v": 61,
+     "t": "et de la tribu de Nephthali, Cédès en Galilée et ses pâturages, Hamon et ses pâturages, et Cariathaïm et ses pâturages."
+    },
+    {
+     "v": 62,
+     "t": "On donna au reste des Lévites, aux fils de Mérari : de la tribu de Zabulon, Remmono et ses pâturages, Thabor et ses pâturages ;",
+     "n": [
+      "62. Après de la tribu de Zabulon, Jos. xxi, 34 ajoute Jecnam et ses pâturages, Cartho et ses pâturages, Remmono, etc."
+     ]
+    },
+    {
+     "v": 63,
+     "t": "de l’autre côté du Jourdain, vis-à-vis de Jéricho, à l’orient du Jourdain : de la tribu de Ruben, Bosor, au désert, et ses pâturages, Jassa et ses pâturages,"
+    },
+    {
+     "v": 64,
+     "t": "Cadémoth et ses pâturages, Méphaat et ses pâturages ;"
+    },
+    {
+     "v": 65,
+     "t": "et de la tribu de Gad, Ramoth en Galaad et ses pâturages, Manaïm, et ses pâturages,"
+    },
+    {
+     "v": 66,
+     "t": "Hésebon et ses pâturages, Jézer et ses pâturages."
+    }
+   ]
+  },
+  {
+   "c": 7,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Fils d’Issachar : Thola, Phua, Jasub et Siméron : quatre. —",
+     "h": "DESCENDANTS D’ISSACHAR, BENJAMIN, NEPHTALI, MANASSÉ, ÉPHRAÏM ET ASER."
+    },
+    {
+     "v": 2,
+     "t": "Fils de Thola : Ozi, Raphaïa, Jériel, Jémaï, Jebsem et Samuel, chefs de leurs maisons patriarcales issues de Thola, vaillants hommes, inscrits d’après leurs générations, au temps de David, au nombre de vingt-deux mille six cents. —"
+    },
+    {
+     "v": 3,
+     "t": "Fils d’Ozi : Izrahia. Fils de Izrahia : Michaël, Obadia, Johel et Jésia : en tout cinq chefs."
+    },
+    {
+     "v": 4,
+     "t": "Ils avaient avec eux, selon leurs générations, selon leurs maisons patriarcales, des troupes armées pour la guerre, trente-six mille hommes ; car ils avaient beaucoup de femmes et de fils."
+    },
+    {
+     "v": 5,
+     "t": "Leurs frères, d’après toutes les familles d’Issachar, hommes vaillants, formaient un nombre total de quatre-vingt-sept mille, inscrits dans les généalogies."
+    },
+    {
+     "v": 6,
+     "t": "Fils de Benjamin : Béla, Béchor et Jadiel : trois. —"
+    },
+    {
+     "v": 7,
+     "t": "Fils de Béla : Esbon, Ozi, Oziel, Jérimoth et Uraï : cinq chefs de maisons patriarcales, hommes vaillants, inscrits dans les généalogies, au nombre de vingt-deux mille quatre cents. —"
+    },
+    {
+     "v": 8,
+     "t": "Fils de Béchor : Zamira, Joas, Eliézer, Elioénaï, Amri, Jérimoth, Abia, Anathoth et Almath : tous ceux-là fils de Béchor,"
+    },
+    {
+     "v": 9,
+     "t": "inscrits dans les généalogies, d’après leurs générations, comme chefs de leurs maisons patriarcales, hommes vaillants, au nombre de vingt mille deux cents. —"
+    },
+    {
+     "v": 10,
+     "t": "Fils de Jadihel : Balan. — Fils de Balan : Jéhus, Benjamin, Aod, Chanana, Zéthan, Tarsis et Abisahar :"
+    },
+    {
+     "v": 11,
+     "t": "tous ceux là fils de Jadihel, chefs de leurs maisons patriarcales, hommes vaillants, au nombre de dix-sept mille deux cents, en état d’aller en armes à la guerre."
+    },
+    {
+     "v": 12,
+     "t": "Sepham et Hapham, fils d’Hir : Hasim, fils d’Aher."
+    },
+    {
+     "v": 13,
+     "t": "Fils de Nephthali : Jasiel, Guni, Jéser et Sellum, fils de Bala.",
+     "n": [
+      "VII. 13. Comp. Gen. xlvi, 24 ; Nombr. xxvi, 48, 49."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Fils de Manassé : Esriel. Sa concubine syrienne enfanta Machir, père de Galaad. —",
+     "n": [
+      "14-19. Comp. Nombr. xxvi, 30-34. ; Jos. xvii, 1-5."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Machir prit une femme de Happhim et de Saphan ; le nom de sa sœur était Maacha. Le nom du second fils était Salphaad, et Salphaad eut des filles.",
+     "n": [
+      "15. Le texte hébreu est probablement altéré dans la première partie de ce verset. Il y était sans doute parlé d’un fils de Galaad (comp. vers. 17), peut-être d’Esriel, dont on aurait indiqué la descendance de Machir. La Vulgate, par conjecture, supplée filius suis : Machir prit des femmes pour ses fils Hupphim et Saphan."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Maacha, femme de Machir, enfanta un fils, et l’appela du nom de Pharès ; le nom de son frère était Sarès, et ses fils étaient Ulam et Récen. —"
+    },
+    {
+     "v": 17,
+     "t": "Fils d’Ulam : Badan. — Ce sont là les fils de Galaad, fils de Machir, fils de Manassé. —"
+    },
+    {
+     "v": 18,
+     "t": "Sa sœur Hammoléketh enfanta Ischod, Abiézer et Mohola. —"
+    },
+    {
+     "v": 19,
+     "t": "Les fils de Sémida étaient : Ahin, Séchem, Léci et Aniam."
+    },
+    {
+     "v": 20,
+     "t": "Fils d’Éphraïm : Suthala ; Bared, son fils ; Thahath, son fils ; Elada, son fils ; Thahath, son fils ;",
+     "n": [
+      "20-26. Comp. Nombr. xxvi, 35, 36."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Zabad, son fils ; Suthala, son fils ; Ezer et Elad, que tuèrent les hommes de Geth nés dans le pays, parce qu’ils étaient descendus pour prendre leurs troupeaux."
+    },
+    {
+     "v": 22,
+     "t": "Ephraïm, leur père, fut longtemps dans le deuil, et ses frères vinrent pour le consoler."
+    },
+    {
+     "v": 23,
+     "t": "Et il alla vers sa femme, et elle conçut et enfanta un fils ; il l’appela du nom de Béria, parce qu’on était dans le malheur en sa maison."
+    },
+    {
+     "v": 24,
+     "t": "Sa fille était Sara, qui bâtit Bethoron le Bas et Bethoron le Haut, et Ozen-Sara."
+    },
+    {
+     "v": 25,
+     "t": "Rapha, son fils, et Réseph ; Thalé, son fils ; Taan, son fils ;"
+    },
+    {
+     "v": 26,
+     "t": "Laadan, son fils ; Ammiud, son fils ; Elisama, son fils ;"
+    },
+    {
+     "v": 27,
+     "t": "Nun, son fils ; Josué, son fils. —",
+     "n": [
+      "27, 28. Comp. Jos. xvi, 1-10."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Leurs possessions et leurs habitations étaient : Béthel et les villes de sa dépendance ; à l’orient, Noran ; à l’occident, Gézer et les villes de sa dépendance, Sichem et les villes de sa dépendance, jusqu’à Aza et aux villes de sa dépendance.",
+     "n": [
+      "28. Aza (les meilleurs manuscrits lisent ava ), localité probablement voisine de Sichem."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Entre les mains des fils de Manassé étaient encore Bethsan et les villes de sa dépendance, Thanach et les villes de sa dépendance, Mageddo et les villes de sa dépendance, Dor et les villes de sa dépendance. Ce fut dans ces villes qu’habitèrent les fils de Joseph, fils d’Israël.",
+     "n": [
+      "29. Comp. Jos. xvii, 11."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "Fils d’Aser : Jemma, Jésua, Jessui, Baria, et Sara, leur sœur. —",
+     "n": [
+      "30, 40. Comp. Gen. xlvi, 17 ; Nombr. xxvi, 44-47."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "Fils de Baria : Héber et Melchiel, qui fut père de Barsaïth."
+    },
+    {
+     "v": 32,
+     "t": "Héber engendra Jéphlat, Somer, Hotham, et Suaa, leur sœur. —"
+    },
+    {
+     "v": 33,
+     "t": "Fils de Jéphlat : Phosech, Chamaal et Asoth : ce sont là les fils de Jéphlat. —"
+    },
+    {
+     "v": 34,
+     "t": "Fils de Somer : Ahi, Roaga, Haba et Aram. —"
+    },
+    {
+     "v": 35,
+     "t": "Fils de Hélem, son frère : Supha, Jemna, Sellès et Amal. —"
+    },
+    {
+     "v": 36,
+     "t": "Fils de Supha : Sué, Harnapher, Sual, Béri, Jamra,"
+    },
+    {
+     "v": 37,
+     "t": "Bosor, Hod, Samma, Salusa, Jéthran et Béra. —"
+    },
+    {
+     "v": 38,
+     "t": "Fils de Jéther : Jéphoné, Phaspha et Ara. —"
+    },
+    {
+     "v": 39,
+     "t": "Fils d’Olla : Arée, Haniel et Résia. —"
+    },
+    {
+     "v": 40,
+     "t": "Tous ceux-là étaient fils d’Aser, chefs de maisons patriarcales, hommes d’élite et vaillants, chefs des princes, inscrits au nombre de vingt-six mille hommes en état d’aller en armes à la guerre."
+    }
+   ]
+  },
+  {
+   "c": 8,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Benjamin engendra Béla, son premier-né, Asbel le second, Ahara le troisième,",
+     "h": "III. — LES HABITANTS DE JÉRUSALEM. [VIII, 1 — IX, 44.]",
+     "n": [
+      "VIII, 1-4. Comp. Gen. xlvi, 21 ; Nombr. xxvi, 38-40."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Nohaa, le quatrième et Rapha le cinquième. —"
+    },
+    {
+     "v": 3,
+     "t": "Les fils de Béla furent : Addar, Géra, Abiud,"
+    },
+    {
+     "v": 4,
+     "t": "Abisué, Naaman, Ahoé,"
+    },
+    {
+     "v": 5,
+     "t": "Géra, Séphuphan, et Huram."
+    },
+    {
+     "v": 6,
+     "t": "Voici les fils d’Ahod : — ils étaient chefs des familles qui habitaient Gabaa, et ils les déportèrent à Manahath — :"
+    },
+    {
+     "v": 7,
+     "t": "Naaman, Achia et Géra ; c’est lui qui les déporta, et il engendra Oza et Ahiud."
+    },
+    {
+     "v": 8,
+     "t": "Saharaïm eut des enfants au pays de Moab, après qu’il eut renvoyé ses femmes Husim et Bara."
+    },
+    {
+     "v": 9,
+     "t": "Il eut de Hodès, sa femme : Jobab, Sébia, Mosa, Molchom,"
+    },
+    {
+     "v": 10,
+     "t": "Jéhus, Séchia et Marma ; ce sont là ses fils, chefs de familles."
+    },
+    {
+     "v": 11,
+     "t": "Il eut de Husim : Abitob et Elphaal. —",
+     "n": [
+      "11. Il eut (litt. engendra ) de Husim, sa 1 re femme (vers. 8). Vulgate : Méhusim engendra."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Fils d’Elphaal : Héber, Misaam et Samad, qui bâtit Ono, Lod et les villes de sa dépendance."
+    },
+    {
+     "v": 13,
+     "t": "Baria et Sama, chefs des familles qui habitaient Aïalon, mirent en fuite les habitants de Geth."
+    },
+    {
+     "v": 14,
+     "t": "Ahio, Sésac, Jérimoth,"
+    },
+    {
+     "v": 15,
+     "t": "Zabadia, Arod, Héder,"
+    },
+    {
+     "v": 16,
+     "t": "Michaël, Jespha et Joha étaient fils de Baria. —"
+    },
+    {
+     "v": 17,
+     "t": "Zabadia, Mosollam, Hézéci, Héber,"
+    },
+    {
+     "v": 18,
+     "t": "Jésamari, Jezlia et Jobab étaient fils d’Elphaal. —"
+    },
+    {
+     "v": 19,
+     "t": "Jacim, Zéchri, Zabdi,"
+    },
+    {
+     "v": 20,
+     "t": "Elioénaï, Séléthaï, Eliel,"
+    },
+    {
+     "v": 21,
+     "t": "Adaïa, Baraïa et Samarath étaient fils de Séméï. —"
+    },
+    {
+     "v": 22,
+     "t": "Jesphan, Héber, Eliel,"
+    },
+    {
+     "v": 23,
+     "t": "Abdon, Zéchri, Hanan,"
+    },
+    {
+     "v": 24,
+     "t": "Hanania, Elam, Anathothia,"
+    },
+    {
+     "v": 25,
+     "t": "Jephdaïa et Phanuel étaient fils de Sésac. —"
+    },
+    {
+     "v": 26,
+     "t": "Samsari, Sohoria, Otholia,"
+    },
+    {
+     "v": 27,
+     "t": "Jersia, Elia et Zéchri, étaient fils de Jéroham. —"
+    },
+    {
+     "v": 28,
+     "t": "Ce sont là des chefs de famille, des chefs selon leurs générations ; ils habitaient à Jérusalem."
+    },
+    {
+     "v": 29,
+     "t": "Le père de Gabaon habitait à Gabaon, et le nom de sa femme était Maacha.",
+     "n": [
+      "29. Le père, c.-à-d. le maître et possesseur, de Gabaon (voy. Jos. ix, 3 ), savoir Jéhiel ( ix. 35). Vulg. Abigabaon, ce qui signifie père de Gabaon : comp. ix, 35.",
+      "29-38. Comp. ix, 35-44."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "Son fils premier-né, Abdon, puis Sur, Cis, Baal, Nadab,",
+     "n": [
+      "30, 31. D’après ix, 36, 37, il faudrait restituer Ner après Baal ; et Macelloth après Zacher. La Vulg. a conservé : et Macelloth."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "Gédor, Ahio et Zacher."
+    },
+    {
+     "v": 32,
+     "t": "Macelloth engendra Samaa. Ils habitèrent aussi près de leurs frères à Jérusalem, avec leurs frères. —"
+    },
+    {
+     "v": 33,
+     "t": "Ner engendra Cis ; Cis engendra Saül ; Saül engendra Jonathan, Melchisua, Abinadab et Esbaal. —",
+     "n": [
+      "33. Esbaal n’est autre que Isboseth de II Sam. ii, 8."
+     ]
+    },
+    {
+     "v": 34,
+     "t": "Fils de Jonathan : Méribbaal ; Méribbaal engendra Micha. —",
+     "n": [
+      "34. Méribbaal est identique à Méphiboseth de II Sam. ix, 6."
+     ]
+    },
+    {
+     "v": 35,
+     "t": "Fils de Micha : Phiton, Mélech, Tharaa et Achaz."
+    },
+    {
+     "v": 36,
+     "t": "Achaz engendra Joada ; Joada engendra Alamath, Azmoth et Zamri ; Zamri engendra Mosa."
+    },
+    {
+     "v": 37,
+     "t": "Mosa engendra Banaa ; Rapha, son fils ; Elasa, son fils ; Asel, son fils."
+    },
+    {
+     "v": 38,
+     "t": "Asel eut six fils, dont voici les noms : Ezricam, Bocru, Ismaël, Saria, Obdia et Hanan : tous ceux-là étaient fils d’Asel. —"
+    },
+    {
+     "v": 39,
+     "t": "Fils d’Esec, son frère : Ulam, son premier-né, Jéhus le deuxième, et Eliphalet le troisième."
+    },
+    {
+     "v": 40,
+     "t": "Les fils d’Ulam furent de vaillants hommes, tirant de l’arc, et ils eurent beaucoup de fils, et de petits-fils, cent cinquante. Tous ceux-là sont des fils de Benjamin."
+    }
+   ]
+  },
+  {
+   "c": 9,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Ainsi tout Israël fut enregistré dans les généalogies, et voici qu’ils sont inscrits dans le livre des rois d’Israël ; et Juda fut emmené captif à Babylone à cause de ses transgressions.",
+     "n": [
+      "IX, 1. Tout Israël, toute la race de Jacob, l’universalité des tribus. — Le livre des rois d’Israël, ici, est identique au livre des rois de Juda et d’Israël (comp. II Par. xvi, 11 ). — Vulgate : Tout Israël fut donc recensé, et leur nombre total à été inscrit dans les livres des rois d’Israël et de Juda, et ils furent transportés, etc."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Les premiers habitants, qui demeuraient dans leurs possessions, dans leurs villes, furent les Israélites, les prêtres, les lévites et les Nathinéens.",
+     "n": [
+      "2. Les Nathinéens, c.-à-d. les donnés, comme serviteurs, aux prêtres et aux lévites pour remplir les emplois les plus pénibles du sanctuaire."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "À Jérusalem, habitèrent des fils de Juda, des fils de Benjamin, et des fils d’Éphraïm et de Manassé ; —"
+    },
+    {
+     "v": 4,
+     "t": "des fils de Pharès, fils de Juda : Othéï, fils d’Ammiud, fils d’Amri, fils d’Omraï, fils de Bonni ; —"
+    },
+    {
+     "v": 5,
+     "t": "des Silonites : Asaïa, le premier-né, et ses fils ; —",
+     "n": [
+      "5. Des Silonites, des descendants de Silo. La vraie leçon est probablement hasschelani, des Sélanites, c.-à-d. des descendants de Séla, le 3 e fils de Juda ( Nombr. xxvi, 20 )."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "des fils de Zara : Jéhuel ; et leurs frères : six cent quatre vingt dix ; —"
+    },
+    {
+     "v": 7,
+     "t": "Des fils de Benjamin : Salo, fils de Mosollam, fils d’Oduia, fils d’Asana ;"
+    },
+    {
+     "v": 8,
+     "t": "Jobania, fils de Jéroham ; Ela, fils d’Ozi, fils de Mochori ; Mosollam, fils de Saphatia, fils de Rahuel, fils de Jébania ;"
+    },
+    {
+     "v": 9,
+     "t": "et leurs frères, selon leurs générations : neuf cent cinquante-six. Tous ces hommes étaient chefs de famille selon leurs maisons patriarcales."
+    },
+    {
+     "v": 10,
+     "t": "Des prêtres : Jédaïa, Joïarib, Jachim,"
+    },
+    {
+     "v": 11,
+     "t": "Azarias, fils d’Helcias, fils de Mosollam, fils de Sadoc, fils de Maraïoth, fils d’Achitob, prince de la maison de Dieu ;"
+    },
+    {
+     "v": 12,
+     "t": "Adaïas, fils de Jéroham, fils de Phassur, fils de Melchias ; Maasaï, fils d’Adiel, fils de Jezra, fils de Mosollam, fils de Mosollamith, fils d’Emmer ;"
+    },
+    {
+     "v": 13,
+     "t": "et leurs frères, chefs de leurs maisons patriarcales : mille sept cent soixante hommes vaillants, pour l’œuvre du service de la maison de Dieu."
+    },
+    {
+     "v": 14,
+     "t": "Des lévites : Séméïa, fils de Hassub, fils d’Ezricam, fils d’Hasébia, des fils de Mérari ;"
+    },
+    {
+     "v": 15,
+     "t": "Bacbacar, Hérès, Galal, Matthania, fils de Micha, fils de Zéchri, fils d’Asaph ;"
+    },
+    {
+     "v": 16,
+     "t": "Obdia, fils de Séméïa, fils de Galal, fils d’Idithun ; Barachia, fils d’Asa, fils d’Elcana, qui habitait dans les villages de Nétophatiens.",
+     "n": [
+      "16. Voy. II Rois, xxv, 23."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Et les portiers : Sellum, Accub, Telmon, Ahiman, et leurs frères ; Sellum était le chef,"
+    },
+    {
+     "v": 18,
+     "t": "et il est jusqu’à présent à la porte du roi, à l’orient. Ce sont là les portiers pour le camp des enfants de Lévi."
+    },
+    {
+     "v": 19,
+     "t": "Sellum, fils de Coré, fils d’Abiasaph, fils de Coré, et ses frères de la maison de son père, les Coréïtes, remplissaient les fonctions de gardiens des portes du tabernacle ; leurs pères avaient gardé l’entrée du camp de Yahweh ;"
+    },
+    {
+     "v": 20,
+     "t": "Phinées, fils d’Eléazar, avait été autrefois leur chef, et Yahweh était avec lui."
+    },
+    {
+     "v": 21,
+     "t": "Zacharie, fils de Mosollamia, était portier à l’entrée de la tente de réunion."
+    },
+    {
+     "v": 22,
+     "t": "Tous ces hommes, choisis pour gardiens des portes, étaient au nombre de deux cent douze, enregistrés dans les généalogies de leurs villages ; David et Samuel le voyant les avaient établis dans leurs fonctions."
+    },
+    {
+     "v": 23,
+     "t": "Eux et leurs enfants étaient aux portes de la maison de Yahweh, de la maison du tabernacle, pour les gardes."
+    },
+    {
+     "v": 24,
+     "t": "Les portiers se tenaient aux quatre vents, à l’orient, à l’occident, au nord et au midi."
+    },
+    {
+     "v": 25,
+     "t": "Leurs frères, qui demeuraient dans leurs villages, devaient venir auprès d’eux de temps à autre, pour une semaine."
+    },
+    {
+     "v": 26,
+     "t": "Car ces quatre chefs des portiers, qui étaient lévites, étaient constamment en fonctions, et ils avaient encore la surveillance des chambres et des trésors, à la maison de Dieu."
+    },
+    {
+     "v": 27,
+     "t": "Ils logeaient autour de la maison de Dieu, dont ils avaient la garde, et ils devaient pourvoir à l’ouverture, chaque matin."
+    },
+    {
+     "v": 28,
+     "t": "Quelques-uns des lévites avaient la surveillance des ustensiles du service, qu’ils rentraient et sortaient en les comptant."
+    },
+    {
+     "v": 29,
+     "t": "D’autres veillaient sur les ustensiles, sur tous les ustensiles du sanctuaire, et sur la fleur de farine, le vin, l’huile, l’encens et les aromates."
+    },
+    {
+     "v": 30,
+     "t": "Des fils de prêtres composaient les parfums aromatiques."
+    },
+    {
+     "v": 31,
+     "t": "Un des lévites, Mathathias, premier-né de Sellum de Coréïte, avait le soin des gâteaux cuits sur la poêle."
+    },
+    {
+     "v": 32,
+     "t": "Et quelques-uns de leurs frères d’entre les fils des Caathites, étaient chargés de préparer pour chaque sabbat les pains de proposition."
+    },
+    {
+     "v": 33,
+     "t": "Ce sont là les chantres, chefs de famille des lévites, demeurant dans les chambres, exempts d’autres fonctions, parce qu’ils étaient à leur œuvre jour et nuit."
+    },
+    {
+     "v": 34,
+     "t": "Ce sont là les chefs de famille des lévites, chefs selon leurs générations ; ils habitaient à Jérusalem."
+    },
+    {
+     "v": 35,
+     "t": "Le père de Gabaon, Jéhiel, habitait à Gabaon, et le nom de sa femme était Maacha.",
+     "n": [
+      "35-44. Comp. viii, 29-38."
+     ]
+    },
+    {
+     "v": 36,
+     "t": "Abdon, son fils premier-né, puis Sur, Cis, Baal, Ner, Nadab,"
+    },
+    {
+     "v": 37,
+     "t": "Gédor, Ahio, Zacharie et Macelloth."
+    },
+    {
+     "v": 38,
+     "t": "Macelloth engendra Samaan. Eux aussi habitaient près de leurs frères à Jérusalem, avec leurs frères. —"
+    },
+    {
+     "v": 39,
+     "t": "Ner engendra Cis ; Cis engendra Saül ; Saül engendra Jonathan, Melchisua, Abinadab et Esbaal. —"
+    },
+    {
+     "v": 40,
+     "t": "Fils de Jonathan : Méribbaal. Méribbaal engendra Micha. —"
+    },
+    {
+     "v": 41,
+     "t": "Fils de Micha : Phithon, Mélech, Tharaa.",
+     "n": [
+      "41. Tharaa. Ajouter, d’après viii, 35 : Et Achaz, X, 1-12. Comp. I Sam. xxxi, 1-13."
+     ]
+    },
+    {
+     "v": 42,
+     "t": "Ahaz engendra Jara ; Jara engendra Alamath, Azmoth et Zamri ; Zamri engendra Mosa."
+    },
+    {
+     "v": 43,
+     "t": "Mosa engendra Banaa. Raphaïa, son fils ; Elasa, son fils ; Asel, son fils."
+    },
+    {
+     "v": 44,
+     "t": "Asel eut six fils, dont voici les noms : Ezricam, Bocru, Ismaël, Saria, Obdia et Hanan. Ce sont là les Fils d’Asel."
+    }
+   ]
+  },
+  {
+   "c": 10,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Les Philistins ayant livré bataille à Israël, les hommes d’Israël prirent la fuite devant les Philistins, et tombèrent blessés à mort sur la montagne de Gelboé.",
+     "h": "DEUXIÈME PARTIE. [X, 1 — XXIX, 30.] DAVID. — I. — LES DÉBUTS DE DAVID. [X, 1 — XVI, 43.]"
+    },
+    {
+     "v": 2,
+     "t": "Les Philistins s’attachèrent à poursuivre Saül et ses fils, et les Philistins tuèrent Jonathas, Abinadab et Melchisua, fils de Saül."
+    },
+    {
+     "v": 3,
+     "t": "L’effort du combat se porta sur Saül ; les archers l’ayant découvert, il eut grandement peur des archers.",
+     "n": [
+      "3. Au lieu de Les Archers, hommes avec l’arc ( I Sam. xxxi, 3 ) on a simplement ici les archers."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Alors Saül dit à son écuyer : « Tire ton épée et m’en transperce, de peur que ces incirconcis ne viennent m’outrager. » L’écuyer ne le voulut pas faire, car il était saisi de crainte ; alors Saül prit son épée et se jeta dessus."
+    },
+    {
+     "v": 5,
+     "t": "L’écuyer, voyant que Saül était mort, se jeta aussi sur son épée, et mourut."
+    },
+    {
+     "v": 6,
+     "t": "Ainsi périrent Saül et ses trois fils, et toute sa maison périt en même temps."
+    },
+    {
+     "v": 7,
+     "t": "Tous les hommes d’Israël qui étaient dans la plaine, voyant que les enfants d’Israël s’étaient enfuis, et que Saül et ses fils étaient morts, abandonnèrent leurs villes et prirent aussi la fuite ; et les Philistins vinrent et s’y établirent."
+    },
+    {
+     "v": 8,
+     "t": "Le lendemain, les Philistins vinrent pour dépouiller les morts, et ils trouvèrent Saül et ses fils gisant sur la montagne de Gelboé."
+    },
+    {
+     "v": 9,
+     "t": "L’ayant dépouillé, ils emportèrent sa tête et ses armes ; puis ils envoyèrent publier cette bonne nouvelle par tout le pays des Philistins, devant leurs idoles et le peuple."
+    },
+    {
+     "v": 10,
+     "t": "Ils mirent les armes de Saül dans la maison de leur dieu, et ils attachèrent son crâne dans le temple de Dagon."
+    },
+    {
+     "v": 11,
+     "t": "Tout Jabès en Galaad ayant appris tout ce que les Philistins avaient fait à Saül,"
+    },
+    {
+     "v": 12,
+     "t": "tous les vaillants hommes se levèrent, prirent le corps de Saül et les corps de ses fils, et les transportèrent à Jabès. Ils enterrèrent leurs os sous le térébinthe, à Jabès, et ils jeûnèrent sept jours."
+    },
+    {
+     "v": 13,
+     "t": "Saül mourut à cause de la transgression dont il s’était rendu coupable envers Yahweh, parce qu’il n’avait pas observé la parole de Yahweh, et pour avoir interrogé et consulté ceux qui évoquent les morts."
+    },
+    {
+     "v": 14,
+     "t": "Il ne consulta point Yahweh, et Yahweh le fit mourir, et il transféra la royauté à David, fils d’Isaï.",
+     "n": [
+      "14. Il ne consulta pas Yahweh, Vulgate, il n’espéra pas dans Yahweh."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 11,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Tout Israël s’assembla auprès de David à Hébron, en disant : « Voici que nous sommes tes os et ta chair.",
+     "n": [
+      "XI, 1-9. Comp. II Sam. v, 1-10."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Autrefois déjà, quand Saül était roi, c’était toi qui menais et ramenais Israël. Et Yahweh, ton Dieu, t’a dit : C’est toi qui paîtras mon peuple d’Israël, et c’est toi qui seras chef sur mon peuple d’Israël. »"
+    },
+    {
+     "v": 3,
+     "t": "Ainsi tous les anciens d’Israël vinrent auprès du roi à Hébron, et David fit alliance avec eux devant Yahweh, à Hébron ; et ils oignirent David pour roi sur Israël, selon la parole de Yahweh prononcée par Samuel."
+    },
+    {
+     "v": 4,
+     "t": "David marcha avec tout Israël contre Jérusalem, qui est Jébus ; là étaient les Jébuséens, habitants du pays."
+    },
+    {
+     "v": 5,
+     "t": "Les habitants de Jébus dirent à David : « Tu n’entreras pas ici. » Mais David s’empara de la forteresse de Sion : c’est la cité de David."
+    },
+    {
+     "v": 6,
+     "t": "David dit : « Quiconque battra le premier les Jébuséens sera chef et prince. » Joab, fils de Sarvia, monta le premier, et il devint chef."
+    },
+    {
+     "v": 7,
+     "t": "David s’établit dans la forteresse ; c’est pourquoi on l’appela cité de David."
+    },
+    {
+     "v": 8,
+     "t": "Il bâtit la ville tout autour, à partir du Mello et aux environs, et Joab répara le reste de la ville."
+    },
+    {
+     "v": 9,
+     "t": "David devenait de plus en plus grand, et Yahweh des armées était avec lui."
+    },
+    {
+     "v": 10,
+     "t": "Voici les chefs des héros qui étaient au service de David, et qui, avec tout Israël, l’aidèrent pendant son règne, après avoir contribué à le faire roi, selon la parole de Yahweh au sujet d’Israël.",
+     "n": [
+      "10-40, comp. II Sam. xxiii, 8-39."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Voici le nombre des héros qui étaient au service de David : Jesbaam, fils de Hachamoni, chef des Trente. Il brandit sa lance sur trois cents hommes, qu’il fit périr en une seule fois.",
+     "n": [
+      "11. Chef des Trente, en adoptant la lecture du Kethib."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Après lui, Éléazar, fils de Dodo, l’Ahohite ; il était parmi les trois vaillants.",
+     "n": [
+      "12-14 bloque, sous le nom d’Éléazar, les notices que II Sam. xxiii, 9-12 consacre à Éléazar et à Samraa."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Il était avec David à Phes-Domim, et les Philistins s’y étaient rassemblés pour combattre. Il y avait là une pièce de terre pleine d’orge, et le peuple fuyait devant les Philistins."
+    },
+    {
+     "v": 14,
+     "t": "Ils se placèrent au milieu du champ, le défendirent et battirent les Philistins ; et Yahweh opéra une grande délivrance."
+    },
+    {
+     "v": 15,
+     "t": "Trois d’entre les trente capitaines descendirent auprès de David sur le rocher, à la caverne d’Odollam, tandis que le camp des Philistins était dressé dans la vallée des Réphaïm."
+    },
+    {
+     "v": 16,
+     "t": "David était alors dans la forteresse, et il y avait un poste de Philistins à Bethléem."
+    },
+    {
+     "v": 17,
+     "t": "David eut un désir, et il dit : « Qui me fera boire de l’eau de la citerne qui est à la porte de Bethléem ? »"
+    },
+    {
+     "v": 18,
+     "t": "Aussitôt les trois hommes, passant au travers du camp des Philistins, puisèrent de l’eau de la citerne qui est à la porte de Bethléem. Ils la prirent et l’apportèrent à David ; mais David ne voulut pas la boire, et il en fit une libation à Yahweh,"
+    },
+    {
+     "v": 19,
+     "t": "en disant : « Que mon Dieu me garde de faire cela ! Boirais-je le sang de ces hommes avec leur vie ? Car c’est au péril de leur vie qu’ils l’ont apportée. « Et il ne voulut pas la boire. Voilà ce que firent ces trois braves."
+    },
+    {
+     "v": 20,
+     "t": "Abisaï, frère de Joab, était chef des Trois ; il brandit sa lance contre trois cents hommes et les tua, et il eut du renom parmi les trois.",
+     "n": [
+      "20-41 a. Voy. II Sam. xxiii, 24-39. — 41-46 est propre aux Paral."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Il était le plus considéré de la seconde triade, et il fut leur chef ; mais il n’égala pas les trois premiers.",
+     "n": [
+      "21. Voy. note de II Sam. xxiii, 19."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Banaïas, fils de Joïada, fils d’un homme vaillant et riche en exploits, de Cabséel. Il frappa les deux ariels de Moab. Il descendit et frappa le lion au milieu de la citerne un jour de neige."
+    },
+    {
+     "v": 23,
+     "t": "Il frappa un Égyptien d’une stature de cinq coudées ; et dans la main de l’Égyptien, il y avait une lance semblable à une ensouple de tisserand. Il descendit vers lui avec un bâton, et il arracha la lance de la main de l’Égyptien et le frappa de sa propre lance."
+    },
+    {
+     "v": 24,
+     "t": "Voilà ce que fit Banaïas, fils de Joïada, et il eut du renom parmi les trois vaillants."
+    },
+    {
+     "v": 25,
+     "t": "Voici qu’il était plus considéré que les trente, mais il n’égala pas les trois. David le fit membre de son conseil secret."
+    },
+    {
+     "v": 26,
+     "t": "Hommes vaillants de l’armée : Asaël, frère de Joab ; Elchanan, fils de Dodo, de Bethléem ;"
+    },
+    {
+     "v": 27,
+     "t": "Sammoth, d’Arori ; Hellès, de Phalon ;"
+    },
+    {
+     "v": 28,
+     "t": "Hira, fils d’Accès, de Thécué ; Abiéser, d’Anathot ;"
+    },
+    {
+     "v": 29,
+     "t": "Sobbochaï, le Husathite ; Ilaï, l’Ahohite ;"
+    },
+    {
+     "v": 30,
+     "t": "Maharaï, de Nétopha ; Héled, fils de Baana, de Nétopha ;"
+    },
+    {
+     "v": 31,
+     "t": "Ethaï, fils de Ribaï, de Gabaa des fils de Benjamin ; Banaïa, de Pharaton ;"
+    },
+    {
+     "v": 32,
+     "t": "Huraï, des vallées de Gaas ; Abiel, d’Araba ; Azmaveth, de Bauram ; Eliaba, de Salabon ;"
+    },
+    {
+     "v": 33,
+     "t": "Bené-Assem, de Gézon ; Jonathan, fils de Sagé, d’Arar ;"
+    },
+    {
+     "v": 34,
+     "t": "Ahiam, fils de Sachar, d’Arar ;"
+    },
+    {
+     "v": 35,
+     "t": "Eliphal, fils d’Ur ;"
+    },
+    {
+     "v": 36,
+     "t": "Hépher, de Méchéra ; Ahia, de Phélon ;"
+    },
+    {
+     "v": 37,
+     "t": "Hesro, de Carmel ; Naaraï fils d’Asbaï ;"
+    },
+    {
+     "v": 38,
+     "t": "Joël frère de Nathan ; Mibahar, fils d’Agaraï ;"
+    },
+    {
+     "v": 39,
+     "t": "Sélec, l’Ammonite ; Naharaï, de Béroth, écuyer de Joab, fils de Sarvia ;"
+    },
+    {
+     "v": 40,
+     "t": "Ira, de Jéther ; Gareb, de Jéther ;"
+    },
+    {
+     "v": 41,
+     "t": "Urie, le Hethéen ; Zabad, fils d’Oholi ;"
+    },
+    {
+     "v": 42,
+     "t": "Adina, fils de Siza le Rubénite, chef des Rubénites, et trente avec lui ;"
+    },
+    {
+     "v": 43,
+     "t": "Hanan, fils de Maacha ; Josaphat, de Mathan ;"
+    },
+    {
+     "v": 44,
+     "t": "Ozia, d’Astaroth ; Samma et Jéhiel, fils de Hotham d’Aroër ;"
+    },
+    {
+     "v": 45,
+     "t": "Jédihel, fils de Samri ; Joha, son frère, le Thosaïte ;"
+    },
+    {
+     "v": 46,
+     "t": "Eliel, de Mahum ; Jéribaï et Josaïa, fils d’Elnaëm ; Jethma, le Moabite ;"
+    },
+    {
+     "v": 47,
+     "t": "Eliel, Obed et Jasiel, de Masobia."
+    }
+   ]
+  },
+  {
+   "c": 12,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici ceux qui vinrent vers David à Siceleg, lorsqu’il devait encore se tenir éloigné de la face de Saül, fils de Cis ; ils étaient parmi les vaillants qui le secoururent pendant la guerre.",
+     "n": [
+      "XII, 1 Les quatre listes qui forment la matière de ce chapitre appartiennent en propre à l’auteur : vers. 1-7, 8-15, 19-22, 23-40."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "C’étaient des archers, exercés à lancer des pierres de la main droite et de la main gauche, et à tirer des flèches avec leur arc ; ils étaient d’entre les frères de Saül, de Benjamin."
+    },
+    {
+     "v": 3,
+     "t": "À leur tête Ahiéser, puis Joas, tous deux fils de Samaa, de Gabaa ; Jaziel et Phallet, fils d’Azmoth ; Baracha ; Jéhu, d’Anatoth ;"
+    },
+    {
+     "v": 4,
+     "t": "Samaïas, de Gabaon, vaillant parmi les Trente et chef des Trente ;"
+    },
+    {
+     "v": 5,
+     "t": "Jérémie ; Jéhéziel ; Johanan ; Jézabad, de Gédéra ;"
+    },
+    {
+     "v": 6,
+     "t": "Eluzaï ; Jérimuth ; Baalia ; Samaria ; Saphatia, de Haruph ;"
+    },
+    {
+     "v": 7,
+     "t": "Elcana, Jésia, Azaréel, Joéser et Jesbaam, fils de Coré ;"
+    },
+    {
+     "v": 8,
+     "t": "Joéla et Zabadia, fils de Jéroham, de Gédor."
+    },
+    {
+     "v": 9,
+     "t": "Parmi les Gadites, des hommes vaillants passèrent auprès de David, dans les lieux forts, au désert : guerriers exercés au combat, sachant manier le bouclier et la lance, ayant un aspect de lions, aussi agiles que des gazelles sur les montagnes."
+    },
+    {
+     "v": 10,
+     "t": "Ezer était le chef ; Obdias, le second ; Eliab, le troisième ;"
+    },
+    {
+     "v": 11,
+     "t": "Masmana, le quatrième ; Jérémie, le cinquième ;"
+    },
+    {
+     "v": 12,
+     "t": "Ethi, le sixième ; Eliel, le septième ;"
+    },
+    {
+     "v": 13,
+     "t": "Johanan, le huitième ; Elzébad, le neuvième ;"
+    },
+    {
+     "v": 14,
+     "t": "Jérémie, le dixième ; Machbanaï, le onzième."
+    },
+    {
+     "v": 15,
+     "t": "C’étaient des fils de Gad, chefs de l’armée ; un seul, le plus petit, pouvait l’emporter sur cent, et le plus grand sur mille."
+    },
+    {
+     "v": 16,
+     "t": "Ce sont eux qui passèrent le Jourdain au premier mois, alors qu’il déborde sur toutes ses rives, et qui mirent en fuite tous les habitants des vallées, à l’orient et à l’occident.",
+     "n": [
+      "15. Le premier mois, mars-avril : la neige fond alors sur les montagnes voisines."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Des fils de Benjamin et de Juda vinrent vers David, dans les lieux forts."
+    },
+    {
+     "v": 18,
+     "t": "David sortit au-devant d’eux, prit la parole, et leur dit : « Si vous êtes venus à moi avec des sentiments pacifiques, pour me secourir, mon cœur se portera vers vous, en vue de nous unir ; mais si c’est pour me livrer perfidement à mes ennemis, lorsque aucune violence ne s’attache à mes mains, que le Dieu de nos pères le voie et qu’il fasse justice ! »"
+    },
+    {
+     "v": 19,
+     "t": "L’Esprit revêtit Amasaï, chef des Trente, et il dit : « À toi, David, et avec toi, fils d’Isaï ! Paix, paix à toi, et paix à celui qui te secourt, car ton Dieu t’a secouru ! » Et David les accueillit et les plaça parmi les chefs de la bande."
+    },
+    {
+     "v": 20,
+     "t": "Des hommes de Manassé se joignirent à David, lorsqu’il alla avec les Philistins faire la guerre à Saül. Mais ils ne secoururent pas les Philistins ; car les princes des Philistins renvoyèrent à dessein David en disant : « Au péril de nos têtes, il joindrait son maître Saül. »"
+    },
+    {
+     "v": 21,
+     "t": "Comme il revenait à Siceleg, des hommes de Manassé se joignirent à lui : Ednas, Jozabad, Jédihel, Michaël, Jozabad, Eliu et Salathi, chefs des milliers de Manassé."
+    },
+    {
+     "v": 22,
+     "t": "Ils secoururent David contre les bandes, car ils étaient tous des vaillants, et ils furent chefs dans l’armée."
+    },
+    {
+     "v": 23,
+     "t": "Et de jour en jour des hommes arrivaient auprès de David pour le secourir, jusqu’à ce qu’il eût une grande armée, comme une armée de Dieu."
+    },
+    {
+     "v": 24,
+     "t": "Voici le nombre des chefs des hommes armés pour la guerre qui vinrent auprès de David à Hébron, pour lui transférer la royauté de Saül, selon l’ordre de Yahweh."
+    },
+    {
+     "v": 25,
+     "t": "Fils de Juda, portant le bouclier et la lance, six mille huit cents, armés pour la guerre. —"
+    },
+    {
+     "v": 26,
+     "t": "Des fils de Siméon, hommes vaillants à la guerre, sept mille cent. —"
+    },
+    {
+     "v": 27,
+     "t": "Des fils de Lévi, quatre mille six cents ;"
+    },
+    {
+     "v": 28,
+     "t": "et Joïada, chef de la famille d’Aaron, et avec lui trois mille sept cents ;"
+    },
+    {
+     "v": 29,
+     "t": "et Sadoc, jeune homme vaillant, et la maison de son père, vingt-deux chefs. —"
+    },
+    {
+     "v": 30,
+     "t": "Des fils de Benjamin, frères de Saül, trois mille ; car jusqu’alors la plus grande partie d’entre eux gardaient fidélité à la maison de Saül. —"
+    },
+    {
+     "v": 31,
+     "t": "Des fils d’Éphraïm, vingt mille huit cents, hommes vaillants et renommés dans les maisons de leurs pères. —"
+    },
+    {
+     "v": 32,
+     "t": "De la demi-tribu de Manassé, dix-huit mille, qui furent nominativement désignés pour aller établir David roi. —"
+    },
+    {
+     "v": 33,
+     "t": "Des fils d’Issachar, ayant l’intelligence des temps pour savoir ce que devait faire Israël, deux cents chefs, et tous leurs frères sous leurs ordres. —"
+    },
+    {
+     "v": 34,
+     "t": "De Zabulon, cinquante mille, en état d’aller à l’armée, prêts à la guerre et en parfait équipement de guerre, pour se ranger en bataille d’un cœur résolu. —",
+     "n": [
+      "33. Prêts à se ranger en bataille ; LXX et Vulg., prêts à secourir David. Ces deux versions ont lu laazor (leçon qui donne un meilleur sens) au lieu de taador."
+     ]
+    },
+    {
+     "v": 35,
+     "t": "De Nephthali, mille chefs, et avec eux trente-sept mille, portant le bouclier et la lance. —"
+    },
+    {
+     "v": 36,
+     "t": "Des Danites prêts à la guerre, vingt-huit mille six cents. —"
+    },
+    {
+     "v": 37,
+     "t": "D’Aser, en état d’aller à l’armée et prêts à la guerre, quarante mille. —"
+    },
+    {
+     "v": 38,
+     "t": "Et de l’autre côté du Jourdain, des Rubenites, des Gadites et de la demi-tribu de Manassé, en parfait équipement d’armes de guerre, cent vingt mille."
+    },
+    {
+     "v": 39,
+     "t": "Tous ces hommes de guerre, sachant se ranger en bataille, vinrent d’un cœur sincère à Hébron pour établir David roi sur tout Israël ; et tout le reste d’Israël n’avait également qu’un cœur pour établir David roi."
+    },
+    {
+     "v": 40,
+     "t": "Ils furent là trois jours avec David, mangeant et buvant, car leurs frères leur avaient préparé des provisions."
+    },
+    {
+     "v": 41,
+     "t": "Et même ceux qui habitaient près d’eux, jusqu’à Issachar, à Zabulon et à Nephthali, apportaient des vivres sur des ânes, sur des chameaux, sur des mulets et sur des bœufs, des provisions de farine, des masses de figues sèches et des raisins secs, du vin, de l’huile, des bœufs et des brebis en abondance ; car il y avait joie en Israël."
+    }
+   ]
+  },
+  {
+   "c": 13,
+   "verses": [
+    {
+     "v": 1,
+     "t": "David tint conseil avec les chefs de milliers et de centaines, avec tous les princes."
+    },
+    {
+     "v": 2,
+     "t": "Et David dit à toute l’assemblée d’Israël : « Si vous le trouvez bon et si cela paraît venir de Yahweh, notre Dieu, envoyons au plus vite vers le reste de nos frères, dans toutes les contrées d’Israël, et aussi vers les prêtres et les lévites dans les villes où sont leurs pâturages, afin qu’ils se réunissent à nous,"
+    },
+    {
+     "v": 3,
+     "t": "et que nous ramenions auprès de nous l’arche de notre Dieu, car nous ne nous en sommes pas occupés dans les jours de Saül. »"
+    },
+    {
+     "v": 4,
+     "t": "Toute l’assemblée dit de faire ainsi, la chose ayant paru convenable aux yeux de tout le peuple."
+    },
+    {
+     "v": 5,
+     "t": "David assembla donc tout Israël, depuis le Sihor d’Égypte jusqu’à l’entrée d’Emath, pour faire venir de Cariathiarim l’arche de Dieu.",
+     "n": [
+      "XIII, 5. Le Sihor (c.-à-d. le fleuve noir), la rivière qui servait de frontière à l’Égypte du côté de la Palestine."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Et David, avec tout Israël, monta à Baala, à Cariathiarim, qui est à Juda, pour faire monter de là l’arche de Dieu, de Yahweh qui siège sur les Chérubins, sur laquelle le Nom est invoqué.",
+     "n": [
+      "6-14. Comp. II Sam. vi, 1-11.",
+      "6. Baala, anc. nom de Cariathiarim ( Jos. xv, 9, 60 ). Vulgate, monta à la colline de Cariathiarim."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Ils placèrent sur un chariot neuf l’arche de Dieu, et l’emmenèrent de la maison d’Abinadab : Oza et Ahio conduisaient le chariot."
+    },
+    {
+     "v": 8,
+     "t": "David et tout Israël dansaient devant Dieu de toute leur force, en chantant, et en jouant des harpes, des luths, des tambourins, des cymbales et des trompettes."
+    },
+    {
+     "v": 9,
+     "t": "Lorsqu’ils furent arrivés à l’aire de Chidon, Oza étendit la main pour saisir l’arche, parce que les bœufs avaient fait un faux pas."
+    },
+    {
+     "v": 10,
+     "t": "La colère de Yahweh s’enflamma contre Oza, et Yahweh le frappa, parce qu’il avait étendu la main sur l’arche ; et Oza mourut là, devant Dieu."
+    },
+    {
+     "v": 11,
+     "t": "David fut fâché de ce que Yahweh avait ainsi porté un coup à Oza ; et ce lieu a été appelé jusqu’à ce jour Phéréts-Oza."
+    },
+    {
+     "v": 12,
+     "t": "David eut peur de Dieu en ce jour-là, et il dit : « Comment ferais-je venir vers moi l’arche de Dieu ? »"
+    },
+    {
+     "v": 13,
+     "t": "David ne retira pas l’arche chez lui, dans la cité de David, et il la fit conduire dans la maison d’Obédédom de Geth."
+    },
+    {
+     "v": 14,
+     "t": "L’arche de Dieu resta trois mois avec la famille d’Obédédom, dans sa maison ; et Yahweh bénit la maison d’Obédédom et tout ce qui lui appartenait."
+    }
+   ]
+  },
+  {
+   "c": 14,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Hiram, roi de Tyr, envoya des messagers à David, avec du bois de cèdre, ainsi que des tailleurs de pierres et des charpentiers, pour lui bâtir une maison.",
+     "n": [
+      "XIV, 1-16. Comp. II Sam. v, 11-25."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Et David reconnut que Yahweh l’affermissait comme roi sur Israël, car son royaume était haut élevé, à cause de son peuple d’Israël."
+    },
+    {
+     "v": 3,
+     "t": "David prit encore des femmes à Jérusalem et il engendra encore des fils et des filles."
+    },
+    {
+     "v": 4,
+     "t": "Voici les noms des enfants qu’il eut à Jérusalem : Samua, Sobad, Nathan, Salomon,"
+    },
+    {
+     "v": 5,
+     "t": "Jébahar, Elisua, Eliphalet,"
+    },
+    {
+     "v": 6,
+     "t": "Noga, Népheg, Japhia,"
+    },
+    {
+     "v": 7,
+     "t": "Elisama, Baaiada et Eliphalet."
+    },
+    {
+     "v": 8,
+     "t": "Les Philistins apprirent que David avait été oint pour roi sur tout Israël ; alors tous les Philistins montèrent pour rechercher David. David l’apprit, et il sortit au-devant d’eux."
+    },
+    {
+     "v": 9,
+     "t": "Les Philistins, étant venus, se précipitèrent dans la vallée des Rephaïm."
+    },
+    {
+     "v": 10,
+     "t": "David consulta Dieu, en disant : « Monterai-je contre les Philistins ? Les livrerez-vous entre mes mains ? » Et Yahweh lui dit : « Monte, et je les livrerai entre tes mains. »"
+    },
+    {
+     "v": 11,
+     "t": "Ils montèrent à Baal-Pharasim, et là David les battit. Et David dit : « Dieu a brisé mes ennemis par ma main, comme les eaux brisent les digues. « C’est pourquoi on a donné à ce lieu le nom de Baal-Pharasim."
+    },
+    {
+     "v": 12,
+     "t": "Ils laissèrent là leurs dieux. Et David dit qu’on les livre au feu."
+    },
+    {
+     "v": 13,
+     "t": "Les Philistins se précipitèrent de nouveau dans la vallée."
+    },
+    {
+     "v": 14,
+     "t": "David consulta encore Dieu, et Dieu lui dit : « Ne monte pas après eux ; détourne-toi d’eux, et tu arriveras sur eux du côté des balsamiers."
+    },
+    {
+     "v": 15,
+     "t": "Quand tu entendras un bruit de pas dans les cimes des balsamiers, alors tu sortiras pour combattre, car Dieu sortira devant toi pour battre l’armée des Philistins. »"
+    },
+    {
+     "v": 16,
+     "t": "David fit comme Dieu le lui ordonnait, et ils battirent l’armée des Philistins depuis Gabaon jusqu’à Gazer."
+    },
+    {
+     "v": 17,
+     "t": "La renommée de David se répandit dans tous les pays, et Yahweh le fit craindre à toutes les nations."
+    }
+   ]
+  },
+  {
+   "c": 15,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Il se fit des maisons dans la cité de David, et il prépara une place à l’arche de Dieu, et dressa pour elle une tente.",
+     "n": [
+      "XV. Voy. II Sam. vi, 12-23."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Alors David dit : « Il n’y a pour porter l’arche de Dieu que les lévites ; car ce sont eux que Yahweh a choisis pour porter l’arche de Dieu et pour en faire le service à jamais. »"
+    },
+    {
+     "v": 3,
+     "t": "David assembla tout Israël à Jérusalem, pour faire monter l’arche de Yahweh à sa place, qu’il lui avait préparée."
+    },
+    {
+     "v": 4,
+     "t": "David réunit les fils d’Aaron et les lévites :"
+    },
+    {
+     "v": 5,
+     "t": "des fils de Caath, Uriel le chef et ses frères, cent vingt ;"
+    },
+    {
+     "v": 6,
+     "t": "des fils de Mérari, Asaïa le chef et ses frères, deux cent vingt ;"
+    },
+    {
+     "v": 7,
+     "t": "des fils de Gersom, Joël le chef et ses frères, cent trente ;"
+    },
+    {
+     "v": 8,
+     "t": "des fils d’Elisaphan, Séméïas le chef et ses frères, deux cents ;"
+    },
+    {
+     "v": 9,
+     "t": "des fils d’Hébron, Eliel le chef et ses frères, quatre-vingts ;"
+    },
+    {
+     "v": 10,
+     "t": "des fils d’Oziel, Aminadab le chef et ses frères, cent douze."
+    },
+    {
+     "v": 11,
+     "t": "David appela les prêtres Sadoc et Abiathar, et les lévites Uriel, Asaïas, Joël, Séméïas, Eliel et Aminadab,"
+    },
+    {
+     "v": 12,
+     "t": "et il leur dit : « Vous êtes les chefs de famille des lévites ; sanctifiez-vous, vous et vos frères, et faites monter l’arche de Yahweh, Dieu d’Israël, là où je lui ai préparé un séjour."
+    },
+    {
+     "v": 13,
+     "t": "Parce que ce ne fut pas vous, la première fois, Yahweh, notre Dieu, nous a frappés ; car nous ne l’avions pas cherché selon la loi. »"
+    },
+    {
+     "v": 14,
+     "t": "Les prêtres et les lévites se sanctifièrent pour faire monter l’arche de Yahweh, Dieu d’Israël."
+    },
+    {
+     "v": 15,
+     "t": "Et les fils de Lévi, comme l’avait ordonné Moïse d’après la parole de Yahweh, portèrent l’arche de Dieu sur leurs épaules avec les barres."
+    },
+    {
+     "v": 16,
+     "t": "David dit aux chefs des lévites d’établir leurs frères les chantres avec des instruments de musique, des cithares, des harpes et des cymbales, pour faire retentir des sons éclatants et joyeux."
+    },
+    {
+     "v": 17,
+     "t": "Les lévites établirent Héman, fils de Joël, et, parmi ses frères, Asaph, fils de Barachias ; parmi les fils de Mérari, leurs frères, Ethan, fils de Cusaïa ;"
+    },
+    {
+     "v": 18,
+     "t": "et, avec eux, leurs frères du second ordre, Zacharie, Ben, Jaziel, Sémiramoth, Jahiel, Ani, Eliab, Banaïas, Maasias, Mathathias, Eliphalu, Macénias, Obédédom et Jéhiel, les portiers.",
+     "n": [
+      "18. Ben : ce mot manque ici dans les LXX, et au vers. 20 dans l’hébreu et dans toutes les versions : probablement erreur de copiste."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Les chantres Héman, Asaph et Ethan avaient des cymbales d’airain pour les faire retentir."
+    },
+    {
+     "v": 20,
+     "t": "Zacharie, Oziel, Sémiramoth, Jahiel, Ani, Eliab, Maasias et Banaaïs avaient des cithares en alamoth.",
+     "n": [
+      "20. En alamoth, c.-à-d. probablement sur le ton des jeunes filles, lequel répond à notre soprano. Vulgate, chantaient les mystères avec des cithares."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Mathathias, Eliphalu, Macénias, Obédédom, Jéhiel et Ozaziu avaient des harpes à l’octave inférieure, pour présider au chant."
+    },
+    {
+     "v": 22,
+     "t": "Chonénias, chef des lévites pour le transport, dirigeait le transport, car il s’y entendait."
+    },
+    {
+     "v": 23,
+     "t": "Barachias et Elcana étaient portiers auprès de l’arche."
+    },
+    {
+     "v": 24,
+     "t": "Sébénias, Josaphat, Nathanaël, Amasaï, Zacharie, Banaïas et Eliézer, les prêtres, sonnaient de la trompette devant l’arche de Dieu. Obédédom et Jéhias étaient portiers auprès de l’arche."
+    },
+    {
+     "v": 25,
+     "t": "David, les anciens d’Israël et les chefs de milliers se mirent en route pour faire monter l’arche de l’alliance de Yahweh depuis la Maison d’Obédédom, au milieu de la joie.",
+     "n": [
+      "25-29. Comp II Sam. vi, 12-16."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Lorsque Dieu eut prêté son assistance aux lévites qui portaient l’arche de l’alliance de Yahweh, on immola six taureaux et six béliers."
+    },
+    {
+     "v": 27,
+     "t": "David était couvert d’un manteau de byssus, ainsi que tous les lévites qui portaient l’arche, les chantres et Chonénias, qui dirigeait le transport de l’arche, parmi les chantres ; et David avait sur lui un éphod de lin."
+    },
+    {
+     "v": 28,
+     "t": "Tout Israël fit monter l’arche de l’alliance de Yahweh avec des cris de joie, au son de la trompette, des clairons et des cymbales, et en faisant retentir les cithares et les harpes."
+    },
+    {
+     "v": 29,
+     "t": "Lorsque l’arche de l’alliance de Yahweh fut arrivée jusqu’à la cité de David, Michol, fille de Saül, regarda par la fenêtre et voyant le roi David bondir et danser, elle le méprisa dans son cœur."
+    }
+   ]
+  },
+  {
+   "c": 16,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Après qu’on eut fait entrer l’arche de Dieu, et qu’on l’eut déposée au milieu de la tente que David avait dressée pour elle, on offrit devant Dieu des holocaustes et des sacrifices pacifiques.",
+     "n": [
+      "XVI, 1-3. Comp. II Sam. vi, 17-19."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Quand David eut achevé d’offrir les holocaustes et les sacrifices pacifiques, il bénit le peuple au nom de Yahweh."
+    },
+    {
+     "v": 3,
+     "t": "Puis il distribua à tous ceux d’Israël, hommes et femmes, à chacun un pain, une portion de viande et un gâteau de raisins."
+    },
+    {
+     "v": 4,
+     "t": "Il établit devant l’arche de Yahweh des lévites pour faire le service, en invoquant, en célébrant et en louant Yahweh, le Dieu d’Israël."
+    },
+    {
+     "v": 5,
+     "t": "C’étaient : Asaph, le chef ; Zacharie, le second ; puis Jahiel, Sémiramoth, Jéhiel, Mathathias, Eliab, Banaïas, Obédédom et Jéhiel, avec des cithares et des harpes pour instruments ; et Asaph faisait retentir les cymbales ;",
+     "n": [
+      "5. Jéhiel : ce nom revient deux fois : la première fois lisez Jaziel ( xv, 18. Les LXX et la Vulg. ponctuent autrement :… Banaias et Obédédom ; Jéhiel était chargé des cithares et des harpes, et Asaph, etc."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "les prêtres Banaïas et Jaziel sonnaient continuellement de la trompette devant l’arche de l’alliance de Dieu."
+    },
+    {
+     "v": 7,
+     "t": "Ce fut en ce jour que David établit pour la première fois qu’on célébrerait Yahweh par l’organe d’Asaph et de ses frères :"
+    },
+    {
+     "v": 8,
+     "t": "Louez Yahweh, invoquez son nom, faites connaître ses œuvres parmi les peuples.",
+     "n": [
+      "8-36 forment un cantique dont tous les éléments se retrouvent dans le psautier : 8-22, Ps. cv, 1-15 ; 23 33, Ps. xcvi, 31-36, Ps. cvi, 1, 47, 48."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Chantez en son honneur, chantez des psaumes en son honneur, racontez toutes ses merveilles."
+    },
+    {
+     "v": 10,
+     "t": "Glorifiez-vous dans son saint nom ; que se réjouisse le cœur de ceux qui cherchent Yahweh !"
+    },
+    {
+     "v": 11,
+     "t": "Recherchez Yahweh et sa force ; cherchez continuellement sa face."
+    },
+    {
+     "v": 12,
+     "t": "Souvenez-vous des prodiges qu’il a faits, de ses miracles et des jugements de sa bouche,"
+    },
+    {
+     "v": 13,
+     "t": "race d’Israël, son serviteur, enfants de Jacob, ses élus."
+    },
+    {
+     "v": 14,
+     "t": "Lui, Yahweh, est notre Dieu ; ses jugements s’exercent sur toute la terre."
+    },
+    {
+     "v": 15,
+     "t": "Souvenez-vous à jamais de son alliance. — la parole qu’il a dite pour mille générations."
+    },
+    {
+     "v": 16,
+     "t": "De l’alliance qu’il a conclue avec Abraham, et de son serment à Isaac,"
+    },
+    {
+     "v": 17,
+     "t": "qu’il a érigé pour Jacob en loi, pour Israël en alliance éternelle,"
+    },
+    {
+     "v": 18,
+     "t": "disant : « À toi je donnerai le pays de Chanaan, comme la part de votre héritage. »"
+    },
+    {
+     "v": 19,
+     "t": "Alors que vous étiez faciles à compter, en petit nombre et étrangers dans le pays,"
+    },
+    {
+     "v": 20,
+     "t": "qu’ils erraient d’une nation à l’autre, et d’un royaume vers un autre peuple,"
+    },
+    {
+     "v": 21,
+     "t": "Il ne permit à personne de les opprimer, et il châtia des rois à cause d’eux ;"
+    },
+    {
+     "v": 22,
+     "t": "« Ne touchez pas à mes oints, et ne faites pas de mal à mes prophètes ! »"
+    },
+    {
+     "v": 23,
+     "t": "Chantez à Yahweh, habitants de toute la terre ; annoncez de jour en jour son salut."
+    },
+    {
+     "v": 24,
+     "t": "Racontez parmi les nations sa gloire, parmi tous les peuples ses merveilles."
+    },
+    {
+     "v": 25,
+     "t": "Car Yahweh est grand et très digne de louange, il est redoutable par-dessus tous les dieux ;"
+    },
+    {
+     "v": 26,
+     "t": "car tous les dieux des peuples sont des idoles. Et Yahweh a fait les cieux ;"
+    },
+    {
+     "v": 27,
+     "t": "la majesté et la splendeur sont devant sa face ; la force et la joie sont dans sa demeure."
+    },
+    {
+     "v": 28,
+     "t": "Rendez à Yahweh, familles des peuples, rendez à Yahweh gloire et puissance,"
+    },
+    {
+     "v": 29,
+     "t": "rendez à Yahweh gloire pour son nom. Apportez des offrandes et venez en sa présence ; adorez Yahweh dans de saints ornements,"
+    },
+    {
+     "v": 30,
+     "t": "tremblez devant lui, habitants de toute la terre. Et le monde affermi ne chancellera point."
+    },
+    {
+     "v": 31,
+     "t": "Que les cieux se réjouissent et que la terre soit dans l’allégresse ! Qu’on dise parmi les nations : « Yahweh est roi ! »"
+    },
+    {
+     "v": 32,
+     "t": "Que la mer retentisse avec ce qu’elle contient ! Que les champs tressaillent avec tout ce qu’ils renferment !"
+    },
+    {
+     "v": 33,
+     "t": "Que les arbres de la forêt poussent des cris joyeux, devant Yahweh, car il vient pour juger la terre !"
+    },
+    {
+     "v": 34,
+     "t": "Célébrez Yahweh, car il est bon, car sa miséricorde dure à jamais."
+    },
+    {
+     "v": 35,
+     "t": "Dites : « Sauve-nous, Dieu de notre salut ; rassemble-nous et retire-nous du milieu des nations, afin que nous célébrions ton saint nom, et que nous mettions notre gloire en ta louange. »"
+    },
+    {
+     "v": 36,
+     "t": "Béni soit Yahweh, le Dieu d’Israël, d’éternité en éternité ! Et tout le peuple dit : « Amen ! » et : « Louez Yahweh. »",
+     "n": [
+      "36. Dans le Psautier (fin du Ps. c{sc|cv}} ), les mots : Que tout le peuple dise : Amen ! et loue Yahweh ! constituent la doxologie du quatrième livre."
+     ]
+    },
+    {
+     "v": 37,
+     "t": "David laissa là, devant l’arche de l’alliance de Yahweh, Asaph et ses frères pour faire continuellement le service devant l’arche, selon la tâche de chaque jour ;"
+    },
+    {
+     "v": 38,
+     "t": "de même Obédédom avec ses frères, au nombre de soixante-huit, Obédédom, fils d’Idithun, et Hosa, comme portiers ;"
+    },
+    {
+     "v": 39,
+     "t": "de même, le prêtre Sadoc et les prêtres, ses frères, devant la Demeure de Yahweh sur le haut lieu qui était à Gabaon,"
+    },
+    {
+     "v": 40,
+     "t": "pour qu’ils offrissent des holocaustes à Yahweh continuellement, matin et soir, sur l’autel des holocaustes, et pour qu’ils accomplissent tout ce qui est écrit dans la loi de Yahweh qu’il a imposée à Israël."
+    },
+    {
+     "v": 41,
+     "t": "Auprès d’eux étaient Héman et Idithun, et le reste de ceux qui avaient été choisis et désignés par leurs noms, pour « louer Yahweh, car sa miséricorde dure à jamais ! »"
+    },
+    {
+     "v": 42,
+     "t": "Avec eux, savoir, avec Héman et Idithun, étaient des trompettes et des cymbales pour ceux qui devaient les faire retentir, et des instruments pour les cantiques de Dieu. Les fils d’Idithun étaient pour la porte.",
+     "n": [
+      "42. Héman et Idithun ; ces mots manquent dans les LXX."
+     ]
+    },
+    {
+     "v": 43,
+     "t": "Tout le peuple s’en alla chacun dans sa maison ; et David s’en retourna pour bénir sa maison."
+    }
+   ]
+  },
+  {
+   "c": 17,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Lorsque David fut établi dans sa maison, David dit à Nathan le prophète : « Voici que j’habite dans une maison de cèdre, et l’arche de l’alliance de Yahweh est sous la tente ! »",
+     "h": "II. — LES GLOIRES DU RÈGNE DE DAVID. [XVII, 1 — XX, 8.]",
+     "n": [
+      "XVII, 1-15. Comp. II Sam. vii, 1-17"
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Nathan répondit à David : « Fais ce que tu as dans le cœur, car Dieu est avec toi. »"
+    },
+    {
+     "v": 3,
+     "t": "Cette nuit-là, la parole de Dieu fut adressée à Nathan en ces termes :"
+    },
+    {
+     "v": 4,
+     "t": "« Va dire à David, mon serviteur : Ainsi parle Yahweh : Ce n’est pas toi qui me bâtiras une maison pour que j’y habite."
+    },
+    {
+     "v": 5,
+     "t": "Car je n’ai point habité dans une maison, depuis le jour où j’ai fait monter Israël d’Égypte jusqu’à ce jour ; mais j’ai été de tente en tente et de demeure en demeure."
+    },
+    {
+     "v": 6,
+     "t": "Pendant tout le temps que j’ai voyagé avec tout Israël, ai-je dit un mot à l’un des juges d’Israël à qui j’ai ordonné de paître mon peuple, en disant : Pourquoi ne me bâtissez-vous pas une maison de cèdre ?"
+    },
+    {
+     "v": 7,
+     "t": "Maintenant, tu diras à mon serviteur, à David : Ainsi parle Yahweh des armées : Je t’ai pris au pâturage, derrière les brebis, pour être prince sur mon peuple d’Israël ;"
+    },
+    {
+     "v": 8,
+     "t": "j’ai été avec toi partout où tu allais, j’ai exterminé tous tes ennemis devant toi, et je t’ai fait un nom comme le nom des grands qui sont sur la terre."
+    },
+    {
+     "v": 9,
+     "t": "J’ai assigné un lieu à mon peuple d’Israël, et je l’ai planté, et il habite chez lui, et il ne sera plus troublé, et les fils d’iniquité ne l’opprimeront plus, comme autrefois"
+    },
+    {
+     "v": 10,
+     "t": "et comme au jour où j’avais établi des juges sur mon peuple d’Israël. J’ai humilié tous tes ennemis. Et je t’annonce que Yahweh te bâtira une maison."
+    },
+    {
+     "v": 11,
+     "t": "Quand tes jours seront accomplis et que tu iras avec tes pères, j’élèverai ta postérité après toi, l’un de tes fils, et j’affermirai son règne."
+    },
+    {
+     "v": 12,
+     "t": "C’est lui qui me bâtira une maison, et j’affermirai son trône pour toujours."
+    },
+    {
+     "v": 13,
+     "t": "Je serai pour lui un père, et il sera pour moi un fils ; et je ne lui retirerai point ma grâce, comme je l’ai retirée à celui qui a régné avant toi."
+    },
+    {
+     "v": 14,
+     "t": "Je l’établirai pour toujours dans ma maison et dans mon royaume, et son trône sera affermi pour toujours. »"
+    },
+    {
+     "v": 15,
+     "t": "Nathan parla à David selon toutes ces paroles et toute cette vision."
+    },
+    {
+     "v": 16,
+     "t": "Et le roi David vint et demeura devant Yahweh ; et il dit : « Qui suis-je, Yahweh Dieu, et quelle est ma maison pour que vous m’ayez fait arriver jusque-là ?",
+     "n": [
+      "16-27. Comp. II Sam. vii, 18-29."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Et c’est encore peu de chose à vos yeux, ô Dieu ! Vous avez parlé de la maison de votre serviteur pour les temps lointains, et vous m’avez regardé comme un homme de haut rang, ô Yahweh Dieu."
+    },
+    {
+     "v": 18,
+     "t": "Que pourrait vous dire de plus David sur l’honneur accordé à votre serviteur ? Vous connaissez votre serviteur."
+    },
+    {
+     "v": 19,
+     "t": "Yahweh, c’est à cause de votre serviteur et selon votre cœur, que vous avez fait toute cette grande chose, pour faire connaître toutes ces grandes choses."
+    },
+    {
+     "v": 20,
+     "t": "Yahweh, nul n’est semblable à vous, et il n’y a point d’autre Dieu que vous, d’après tout ce que nous avons entendu de nos oreilles."
+    },
+    {
+     "v": 21,
+     "t": "Quelle autre nation y a-t-il sur la terre comme votre peuple d’Israël, que Dieu est venu racheter pour en faire son peuple, pour vous faire un nom par des choses grandes et des prodiges, en chassant des nations de devant votre peuple que vous avez racheté de l’Égypte ?"
+    },
+    {
+     "v": 22,
+     "t": "Vous avez fait de votre peuple d’Israël votre peuple à jamais, et vous, Yahweh, vous êtes devenu son Dieu."
+    },
+    {
+     "v": 23,
+     "t": "Maintenant, Yahweh, que la parole que vous avez dite au sujet de votre serviteur et au sujet de sa maison subsiste à jamais, et agissez selon votre parole !"
+    },
+    {
+     "v": 24,
+     "t": "Qu’elle subsiste, et que votre nom soit glorifié à jamais, et que l’on dise : Yahweh des armées, le Dieu d’Israël, est Dieu pour Israël ! Et que la maison de David, votre serviteur, soit affermie devant vous !"
+    },
+    {
+     "v": 25,
+     "t": "Car vous-même, ô mon Dieu, vous avez révélé à votre serviteur que vous lui bâtiriez une maison ; c’est pourquoi votre serviteur a osé prier devant vous."
+    },
+    {
+     "v": 26,
+     "t": "Maintenant, Yahweh, c’est vous qui êtes Dieu, et vous avez dit à votre serviteur cette parole agréable."
+    },
+    {
+     "v": 27,
+     "t": "Maintenant, il vous a plu de bénir la maison de votre serviteur, afin qu’elle subsiste à jamais devant vous ; car ce que vous bénissez, Yahweh, est béni pour toujours. »"
+    }
+   ]
+  },
+  {
+   "c": 18,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Après cela, David battit les Philistins et les abaissa, et il ôta de la main des Philistins Geth et les villes de sa dépendance."
+    },
+    {
+     "v": 2,
+     "t": "Il battit les Moabites, et les Moabites furent pour David des esclaves, lui apportant le tribut."
+    },
+    {
+     "v": 3,
+     "t": "David battit Hadarézer, roi de Soba, vers Hamath, lorsqu’il était en chemin pour établir sa domination sur le fleuve de l’Euphrate."
+    },
+    {
+     "v": 4,
+     "t": "David lui prit mille chars, sept mille cavaliers et vingt mille hommes de pied ; David coupa les jarrets à tous les chevaux d’attelage, et n’en laissa que cent attelages."
+    },
+    {
+     "v": 5,
+     "t": "Les Syriens de Damas étant venus au secours d’Hadarézer, roi de Soba, David battit aux Syriens vingt-deux mille hommes."
+    },
+    {
+     "v": 6,
+     "t": "David mit des garnisons dans la Syrie de Damas ; les Syriens furent pour David des esclaves, apportant le tribut. Yahweh donnait la victoire à David partout où il allait."
+    },
+    {
+     "v": 7,
+     "t": "David prit les boucliers d’or qui étaient sur les serviteurs d’Hadarézer et les apporta à Jérusalem.",
+     "n": [
+      "7. Boucliers ; Vulg. carquois ; LXX, colliers."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "David prit encore une grande quantité d’airain à Thébath et à Chun, villes d’Hadarézer ; Salomon en fit la mer d’airain, les colonnes et les ustensiles d’airain."
+    },
+    {
+     "v": 9,
+     "t": "Lorsque Thoü, roi de Hamath, apprit que David avait battu toutes les forces d’Hadarézer, roi de Soba,"
+    },
+    {
+     "v": 10,
+     "t": "il envoya Adoram, son fils, vers le roi David, pour le saluer et pour le féliciter d’avoir attaqué Hadarézer et de l’avoir battu ; car Thoü était constamment en guerre avec Hadarézer. Il envoya aussi toutes sortes de vases d’or, d’argent et d’airain."
+    },
+    {
+     "v": 11,
+     "t": "Le roi David les consacra à Yahweh avec l’argent et l’or qu’il avait pris à toutes les nations, à Edom, à Moab, aux fils d’Ammon, aux Philistins et à Amalec."
+    },
+    {
+     "v": 12,
+     "t": "Abisaï, fils de Sarvia, battit les Edomites, dans la vallée du Sel, au nombre de dix-huit mille."
+    },
+    {
+     "v": 13,
+     "t": "Il mit des garnisons dans Edom, et tout Edom fut assujetti à David. Et Yahweh donnait la victoire à David partout où il allait."
+    },
+    {
+     "v": 14,
+     "t": "David régna sur tout Israël, et il fit droit et justice à tout son peuple."
+    },
+    {
+     "v": 15,
+     "t": "Joab, fils de Sarvia, commandait l’armée ; Josaphat, fils d’Ahilud, était archiviste ;"
+    },
+    {
+     "v": 16,
+     "t": "Sadoc, fils d’Achitob, et Achimélech, fils d’Abiathar, étaient prêtres ; Susa était secrétaire ;"
+    },
+    {
+     "v": 17,
+     "t": "Banaïas, fils de Joïada, était chef des Céréthiens et des Phéléthiens ; et les fils de David étaient les premiers au côté du roi."
+    }
+   ]
+  },
+  {
+   "c": 19,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Après cela, Naas, roi des fils d’Ammon, mourut, et son fils régna à sa place."
+    },
+    {
+     "v": 2,
+     "t": "David dit : « Je montrerai de la bienveillance à Hanon, fils de Naas, car son père m’a montré de la bienveillance. » Et David envoya des messagers pour le consoler au sujet de son père. Lorsque les serviteurs de David furent arrivés, dans le pays des fils d’Ammon, auprès de Hanon, pour le consoler,"
+    },
+    {
+     "v": 3,
+     "t": "les princes des fils d’Ammon dirent à Hanon : « Penses-tu que ce soit pour honorer ton père que David t’envoie des consolateurs ? N’est-ce pas pour reconnaître et détruire, et pour explorer le pays, que ses serviteurs sont venus vers toi ! »"
+    },
+    {
+     "v": 4,
+     "t": "Alors Hanon, ayant saisi les serviteurs de David, les rasa et coupa leurs habits à mi-hauteur, jusqu’à la hanche, et il les renvoya."
+    },
+    {
+     "v": 5,
+     "t": "On alla informer David de ce qui était arrivé à ses hommes, et il envoya des gens à leur rencontre, car ces hommes étaient dans une grande confusion, et le roi leur fit dire : « Restez à Jéricho, jusqu’à ce que votre barbe ait repoussé, et vous reviendrez ensuite. »"
+    },
+    {
+     "v": 6,
+     "t": "Les fils d’Ammon virent qu’ils s’étaient rendus odieux à David, et Hanon et les fils d’Ammon envoyèrent mille talents d’argent pour prendre à leur solde des chars et des cavaliers chez les Syriens de Mésopotamie et chez les Syriens de Maacha et de Soba."
+    },
+    {
+     "v": 7,
+     "t": "Ils prirent à leur solde trente-deux mille chars, et le roi de Maacha avec son peuple, lesquels vinrent camper près de Médaba. Les fils d’Ammon se rassemblèrent de leurs villes et vinrent au combat."
+    },
+    {
+     "v": 8,
+     "t": "David l’apprit et fit partir contre eux Joab et toute l’armée, les hommes vaillants."
+    },
+    {
+     "v": 9,
+     "t": "Les fils d’Ammon sortirent et se rangèrent en bataille à la porte de la ville ; les rois qui étaient venus étaient à part dans la campagne."
+    },
+    {
+     "v": 10,
+     "t": "Lorsque Joab vit qu’il y avait un front de bataille devant et derrière lui, il choisit parmi toute l’élite d’Israël un corps qu’il rangea en face des Syriens,"
+    },
+    {
+     "v": 11,
+     "t": "et il mit le reste du peuple sous le commandement de son frère Abisaï, les rangeant en face des fils d’Ammon. Il dit :"
+    },
+    {
+     "v": 12,
+     "t": "« Si les Syriens sont plus forts que moi, tu viendras à mon secours ; et si les fils d’Ammon sont plus forts que toi, je te secourrai."
+    },
+    {
+     "v": 13,
+     "t": "Sois ferme, et combattons vaillamment pour notre peuple et pour les villes de notre Dieu, et que Yahweh fasse ce qui semblera bon à ses yeux ! »"
+    },
+    {
+     "v": 14,
+     "t": "Joab s’avança donc, ainsi que le peuple qui était avec lui, contre les Syriens pour les attaquer, et ceux-ci s’enfuirent devant lui."
+    },
+    {
+     "v": 15,
+     "t": "Les fils d’Ammon, voyant que les Syriens avaient pris la fuite, s’enfuirent, eux aussi, devant Abisaï, frère de Joab, et rentrèrent dans la ville. Et Joab rentra dans Jérusalem."
+    },
+    {
+     "v": 16,
+     "t": "Les Syriens, voyant qu’ils avaient été battus devant Israël, envoyèrent des messagers pour faire venir les Syriens qui étaient de l’autre côté du fleuve ; et Sophach, chef de l’armée d’Hadarézer marchait devant eux."
+    },
+    {
+     "v": 17,
+     "t": "David en reçut la nouvelle et, ayant assemblé tout Israël, il passa le Jourdain, vint vers eux, et disposa l’attaque contre eux ; et David rangea son armée en bataille contre les Syriens. Ceux-ci engagèrent le combat contre lui,"
+    },
+    {
+     "v": 18,
+     "t": "mais les Syriens s’enfuirent devant Israël, et David tua aux Syriens les chevaux de sept mille chars et quarante mille hommes de pied ; il mit aussi à mort Sophach, chef de l’armée."
+    },
+    {
+     "v": 19,
+     "t": "Les vassaux d’Hadarézer, se voyant battus devant Israël, firent la paix avec David et lui furent assujettis. Et les Syriens ne voulurent plus porter secours aux fils d’Ammon."
+    }
+   ]
+  },
+  {
+   "c": 20,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Au temps du retour de l’année, au temps où les rois se mettent en campagne, Joab se mit à la tête d’une forte armée, ravagea le pays des fils d’Ammon et vint assiéger Rabba. Mais David resta à Jérusalem. Joab battit Rabba et la détruisit.",
+     "n": [
+      "XX, 1 a. Comp. II Sam. i, 1.",
+      "1 b -3. Comp. II Sam. xii, 26-31."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "David enleva la couronne de leur roi de dessus sa tête, et il y trouva le poids d’un talent d’or ; et il y avait sur elle une pierre précieuse, et elle fut mise sur la tête de David. Et il emporta de la ville un très grand butin."
+    },
+    {
+     "v": 3,
+     "t": "Quant au peuple qui s’y trouvait, il l’en fit sortir, et il les déchira avec des scies, avec des pics de fer et des haches ; et David traita de même toutes les villes des fils d’Ammon. Et David retourna à Jérusalem avec tout le peuple."
+    },
+    {
+     "v": 4,
+     "t": "Après cela eut lieu une bataille à Gazer avec les Philistins. Alors Sabochaï, le Husathite, tua Saphaï, l’un des descendants de Rapha, et les Philistins furent humiliés.",
+     "n": [
+      "4-8. Comp. II Sam. xxi, 18-22."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Il y eut encore une bataille avec les Philistins ; et Elchanan, fils de Jaïr, tua Lachmi, frère de Goliath, de Geth ; le bois de sa lance était semblable à une ensouple de tisserand."
+    },
+    {
+     "v": 6,
+     "t": "Il y eut encore une bataille à Geth. Il s’y trouva un homme de haute taille, qui avait six doigts à chaque main et à chaque pied, vingt-quatre en tout, et lui aussi descendait de Rapha."
+    },
+    {
+     "v": 7,
+     "t": "Il insulta Israël, et Jonathan, fils de Samaa, frère de David, le tua."
+    },
+    {
+     "v": 8,
+     "t": "Ces hommes étaient des fils de Rapha, à Geth ; ils périrent par la main de David et par la main de ses serviteurs."
+    }
+   ]
+  },
+  {
+   "c": 21,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Satan se tint contre Israël, et il excita David à faire le dénombrement d’Israël.",
+     "h": "III. — FIN DU RÈGNE DE DAVID. PRÉPARATIFS EN VUE DE LA CONSTRUCTION DU TEMPLE. [XXI, 1 — XXV, 30.]"
+    },
+    {
+     "v": 2,
+     "t": "Et David dit à Joab et aux chefs du peuple : « Allez, comptez Israël depuis Bersabée jusqu’à Dan, et faites-moi un rapport, afin que je sache leur nombre. »"
+    },
+    {
+     "v": 3,
+     "t": "Joab répondit : « Que Yahweh ajoute à son peuple cent fois ce qu’il y en a ! Ô roi, monseigneur, ne sont-ils pas tous esclaves de mon seigneur ? Pourquoi donc mon seigneur demande-t-il cela ? Pourquoi faire venir le péché sur Israël ? »",
+     "n": [
+      "3. Le péché, non un péché à commettre, mais péché à expier, un châtiment. Vulg., une chose qui sera imputée à péché à Israël."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Mais la parole du roi prévalut contre Joab. Joab partit et parcourut tout Israël, et il revint à Jérusalem."
+    },
+    {
+     "v": 5,
+     "t": "Et Joab remit à David le rôle du dénombrement du peuple : il y avait dans tout Israël onze cent mille hommes tirant l’épée, et en Juda quatre cent soixante-dix mille hommes tirant l’épée."
+    },
+    {
+     "v": 6,
+     "t": "Il ne fit pas le dénombrement de Lévi et de Benjamin au milieu d’eux, car l’ordre du roi répugnait à Joab."
+    },
+    {
+     "v": 7,
+     "t": "Dieu vit de mauvais œil cette affaire, et il frappa Israël."
+    },
+    {
+     "v": 8,
+     "t": "Et David dit à Dieu : « J’ai commis un grand péché en faisant cela. Maintenant, ôtez, je vous prie, l’iniquité de votre serviteur, car j’ai tout à fait agi en insensé. »"
+    },
+    {
+     "v": 9,
+     "t": "Yahweh parla à Gad, le voyant de David, en ces termes :"
+    },
+    {
+     "v": 10,
+     "t": "« Va et parle à David en ces termes : Ainsi parle Yahweh : Je pose devant toi trois choses ; choisis-en une, et je te la ferai. »"
+    },
+    {
+     "v": 11,
+     "t": "Gad vint vers David et lui dit : « Ainsi parle Yahweh : Choisis,"
+    },
+    {
+     "v": 12,
+     "t": "ou trois années de famine, ou trois mois durant lesquels tu seras emporté devant tes adversaires et atteint par le glaive de tes ennemis, ou trois jours durant lesquels le glaive de Yahweh et la peste seront dans le pays, et l’ange de Yahweh opérera la destruction dans tout le territoire d’Israël. Maintenant, vois ce que je dois répondre à celui qui m’envoie. »"
+    },
+    {
+     "v": 13,
+     "t": "David dit à Gad : « Je suis dans une cruelle angoisse. Ah ! que je tombe entre les mains de Yahweh, car ses miséricordes sont très grandes, et que je ne tombe pas entre les mains des hommes ! »"
+    },
+    {
+     "v": 14,
+     "t": "Et Yahweh envoya une peste en Israël, et il tomba soixante-dix mille hommes en Israël."
+    },
+    {
+     "v": 15,
+     "t": "Et Dieu envoya un ange à Jérusalem pour la détruire ; et pendant qu’il détruisait, Yahweh vit et se repentit de ce mal, et il dit à l’ange qui détruisait : « Assez ! retire maintenant ta main. » L’ange de Yahweh se tenait près de l’aire d’Ornan, le Jébuséen."
+    },
+    {
+     "v": 16,
+     "t": "David, ayant levé les yeux, vit l’ange de Yahweh se tenant entre la terre et le ciel, et ayant à la main son épée nue, tournée contre Jérusalem. Alors David et les anciens, couverts de sacs, tombèrent sur leur visage."
+    },
+    {
+     "v": 17,
+     "t": "Et David dit à Dieu : « N’est-ce pas moi qui ai dit de faire le dénombrement du peuple ? C’est moi qui ai péché et qui ai fait le mal ; mais celles-là, ces brebis, qu’ont-elles fait ? Yahweh, mon Dieu, que votre main soit donc sur moi et sur la maison de mon père, mais non sur votre peuple pour sa ruine. »"
+    },
+    {
+     "v": 18,
+     "t": "L’ange de Yahweh ordonna à Gad de dire à David de monter pour élever un autel à Yahweh sur l’aire d’Ornan, le Jébuséen."
+    },
+    {
+     "v": 19,
+     "t": "David monta, selon la parole de Gad qu’il avait dite au nom de Yahweh."
+    },
+    {
+     "v": 20,
+     "t": "Ornan, s’étant retourné, vit l’ange, et il se cacha, lui et ses quatre fils : Ornan battait alors du froment."
+    },
+    {
+     "v": 21,
+     "t": "Lorsque David arriva auprès d’Ornan, Ornan regarda et il aperçut David ; sortant aussitôt de l’aire, il se prosterna devant David, le visage contre terre."
+    },
+    {
+     "v": 22,
+     "t": "David dit à Ornan : « Cède-moi l’emplacement de l’aire, et j’y bâtirai un autel à Yahweh ; cède-le-moi pour sa pleine valeur en argent, pour que la plaie se retire de dessus le peuple. »"
+    },
+    {
+     "v": 23,
+     "t": "Ornan dit à David : « Prends-le, et que mon seigneur le roi fasse ce qu’il trouvera bon. Vois, je donne les bœufs pour l’holocauste, les traîneaux pour le bois, et le froment pour l’oblation ; je donne tout cela. »"
+    },
+    {
+     "v": 24,
+     "t": "Mais le roi David dit à Ornan : « Non ! Mais je veux l’acheter contre sa pleine valeur en argent, car je ne prendrai pas ce qui est à toi pour Yahweh, et je n’offrirai pas un holocauste qui ne me coûte rien. »"
+    },
+    {
+     "v": 25,
+     "t": "David donna à Ornan un poids de six cents sicles d’or pour l’emplacement."
+    },
+    {
+     "v": 26,
+     "t": "Et David bâtit là un autel à Yahweh, et offrit des holocaustes et des sacrifices pacifiques. Il cria vers Yahweh, et Yahweh lui répondit par le feu qui descendit du ciel sur l’autel de l’holocauste."
+    },
+    {
+     "v": 27,
+     "t": "Et Yahweh parla à l’ange, et celui-ci remit son épée dans le fourreau."
+    },
+    {
+     "v": 28,
+     "t": "En ce temps-là, David, voyant que Yahweh l’avait exaucé dans l’aire d’Ornan, le Jébuséen, y offrait des sacrifices."
+    },
+    {
+     "v": 29,
+     "t": "Le tabernacle de Yahweh, que Moïse avait construit au désert, et l’autel des holocaustes étaient en ce temps-là sur le haut lieu de Gabaon."
+    },
+    {
+     "v": 30,
+     "t": "Mais David ne pouvait pas aller devant cet autel pour honorer Dieu, parce qu’il avait été terrifié par l’épée de l’ange de Yahweh."
+    }
+   ]
+  },
+  {
+   "c": 22,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Et David dit : « C’est ici la maison de Yahweh Dieu, et c’est l’autel pour les holocaustes d’Israël. »"
+    },
+    {
+     "v": 2,
+     "t": "David ordonna de rassembler les étrangers qui étaient dans le pays d’Israël, et il établit des tailleurs de pierre pour couper des pierres de taille pour la construction de la maison de Dieu."
+    },
+    {
+     "v": 3,
+     "t": "David prépara aussi du fer en quantité, pour les clous des battants des portes et pour les crampons, ainsi que de l’airain en quantité incalculable,"
+    },
+    {
+     "v": 4,
+     "t": "et des bois de cèdre sans nombre ; car les Sidoniens et les Tyriens avaient amené à David des bois de cèdre en abondance."
+    },
+    {
+     "v": 5,
+     "t": "David disait : « Mon fils Salomon est jeune et faible, et la maison qui sera bâtie à Yahweh doit être magnifique à l’excès, afin d’être renommée et glorieuse dans tous les pays ; je veux donc faire pour lui des préparatifs. » Et David fit beaucoup de préparatifs avant sa mort."
+    },
+    {
+     "v": 6,
+     "t": "David appela Salomon, son fils, et lui ordonna de bâtir une maison à Yahweh, le Dieu d’Israël."
+    },
+    {
+     "v": 7,
+     "t": "David dit à Salomon : « Mon fils, j’avais l’intention de bâtir une maison au nom de Yahweh, mon Dieu."
+    },
+    {
+     "v": 8,
+     "t": "Mais la parole de Yahweh me fut adressée en ces termes : Tu as versé du sang en quantité et tu as fait de grandes guerres ; tu ne bâtiras pas une maison à mon nom, car tu as versé devant moi beaucoup de sang sur la terre."
+    },
+    {
+     "v": 9,
+     "t": "Voici, il te naîtra un fils qui sera un homme tranquille, je lui donnerai du repos devant tous ses ennemis d’alentour ; car Salomon sera son nom, et je donnerai en Israël la paix et la tranquillité pendant sa vie."
+    },
+    {
+     "v": 10,
+     "t": "Ce sera lui qui bâtira une maison à mon nom ; il sera pour moi un fils, et je serai pour lui un père, et j’affermirai pour toujours le trône de sa royauté sur Israël."
+    },
+    {
+     "v": 11,
+     "t": "Maintenant, mon fils, que Yahweh soit avec toi, afin que tu prospères et que tu bâtisses la maison de Yahweh, ton Dieu, selon ce qu’il a dit de toi."
+    },
+    {
+     "v": 12,
+     "t": "Daigne seulement Yahweh t’accorder la prudence et l’intelligence, quand il te donnera autorité sur Israël, afin que tu observes la loi de Yahweh, ton Dieu !"
+    },
+    {
+     "v": 13,
+     "t": "Alors tu prospéreras, si tu prends soin de mettre en pratique les lois et les ordonnances que Yahweh a prescrites à Moïse pour Israël. Sois fort, et prends courage ; ne crains point et ne t’effraie point."
+    },
+    {
+     "v": 14,
+     "t": "Voici que par mes efforts, j’ai préparé pour la maison de Yahweh cent mille talents d’or, un million de talents d’argent ; quant à l’airain et au fer, on ne saurait les peser, car il y en a en quantité ; j’ai aussi préparé du bois et des pierres, et tu en ajouteras encore."
+    },
+    {
+     "v": 15,
+     "t": "Tu as avec toi en multitude des ouvriers, des tailleurs de pierres, des artisans de la pierre et du bois et des hommes habiles dans toute espèce d’ouvrages."
+    },
+    {
+     "v": 16,
+     "t": "L’or, l’argent, l’airain et le fer sont sans nombre. Lève-toi ! À l’œuvre ! et que Yahweh soit avec toi ! »"
+    },
+    {
+     "v": 17,
+     "t": "David ordonna à tous les chefs d’Israël de venir en aide à Salomon, son fils, en disant :"
+    },
+    {
+     "v": 18,
+     "t": "« Yahweh, votre Dieu, n’est-il pas avec vous, et ne vous a-t-il pas donné du repos de tous côtés ? Car il a livré entre mes mains les habitants du pays, et le pays est assujetti devant Yahweh et devant son peuple."
+    },
+    {
+     "v": 19,
+     "t": "Maintenant, appliquez votre cœur et votre âme à chercher Yahweh, votre Dieu ; levez-vous et bâtissez le sanctuaire de Yahweh Dieu, afin d’amener l’arche de l’alliance de Yahweh et les saints ustensiles de Dieu dans la maison qui sera bâtie au nom de Yahweh. »"
+    }
+   ]
+  },
+  {
+   "c": 23,
+   "verses": [
+    {
+     "v": 1,
+     "t": "David, vieux et rassasié de jours, établit Salomon, son fils, roi sur Israël."
+    },
+    {
+     "v": 2,
+     "t": "Il réunit tous les chefs d’Israël, les prêtres et les lévites."
+    },
+    {
+     "v": 3,
+     "t": "On compta les lévites, depuis l’âge de trente ans et au-dessus ; leur nombre, par tête et par hommes, fut de trente huit mille."
+    },
+    {
+     "v": 4,
+     "t": "Et David dit : « De ceux-là, que vingt-quatre mille soient préposés aux offices de la maison de Yahweh, que six mille soient scribes et magistrats,"
+    },
+    {
+     "v": 5,
+     "t": "quatre mille portiers, et que quatre mille louent Yahweh avec les instruments que j’ai faits pour le louer. »"
+    },
+    {
+     "v": 6,
+     "t": "David les distribua en classes, d’après les fils de Lévi : Gerson, Caath et Mérari."
+    },
+    {
+     "v": 7,
+     "t": "Des Gersonites : Léédan et Séméï. —"
+    },
+    {
+     "v": 8,
+     "t": "Fils de Léédan : le chef Jahiel, Zétham et Joël : trois."
+    },
+    {
+     "v": 9,
+     "t": "Fils de Séméï : Salomith, Hoziel et Aran : trois. Ce sont là les chefs de famille issus de Léédan. —"
+    },
+    {
+     "v": 10,
+     "t": "Fils de Séméï : Léheth, Ziza, Jaüs et Baria. Ce sont là les quatre fils de Séméï ;"
+    },
+    {
+     "v": 11,
+     "t": "Léheth était le chef, et Ziza le second ; Jaüs et Baria n’eurent pas beaucoup de fils et ils furent comptés, selon leur famille, en une classe."
+    },
+    {
+     "v": 12,
+     "t": "Fils de Caath : Amram, Isaar, Hébron et Oziel : quatre. —"
+    },
+    {
+     "v": 13,
+     "t": "Fils d’Amram : Aaron et Moïse. Aaron fut mis à part pour qu’on le sanctifie comme très saint, lui et ses fils à jamais, afin de faire fumer les parfums devant Yahweh, de faire son service et de bénir en son nom à jamais."
+    },
+    {
+     "v": 14,
+     "t": "Quant à Moïse, homme de Dieu, ses fils furent comptés dans la tribu de Lévi."
+    },
+    {
+     "v": 15,
+     "t": "Fils de Moïse : Gersom et Eliézer. —"
+    },
+    {
+     "v": 16,
+     "t": "Fils de Gersom : Subuël, le chef. —"
+    },
+    {
+     "v": 17,
+     "t": "Les fils d’Eliézer furent : Rohobia, le chef ; Eliézer n’eut pas d’autre fils, mais les fils de Rohobia furent très nombreux. —"
+    },
+    {
+     "v": 18,
+     "t": "Fils d’Isaar : Salomith, le chef. —"
+    },
+    {
+     "v": 19,
+     "t": "Fils d’Hébron : Jériaü, le chef ; Amarias, le second ; Jahaziel, le troisième et Jecmaam, le quatrième, —"
+    },
+    {
+     "v": 20,
+     "t": "Fils d’Oziel : Micha, le chef ; Jésia, le second."
+    },
+    {
+     "v": 21,
+     "t": "Fils de Mérari : Moholi et Musi. — Fils de Moholi : Eléazar et Cis."
+    },
+    {
+     "v": 22,
+     "t": "Eléazar mourut sans avoir de fils, mais seulement des filles ; les fils de Cis, leurs frères, les prirent pour femmes. —"
+    },
+    {
+     "v": 23,
+     "t": "Fils de Musi : Molohi, Eder et Jérimoth : trois."
+    },
+    {
+     "v": 24,
+     "t": "Ce sont là les fils de Lévi selon leurs familles, les chefs de famille selon qu’ils furent dénombrés, nommément comptés par tête ; ils faisaient l’œuvre du service de la maison de Yahweh, depuis l’âge de vingt ans et au-dessus."
+    },
+    {
+     "v": 25,
+     "t": "Car David dit : « Yahweh, le Dieu d’Israël, a donné le repos à son peuple, et il habitera pour toujours à Jérusalem ;"
+    },
+    {
+     "v": 26,
+     "t": "et quant aux lévites, ils n’auront plus à porter la Demeure et tous les ustensiles pour son service. »"
+    },
+    {
+     "v": 27,
+     "t": "Ce fut d’après les derniers ordres de David que se fit le dénombrement des fils de Lévi depuis l’âge de vingt ans et au-dessus."
+    },
+    {
+     "v": 28,
+     "t": "Car leur fonction était de se mettre à la disposition des fils d’Aaron pour le service de la maison de Yahweh, concernant les parvis et les chambres, la purification de toutes les choses saintes, et l’œuvre du service de la maison de Dieu ;",
+     "n": [
+      "XXIII, 28. À partir de ce verset jusqu’à la fin du chap., les LXX et la Vulgate mettent tous les verbes au futur : les lévites auront (au lieu de avaient ) à faire telle ou telle chose."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "concernant les pains de proposition, la fleur de farine pour les oblations, les galettes sans levain, ce qui est cuit sur la poêle et ce qui est mélangé, tout ce qu’il y avait à peser et à mesurer."
+    },
+    {
+     "v": 30,
+     "t": "Ils avaient à se présenter chaque matin et chaque soir, afin de célébrer et louer Yahweh,"
+    },
+    {
+     "v": 31,
+     "t": "et d’offrir tous les holocaustes à Yahweh dans les sabbats, les nouvelles lunes et les fêtes, selon le nombre que la loi prescrit d’offrir à perpétuité devant Yahweh.",
+     "n": [
+      "31. Comp. Nombr. x, 10 ; Lév. xxiii, 4."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "Ils devaient s’appliquer au soin de la tente de réunion, au soin des choses saintes et au soin des fils d’Aaron, leurs frères, pour le service de la maison de Yahweh."
+    }
+   ]
+  },
+  {
+   "c": 24,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Quant aux fils d’Aaron, voici leurs classes : Fils d’Aaron : Nadab, Abiu, Eléazar et Ithamar."
+    },
+    {
+     "v": 2,
+     "t": "Nadab et Abiu moururent avant leur père, sans avoir de fils, et Eléazar et Ithamar remplirent les fonctions du sacerdoce."
+    },
+    {
+     "v": 3,
+     "t": "David, Sadoc, de la descendance d’Eléazar, et Achimélech, de la descendance d’Ithamar, répartirent les fils d’Aaron par classes selon leur service."
+    },
+    {
+     "v": 4,
+     "t": "On trouva parmi les fils d’Eléazar plus de chefs que parmi les fils d’Ithamar, et on les répartit ainsi : pour les fils d’Eléazar, seize chefs de famille, et, pour les fils d’Ithamar, huit chefs de famille."
+    },
+    {
+     "v": 5,
+     "t": "On les répartit par le sort, les uns comme les autres, car il se trouvait des princes du sanctuaire et des princes de Dieu aussi bien parmi les fils d’Eléazar que parmi les fils d’Ithamar."
+    },
+    {
+     "v": 6,
+     "t": "Séméïas, fils de Nathanaël, le secrétaire, un des lévites, les inscrivit devant le roi et les princes, devant Sadoc le grand prêtre, et Achimélech, fils d’Abiathar, et devant les chefs de familles sacerdotales et lévitiques, une famille étant tirée au sort pour Eléazar, puis une famille pour Ithamar."
+    },
+    {
+     "v": 7,
+     "t": "Le premier sort échut à Joïarib, le deuxième à Jédéï,"
+    },
+    {
+     "v": 8,
+     "t": "le troisième à Harim, le quatrième à Séorim,"
+    },
+    {
+     "v": 9,
+     "t": "le cinquième à Melchia, le sixième à Maïman,"
+    },
+    {
+     "v": 10,
+     "t": "le septième à Accos, le huitième à Abia,"
+    },
+    {
+     "v": 11,
+     "t": "le neuvième à Jésua, le dixième à Séchénia,"
+    },
+    {
+     "v": 12,
+     "t": "le onzième a Eliasib, le douzième à Jacim,"
+    },
+    {
+     "v": 13,
+     "t": "le treizième à Hoppha, le quatorzième à Isbaab,"
+    },
+    {
+     "v": 14,
+     "t": "le quinzième à Belga, le seizième à Emmer,"
+    },
+    {
+     "v": 15,
+     "t": "le dix-septième à Hézir, le dix-huitième à Aphsès,"
+    },
+    {
+     "v": 16,
+     "t": "le dix-neuvième à Phétéïa, le vingtième à Hézéchiel,"
+    },
+    {
+     "v": 17,
+     "t": "le vingt et unième à Jachin, le vingt-deuxième à Gamul,"
+    },
+    {
+     "v": 18,
+     "t": "le vingt-troisième à Dalaiaü, le vingt-quatrième à Mazziaü."
+    },
+    {
+     "v": 19,
+     "t": "Telles furent leurs classes selon leur service, afin qu’ils vinssent à la maison de Yahweh, selon le règlement qu’ils avaient reçu par l’organe d’Aaron, leur père, comme le lui avait ordonné Yahweh, le Dieu d’Israël.",
+     "n": [
+      "XXIV, 19. Chacune des 24 classes faisait le service pendant une semaine, et entrait en fonction le jour du sabbat."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Voici les chefs du reste des lévites : des fils d’Amram : Subaël ; des fils de Subaël : Jéhédéïa ;",
+     "n": [
+      "20-30. Cette liste est étroitement apparentée à celle de xxiii, 7-23, qui est conservée en meilleur état. C’est d’après cette dernière liste que, xxiv, 23, on a suppléé : Fils d’Hébron, en un passage tout à fait altéré."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "de Rohobia, des fils de Rohobia : le chef Jésias."
+    },
+    {
+     "v": 22,
+     "t": "Des Isaarites : Salémoth ; des fils de Salémoth : Jahath."
+    },
+    {
+     "v": 23,
+     "t": "Fils d’Hébron : Jériaü le premier, Amarias le deuxième, Jahaziel le troisième, Jecmaan le quatrième."
+    },
+    {
+     "v": 24,
+     "t": "Fils d’Oziel : Micha ; des fils de Micha : Samir ;"
+    },
+    {
+     "v": 25,
+     "t": "frère de Micha : Jésia ; fils de Jésia : Zacharias. —"
+    },
+    {
+     "v": 26,
+     "t": "Fils de Mérari : Moholi et Musi."
+    },
+    {
+     "v": 27,
+     "t": "Fils de Mérari, par Oziaü, son fils : Saam, Zachur et Hébri."
+    },
+    {
+     "v": 28,
+     "t": "De Moholi : Eléazar, qui n’eut point de fils ;"
+    },
+    {
+     "v": 29,
+     "t": "de Cis, les fils de Cis ; Jéraméel."
+    },
+    {
+     "v": 30,
+     "t": "Fils de Musi : Moholi, Eder et Jérimoth."
+    },
+    {
+     "v": 31,
+     "t": "Ce sont là les fils de Lévi, selon leurs familles. Eux aussi, comme leurs frères, les fils d’Aaron, ils tirèrent le sort devant le roi David, devant Sadoc et Achimélech, et devant les chefs de famille sacerdotales et lévitiques, les plus anciens étant sur le même pied que les plus jeunes."
+    }
+   ]
+  },
+  {
+   "c": 25,
+   "verses": [
+    {
+     "v": 1,
+     "t": "David et les princes de l’armée mirent à part, pour le service, des fils d’Asaph, de Héman et d’Idithun qui prophétisaient avec la harpe, la cithare et les cymbales. Voici leur nombre, — de ceux qui étaient occupés au service — :",
+     "n": [
+      "XXV, 1. Les princes de l'armée, en tant que chef de la nation, comme s’il y avait, les princes ou chefs d’Israël ( xxiii, 2 )."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Des fils d’Asaph : Zacchur, Joseph, Nathania et Asaréla, fils d’Asaph, sous la direction d’Asaph, qui prophétisait selon les ordres du roi. —"
+    },
+    {
+     "v": 3,
+     "t": "D’Idithun, les fils d’Idithun : Godolias, Sori, Jéséïas, Hasabias, Mathathias et Séméi, six, selon les ordres de leur père Idithun, qui prophétisait avec la cithare pour célébrer et louer Yahweh. —",
+     "n": [
+      "3. Et Séméi, suppléé d’après le vers. 17."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "De Héman, les fils de Héman : Bocciaü, Mathaniaü, Oziel, Subuël, Jérimoth, Hananias, Hanani, Eliatha, Geddelthi, Romemthiézer, Jesbacassa, Mellothi, Othir et Mahazioth ;"
+    },
+    {
+     "v": 5,
+     "t": "ils étaient tous fils de Héman, voyant du roi dans les paroles de Dieu, pour exalter sa puissance : Dieu avait donné à Héman quatorze fils et trois filles.",
+     "n": [
+      "5. Voyant du roi, organe des révélations divines auprès de David, comme Gad ( xxi, 9 ) et Idithun ( II Par. xxxv, 15 )."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Tous ces lévites étaient sous les ordres de leurs pères pour le chant de la maison de Yahweh, ayant des cymbales, des cithares et des harpes pour le service de la maison de Dieu, sous les ordres de David, d’Asaph, d’Idithun et de Héman."
+    },
+    {
+     "v": 7,
+     "t": "Leur nombre, y compris leurs frères exercés à chanter Yahweh, tous ceux qui avaient de l’habileté, était de deux cent quatre-vingt-huit."
+    },
+    {
+     "v": 8,
+     "t": "Ils tirèrent le sort pour leurs fonctions, petits et grands, maîtres et disciples."
+    },
+    {
+     "v": 9,
+     "t": "Le premier sort échut, pour Asaph, à Joseph ; le second, à Godolias : lui, ses frères et ses fils : douze ;"
+    },
+    {
+     "v": 10,
+     "t": "le troisième, à Zachur : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 11,
+     "t": "le quatrième, à Isari : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 12,
+     "t": "le cinquième à Nathania : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 13,
+     "t": "le sixième à Bocciaü : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 14,
+     "t": "le septième à Isrééla : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 15,
+     "t": "le huitième à Jésaïas : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 16,
+     "t": "le neuvième à Mathanias : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 17,
+     "t": "le dixième à Séméïas : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 18,
+     "t": "le onzième à Azaréel : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 19,
+     "t": "le douzième à Hasabias : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 20,
+     "t": "le treizième à Subuël : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 21,
+     "t": "le quatorzième à Mathathias : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 22,
+     "t": "le quinzième à Jérimoth : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 23,
+     "t": "le seizième à Hananias : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 24,
+     "t": "le dix-septième à Jesbacassa : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 25,
+     "t": "le dix-huitième à Hanani : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 26,
+     "t": "le dix-neuvième à Mellothi : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 27,
+     "t": "le vingtième à Eliatha : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 28,
+     "t": "le vingt-unième à Othir : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 29,
+     "t": "le vingt-deuxième à Geddelthi : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 30,
+     "t": "le vingt-troisième à Mahazioth : lui, ses fils et ses frères : douze ;"
+    },
+    {
+     "v": 31,
+     "t": "le vingt-quatrième à Romemthiézer : lui, ses fils et ses frères : douze."
+    }
+   ]
+  },
+  {
+   "c": 26,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici les classes des portiers : Des Coréïtes : Mésélémia, fils de Coré, d’entre les fils d’Asaph. —",
+     "n": [
+      "XXVI, 1. Voici les classes des portiers, m. à m. Concernant les classes des portiers."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Fils de Mésélémia : Zacharias, le premier-né ; Jadihel le deuxième, Zabadias le troisième, Jathanaël le quatrième,"
+    },
+    {
+     "v": 3,
+     "t": "Elam le cinquième, Johanan le sixième, Elioénaï le septième. —"
+    },
+    {
+     "v": 4,
+     "t": "Fils d’Obédédom : Séméïas, le premier-né ; Jozabad le deuxième, Joaha le troisième, Sachar le quatrième, Nathanaël le cinquième,"
+    },
+    {
+     "v": 5,
+     "t": "Ammiel le sixième, Issachar le septième, Phollathi le huitième ; car Dieu avait béni Obédédom. —"
+    },
+    {
+     "v": 6,
+     "t": "À Séméïas, son fils, naquirent des fils qui furent chefs dans la maison de leur père, car ils étaient de vaillants hommes."
+    },
+    {
+     "v": 7,
+     "t": "Fils de Séméïas : Othni, Raphaël, Obed, Elzabad et ses frères, hommes vaillants, Eliu et Samachias."
+    },
+    {
+     "v": 8,
+     "t": "Tous ceux-là étaient des fils d’Obédédom ; eux, leurs fils et leurs frères, hommes braves et forts pour le service, étaient au nombre de soixante-deux, issus d’Obédédom."
+    },
+    {
+     "v": 9,
+     "t": "Mésélémia avait des fils et des frères, hommes vaillants, au nombre de dix-huit."
+    },
+    {
+     "v": 10,
+     "t": "Hosa, des fils de Mérari, avait pour fils : Semri, le chef : il n’était pas le premier-né, mais son père l’avait établi chef ;"
+    },
+    {
+     "v": 11,
+     "t": "Helcias le second, Tabélias le troisième, Zacharias le quatrième. Tous les fils et les frères de Hosa étaient au nombre de treize."
+    },
+    {
+     "v": 12,
+     "t": "Ces classes de portiers, les chefs de ces hommes, avaient, à côté de leurs frères, des fonctions pour le service de la maison de Yahweh."
+    },
+    {
+     "v": 13,
+     "t": "Ils tirèrent les sorts pour chaque porte, petits et grands, selon leurs familles."
+    },
+    {
+     "v": 14,
+     "t": "Le sort pour le côté de l’orient échut à Sélémias. On tira au sort pour Zacharias, son fils, qui était un sage conseiller, et le côté du septentrion lui échut."
+    },
+    {
+     "v": 15,
+     "t": "Le côté du midi échut à Obédédom, et la maison des magasins à ses fils."
+    },
+    {
+     "v": 16,
+     "t": "À Séphim et à Hosa échut le côté de l’occident, près de la porte Schalléketh, sur le chemin montant : une garde était en face de l’autre."
+    },
+    {
+     "v": 17,
+     "t": "Il y avait à l’orient six lévites, au septentrion quatre par jour, au midi quatre par jour, et quatre aux magasins, deux à deux ;"
+    },
+    {
+     "v": 18,
+     "t": "du côté des dépendances, à l’occident, quatre vers le chemin, deux aux dépendances. —"
+    },
+    {
+     "v": 19,
+     "t": "Telles sont les classes des portiers, d’entre les fils des Coréïtes et les fils de Mérari."
+    },
+    {
+     "v": 20,
+     "t": "Les lévites, leurs frères, avaient l’intendance des trésors de la maison de Dieu et des trésors des choses consacrées.",
+     "n": [
+      "20. Les lévites, leurs frères : l’hébr. actuel porte, les lévites, Achias ; la Vulg. a seulement Achias. Nous suivons les LXX, qui ont lu Achéhem (leurs frères), au lieu d’ Achia (Achias) ; cette leçon semble exigée par le contexte."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Parmi les fils de Lédan, savoir les fils des Gersonites issus de Lédan, chefs des familles de Lédan le Gersonite, c’était Jéhiel ;"
+    },
+    {
+     "v": 22,
+     "t": "les fils de Jéhiel, Zathan et Joël, son frère, avaient l’intendance des trésors de la maison de Yahweh."
+    },
+    {
+     "v": 23,
+     "t": "Parmi les Amramites, les Isaarites, les Hébronites et les Ozihélites,"
+    },
+    {
+     "v": 24,
+     "t": "c’était Subuël, fils de Gersom, fils de Moïse, qui était l’intendant en chef des trésors."
+    },
+    {
+     "v": 25,
+     "t": "Parmi ses frères issus d’Eliézer, dont le fils fut Rahabia, dont le fils fut Isaïas, dont le fils fut Joram, dont le fils fut Zéchri, dont le fils fut Sélémith,"
+    },
+    {
+     "v": 26,
+     "t": "c’étaient Sélémith et ses frères qui avaient l’intendance de tous les trésors des choses saintes qu’avaient consacrées le roi David, les chefs de famille, avec les chefs de milliers et de centaines et les chefs de l’armée :"
+    },
+    {
+     "v": 27,
+     "t": "ils les avaient consacrées sur le butin pris à la guerre, pour l’entretien de la maison de Yahweh."
+    },
+    {
+     "v": 28,
+     "t": "Tout ce qu’avaient consacré Samuel, le voyant, Saül, fils de Cis, Abner, fils de Ner, Joab, fils de Sarvia, ou tout autre, était sous la main de Sélémith et de ses frères."
+    },
+    {
+     "v": 29,
+     "t": "Parmi les Isaarites, Chonénias et ses fils étaient employés pour les affaires extérieures en Israël, comme scribes et comme magistrats."
+    },
+    {
+     "v": 30,
+     "t": "Parmi les Hébronites, Hasabias et ses frères, hommes vaillants, au nombre de mille sept cents, avaient la surveillance d’Israël de l’autre côté du Jourdain, à l’occident, pour toutes les affaires de Yahweh et le service du roi.",
+     "n": [
+      "30. De l’autre côté du Jourdain à l’Occident : Il s’agit du côté occidental du fleuve ; l’expression paraît en rapport avec la marche primitive des Hébreux, de l’est à l’ouest."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "Pour les Hébronites, Jéria était le chef, — Pour les Hébronites, selon leurs généalogies, par familles, on fit des recherches, la quarantième année du règne de David, et l’on trouva parmi eux de vaillants hommes à Jazer en Galaad, —"
+    },
+    {
+     "v": 32,
+     "t": "et ses frères, hommes vaillants, étaient au nombre de deux mille sept cents chefs de famille. Le roi David les établit sur les Rubénites, sur les Gadites et sur la demi-tribu de Manassé pour toutes les affaires de Dieu et les affaires du roi."
+    }
+   ]
+  },
+  {
+   "c": 27,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Les enfants d’Israël selon leur nombre, chefs de familles, chefs de milliers et de centaines, officiers au service du roi pour tout ce qui concernait les divisions, celles qui arrivaient et celles qui partaient, mois par mois, pendant tous les mois de l’année, — chaque division étant de vingt-quatre mille hommes, — étaient :"
+    },
+    {
+     "v": 2,
+     "t": "À la tête de la première division, pour le premier mois, était Jesboam, fils de Zabdiel, et il y avait dans sa division vingt-quatre mille hommes."
+    },
+    {
+     "v": 3,
+     "t": "Il était d’entre les fils de Pharès, et il commandait tous les chefs des troupes du premier mois. —"
+    },
+    {
+     "v": 4,
+     "t": "À la tête de la division du deuxième mois était Dudia, l’Ahohite ; Macelloth, le prince, était un chef de sa division ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 5,
+     "t": "Le chef de la troisième division, pour le troisième mois, était Banaïas, fils du prêtre Joïada, chef ; et il y avait dans sa division vingt-quatre mille hommes."
+    },
+    {
+     "v": 6,
+     "t": "Ce Banaïas était le héros des Trente, à la tête des Trente ; Amizabad, son fils, était un chef de sa division. —"
+    },
+    {
+     "v": 7,
+     "t": "Le quatrième, pour le quatrième mois, était Asaël, frère de Joab, et, après lui, Zabadias, son fils ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 8,
+     "t": "Le cinquième, pour le cinquième mois, était le chef Samaoth, l’Izrahite ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 9,
+     "t": "Le sixième, pour le sixième mois, était Hira, fils d’Accès, de Thécua ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 10,
+     "t": "Le septième, pour le septième mois, était Hellès, le Phallonite, des fils d’Ephraïm ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 11,
+     "t": "Le huitième, pour le huitième mois, était Sobochaï, le Husathite, de la famille des Zarahites ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 12,
+     "t": "Le neuvième, pour le neuvième mois, était Abiézer, d’Anathoth, des fils de Benjamin ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 13,
+     "t": "Le dixième, pour le dixième mois, était Maraï, de Nétopha, de la famille des Zaharites ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 14,
+     "t": "Le onzième, pour le onzième mois, était Banaïas, de Pharathon des fils d’Ephraïm ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 15,
+     "t": "Le douzième, pour le douzième mois, était Holdaï, de Nétopha, de la famille d’Othoniel ; et il y avait dans sa division vingt-quatre mille hommes. —"
+    },
+    {
+     "v": 16,
+     "t": "Et il y avait à la tête des tribus d’Israël : des Rubénites : Eliézer, fils de Zéchri ; des Siméonites : Saphatias, fils de Maacha ;"
+    },
+    {
+     "v": 17,
+     "t": "des Lévites : Hasabias, fils de Camuel ; de la famille d’Aaron : Sadoc ;"
+    },
+    {
+     "v": 18,
+     "t": "de Juda : Eliu, frère de David ; d’Issachar, Amri, fils de Michaël ;"
+    },
+    {
+     "v": 19,
+     "t": "de Zabulon : Jesmaïas, fils d’Abdias ; de Nephtali : Jérimoth, fils d’Ozriel ;"
+    },
+    {
+     "v": 20,
+     "t": "des fils d’Ephraïm : Osée, fils d’Ozaziu ; de la demi-tribu de Manassé : Joël, fils de Phadaïas ;"
+    },
+    {
+     "v": 21,
+     "t": "de la demi-tribu de Manassé, en Galaad : Jaddo, fils de Zacharias ; de Benjamin : Jasiel, fils d’Abner ;"
+    },
+    {
+     "v": 22,
+     "t": "de Dan : Ezrihel, fils de Jéroham. Ce sont les princes des tribus d’Israël."
+    },
+    {
+     "v": 23,
+     "t": "David ne fit point le dénombrement de ceux qui étaient âgés de vingt ans et au-dessous, car Yahweh avait dit qu’il multiplierait Israël comme les étoiles du ciel."
+    },
+    {
+     "v": 24,
+     "t": "Joab, fils de Sarvia, avait commencé le dénombrement, mais il ne l’acheva pas, la colère de Yahweh étant venue à cause de cela sur Israël, et le résultat n’en fut pas porté sur les rôles des chroniques du roi David."
+    },
+    {
+     "v": 25,
+     "t": "Asmoth, fils d’Adiel, était préposé sur les trésors du roi ; Jonathan, fils d’Ozias, sur les trésors dans les champs, dans les villes, dans les villages et dans les tours ;"
+    },
+    {
+     "v": 26,
+     "t": "Ezri, fils de Chélub, sur les ouvriers des champs qui cultivaient la terre ;"
+    },
+    {
+     "v": 27,
+     "t": "Séméï, de Rama, sur les vignes ; Zabdias, de Sapham, sur les provisions de vin dans les vignes ;"
+    },
+    {
+     "v": 28,
+     "t": "Balanan, de Géder, sur les oliviers et les sycomores dans la Séphéla ; Joas, sur les provisions d’huile ;"
+    },
+    {
+     "v": 29,
+     "t": "Séthraï, de Saron, sur les bœufs qui paissaient en Saron ; Saphat, fils d’Adli, sur les bœufs dans les vallées ;"
+    },
+    {
+     "v": 30,
+     "t": "Ubil, l’Ismaélite, sur les chameaux ; Jadias, de Méronath, sur les ânesses ;"
+    },
+    {
+     "v": 31,
+     "t": "Jaziz, l’Agarénien, sur les brebis. Tous ceux-là étaient intendants des biens du roi David."
+    },
+    {
+     "v": 32,
+     "t": "Jonathan, oncle de David, était conseiller ; c’était un homme de sens et de savoir. Jahiel, fils de Hachamoni, était avec les fils du roi."
+    },
+    {
+     "v": 33,
+     "t": "Achitophel était conseiller du roi, et Chusaï, l’Archéen, était ami du roi ;"
+    },
+    {
+     "v": 34,
+     "t": "après Achitophel, Joïada, fils de Banaïas, et Abiathar. Joab était chef de l’armée du roi."
+    }
+   ]
+  },
+  {
+   "c": 28,
+   "verses": [
+    {
+     "v": 1,
+     "t": "David rassembla à Jérusalem tous les princes d’Israël : les princes des tribus, les chefs des divisions qui servaient le roi, les chefs de milliers et les chefs de centaines, les intendants de tous les biens et troupeaux du roi et de ses fils, ainsi que les intendants et les vaillants, — tous les vaillants soldats."
+    },
+    {
+     "v": 2,
+     "t": "Le roi David se leva sur ses pieds et dit : « Écoutez-moi, mes frères et mon peuple. J’avais l’intention de bâtir une maison de repos pour l’arche de l’alliance de Yahweh et pour le marche-pied de notre Dieu, et je faisais des préparatifs pour la construction."
+    },
+    {
+     "v": 3,
+     "t": "Mais Dieu m’a dit : Tu ne bâtiras pas une maison à mon nom, parce que tu es un homme de guerre et que tu as versé le sang."
+    },
+    {
+     "v": 4,
+     "t": "Yahweh, le Dieu d’Israël, m’a choisi dans toute la maison de mon père, pour que je fusse roi sur Israël à jamais. Car il a choisi Juda pour être chef ; et dans la maison de Juda, il a choisi la maison de mon père, et, parmi les fils de mon père, il s’est complu en moi pour me faire régner sur tout Israël."
+    },
+    {
+     "v": 5,
+     "t": "Et entre tous mes fils, — car Yahweh m’a donné beaucoup de fils, — il a choisi mon fils Salomon pour le faire asseoir sur le trône de la royauté de Yahweh, sur Israël."
+    },
+    {
+     "v": 6,
+     "t": "Il m’a dit : C’est Salomon, ton fils, qui bâtira ma maison et mes parvis, car je l’ai choisi pour mon fils, et je serai pour lui un père."
+    },
+    {
+     "v": 7,
+     "t": "J’affermirai pour toujours sa royauté, s’il reste attaché, comme il l’est aujourd’hui, à la pratique de mes commandements et de mes ordonnances."
+    },
+    {
+     "v": 8,
+     "t": "Maintenant, aux yeux de tout Israël, de l’assemblée de Yahweh, et devant notre Dieu qui nous entend, gardez et observez avec soin tous les commandements de Yahweh, votre Dieu, afin que vous possédiez ce bon pays et que vous le transmettiez en héritage à vos fils après vous, à jamais."
+    },
+    {
+     "v": 9,
+     "t": "Et toi, Salomon, mon fils, connais le Dieu de ton père, et sers-le d’un cœur parfait et d’une âme dévouée, car Yahweh sonde tous les cœurs et pénètre tout dessein des pensées. Si tu le cherches, il se laissera trouver par toi ; mais si tu l’abandonnes, il te rejettera pour toujours."
+    },
+    {
+     "v": 10,
+     "t": "Vois maintenant que Yahweh t’a choisi pour bâtir une maison qui sera son sanctuaire. Sois fort, et à l’œuvre. »"
+    },
+    {
+     "v": 11,
+     "t": "David donna à Salomon son fils le modèle du portique et des bâtiments, chambres du trésor, chambres hautes, chambres intérieures qui s’y rattachaient, ainsi que de la chambre du propitiatoire ;"
+    },
+    {
+     "v": 12,
+     "t": "le plan de tout ce qu’il avait dans l’esprit touchant les parvis de la maison de Yahweh et toutes les chambres à l’entour, pour les trésors de la maison de Dieu et les trésors du sanctuaire,"
+    },
+    {
+     "v": 13,
+     "t": "pour les classes des prêtres et des lévites, pour toute l’œuvre du service de la maison de Yahweh, et pour tous les ustensiles employés au service de la maison de Yahweh ;"
+    },
+    {
+     "v": 14,
+     "t": "le modèle des ustensiles d’or, avec le poids de l’or, pour tous les ustensiles de chaque service ; le modèle de tous les ustensiles d’argent, avec le poids, pour tous les ustensiles de chaque service ;"
+    },
+    {
+     "v": 15,
+     "t": "le poids des chandeliers d’or et de leurs lampes d’or, selon le poids de chaque chandelier et de ses lampes, et le poids des chandeliers d’argent, selon le poids de chaque chandelier ;"
+    },
+    {
+     "v": 16,
+     "t": "le poids de l’or pour les tables des pains de proposition, pour chaque table, et le poids de l’argent pour les tables d’argent ;"
+    },
+    {
+     "v": 17,
+     "t": "le modèle des fourchettes, des aiguières et des coupes d’or pur ; des amphores d’or, avec le poids de chaque amphore ; des amphores d’argent, avec le poids de chaque amphore ;"
+    },
+    {
+     "v": 18,
+     "t": "de l’autel des parfums en or épuré, selon son poids ; le modèle du char de Dieu, des Chérubins d’or qui étendent leurs ailes et couvrent l’arche de l’alliance de Yahweh."
+    },
+    {
+     "v": 19,
+     "t": "« Tout cela, dit David, tous les ouvrages de ce modèle, Yahweh m’en a instruit par un écrit qui, de sa main, est venu à moi. »"
+    },
+    {
+     "v": 20,
+     "t": "David dit à Salomon, son fils : « Sois fort et courageux ! À l’œuvre ! Ne crains point et ne t’effraie point ; car Yahweh Dieu, mon Dieu, sera avec toi ; il ne te délaissera pas et ne t’abandonnera pas, jusqu’à l’achèvement de tout l’ouvrage pour le service de la maison de Yahweh."
+    },
+    {
+     "v": 21,
+     "t": "Et voici avec toi les classes des prêtres et des lévites pour tout le service de la maison de Dieu ; avec toi, pour toute espèce de travaux, sont aussi tous les hommes dévoués et habiles, pour tous les ouvrages ; enfin, les chefs et le peuple pour l’exécution de tous tes ordres. »"
+    }
+   ]
+  },
+  {
+   "c": 29,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Le roi David dit à toute l’assemblée : « Mon fils Salomon, le seul que Dieu ait choisi, est jeune et faible, et l’ouvrage est considérable ; car ce palais n’est pas pour un homme, mais pour Yahweh Dieu."
+    },
+    {
+     "v": 2,
+     "t": "J’ai mis tous mes efforts à préparer pour la maison de mon Dieu de l’or pour les objets d’or, de l’argent pour les objets d’argent, de l’airain pour les objets d’airain, du fer pour les objets de fer, du bois pour les objets de bois, des pierres d’onyx et des pierres à enchâsser, des pierres d’ornement et de diverses couleurs, toutes sortes de pierres précieuses et des pierres de marbre en abondance."
+    },
+    {
+     "v": 3,
+     "t": "De plus, dans mon affection pour la maison de Dieu, l’or et l’argent que je possède en propre, je le donne à la maison de mon Dieu, outre tout ce que j’ai préparé pour la maison du sanctuaire :"
+    },
+    {
+     "v": 4,
+     "t": "trois mille talents d’or, d’or d’Ophir, et sept mille talents d’argent épuré, pour en revêtir les parois des chambres,"
+    },
+    {
+     "v": 5,
+     "t": "l’or pour les objets d’or, l’argent pour les objets d’argent, et pour tous les travaux de la main des ouvriers. Qui veut aujourd’hui remplir spontanément sa main d’offrandes pour Yahweh ? »",
+     "n": [
+      "XXIX, 5. Remplir sa main pour Yahweh. formule technique pour présenter des offrandes à Yahweh."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Les chefs des familles, les princes des tribus d’Israël, les chefs de milliers et de centaines, ainsi que les intendants du roi, firent volontairement des offrandes."
+    },
+    {
+     "v": 7,
+     "t": "Ils donnèrent pour le travail de la maison de Dieu cinq mille talents d’or, dix mille dariques, dix mille talents d’argent, dix-huit mille talents d’airain et cent mille talents de fer.",
+     "n": [
+      "7. Dariques : monnaie perse, en or pur, de la valeur de 25 à 30 fr., qui devint commune chez les Juifs après la captivité."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Ceux qui possédaient des pierres précieuses les donnèrent, pour le trésor de la maison de Yahweh, entre les mains de Jahiel, le Gersonite."
+    },
+    {
+     "v": 9,
+     "t": "Le peuple se réjouit de leurs offrandes volontaires, car c’était d’un cœur parfait qu’ils faisaient ces offrandes volontaires à Yahweh ; le roi David en eut aussi une grande joie."
+    },
+    {
+     "v": 10,
+     "t": "David bénit Yahweh aux yeux de toute l’assemblée ; et David dit : « Béni soyez-vous, d’éternité en éternité, Yahweh, Dieu de notre père d’Israël !"
+    },
+    {
+     "v": 11,
+     "t": "À vous, Yahweh, la grandeur, la puissance, la magnificence, la splendeur et la gloire, car tout, au ciel et sur la terre, vous appartient ; à vous, Yahweh, la royauté ; à vous de vous élever souverainement au-dessus de tout."
+    },
+    {
+     "v": 12,
+     "t": "De vous dérivent la richesse et la gloire ; vous dominez sur tout ; dans votre main est la force et la puissance, et à votre main il appartient de donner à toutes choses grandeur et solidité."
+    },
+    {
+     "v": 13,
+     "t": "Maintenant donc, ô notre Dieu, nous vous louons et nous célébrons votre nom glorieux."
+    },
+    {
+     "v": 14,
+     "t": "Car qui suis-je et qui est mon peuple, que nous ayons le pouvoir et la force de faire volontairement de pareilles offrandes ? Tout vient de vous, et nous vous donnons ce que nous avons reçu de votre main."
+    },
+    {
+     "v": 15,
+     "t": "Car nous sommes devant vous des étrangers et des colons, comme l’étaient tous nos pères ; nos jours sur la terre sont comme l’ombre, et il n’y a pas d’espoir."
+    },
+    {
+     "v": 16,
+     "t": "Yahweh, notre Dieu, toutes ces richesses que nous avons préparées pour vous bâtir une maison pour votre saint nom, c’est de votre main qu’elles viennent, et c’est à vous que tout appartient."
+    },
+    {
+     "v": 17,
+     "t": "Je sais, ô mon Dieu, que vous sondez les cœurs et que vous aimez la droiture ; aussi j’ai fait volontairement toutes ces offrandes dans la droiture de mon cœur, et je vois maintenant avec joie votre peuple qui se trouve ici vous faire volontairement ses offrandes."
+    },
+    {
+     "v": 18,
+     "t": "Yahweh, Dieu d’Abraham, d’Isaac et d’Israël, nos pères, gardez à jamais cette disposition comme la forme des sentiments du cœur de votre peuple, et tenez leur cœur tourné vers vous."
+    },
+    {
+     "v": 19,
+     "t": "Et à mon fils Salomon donnez un cœur parfait pour observer vos commandements, vos préceptes et vos lois, pour les mettre tous en pratique et pour bâtir le palais pour lequel j’ai fait des préparatifs. »"
+    },
+    {
+     "v": 20,
+     "t": "David dit à toute l’assemblée : « Bénissez donc Yahweh, votre Dieu. » Et toute l’assemblée bénit Yahweh, le Dieu de leurs pères ; ils s’inclinèrent et se prosternèrent devant Yahweh et devant le roi."
+    },
+    {
+     "v": 21,
+     "t": "Le lendemain de ce jour, ils immolèrent des victimes à Yahweh, et offrirent en holocauste à Yahweh mille taureaux, mille béliers et mille agneaux, avec les libations ordinaires, et d’autres sacrifices en grand nombre pour tout Israël ;"
+    },
+    {
+     "v": 22,
+     "t": "ils mangèrent et burent ce jour-là devant Yahweh avec une grande joie. Pour la seconde fois, ils proclamèrent roi Salomon, fils de David, et l’oignirent comme chef devant Yahweh ; et ils oignirent Sadoc comme grand prêtre."
+    },
+    {
+     "v": 23,
+     "t": "Salomon s’assit sur le trône de Yahweh comme roi, à la place de David, son père ; il prospéra, et tout Israël lui obéit."
+    },
+    {
+     "v": 24,
+     "t": "Tous les chefs et les vaillants, même tous les fils du roi David, se soumirent au roi Salomon."
+    },
+    {
+     "v": 25,
+     "t": "Yahweh éleva au plus haut degré la grandeur de Salomon sous les yeux de tout Israël, et il donna à son règne une gloire que n’eut jamais avant lui aucun roi en Israël."
+    },
+    {
+     "v": 26,
+     "t": "David, fils d’Isaï, régna sur tout Israël.",
+     "n": [
+      "26-28. Comp. I Rois, ii, 10-12."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Le temps qu’il régna sur Israël fut de quarante ans ; il régna sept ans à Hébron, et il régna trente-trois ans à Jérusalem."
+    },
+    {
+     "v": 28,
+     "t": "Il mourut dans une heureuse vieillesse, rassasié de jours, de richesse et de gloire ; et Salomon, son fils, régna à sa place."
+    },
+    {
+     "v": 29,
+     "t": "Les actions du roi David, les premières et les dernières, voici qu’elles sont écrites dans l’histoire de Samuel le voyant, dans l’histoire de Nathan le prophète et dans l’histoire de Gad le voyant,"
+    },
+    {
+     "v": 30,
+     "t": "avec tout son règne et tous ses exploits et les vicissitudes qui lui sont survenues, ainsi qu’à Israël, et à tous les royaumes des autres pays."
+    }
+   ]
+  }
+ ]
+}

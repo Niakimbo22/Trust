@@ -11,7 +11,12 @@ correspondant ; les mots non reconnus sont interpolés entre leurs voisins.
 Le début d'un verset = début de son premier mot, légèrement avancé dans le silence
 qui précède (pour ne pas couper la première syllabe).
 
-Usage : python3 align_timings.py CODE text.json words.json audio_url duree_s > timings.json
+Les livres en plusieurs fichiers audio (Genèse, Psaumes…) sont traités sur une ligne de
+temps globale : fichier 2 = durée du fichier 1 + position. Les temps écrits sont globaux ;
+l'app retrouve (fichier, position) grâce aux durées listées dans "audio".
+
+Usage : python3 align_timings.py CODE text.json words.json bible_manifest.json > timings.json
+  words.json : {"files": [[[début, fin, "mot"], ...], ...]}  (un tableau par fichier audio)
 """
 import difflib
 import json
@@ -31,9 +36,22 @@ def norm_tokens(text: str):
     return t.split()
 
 
-def main(code, text_path, words_path, audio_url, duration):
+def load_words(words_path, audio):
+    data = json.load(open(words_path, encoding="utf-8"))
+    per_file = data["files"] if isinstance(data, dict) else [data]
+    assert len(per_file) == len(audio), "un tableau de mots par fichier audio"
+    words, offset = [], 0.0
+    for fw, a in zip(per_file, audio):
+        words += [[offset + s, offset + e, w] for s, e, w in fw]
+        offset += a["duration"]
+    return words, offset
+
+
+def main(code, text_path, words_path, manifest_path):
     book = json.load(open(text_path, encoding="utf-8"))
-    words = json.load(open(words_path, encoding="utf-8"))
+    entry = next(b for b in json.load(open(manifest_path, encoding="utf-8"))["books"] if b["code"] == code)
+    audio = entry["audio"]
+    words, duration = load_words(words_path, audio)
 
     # Référence : (chapitre, verset) de chaque jeton.
     ref, ref_verse, verse_keys = [], [], []
@@ -128,8 +146,8 @@ def main(code, text_path, words_path, audio_url, duration):
     out = {
         "code": code,
         "version": 1,
-        "audio": audio_url,
-        "duration": round(float(duration), 2),
+        "audio": audio,
+        "duration": round(duration, 2),
         "chapters": chapters,
     }
     json.dump(out, sys.stdout, ensure_ascii=False, separators=(",", ":"))
@@ -141,7 +159,10 @@ def main(code, text_path, words_path, audio_url, duration):
     seq = [verse_start[i] for i in range(len(verse_keys))]
     nonmono = [verse_keys[i] for i in range(1, len(seq)) if seq[i] <= seq[i - 1]]
     print(f"débuts non croissants : {nonmono}", file=sys.stderr)
+    report = {"code": code, "aligned": round(matched / len(ref), 4), "weak": len(weak),
+              "verses": len(verse_keys), "nonmonotonic": len(nonmono)}
+    print("REPORT " + json.dumps(report), file=sys.stderr)
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:6])
+    main(*sys.argv[1:5])

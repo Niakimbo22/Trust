@@ -1,0 +1,462 @@
+{
+ "code": "1TH",
+ "name": "1re épître aux Thessaloniciens",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Paul, Sylvain et Timothée à l’Église des Thessaloniciens, réunie en Dieu le Père et en Jésus-Christ le Seigneur :",
+     "h": "PRÉAMBULE. [I, X — 10.]."
+    },
+    {
+     "v": 2,
+     "t": "à vous, grâce et paix. Nous rendons à Dieu pour vous tous de continuelles actions de grâces, en faisant mémoire de vous dans nos prières,"
+    },
+    {
+     "v": 3,
+     "t": "en rappelant sans cesse devant notre Dieu et Père, les œuvres de votre foi, les sacrifices de votre charité et la constance de votre espérance en Jésus-Christ,",
+     "n": [
+      "I, 3. Sans cesse : ces mots, rattachés dans la Vulg., au vers. 2, appartiennent au vers. 3. — La Vulg., vos épreuves et votre charité, au lieu de les épreuves de votre charité."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "sachant, frères bien-aimés de Dieu, comment vous avez été élus ;"
+    },
+    {
+     "v": 5,
+     "t": "car notre prédication de l’Évangile ne vous a pas été faite en parole seulement, mais elle a été accompagnée de miracles, de l’effusion de l’Esprit-Saint et d’une pleine persuasion ; vous savez aussi quels nous avons été parmi vous pour votre salut.",
+     "n": [
+      "5. Avec puissance, la puissance des miracles pour accréditer sa prédication ( Act. xix, 11 ; Rom. xv, 19 ; Gal. iii, 5 ) ; avec l’Esprit-Saint, communiqué avec ses dons (comp. v, 19 sv. ; I Cor. xii, 7 sv.) par l’intermédiaire de S. Paul ; avec une pleine persuasion, à laquelle rien ne manquait pour produire en vous une conviction pleine et entière."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Et vous êtes devenus nos imitateurs et ceux du Seigneur, en recevant la parole au milieu de beaucoup de tribulations avec la joie de l’Esprit-Saint,",
+     "n": [
+      "6. Nos imitateurs : comp. I Cor. iv, 16 ; Phil. iii, 17 ; II Thess. ii, 14."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "au point de devenir un modèle pour tous ceux qui croient dans la Macédoine et dans l’Achaïe.",
+     "n": [
+      "7. Les Romains avaient partagé la Grèce en deux provinces : La Macédoine au nord, l’Achaïe au sud."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "En effet, de chez vous, la parole du Seigneur a retenti non seulement dans la Macédoine et dans l’Achaïe, mais partout votre foi en Dieu s’est fait si bien connaître que nous n’avons pas besoin d’en rien dire."
+    },
+    {
+     "v": 9,
+     "t": "Car tous en parlant de nous racontent quel accès nous avons eu auprès de vous, et comment vous vous êtes convertis des idoles au Dieu vivant et vrai, pour le servir,"
+    },
+    {
+     "v": 10,
+     "t": "et pour attendre des cieux son Fils, qu’il a ressuscité des morts, Jésus, qui nous sauve de la colère à venir.",
+     "n": [
+      "10. De la colère à venir : Comp. Rom. ii, 8 ; v, 9."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Vous savez vous-mêmes, frères, que notre venue parmi vous n’a pas été sans fruits.",
+     "h": "PREMIÈRE PARTIE. [I — III.] LES RAPPORTS PERSONNELS DE L’AUTEUR AVEC LA COMMUNAUTÉ.",
+     "n": [
+      "II, 1. Sans fruits : c’est la signification naturelle du grec κενὸς ; et qu’il a partout ailleurs : comp. I Cor. xv, 14, 58 ; I Thess. iii, 5. — D’autres, n’a pas été exempte de difficultés."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Mais après avoir souffert et subi des outrages à Philippes, comme vous le savez, nous vînmes pleins de confiance en notre Dieu, vous prêcher hardiment son Évangile, au milieu de bien des luttes.",
+     "n": [
+      "2. À Philippes, Act. xvi, 19 sv. — Luttes, Vulg. dans une grande anxiété, ἀγὠν étant pris dans le sens de ἀγωνἰα, comme dans Col. ii, 1."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Car notre prédication n’a pas procédé de l’erreur, ni d’une intention vicieuse, ni de fraude aucune ;"
+    },
+    {
+     "v": 4,
+     "t": "mais, selon que Dieu nous a jugés dignes de nous confier l’Évangile, ainsi enseignons-nous, non comme pour plaire à des hommes, mais à Dieu, qui sonde nos cœurs."
+    },
+    {
+     "v": 5,
+     "t": "Jamais, en effet, nos discours n’ont été inspirés par la flatterie, comme vous le savez, ni par un motif de cupidité, Dieu en est témoin."
+    },
+    {
+     "v": 6,
+     "t": "La gloire humaine, nous ne l’avons recherchée ni de vous ni de personne ;"
+    },
+    {
+     "v": 7,
+     "t": "alors que nous aurions pu, comme apôtres du Christ, prétendre à quelque autorité, nous avons été au contraire plein de condescendance au milieu de vous. Comme une nourrice entoure de tendres soins ses enfants,",
+     "n": [
+      "7. Prétendre à quelque autorité ; Vulgate, être à votre charge : comp. vers. 9. I Cor. ix, 14.",
+      "7. Plein de condescendance. En lisant, d’après une autre leçon, νἤπιοι, au lieu de ἤπιοι, la Vulg., et plusieurs Pères ou commentateurs : Nous avons été petits enfants, etc."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "ainsi, dans notre affection pour vous, nous aurions voulu vous donner, non seulement l’Évangile de Dieu, mais notre vie même, tant vous nous étiez devenus chers.",
+     "n": [
+      "8. Vulg. desiderantes. Elle a lu ἰμειρόμενοι au lieu de ὁμειρόμενοι (être intimement unis), qui ne se rencontre pas ailleurs, mais parait être la véritable leçon."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Vous vous rappelez, frères, notre labeur et nos fatigues : c’est en travaillant nuit et jour, pour n’être à charge à personne d’entre vous, que nous vous avons prêché l’Évangile de Dieu."
+    },
+    {
+     "v": 10,
+     "t": "Vous êtes témoins, et Dieu aussi, combien sainte, juste et irrépréhensible a été notre conduite envers vous qui croyez ;"
+    },
+    {
+     "v": 11,
+     "t": "comment, ainsi que vous le savez, nous avons été pour chacun de vous ce qu’un père est pour ses enfants,"
+    },
+    {
+     "v": 12,
+     "t": "vous priant, vous exhortant, vous conjurant de marcher d’une manière digne de Dieu, qui vous appelle à son royaume et à sa gloire."
+    },
+    {
+     "v": 13,
+     "t": "C’est pourquoi nous aussi, nous ne cessons de rendre grâces à Dieu, de ce qu’ayant reçu la divine parole que nous avons fait entendre, vous l’avez reçue, non comme parole des hommes, mais, ainsi qu’elle l’est véritablement, comme une parole de Dieu. C’est elle qui déploie sa puissance en vous qui croyez.",
+     "n": [
+      "13. Qui croyez, Vulgate, qui avez cru."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Car vous, frères, vous êtes devenus les imitateurs des Églises de Dieu qui se réunissent en Jésus-Christ dans la Judée, puisque vous avez souffert vous aussi de la part de vos compatriotes, ce qu’elles ont eu à souffrir de la part des Juifs, —"
+    },
+    {
+     "v": 15,
+     "t": "de ces Juifs qui ont mis à mort le Seigneur Jésus et les prophètes, nous ont persécutés, ne plaisent point à Dieu et sont ennemis du genre humain,"
+    },
+    {
+     "v": 16,
+     "t": "nous empêchant de prêcher aux nations pour leur salut : de sorte qu’ils comblent sans cesse la mesure de leurs péchés. Mais la colère de Dieu est tombée sur eux pour y demeurer jusqu’à la fin.",
+     "n": [
+      "16. S. Paul voit dans un avenir prochain la ruine de Jérusalem et de la nation juive. Comp. Matth. xxiii, 37-39 ; xxiv, 6, 16."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Pour nous, frères, un instant tristement séparés de vous, de corps, non de cœur, nous avions grande hâte et un vif désir de vous revoir."
+    },
+    {
+     "v": 18,
+     "t": "Aussi voulions-nous vous aller trouver, en particulier, moi, Paul, une première et une seconde fois ; mais Satan nous en a empêchés."
+    },
+    {
+     "v": 19,
+     "t": "Quelle est, en effet, notre espérance, notre joie, notre couronne de gloire ? N’est-ce pas vous qui l’êtes, devant notre Seigneur Jésus, pour le jour de son avènement ?"
+    },
+    {
+     "v": 20,
+     "t": "Oui, c’est vous qui êtes notre gloire et notre joie."
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Aussi, n’y tenant plus, nous avons préféré rester seul à Athènes,"
+    },
+    {
+     "v": 2,
+     "t": "et nous vous avons envoyé Timothée, notre frère et ministre de Dieu dans la prédication de l’Évangile du Christ, pour vous affermir et vous encourager dans votre foi,",
+     "n": [
+      "III, 2. Après le départ de Paul pour Athènes, Silas et Timothée étaient restés à Bérée ( Act. xvii, 14 sv. ). De là Paul envoya ce dernier à Thessalonique. — Ministre, ou d’après une autre leçon, collaborateur de Dieu (Comp. I Cor. iii, 9 ). Quelques manuscrits joignent les deux titres : ministre de Dieu et mon collaborateur."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "afin que personne ne fût ébranlé au milieu de ces tribulations qui, vous le savez vous-mêmes, sont notre partage."
+    },
+    {
+     "v": 4,
+     "t": "Déjà, lorsque nous étions auprès de vous, nous vous prédisions que nous serions en butte aux tribulations, ce qui est arrivé comme vous le savez."
+    },
+    {
+     "v": 5,
+     "t": "C’est pour cela que, moi aussi, n’y tenant plus, j’envoyai m’informer de votre foi, dans la crainte que le tentateur vous eût tentés et que notre travail ne devînt inutile."
+    },
+    {
+     "v": 6,
+     "t": "Mais maintenant que Timothée, venant d’arriver ici de chez vous, nous a dit votre foi et votre charité, et le bon souvenir que vous gardez toujours de nous et qui vous porte à désirer nous revoir, (comme nous aussi nous le désirons à votre égard),"
+    },
+    {
+     "v": 7,
+     "t": "alors, frères, au milieu de toutes nos angoisses et de nos tribulations, nous avons été consolés en vous, à cause de votre foi."
+    },
+    {
+     "v": 8,
+     "t": "Car maintenant nous vivons, puisque vous demeurez fermes dans le Seigneur."
+    },
+    {
+     "v": 9,
+     "t": "Aussi, quelles actions de grâces pouvons-nous rendre à Dieu pour vous, dans la joie parfaite que nous éprouvons à cause de vous devant notre Dieu !"
+    },
+    {
+     "v": 10,
+     "t": "Nuit et jour nous le prions avec une ardeur extrême de nous donner de vous voir, et de compléter ce qui manque encore à votre foi."
+    },
+    {
+     "v": 11,
+     "t": "Puisse Dieu lui-même, notre Père, et notre Seigneur Jésus-(Christ) aplanir notre route vers vous !"
+    },
+    {
+     "v": 12,
+     "t": "Et vous, puisse le Seigneur faire croître et abonder votre charité les uns envers les autres et envers tous les hommes, telle qu’est la nôtre envers vous.",
+     "n": [
+      "12. Croître et abonder votre charité. Ou bien, avec la Vulgate, vous fasse croître en nombre, et abonder, etc."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Qu’il affermisse vos cœurs, qu’il les rende irréprochables en sainteté devant notre Dieu et Père, au jour où notre Seigneur Jésus viendra avec tous ses saints ! Amen."
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Au reste, frères, nous vous en prions et supplions par le Seigneur Jésus ; vous avez appris de nous comment il faut se conduire pour plaire à Dieu, (et ainsi vous le faites) ; marchez donc de progrès en progrès.",
+     "h": "DEUXIÈME PARTIE [MORALE]."
+    },
+    {
+     "v": 2,
+     "t": "Vous connaissez en effet les préceptes que nous vous avons donnés de la part du Seigneur Jésus."
+    },
+    {
+     "v": 3,
+     "t": "Car ce que Dieu veut, c’est votre sanctification : c’est que vous évitiez l’impudicité,",
+     "n": [
+      "IV, 3. Sanctification paraît avoir ici le sens restreint de pureté, chasteté. Comp. II Cor. vi, 6 ; Hébr. xii, 14."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "et que chacun de vous sache garder son corps dans la sainteté et l’honnêteté,"
+    },
+    {
+     "v": 5,
+     "t": "sans l’abandonner aux emportements de la passion, comme font les païens qui ne connaissent pas Dieu ;"
+    },
+    {
+     "v": 6,
+     "t": "c’est que personne en cette matière n’use de violence ou de fraude à l’égard de son frère, parce que le Seigneur fait justice de tous ces désordres, comme nous vous l’avons déjà dit et attesté."
+    },
+    {
+     "v": 7,
+     "t": "Car Dieu ne nous a pas appelés à l’impureté, mais à la sainteté."
+    },
+    {
+     "v": 8,
+     "t": "Celui donc qui méprise ces préceptes, ce n’est pas un homme qu’il méprise, mais Dieu, qui a aussi donné son Esprit-Saint pour habiter en vous.",
+     "n": [
+      "8. Vulgate, qui nous a, qui m’a aussi donné son Saint-Esprit."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Pour ce qui est de la charité fraternelle, il n’est pas besoin de vous en écrire ; car vous-mêmes avez appris de Dieu à vous aimer les uns les autres ;"
+    },
+    {
+     "v": 10,
+     "t": "aussi bien le pratiquez-vous envers tous les frères par toute la Macédoine. Mais nous vous exhortons, frères, à le pratiquer toujours mieux."
+    },
+    {
+     "v": 11,
+     "t": "Appliquez-vous à vivre en repos, à vous occuper de vos propres affaires et à travailler de vos mains, comme nous vous l’avons recommandé,"
+    },
+    {
+     "v": 12,
+     "t": "de telle sorte que vous teniez une conduite honnête aux yeux de ceux du dehors, sans avoir besoin de personne."
+    },
+    {
+     "v": 13,
+     "t": "Mais nous ne voulons pas, frères, que vous soyez dans l’ignorance au sujet de ceux qui se sont endormis, afin que vous ne vous affligiez pas, comme les autres hommes qui n’ont pas d’espérance."
+    },
+    {
+     "v": 14,
+     "t": "Car si nous croyons que Jésus est mort et qu’il est ressuscité, croyons aussi que Dieu amènera avec Jésus ceux qui se sont endormis en lui."
+    },
+    {
+     "v": 15,
+     "t": "Voici, en effet, ce que nous vous déclarons d’après la parole du Seigneur : Nous, les vivants, laissés pour l’avènement du Seigneur, nous ne devancerons pas ceux qui se sont endormis.",
+     "n": [
+      "15. D’après la parole du Seigneur, d’après une révélation immédiate de Jésus à l’Apôtre (comp. I Cor. xv, 51 ; II Cor. xii, 1 ; Gal. i, 12 ). — Nous ne devancerons pas, etc., en entrant avant eux et sans eux dans le royaume glorieux de J.-C."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Car, au signal donné, à la voix de l’archange, au son de la trompette divine, le Seigneur lui-même descendra du ciel, et ceux qui sont morts dans le Christ ressusciteront d’abord.",
+     "n": [
+      "16-17. Au son de la trompette. Allusion aux réunions du peuple de Dieu convoqué au temple au son de la trompette : ici le sens est : à un signal éclatant. — D’abord : ce sera le premier acte du grand drame : le second est décrit au vers. 17 ; Ensuite, etc."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Puis nous, qui vivons, qui sommes restés, nous serons emportés avec eux sur les nuées à la rencontre du Seigneur dans les airs, et ainsi nous serons pour toujours avec le Seigneur."
+    },
+    {
+     "v": 18,
+     "t": "Consolez-vous donc les uns les autres par ces paroles."
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Quant aux temps et aux moments il n’est pas besoin, frères, de vous en écrire."
+    },
+    {
+     "v": 2,
+     "t": "Car vous savez très bien vous-mêmes que le jour du Seigneur vient ainsi qu’un voleur pendant la nuit."
+    },
+    {
+     "v": 3,
+     "t": "Quand les hommes diront : « Paix et sûreté ! » c’est alors qu’une ruine soudaine fondra sur eux comme la douleur sur la femme qui doit enfanter, et ils n’y échapperont point."
+    },
+    {
+     "v": 4,
+     "t": "Mais vous, frères, vous n’êtes pas dans les ténèbres, pour que ce jour vous surprenne comme un voleur."
+    },
+    {
+     "v": 5,
+     "t": "Oui, vous êtes tous enfants de lumière et enfants du jour ; nous ne sommes pas de la nuit, ni des ténèbres.",
+     "n": [
+      "V, 5. Nous, chrétiens, nous n’appartenons pas à la nuit, etc. Comp. Matth. xxv, 1 sv."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Ne dormons donc point comme le reste des hommes ; mais veillons et soyons sobres."
+    },
+    {
+     "v": 7,
+     "t": "Car ceux qui dorment, dorment la nuit, et ceux qui s’enivrent, s’enivrent la nuit."
+    },
+    {
+     "v": 8,
+     "t": "Pour nous qui sommes du jour, soyons sobres, prenant pour cuirasse la foi et la charité, et pour casque l’espérance du salut."
+    },
+    {
+     "v": 9,
+     "t": "Dieu en effet ne nous a pas destinés à la colère, mais à l’acquisition du salut par notre Seigneur Jésus-Christ,"
+    },
+    {
+     "v": 10,
+     "t": "qui est mort pour nous, afin que, soit que nous veillions, soit que nous dormions, nous vivions avec lui.",
+     "n": [
+      "10. Veillions… dormions (non plus dans le sens moral, comme vers. 6) : images de la vie et de la mort. Sens : soit que nous soyons encore en vie, soit que la mort nous ait déjà frappés, le jour où Jésus reviendra."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "C’est pourquoi consolez-vous mutuellement et édifiez-vous les uns les autres, comme déjà vous le faites."
+    },
+    {
+     "v": 12,
+     "t": "Nous vous prions aussi, frères, d’avoir de la considération pour ceux qui travaillent parmi vous, qui vous gouvernent dans le Seigneur et qui vous donnent des avis."
+    },
+    {
+     "v": 13,
+     "t": "Ayez pour eux une charité plus abondante, à cause de leur œuvre. Vivez en paix entre vous.",
+     "n": [
+      "13. Entre vous. Vulg., avec eux."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Nous vous en prions, frères, reprenez ceux qui troublent l’ordre, consolez les pusillanimes, soutenez les faibles, usez de patience envers tous."
+    },
+    {
+     "v": 15,
+     "t": "Prenez garde à ce que nul ne rende à un autre le mal pour le mal ; mais toujours cherchez ce qui est bien, les uns pour les autres et pour tous."
+    },
+    {
+     "v": 16,
+     "t": "Soyez toujours joyeux."
+    },
+    {
+     "v": 17,
+     "t": "Priez sans cesse."
+    },
+    {
+     "v": 18,
+     "t": "En toutes choses rendez grâces : car c’est la volonté de Dieu dans le Christ Jésus à l’égard de vous tous."
+    },
+    {
+     "v": 19,
+     "t": "N’éteignez pas l’Esprit.",
+     "n": [
+      "19. N’éteignez pas l’Esprit-Saint, n’empêchez pas ses manifestations extérieures (dons de langue, de prophétie, etc.)."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Ne méprisez pas les prophéties ;"
+    },
+    {
+     "v": 21,
+     "t": "mais éprouvez tout, et retenez ce qui est bon ;"
+    },
+    {
+     "v": 22,
+     "t": "abstenez-vous de toute apparence de mal."
+    },
+    {
+     "v": 23,
+     "t": "Que le Dieu de paix lui-même vous sanctifie tout entiers, et que tout ce qui est en vous, l’esprit, l’âme et le corps, se conserve sans reproche jusqu’au jour de l’avènement de notre Seigneur Jésus-Christ !",
+     "h": "ÉPILOGUE.",
+     "n": [
+      "23. Tout entiers, Vulg., en tout. L’esprit (le πνεῦμα ), c’est la partie supérieure de l’âme, siège de la raison et de la liberté, et aussi de la vie divine et de la grâce ; l’âme (la ψυχὴ, c’est la partie inférieure, principe de la vie physique, siège des phénomènes sensibles."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Celui qui vous appelle est fidèle, et c’est lui qui fera encore cela."
+    },
+    {
+     "v": 25,
+     "t": "Frères, priez pour nous."
+    },
+    {
+     "v": 26,
+     "t": "Saluez tous les frères par un saint baiser."
+    },
+    {
+     "v": 27,
+     "t": "Je vous en conjure par le Seigneur, que cette lettre soit lue à tous les [saints] frères."
+    },
+    {
+     "v": 28,
+     "t": "Que la grâce de notre Seigneur Jésus-Christ soit avec vous !",
+     "n": [
+      "28. Quelques manuscrits et la Vulg. ajoutent, amen."
+     ]
+    }
+   ]
+  }
+ ]
+}

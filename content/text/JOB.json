@@ -1,0 +1,5053 @@
+{
+ "code": "JOB",
+ "name": "Job",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Il y avait dans le pays de Hus un homme nommé Job ; cet homme était intègre, droit, craignant Dieu et éloigné du mal.",
+     "h": "PROLOGUE EN PROSE. [I, 1 — II, 13.]",
+     "n": [
+      "I, 1. Hus. On ne connaît pas avec précision la situation de ce pays, qui se trouvait dans le grand désert qui longe la Palestine du Nord au Sud, peut-être vers l’Idumée."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Il lui naquit sept fils et trois filles."
+    },
+    {
+     "v": 3,
+     "t": "Il possédait sept mille brebis, trois mille chameaux, cinq cents paires de bœufs, cinq cent ânesses et un très grand nombre de serviteurs ; et cet homme était le plus grand de tous les fils de l’Orient.",
+     "n": [
+      "3. Et un très grand nombre de serviteurs. LXX ajoutent : et il avait de grandes œuvres (?) sur la terre. — Fils de l’Orient, habitants du grand désert syro-arabique."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Ses fils avaient coutume d’aller les uns chez les autres et de se donner un festin, chacun à leur tour, et ils envoyaient inviter leurs trois sœurs à venir manger et boire avec eux."
+    },
+    {
+     "v": 5,
+     "t": "Et, quand le cercle des festins était fini, Job envoyait chercher ses fils et les purifiait ; puis il se levait de bon matin et offrait un holocauste pour chacun d’eux, car il se disait : « Peut-être mes fils ont-ils péché et offensé Dieu dans leur cœur !… » Et Job faisait ainsi chaque fois.",
+     "n": [
+      "5. Les purifiait (litt. les sanctifiait ), par les ablutions ordinaires, préparatoires au sacrifice. Job, comme chef de famille, remplissait les fonctions sacerdotales. — Offensé Dieu, litt béni. De l’idée de bénir est venu le sens dérivé valedicere, dire adieu, laisser là, renvoyer, renier. — Un holocauste pour chacun d’eux, m. à m. des holocaustes selon leur nombre. Les LXX ajoutent : et un veau pour le péché, pour leurs âmes."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Il arriva un jour que, les fils de Dieu étant venus se présenter devant Yahweh, Satan vint aussi au milieu d’eux.",
+     "n": [
+      "6. Devant, litt. au-dessus : les anges sont conçus comme des serviteurs qui se tiennent debout devant leur maître étendu sur un divan. — Satan, litt. l’Adversaire."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Et Yahweh dit à Satan : « D’où viens-tu ? » Satan répondit à Yahweh et dit : « De parcourir le monde et de m’y promener. »"
+    },
+    {
+     "v": 8,
+     "t": "Yahweh dit à Satan : « As-tu remarqué mon serviteur Job ? Il n’y a pas d’homme comme lui sur la terre, intègre, droit, craignant Dieu et éloigné du mal. »"
+    },
+    {
+     "v": 9,
+     "t": "Satan répondit à Yahweh : « Est-ce gratuitement que Job craint Dieu ?"
+    },
+    {
+     "v": 10,
+     "t": "Ne l’as-tu pas entouré comme d’une clôture, lui, sa maison et tout ce qui lui appartient ? Tu as béni l’œuvre de ses mains, et ses troupeaux couvrent le pays."
+    },
+    {
+     "v": 11,
+     "t": "Mais étends la main, touche à tout ce qui lui appartient, et on verra s’il ne te maudit pas en face ! »"
+    },
+    {
+     "v": 12,
+     "t": "Yahweh dit à Satan : « Voici, tout ce qui lui appartient est en ton pouvoir ; seulement ne porte pas la main sur lui. » Et Satan se retira de devant la face de Yahweh."
+    },
+    {
+     "v": 13,
+     "t": "Or un jour que ses fils et ses filles mangeaient et buvaient du vin dans la maison de leur frère aîné,"
+    },
+    {
+     "v": 14,
+     "t": "un messager vint dire à Job : « Les bœufs étaient à labourer et les ânesses paissaient autour d’eux ;"
+    },
+    {
+     "v": 15,
+     "t": "tout à coup les Sabéens sont survenus et les ont enlevés. Ils ont passé les serviteurs au fil de l’épée, et je me suis échappé seul pour te l’annoncer. »"
+    },
+    {
+     "v": 16,
+     "t": "Il parlait encore, lorsqu’un autre arriva et dit : « Le feu de Dieu est tombé du ciel ; il a embrasé les brebis et les serviteurs et les a dévorés, et je me suis échappé seul pour te l’annoncer. »"
+    },
+    {
+     "v": 17,
+     "t": "Il parlait encore, lorsqu’un autre arriva et dit : « Les Chaldéens, partagés en trois bandes, se sont jetés sur les chameaux et les ont enlevés. Ils ont passé les serviteurs au fil de l’épée, et je me suis échappé seul pour te l’annoncer."
+    },
+    {
+     "v": 18,
+     "t": "Il parlait encore, lorsqu’un autre arriva et dit : « Tes fils et tes filles mangeaient et buvaient du vin chez leur frère aîné,"
+    },
+    {
+     "v": 19,
+     "t": "et voilà qu’un grand vent s’est élevé de l’autre côté du désert et a saisi les quatre coins de la maison ; elle s’est écroulée sur les jeunes gens, et ils sont morts, et je me suis échappé seul pour te l’annoncer. »"
+    },
+    {
+     "v": 20,
+     "t": "Alors Job se leva, il déchira son manteau et se rasa la tête ; puis, se jetant par terre, il adora"
+    },
+    {
+     "v": 21,
+     "t": "et dit : « Nu je suis sorti du sein de ma mère, et nu j’y retournerai. Yahweh a donné, Yahweh a ôté ; que le nom de Yahweh soit béni ! »",
+     "n": [
+      "21. À été ; la Vulg. ajoute, comme il a plu au Seigneur, ainsi il est arrivé ; ces mots se trouvent dans plusieurs manuscrits des LXX."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "En tout cela, Job ne pécha point et ne dit rien d’insensé contre Dieu.",
+     "n": [
+      "22. Ne pécha point : la Vulg. ajoute, par ses lèvres (comp. ii, 10)."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Il arriva un jour que, les fils de Dieu étant venus se présenter devant Yahweh, Satan vint aussi au milieu d’eux se présenter devant Yahweh."
+    },
+    {
+     "v": 2,
+     "t": "Et Yahweh dit à Satan : « D’où viens-tu ? » Satan répondit à Yahweh et dit : « De parcourir le monde et de m’y promener. »"
+    },
+    {
+     "v": 3,
+     "t": "Yahweh dit à Satan : « As-tu remarqué mon serviteur Job ? Il n’y a pas d’homme comme lui sur la terre, intègre, droit, craignant Dieu et éloigné du mal. Il persévère toujours dans son intégrité, quoique tu m’aies provoqué à le perdre sans raison. »"
+    },
+    {
+     "v": 4,
+     "t": "Satan répondit à Yahweh et dit : « Peau pour peau ! L’homme donne ce qu’il possède pour conserver sa vie.",
+     "n": [
+      "II, 4. Peau pour peau, proverbe dont le sens est indiqué par le contexte : Pourvu qu’il conserve la vie, l’homme supporte sans trop de peine la perte de tous les autres biens."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Mais étends ta main, touche ses os et sa chair, et on verra s’il ne te maudit pas en face. »"
+    },
+    {
+     "v": 6,
+     "t": "Yahweh dit à Satan : « Voici que je le livre entre tes mains ; seulement épargne sa vie ! »"
+    },
+    {
+     "v": 7,
+     "t": "Et Satan se retira de devant la face de Yahweh. Et il frappa Job d’une lèpre maligne depuis la plante des pieds jusqu’au sommet de la tête.",
+     "n": [
+      "7. Lèpre maligne, à laquelle on a donné le nom d’ éléphantiasis. Au lieu de lèpre, il y a dans la Vulg., ulcère ou pustule : c’est le sens propre de l’hébreu, et la maladie commence en effet par l’éruption de pustules."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Et Job prit un tesson pour gratter ses plaies et il s’assit sur la cendre.",
+     "n": [
+      "8. Sur la cendre. LXX, sur le fumier hors de la ville ; Vulg., sur le fumier. « À l’entrée de tous les villages du Hauran, il y a un endroit où l’on dépose les immondices enlevées des étables… On les brûle de temps en temps, et les cendres restent là entassées et s’y accumulent pendant des siècles, formant un monceau d’une hauteur considérable qu’on appelle mezbélé … Le malheureux qui, frappé d’une maladie repoussante, n’est plus supporté dans l’intérieur du village, s’y retire pour demander l’aumône aux passants et se coucher, la nuit, dans les cendres échauffées par le soleil. » Wetzstein. On a donc pu dire indifféremment que Job était assis sur la cendre ou sur le fumier."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Et sa femme lui dit : « Tu persévère encore dans ton intégrité ! Maudis Dieu et meurs ! »",
+     "n": [
+      "9. Maudis, ou renie, laisse là. Pour ce vers., les LXX portent : Au bout de beaucoup de temps, sa femme lui dit : « Jusques à quand patienteras-tu en disant : Voici que je persévère encore un peu de temps, attendant l’espoir de mon salut ? Voici que ton souvenir est effacé de la terre, savoir, tes fils et tes filles, douleurs et labeurs de mon sein, pour lesquels j’ai en vain souffert et peiné. Pour toi, te voilà assis dans la pourriture des vers, passant la nuit dehors ; et moi j’erre, à la façon d’une servante, de lieu en lieu, de maison en maison, attendant que le soleil se couche, afin que je me repose des chagrins et des douleurs qui m’accablent. Dis une parole contre le Seigneur et meurs. »"
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Il lui dit : « Tu parles comme une femme insensée. Nous recevons de Dieu le bien, et nous n’en recevrions pas aussi le mal ? » En tout cela, Job ne pécha point par ses lèvres."
+    },
+    {
+     "v": 11,
+     "t": "Trois amis de Job, Eliphaz de Théman, Baldad de Suhé, et Sophar de Naama, apprirent tous les malheurs qui étaient venus sur lui ; ils partirent chacun de leur pays et se concertèrent pour venir le plaindre et le consoler.",
+     "n": [
+      "11. Eliphaz, etc., personnages et pays iduméens."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Ayant de loin levé les yeux, ils ne le reconnurent pas, et ils élevèrent la voix et pleurèrent ; ils déchirèrent chacun leur manteau, et jetèrent de la poussière vers le ciel au-dessus de leurs têtes."
+    },
+    {
+     "v": 13,
+     "t": "Et ils se tinrent assis à terre auprès de lui sept jours et sept nuits, sans qu’aucun d’eux lui dit une parole, parce qu’ils voyaient combien sa douleur était excessive. POÈME"
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job ouvrit la bouche et maudit le jour de sa naissance.",
+     "h": "PREMIÈRE PARTIE. [III, 1 — XXXI, 40.] DISCUSSION DE JOB ET DE SES TROIS AMIS. — I. — PREMIER CYCLE DE DISCOURS. [III, 1 — XIV, 22.]"
+    },
+    {
+     "v": 2,
+     "t": "Job prit la parole et dit :"
+    },
+    {
+     "v": 3,
+     "t": "Périsse le jour où je suis né, et la nuit qui a dit : « Un homme est conçu ! »"
+    },
+    {
+     "v": 4,
+     "t": "Ce jour, qu’il se change en ténèbres, que Dieu d’en haut n’en ait pas souci, que la lumière ne brille pas sur lui !",
+     "n": [
+      "III, 4. Dieu. Dans le poème, on emploie souvent la forme rare du sing. ( Eloah ), au lieu de la forme usuelle du pluriel ( Elohîm )."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Que les ténèbres et l’ombre de la mort le revendiquent, qu’un nuage épais le couvre, que l’éclipse de sa lumière jette l’épouvante !",
+     "n": [
+      "5. L’ombre de la mort, une obscurité profonde, telle que celle du schéol ( Gen. xxxvii, 35 ), séjour des morts. — Que l’éclipse, etc. LXX et Vulg. (lisant ki meriré en deux mots), qu’il soit enveloppé d’amertume."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Cette nuit, que les ténèbres en fassent leur proie, qu’elle ne compte pas dans les jours de l’année, qu’elle n’entre pas dans la supputation des mois !"
+    },
+    {
+     "v": 7,
+     "t": "Que cette nuit soit un désert stérile, qu’on n’y entende pas de cri d’allégresse !"
+    },
+    {
+     "v": 8,
+     "t": "Que ceux-là la maudissent, qui maudissent les jours, qui savent évoquer Léviathan !",
+     "n": [
+      "8. Qui maudissent les jours : magiciens ou enchanteurs auxquels la croyance populaire supposait le pouvoir de rendre certains jours néfastes. — Léviathan : Ici, le Dragon céleste (constellation), toujours prêt, selon les mythologies orientales, à s’élancer pour dévorer le soleil et la lune, ce qui amenait des éclipses."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Que les étoiles de son crépuscule s’obscurcissent, qu’elle attende la lumière, sans qu’elle vienne, et qu’elle ne voie point les paupières de l’aurore,",
+     "n": [
+      "9. Les paupières (Vulg., le lever ) de l’aurore, ses premiers rayons."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "parce qu’elle ne m’a pas fermé les portes du sein, et n’a pas dérobé la souffrance à mes regards !"
+    },
+    {
+     "v": 11,
+     "t": "Que ne suis-je mort dès le ventre de ma mère, au sortir de ses entrailles que n’ai-je expiré !"
+    },
+    {
+     "v": 12,
+     "t": "Pourquoi ai-je trouvé deux genoux pour me recevoir, et pourquoi deux mamelles à sucer ?"
+    },
+    {
+     "v": 13,
+     "t": "Maintenant je serais couché et en paix, je dormirais et je me reposerais"
+    },
+    {
+     "v": 14,
+     "t": "avec les rois et les grands de la terre, qui se sont bâti des mausolées ;",
+     "n": [
+      "14. Des mausolées, hébr. charaboth, Vulg. des solitudes : il s’agit probablement des monuments taillés dans le roc pour la sépulture des grands personnages, en Égypte ou en Arabie."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "avec les princes qui avaient de l’or, et remplissaient d’argent leur demeures."
+    },
+    {
+     "v": 16,
+     "t": "Ou bien, comme l’avorton ignoré, je n’existerais pas, comme ces enfants qui n’ont pas vu la lumière."
+    },
+    {
+     "v": 17,
+     "t": "Là les méchants n’exercent plus leurs violences, là se repose l’homme épuisé de forces ;"
+    },
+    {
+     "v": 18,
+     "t": "les captifs y sont tous en paix, ils n’entendent plus la voix de l’exacteur."
+    },
+    {
+     "v": 19,
+     "t": "Là se trouvent le petit et le grand, l’esclave affranchi de son maître."
+    },
+    {
+     "v": 20,
+     "t": "Pourquoi donner la lumière aux malheureux, et la vie à ceux dont l’âme est remplie d’amertume,"
+    },
+    {
+     "v": 21,
+     "t": "qui espèrent la mort, et la mort ne vient pas, qui la cherchent plus ardemment que les trésors,"
+    },
+    {
+     "v": 22,
+     "t": "qui sont heureux, qui tressaillent d’aise et se réjouissent quand ils ont trouvé le tombeau ;"
+    },
+    {
+     "v": 23,
+     "t": "à l’homme dont la route est cachée et que Dieu enferme de toutes parts ?"
+    },
+    {
+     "v": 24,
+     "t": "Mes soupirs sont comme mon pain et mes gémissements se répandent comme l’eau.",
+     "n": [
+      "24. Sont comme mon pain, font ma nourriture. Vulg., avant de manger, je soupire."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Ce que je crains, c’est ce qui m’arrive ; ce que je redoute fond sur moi."
+    },
+    {
+     "v": 26,
+     "t": "Plus de tranquillité, plus de paix, plus de repos, et le trouble m’a saisi.",
+     "n": [
+      "26. Vulg. N’ai-je point gardé la réserve, le silence, le calme ? Et cependant l’indignation (de Dieu) ? est venue sur moi."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Éliphaz de Théman prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Si nous risquons un mot, peut-être en seras-tu affligé ; mais qui pourrait retenir ses paroles ?"
+    },
+    {
+     "v": 3,
+     "t": "Voilà que tu en as instruit plusieurs, que tu as fortifié les mains débiles,"
+    },
+    {
+     "v": 4,
+     "t": "que tes paroles ont relevé ceux qui chancelaient, que tu as raffermi les genoux vacillants !…"
+    },
+    {
+     "v": 5,
+     "t": "Et maintenant que le malheur vient à toi, tu faiblis ; maintenant qu’il t’atteint, tu perds courage !…"
+    },
+    {
+     "v": 6,
+     "t": "Ta crainte de Dieu n’était-elle pas ton espoir ? Ta confiance n’était-elle pas dans la pureté de ta vie ?"
+    },
+    {
+     "v": 7,
+     "t": "Cherche dans ton souvenir : quel est l’innocent qui a péri ? En quel lieu du monde les justes ont-ils été exterminés ?"
+    },
+    {
+     "v": 8,
+     "t": "Pour moi, je l’ai vu, ceux qui labourent l’iniquité et qui sèment l’injustice, en moissonnent les fruits."
+    },
+    {
+     "v": 9,
+     "t": "Au souffle de Dieu ils périssent, ils sont consumés par le vent de sa colère."
+    },
+    {
+     "v": 10,
+     "t": "Le rugissement du lion et sa voix tonnante sont étouffés, et les dents du jeune lion sont brisées ;",
+     "n": [
+      "IV, 10. sv. Sa voix tonnante, litt. la voix du lion (hebr. schachal, le rugissant) ; Vulg., de la lionne. — Le lion adulte, hébr. laisch ; Vulg., le tigre. — Figures des méchants que Dieu finit par exterminer."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "le lion périt faute de proie, et les petits de la lionne se dispersent."
+    },
+    {
+     "v": 12,
+     "t": "Une parole est arrivée furtivement jusqu’à moi, et mon oreille en a saisi le léger murmure."
+    },
+    {
+     "v": 13,
+     "t": "Dans le vague des visions de la nuit, à l’heure où un sommeil profond pèse sur les mortels,"
+    },
+    {
+     "v": 14,
+     "t": "une frayeur et un tremblement me saisirent, et agitèrent tous mes os."
+    },
+    {
+     "v": 15,
+     "t": "Un esprit passait devant moi… Les poils de ma chair se hérissèrent."
+    },
+    {
+     "v": 16,
+     "t": "Il se dressa, — je ne reconnus pas son visage, — comme un spectre sous mes yeux. Un grand silence, puis j’entendis une voix :"
+    },
+    {
+     "v": 17,
+     "t": "L’homme sera-t-il juste vis-à-vis de Dieu ? Un mortel sera-t-il pur en face de son Créateur ?"
+    },
+    {
+     "v": 18,
+     "t": "Voici qu’il ne se fie pas à ses serviteurs, et qu’il découvre des fautes dans ses anges :"
+    },
+    {
+     "v": 19,
+     "t": "combien plus en ceux qui habitent des maisons de boue, qui ont leurs fondements dans la poussière, qui seront réduits en poudre, comme par la teigne !"
+    },
+    {
+     "v": 20,
+     "t": "Du matin au soir ils sont exterminés, et sans que nul y prenne garde, ils périssent pour jamais."
+    },
+    {
+     "v": 21,
+     "t": "La corde de leur tente est coupée, ils meurent avant d’avoir connu la sagesse.",
+     "n": [
+      "21. La corde de leur tente, le fil de leurs jours : le corps est comparé à une tente ( II Pier. i, 14 ), l’âme à la corde qui soutient la tente."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 5,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Appelle donc ! Y aura-t-il quelqu’un qui te réponde ? Vers lequel des saints te tourneras-tu ?"
+    },
+    {
+     "v": 2,
+     "t": "La colère tue l’insensé, et l’emportement fait mourir le fou."
+    },
+    {
+     "v": 3,
+     "t": "J’ai vu l’insensé étendre ses racines, et soudain j’ai maudit sa demeure.",
+     "n": [
+      "V, 3. Sa demeure, Vulg. sa beauté. Les LXX traduisent : mais aussitôt leur habitation a été dévorée."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Plus de salut pour ses fils ; on les écrase à la porte, et personne ne les défend."
+    },
+    {
+     "v": 5,
+     "t": "L’homme affamé dévore sa moisson, il franchit la haie d’épines et l’emporte ; l’homme altéré engloutit ses richesses.",
+     "n": [
+      "5. L’homme altéré, ou bien le voleur, engloutit, etc. D’autres, la destruction convoite, litt., ouvre la bouche pour engloutir. Le Hir, d’un coup de filet ; il (l’homme affamé) absorbe ses richesses. Texte douteux."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Car le malheur ne sort pas de la poussière, et la souffrance ne germe pas du sol,",
+     "n": [
+      "6. Car le malheur, etc. Vulg., rien ici-bas n’arrive sans cause."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "de telle sorte que l’homme naisse pour la peine, comme les fils de la foudre pour élever leur vol."
+    },
+    {
+     "v": 8,
+     "t": "À ta place, je me tournerais vers Dieu, c’est vers lui que je dirigerais ma prière."
+    },
+    {
+     "v": 9,
+     "t": "Il fait des choses grandes, qu’on ne peut sonder ; des prodiges qu’on ne saurait compter."
+    },
+    {
+     "v": 10,
+     "t": "Il verse la pluie sur la terre, il envoie les eaux sur les campagnes,"
+    },
+    {
+     "v": 11,
+     "t": "il exalte ceux qui sont abaissés, et les affligés retrouvent le bonheur."
+    },
+    {
+     "v": 12,
+     "t": "Il déjoue les projets des perfides, et leurs mains ne peuvent réaliser leurs complots."
+    },
+    {
+     "v": 13,
+     "t": "Il prend les habiles dans leur propre ruse, et renverse les conseils des hommes astucieux."
+    },
+    {
+     "v": 14,
+     "t": "Durant le jour, ils rencontrent les ténèbres ; en plein midi, ils tâtonnent comme dans la nuit."
+    },
+    {
+     "v": 15,
+     "t": "Dieu sauve le faible du glaive de leur langue, et de la main du puissant."
+    },
+    {
+     "v": 16,
+     "t": "Alors l’espérance revient au malheureux ; et l’iniquité ferme la bouche."
+    },
+    {
+     "v": 17,
+     "t": "Heureux l’homme que Dieu châtie ! Ne méprise donc pas la correction du Tout-Puissant."
+    },
+    {
+     "v": 18,
+     "t": "Car il fait la blessure, et il la bande ; il frappe, et sa main guérit."
+    },
+    {
+     "v": 19,
+     "t": "Six fois il te délivrera de l’angoisse, et, à la septième, le mal ne t’atteindra pas."
+    },
+    {
+     "v": 20,
+     "t": "Dans la famine, il te sauvera de la mort ; dans le combat, des coups de l’épée."
+    },
+    {
+     "v": 21,
+     "t": "Tu seras à l’abri du fouet de la langue, tu seras sans crainte quand viendra la dévastation."
+    },
+    {
+     "v": 22,
+     "t": "Tu te riras de la dévastation et de la famine, tu ne redouteras pas les bêtes de la terre."
+    },
+    {
+     "v": 23,
+     "t": "Car tu auras une alliance avec les pierres des champs, et les bêtes de la terre seront en paix avec toi."
+    },
+    {
+     "v": 24,
+     "t": "Tu verras le bonheur régner sous ta tente ; tu visiteras tes pâturages, et rien n’y manquera."
+    },
+    {
+     "v": 25,
+     "t": "Tu verras ta postérité s’accroître, et tes rejetons se multiplier comme l’herbe des champs."
+    },
+    {
+     "v": 26,
+     "t": "Tu entreras mûr dans le tombeau, comme une gerbe qu’on enlève en son temps."
+    },
+    {
+     "v": 27,
+     "t": "Voilà ce que nous avons observé : c’est la vérité ! Écoute-le, et fais-en ton profit."
+    }
+   ]
+  },
+  {
+   "c": 6,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Oh ! S’il était possible de peser mon affliction, et de mettre toutes ensemble mes calamités dans la balance !…"
+    },
+    {
+     "v": 3,
+     "t": "Elles seraient plus pesantes que le sable de la mer : voilà pourquoi mes paroles vont jusqu’à la folie."
+    },
+    {
+     "v": 4,
+     "t": "Car les flèches du Tout-Puissant me transpercent, et mon âme en boit le venin ; les terreurs de Dieu sont rangées en bataille contre moi.",
+     "n": [
+      "VI, 4. Me transpercent, m. à m. sont avec moi."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Est-ce que l’onagre rugit auprès de l’herbe tendre ? Est-ce que le bœuf mugit devant sa pâture ?"
+    },
+    {
+     "v": 6,
+     "t": "Comment se nourrir d’un mets fade et sans sel, ou bien trouver du goût au jus d’une herbe insipide ?",
+     "n": [
+      "6. Ce mets fade, c’est la vie misérable de Job. — Au jus d’une herbe insipide ; les Hébreux traduisent, au blanc de l’œuf. Vulg., à un aliment qui donne la mort."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Ce que mon âme se refuse à toucher, c’est là mon pain, tout couvert de souillures.",
+     "n": [
+      "7. C’est là mon pain, tout couvert de souillures. Texte douteux."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Qui me donnera que mon vœu s’accomplisse, et que Dieu réalise mon attente !"
+    },
+    {
+     "v": 9,
+     "t": "Que Dieu daigne me briser, qu’il laisse aller sa main et qu’il tranche mes jours !"
+    },
+    {
+     "v": 10,
+     "t": "Et qu’il me reste du moins cette consolation, que j’en tressaille dans les maux dont il m’accable : de n’avoir jamais transgressé les commandements du Saint !",
+     "n": [
+      "10. Dans les maux dont il m’accable. M. à m. dans les maux alors qu’ il n’a pas pitié."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Quelle est ma force, pour que j’attende ? Quelle est la durée de mes jours, pour que j’aie patience ?"
+    },
+    {
+     "v": 12,
+     "t": "Ma force est-elle la force des pierres, et ma chair est-elle d’airain ?"
+    },
+    {
+     "v": 13,
+     "t": "Ne suis-je pas dénué de tout secours, et tout espoir de salut ne m’est-il pas enlevé ?",
+     "n": [
+      "13. Le salut ; Vulg., mes amis intimes."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Le malheureux a droit à la pitié de son ami, eût-il même abandonné la crainte du Tout-Puissant.",
+     "n": [
+      "14. Eût-il même abandonné, etc. Ou bien : autrement ils (les amis) abandonnent, ou, il (le malheureux) abandonne la crainte du Tout-Puissant."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Mes frères ont été perfides comme le torrent, comme l’eau des torrents qui s’écoulent."
+    },
+    {
+     "v": 16,
+     "t": "Les glaçons en troublent le cours, la neige disparaît dans leurs flots."
+    },
+    {
+     "v": 17,
+     "t": "Au temps de la sécheresse, ils s’évanouissent ; aux premières chaleurs, leur lit est desséché."
+    },
+    {
+     "v": 18,
+     "t": "Dans des sentiers divers leurs eaux se perdent, elles s’évaporent dans les airs, et ils tarissent.",
+     "n": [
+      "18. D’autres : Les caravanes se détournent de leur route pour venir à ce torrent, mais le trouvant à sec, elles s’enfoncent dans le désert et périssent."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Les caravanes de Théma comptaient sur eux ; les voyageurs de Saba espéraient en eux ;"
+    },
+    {
+     "v": 20,
+     "t": "ils sont frustrés dans leur attente ; arrivés sur leurs bords, ils restent confondus."
+    },
+    {
+     "v": 21,
+     "t": "Ainsi vous me manquez à cette heure ; à la vue de l’infortune, vous fuyez épouvantés.",
+     "n": [
+      "21. Ainsi vous me manquez à cette heure, m. à m. car maintenant vous n’êtes pas (kethib ; qerey, vous êtes pour lui ). Avec une légère correction, on aurait ; Tels maintenant vous êtes pour moi."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Vous ai-je dit : « Donnez-moi quelque chose, faites-moi part de vos biens,"
+    },
+    {
+     "v": 23,
+     "t": "délivrez-moi de la main de l’ennemi, arrachez-moi de la main des brigands ? »"
+    },
+    {
+     "v": 24,
+     "t": "Instruisez-moi, et je vous écouterai en silence ; faites-moi voir en quoi j’ai failli."
+    },
+    {
+     "v": 25,
+     "t": "Qu’elles ont de force les paroles équitables ! Mais sur quoi tombe votre blâme ?"
+    },
+    {
+     "v": 26,
+     "t": "Voulez-vous donc censurer des mots ? Les discours échappés au désespoir sont la proie du vent.",
+     "n": [
+      "26. Le Hir : … des mots, des paroles en l’air d’un désespéré. Dans le dernier membre, la Vulg. et les autres versions anciennes ont lu naschah, proférer, au lieu de noasch ; d’où ce sens : et vous proférez des paroles en l’air."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Ah ! Vous jetez le filet sur un orphelin, vous creusez un piège à votre ami !",
+     "n": [
+      "27. D’autres : Vous joueriez au sort sur un orphelin, et vous vendriez un ami."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "Maintenant, daignez vous retourner vers moi, et vous verrez si je vous mens en face."
+    },
+    {
+     "v": 29,
+     "t": "Revenez, ne soyez pas injustes ; revenez, et mon innocence apparaîtra."
+    },
+    {
+     "v": 30,
+     "t": "Y a-t-il de l’iniquité sur ma langue, ou bien mon palais ne sait-il pas discerner le mal ?",
+     "n": [
+      "30. Mon palais etc. Vulg., la folie ne parlera pas par ma bouche."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 7,
+   "verses": [
+    {
+     "v": 1,
+     "t": "La vie de l’homme sur la terre est un temps de service, et ses jours sont comme ceux du mercenaire.",
+     "n": [
+      "VII, 1. Un temps de service, laborieux et pénible, où l’homme est engagé et, pour ainsi dire, enrôlé, comme un soldat. L’idée est celle de labeur pendant un temps déterminé, non celle de guerre ou de combat ; ce service fini, l’homme peut désirer le repos du tombeau. — LXX. une épreuve, ou un lieu d’épreuve, Vulg., un service militaire. Comp. I Tim. i, 18 ; II Tim. ii, 3 sv."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Comme l’esclave soupire après l’ombre, comme l’ouvrier attend son salaire,"
+    },
+    {
+     "v": 3,
+     "t": "ainsi j’ai eu en partage des mois de douleur, pour mon lot, des nuits de souffrance."
+    },
+    {
+     "v": 4,
+     "t": "Si je me couche, je dis : « Quand me lèverai-je ? Quand finira la nuit ? » et je suis rassasié d’angoisses jusqu’au jour."
+    },
+    {
+     "v": 5,
+     "t": "Ma chair se couvre de vers et d’une croûte terreuse, ma peau se gerce et coule."
+    },
+    {
+     "v": 6,
+     "t": "Mes jours passent plus rapides que la navette, ils s’évanouissent : plus d’espérance !"
+    },
+    {
+     "v": 7,
+     "t": "Ô Dieu, souviens-toi que ma vie n’est qu’un souffle ! Mes yeux ne reverront pas le bonheur."
+    },
+    {
+     "v": 8,
+     "t": "L’œil qui me regarde ne m’apercevra plus ; ton œil me cherchera, et je ne serai plus."
+    },
+    {
+     "v": 9,
+     "t": "Le nuage se dissipe et passe ; ainsi celui qui descend au schéol ne remontera plus ;"
+    },
+    {
+     "v": 10,
+     "t": "il ne retournera plus dans sa maison ; le lieu qu’il habitait ne le reconnaîtra plus."
+    },
+    {
+     "v": 11,
+     "t": "C’est pourquoi je ne retiendrai pas ma langue, je parlerai dans l’angoisse de mon esprit, j’exhalerai mes plaintes dans l’amertume de mon âme."
+    },
+    {
+     "v": 12,
+     "t": "Suis-je la mer ou un monstre marin, pour que tu poses une barrière autour de moi ?"
+    },
+    {
+     "v": 13,
+     "t": "Quand je dis : « Mon lit me soulagera, ma couche calmera mes soupirs, »"
+    },
+    {
+     "v": 14,
+     "t": "alors tu m’effraies par des songes, tu m’épouvantes par des visions."
+    },
+    {
+     "v": 15,
+     "t": "Ah ! Mon âme préfère la mort violente, mes os appellent le trépas.",
+     "n": [
+      "15. La mort violente, litt. la strangulation."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Je suis en proie à la dissolution, la vie m’échappe pour jamais ; laisse-moi, car mes jours ne sont qu’un souffle.",
+     "n": [
+      "16. La vie m’échappe pour jamais. M. à m. Je ne vivrai pas à jamais."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Qu’est-ce que l’homme, pour que tu en fasses tant d’estime, que tu daignes t’occuper de lui,"
+    },
+    {
+     "v": 18,
+     "t": "que tu le visites chaque matin, et qu’à chaque instant tu l’éprouves ?"
+    },
+    {
+     "v": 19,
+     "t": "Quand cesseras-tu d’avoir le regard sur moi ? Quand me laisseras-tu le temps d’avaler ma salive ?",
+     "n": [
+      "19. Avaler ma salive c.-à-d. reprendre haleine."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Si j’ai péché, que puis-je te faire, ô Gardien des hommes ? Pourquoi me mettre en butte à tes traits, et me rendre à charge à moi-même ?",
+     "n": [
+      "20. À charge à moi-même : les LXX ont lu et traduit, à toi ( alaik, au lieu de alaï ) : pourquoi te suis-je insupportable ?"
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Que ne pardonnes-tu mon offense ? Que n’oublies-tu mon iniquité ? Car bientôt je dormirai dans la poussière ; tu me chercheras, et je ne serai plus."
+    }
+   ]
+  },
+  {
+   "c": 8,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Baldad de Suhé prit la parole et dit :",
+     "n": [
+      "VIII, 1. Le discours de Baldad repose sur le même principe que celui d’Éliphaz mais il garde moins de ménagement."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Jusques à quand tiendras-tu ces discours, et tes paroles seront-elles comme un souffle de tempête ?"
+    },
+    {
+     "v": 3,
+     "t": "Est-ce que Dieu fait fléchir le droit, ou bien le Tout-Puissant renverse-t-il la justice ?"
+    },
+    {
+     "v": 4,
+     "t": "Si tes fils ont péché contre lui, il les a livrés aux mains de leur iniquité."
+    },
+    {
+     "v": 5,
+     "t": "Pour toi, si tu as recours à Dieu, si tu implores le Tout-Puissant,"
+    },
+    {
+     "v": 6,
+     "t": "si tu es droit et pur, alors il veillera sur toi, il rendra le bonheur à la demeure de ta justice,"
+    },
+    {
+     "v": 7,
+     "t": "ton premier état semblera peu de chose, tant le second sera florissant."
+    },
+    {
+     "v": 8,
+     "t": "Interroge les générations passées, sois attentif à l’expérience des pères : —"
+    },
+    {
+     "v": 9,
+     "t": "car nous sommes d’hier, et nous ne savons rien, nos jours sur la terre passent comme l’ombre ; —"
+    },
+    {
+     "v": 10,
+     "t": "ne vont-ils pas t’enseigner, te parler, et de leur cœur tirer des sentences :"
+    },
+    {
+     "v": 11,
+     "t": "« Le papyrus croît-il en dehors des marais ? Le jonc s’élève-t-il sans eau ?"
+    },
+    {
+     "v": 12,
+     "t": "Encore tendre, sans qu’on le coupe, il sèche avant toute herbe."
+    },
+    {
+     "v": 13,
+     "t": "Telles sont les voies de tous ceux qui oublient Dieu ; l’espérance de l’impie périra."
+    },
+    {
+     "v": 14,
+     "t": "Sa confiance sera brisée ; son assurance ressemble à la toile de l’araignée.",
+     "n": [
+      "14. Toile de l’araignée, litt. maison de l’araignée."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Il s’appuie sur sa maison, et elle ne tient pas ; il s’y attache, et elle ne reste pas debout."
+    },
+    {
+     "v": 16,
+     "t": "Il est plein de vigueur, au soleil, ses rameaux s’étendent sur son jardin,",
+     "n": [
+      "16. Des manuscrits de la Vulgate lisent horto au lieu de ortu : ne serait-ce pas la leçon primitive ?"
+     ]
+    },
+    {
+     "v": 17,
+     "t": "ses racines s’entrelacent parmi les pierres, il plonge jusqu’aux profondeurs du roc."
+    },
+    {
+     "v": 18,
+     "t": "Si Dieu l’arrache de sa place, sa place le renie : Je ne t’ai jamais vu."
+    },
+    {
+     "v": 19,
+     "t": "C’est là que sa joie se termine, et du même sol d’autres s’élèveront après lui. »",
+     "n": [
+      "19. C’est là que sa joie se termine, m. à m. Voilà quelle est la joie de sa voie, peut-être le fruit joyeux de sa conduite."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Non, Dieu ne rejette pas l’innocent, il ne prend pas la main des malfaiteurs."
+    },
+    {
+     "v": 21,
+     "t": "Il remplira ta bouche d’éclats de rire, et mettra sur tes lèvres des chants d’allégresse."
+    },
+    {
+     "v": 22,
+     "t": "Tes ennemis seront couverts de honte, et la tente des méchants disparaîtra."
+    }
+   ]
+  },
+  {
+   "c": 9,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Je sais bien qu’il en est ainsi : comment l’homme serait-il juste vis-à-vis de Dieu ?"
+    },
+    {
+     "v": 3,
+     "t": "S’il voulait contester avec lui, sur mille choses il ne pourrait répondre à une seule."
+    },
+    {
+     "v": 4,
+     "t": "Dieu est sage en son cœur, et puissant en force : qui lui a résisté, et est demeuré en paix ?"
+    },
+    {
+     "v": 5,
+     "t": "Il transporte les montagnes, sans qu’elles le sachent, il les renverse dans sa colère ;"
+    },
+    {
+     "v": 6,
+     "t": "il secoue la terre sur sa base, et ses colonnes sont ébranlées."
+    },
+    {
+     "v": 7,
+     "t": "Il commande au soleil, et le soleil ne se lève pas ; il met un sceau sur les étoiles."
+    },
+    {
+     "v": 8,
+     "t": "Seul, il étend les cieux, il marche sur les hauteurs de la mer."
+    },
+    {
+     "v": 9,
+     "t": "Il a créé la Grande Ourse, Orion, les Pléiades, et les régions du ciel austral.",
+     "n": [
+      "IX, 9. Les régions du ciel austral, m. à m. les chambres du midi, peut-être quelque constellation particulière."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Il fait des merveilles qu’on ne peut sonder, des prodiges qu’on ne saurait compter."
+    },
+    {
+     "v": 11,
+     "t": "Voici qu’il passe près de moi, et je ne le vois pas ; il s’éloigne, sans que je l’aperçoive."
+    },
+    {
+     "v": 12,
+     "t": "S’il ravit une proie, qui s’y opposera, qui lui dira : « Que fais-tu ? »"
+    },
+    {
+     "v": 13,
+     "t": "Dieu ! Rien ne fléchit sa colère ; devant lui s’inclinent les légions d’orgueil.",
+     "n": [
+      "13. Les légions de l’orgueil, m. à m. les auxiliaires de Rahab. Peut-être allusion poétique à quelque croyance populaire, touchant la lutte du Créateur avec des êtres d’opposition."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Et moi je songerais à lui répondre, à choisir mes paroles pour discuter avec lui !"
+    },
+    {
+     "v": 15,
+     "t": "Aurais-je pour moi la justice, je ne répondrais pas ; j’implorerais la clémence de mon juge."
+    },
+    {
+     "v": 16,
+     "t": "Même s’il se rendait à mon appel, je ne croirais pas qu’il eût écouté ma voix :"
+    },
+    {
+     "v": 17,
+     "t": "lui qui me brise comme dans un tourbillon, et multiplie mes blessures sans motif ;"
+    },
+    {
+     "v": 18,
+     "t": "qui ne me laisse point respirer, et me rassasie d’amertume."
+    },
+    {
+     "v": 19,
+     "t": "S’agit-il de force, voici qu’il est fort, s’agit-il de droit, il dit : « Qui m’assigne ? »"
+    },
+    {
+     "v": 20,
+     "t": "Serais-je irréprochable, ma bouche même me condamnerait ; serais-je innocent, elle me déclarerait pervers."
+    },
+    {
+     "v": 21,
+     "t": "Innocent ! Je le suis ; je ne tiens pas à l’existence, et la vie m’est à charge."
+    },
+    {
+     "v": 22,
+     "t": "Il m’importe après tout ; c’est pourquoi j’ai dit : « Il fait périr également le juste et l’impie. »",
+     "n": [
+      "22. Il n’importe, m. à m. c’est tout un."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Si du moins le fléau tuait d’un seul coup ! Hélas ! il se rit des épreuves de l’innocent !",
+     "n": [
+      "23. Il se rit, il semble se rire des épreuves de l’innocent, lorsqu’il les laisse se prolonger. « Dans tout le livre, dit S. Jérôme, il n’y a rien de plus hardi que ce verset » ; c’est l’explosion d’une indicible souffrance. D’autres : Si le fléau envoyé de Dieu (peste, guerre ou famine) tue subitement des populations entières, Dieu semble se rire des innocents, confondus avec les coupables dans le châtiment."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "La terre est livrée aux mains du méchant, Dieu voile la face de ses juges : si ce n’est pas lui, qui est-ce donc ?"
+    },
+    {
+     "v": 25,
+     "t": "Mes jours sont plus rapides qu’un courrier, ils fuient sans avoir vu le bonheur ;"
+    },
+    {
+     "v": 26,
+     "t": "ils passent comme la barque de jonc, comme l’aigle qui fond sur sa proie."
+    },
+    {
+     "v": 27,
+     "t": "Si je dis : « Je veux oublier ma plainte, quitter mon air triste, prendre un air joyeux, »"
+    },
+    {
+     "v": 28,
+     "t": "je tremble pour toutes mes douleurs, je sais que tu ne me tiendras pas pour innocent."
+    },
+    {
+     "v": 29,
+     "t": "Je serai jugé coupable : pourquoi prendre une peine inutile ?"
+    },
+    {
+     "v": 30,
+     "t": "Quand je me laverais dans la neige, quand je purifierais mes mains avec le bor,"
+    },
+    {
+     "v": 31,
+     "t": "tu me plongerais dans la fange, et mes vêtements m’auraient en horreur.",
+     "n": [
+      "31. Dans la fange. Litt. dans la fosse."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "Dieu n’est pas un homme comme moi, pour que je lui réponde, pour que nous comparaissions ensemble en justice."
+    },
+    {
+     "v": 33,
+     "t": "Il n’y a pas entre nous d’arbitre qui pose sa main sur nous deux."
+    },
+    {
+     "v": 34,
+     "t": "Qu’il retire sa verge de dessus moi, que ses terreurs cessent de m’épouvanter :"
+    },
+    {
+     "v": 35,
+     "t": "alors je parlerai sans le craindre ; autrement, je ne suis point à moi-même."
+    }
+   ]
+  },
+  {
+   "c": 10,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon âme est lasse de la vie ; je donnerai libre cours à ma plainte, je parlerai dans l’amertume de mon cœur."
+    },
+    {
+     "v": 2,
+     "t": "Je dis à Dieu : Ne me condamne point ; apprends-moi sur quoi tu me prends à partie."
+    },
+    {
+     "v": 3,
+     "t": "Trouves-tu du plaisir à opprimer, à repousser l’œuvre de tes mains, à faire luire ta faveur sur le conseil des méchants ?"
+    },
+    {
+     "v": 4,
+     "t": "As-tu des yeux de chair, ou bien vois-tu comme voient les hommes ?"
+    },
+    {
+     "v": 5,
+     "t": "Tes jours sont-ils comme les jours de l’homme, ou bien tes années comme les années d’un mortel,"
+    },
+    {
+     "v": 6,
+     "t": "pour que tu recherches mon iniquité, pour que tu poursuives mon péché,"
+    },
+    {
+     "v": 7,
+     "t": "quand tu sais que je ne suis pas coupable, et que nul ne peut me délivrer de ta main ?"
+    },
+    {
+     "v": 8,
+     "t": "Tes mains m’ont formé et façonné, tout entier, et tu voudrais me détruire !"
+    },
+    {
+     "v": 9,
+     "t": "Souviens-toi que tu m’as pétri comme l’argile : et tu me ramènerais à la poussière !"
+    },
+    {
+     "v": 10,
+     "t": "Ne m’as-tu pas coulé comme le lait, et coagulé comme le fromage ?"
+    },
+    {
+     "v": 11,
+     "t": "Tu m’as revêtu de peau et de chair, tu m’as tissé d’os et de nerfs."
+    },
+    {
+     "v": 12,
+     "t": "Avec la vie, tu m’as accordé ta faveur, et ta providence a gardé mon âme."
+    },
+    {
+     "v": 13,
+     "t": "Et pourtant, voilà ce que tu cachais dans ton cœur : Je vois bien ce que tu méditais."
+    },
+    {
+     "v": 14,
+     "t": "Si je pèche, tu m’observes, tu ne me pardonnes pas mon iniquité."
+    },
+    {
+     "v": 15,
+     "t": "Suis-je coupable, malheur à moi ! Suis-je innocent, je n’ose lever la tête, rassasié de honte, et voyant ma misère."
+    },
+    {
+     "v": 16,
+     "t": "Si je me relève, tu me poursuis comme un lion, tu recommences à me tourmenter étrangement,"
+    },
+    {
+     "v": 17,
+     "t": "tu m’opposes de nouveaux témoins ; tu redoubles de fureur contre moi, des troupes de rechange viennent m’assaillir."
+    },
+    {
+     "v": 18,
+     "t": "Pourquoi m’as-tu tiré du sein de ma mère ? Je serais mort, et aucun œil ne m’aurait vu."
+    },
+    {
+     "v": 19,
+     "t": "Je serais comme si je n’eusse jamais été, du sein maternel j’aurais été porté au sépulcre."
+    },
+    {
+     "v": 20,
+     "t": "Mes jours ne sont-ils pas bien courts ? Qu’il me laisse ! Qu’il se retire et que je respire un instant,",
+     "n": [
+      "X, 20. Mes jours ne sont-ils pas bien courts ? Qu’il me laisse ! En lisant chéldi ( ma vie ) au lieu de yéchdal (qu’il me laisse ), les LXX et le syriaque portent : Les jours de ma vie ne sont-ils pas bien courts ?"
+     ]
+    },
+    {
+     "v": 21,
+     "t": "avant que je m’en aille, pour ne plus revenir, dans la région des ténèbres et de l’ombre de la mort,"
+    },
+    {
+     "v": 22,
+     "t": "morne et sombre région, où règnent l’ombre de la mort et le chaos, où la clarté est pareille aux ténèbres."
+    }
+   ]
+  },
+  {
+   "c": 11,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Sophar de Naama prit la parole et dit :",
+     "n": [
+      "XI, 1. Sophar, le plus jeune peut-être des trois amis de Job, reprend la thèse des deux premiers, mais son langage va jusqu’à la rudesse et à l’insulte."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "La multitude des paroles restera-t-elle sans réponse, et le bavard aura-t-il raison ?"
+    },
+    {
+     "v": 3,
+     "t": "Tes vains propos feront-ils taire les gens ? Te moqueras-tu, sans que personne te confonde ?"
+    },
+    {
+     "v": 4,
+     "t": "Tu as dit à Dieu : « Ma pensée est la vraie, et je suis irréprochable devant toi. »"
+    },
+    {
+     "v": 5,
+     "t": "Oh ! Si Dieu voulait parler, s’il ouvrait les lèvres pour te répondre ;"
+    },
+    {
+     "v": 6,
+     "t": "s’il te révélait les secrets de sa sagesse, les replis cachés de ses desseins, tu verrais alors qu’il oublie une part de tes crimes."
+    },
+    {
+     "v": 7,
+     "t": "Prétends-tu sonder les profondeurs de Dieu, atteindre la perfection du Tout-Puissant ?"
+    },
+    {
+     "v": 8,
+     "t": "Elle est haute comme les cieux : que feras-tu ? Plus profonde que le séjour des morts : que sauras-tu ?"
+    },
+    {
+     "v": 9,
+     "t": "Sa mesure est plus longue que la terre, elle est plus large que la mer."
+    },
+    {
+     "v": 10,
+     "t": "S’il fond sur le coupable, s’il l’arrête, s’il convoque le tribunal, qui s’y opposera ?"
+    },
+    {
+     "v": 11,
+     "t": "Car il connaît les pervers, il découvre l’iniquité avant qu’elle s’en doute."
+    },
+    {
+     "v": 12,
+     "t": "À cette vue, le fou même comprendrait, et le petit de l’onagre deviendrait raisonnable.",
+     "n": [
+      "12. D’autres : L’homme a l’intelligence d’un fou, il est né comme le petit de l’onagre. Ou encore : L’homme insensé deviendra intelligent, quand le poulain de l’onagre deviendra sensé."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Pour toi, si tu diriges ton cœur vers Dieu, et que tu étendes vers lui tes bras,"
+    },
+    {
+     "v": 14,
+     "t": "si tu éloignes l’iniquité qui est dans tes mains, et que tu ne laisses pas l’injustice habiter sous ta tente,"
+    },
+    {
+     "v": 15,
+     "t": "alors tu lèveras ton front sans tache, tu seras inébranlable et tu ne craindras plus."
+    },
+    {
+     "v": 16,
+     "t": "Tu oublieras alors tes souffrances, tu t’en souviendras comme des eaux écoulées ;"
+    },
+    {
+     "v": 17,
+     "t": "L’avenir se lèvera pour toi plus brillant que le midi, les ténèbres se changeront en aurore."
+    },
+    {
+     "v": 18,
+     "t": "Tu seras plein de confiance, et ton attente ne sera pas vaine ; tu regarderas autour de toi, et tu te coucheras tranquille."
+    },
+    {
+     "v": 19,
+     "t": "Tu reposeras, sans que personne t’inquiète, et plusieurs caresseront ton visage."
+    },
+    {
+     "v": 20,
+     "t": "Mais les yeux des méchants se consumeront : pour eux, point de refuge ; leur espérance est le souffle d’un mourant."
+    }
+   ]
+  },
+  {
+   "c": 12,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Vraiment vous êtes aussi sages que tout un peuple, et avec vous mourra la sagesse !"
+    },
+    {
+     "v": 3,
+     "t": "Moi aussi, j’ai de l’intelligence comme vous, je ne vous le cède en rien, et qui ne sait les choses que vous dites ?",
+     "n": [
+      "XII, 3. Les LXX n’ont pas les deux derniers stiques de ce vers. — Et qui ne sait les choses que vous dites ? M. à m. Et avec qui n’y a-t il pas comme ces choses ?"
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Je suis la risée de mes amis, moi qui invoquais Dieu et à qui Dieu répondait ; leur risée, moi le juste, l’innocent !…",
+     "n": [
+      "4. Les LXX n’ont pas les deux premiers stiques. 5. Vulg., c’est une lampe méprisée dans la pensée des riches, mais toute prête pour le temps marqué."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Honte au malheur ! C’est la devise des heureux ; le mépris attend celui dont le pied chancelle."
+    },
+    {
+     "v": 6,
+     "t": "La paix cependant règne sous la tente des brigands, la sécurité pour ceux qui provoquent Dieu, et qui n’ont d’autre dieu que leur bras.",
+     "n": [
+      "6. Et qui n’ont d’autre dieu que leur bras. M. à m. Et qui amènent Dieu dans leur bras. Peut-être : dont l’épée est le dieu."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Mais, de grâce, interroge les bêtes, et elles t’instruiront, es oiseaux du ciel, et ils te l’apprendront ;"
+    },
+    {
+     "v": 8,
+     "t": "ou bien parle à la terre, et elle t’enseignera ; les poissons même de la mer te le raconteront."
+    },
+    {
+     "v": 9,
+     "t": "Qui ne sait, parmi tous ces êtres, que la main de Yahweh a fait ces choses,"
+    },
+    {
+     "v": 10,
+     "t": "qu’il tient dans sa main l’âme de tout ce qui vit, et le souffle de tous les humains ?",
+     "n": [
+      "10. Le souffle de tous les humains, m. à m. le souffle de toute choir d’homme."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "L’oreille ne discerne-t-elle pas les paroles, comme le palais savoure les aliments ?"
+    },
+    {
+     "v": 12,
+     "t": "Aux cheveux blancs appartient la sagesse, la prudence est le fruit des longs jours."
+    },
+    {
+     "v": 13,
+     "t": "En Dieu résident la sagesse et la puissance, à lui le conseil et l’intelligence."
+    },
+    {
+     "v": 14,
+     "t": "Voici qu’il renverse et l’on ne rebâtit pas ; il ferme la porte sur l’homme, et on ne lui ouvre pas."
+    },
+    {
+     "v": 15,
+     "t": "Voici qu’il arrête les eaux, elles tarissent ; il les lâche, elles bouleversent la terre."
+    },
+    {
+     "v": 16,
+     "t": "À lui la force et la prudence, à lui celui qui est égaré et celui qui égare."
+    },
+    {
+     "v": 17,
+     "t": "Il emmène captifs les conseillers des peuples, et il ôte le sens aux juges."
+    },
+    {
+     "v": 18,
+     "t": "Il délie la ceinture des rois, et ceint leurs reins d’une corde."
+    },
+    {
+     "v": 19,
+     "t": "Il traîne les prêtres en captivité, et renverse les puissants."
+    },
+    {
+     "v": 20,
+     "t": "Il ôte la parole aux hommes les plus habiles, et il enlève le jugement aux vieillards."
+    },
+    {
+     "v": 21,
+     "t": "Il verse le mépris sur les nobles, et il relâche la ceinture des forts."
+    },
+    {
+     "v": 22,
+     "t": "Il met à découvert les choses cachées dans les ténèbres, et produit à la lumière l’ombre de la mort."
+    },
+    {
+     "v": 23,
+     "t": "Il fait croître les nations, et il les anéantit ; il les étend et il les resserre.",
+     "n": [
+      "23. Les LXX n’ont pas le premier stique. — Et il les resserre, litt. il les ramène."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Il ôte l’intelligence aux chefs des peuples de la terre, et les égare dans des déserts sans chemin ;"
+    },
+    {
+     "v": 25,
+     "t": "ils tâtonnent dans les ténèbres, loin de la lumière ; il les fait errer comme un homme ivre."
+    }
+   ]
+  },
+  {
+   "c": 13,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voilà que mon œil a vu tout cela, mon oreille l’a entendu et compris.",
+     "n": [
+      "XIII, 1 sv. Ces deux versets se rattachent à ce qui précède et en sont la conclusion. Le second répète xii, 3."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Ce que vous savez, moi aussi je le sais, je ne vous suis en rien inférieur."
+    },
+    {
+     "v": 3,
+     "t": "Mais je veux parler au Tout-Puissant, je veux plaider ma cause avec Dieu."
+    },
+    {
+     "v": 4,
+     "t": "Car vous n’êtes que des charlatans, vous êtes tous des médecins inutiles.",
+     "n": [
+      "4. Des charlatans, litt. des plâtreurs de mensonge."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Que ne gardiez-vous le silence ! Il vous eût tenu lieu de sagesse."
+    },
+    {
+     "v": 6,
+     "t": "Écoutez, je vous prie, ma défense, soyez attentifs au plaidoyer de mes lèvres."
+    },
+    {
+     "v": 7,
+     "t": "Parlerez-vous mensonge en faveur de Dieu, pour lui, parlerez-vous tromperie ?"
+    },
+    {
+     "v": 8,
+     "t": "Ferez-vous pour Dieu acception de personnes, vous constituerez-vous avocats ?"
+    },
+    {
+     "v": 9,
+     "t": "Vous en saura-t-il gré, s’il sonde vos cœurs ? Le tromperez-vous comme on trompe un homme ?",
+     "n": [
+      "9. Vous en saura-t-il gré, s’il sonde vos cœurs. D’autres : S’il sonde vos cœurs, vous en trouverez-vous bien ?"
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Certainement il vous condamnera, si vous faites en secret acception de personnes."
+    },
+    {
+     "v": 11,
+     "t": "Oui, sa majesté vous épouvantera, ses terreurs tomberont sur vous."
+    },
+    {
+     "v": 12,
+     "t": "Vos arguments sont des raisons de poussière, vos forteresses sont des forteresses d’argile."
+    },
+    {
+     "v": 13,
+     "t": "Taisez-vous, laissez-moi, je veux parler ; il m’en arrivera ce qu’il pourra."
+    },
+    {
+     "v": 14,
+     "t": "Je veux prendre ma chair entre les dents, je veux mettre mon âme dans ma main.",
+     "n": [
+      "14. Porter ou mettre son âme dans sa main, c’est courir un danger de mort ou s’y exposer. Le premier membre a le même sens que le second : quoi qu’il arrive, j’ai pris ma chair entre les dents, je suis résolu à mourir, et j’ai mis, etc."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "Quand il me tuerait, que je n’aurais rien à espérer, je défendrai devant lui ma conduite.",
+     "n": [
+      "15. Que je n’aurais rien à espérer : leçon du kethib, préférée par Le Hir, comme s’accordant mieux avec le contexte. Le Syriaque, le Targ. et la Vulg. ont suivi le qerey : quand même il me tuerait, j’espérerais en lui ; toutefois je défendrai etc."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Mais il sera mon salut, car l’impie ne saurait paraître en sa présence.",
+     "n": [
+      "16. Mais il sera mon salut. Ou bien : Mais ce sera mon salut."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Écoutez donc mes paroles, prêtez l’oreille à mon discours."
+    },
+    {
+     "v": 18,
+     "t": "Voici que j’ai préparé ma cause, je sais que je serai justifié."
+    },
+    {
+     "v": 19,
+     "t": "Est-il quelqu’un qui veuille plaider contre moi ? À l’instant même je veux me taire et mourir."
+    },
+    {
+     "v": 20,
+     "t": "Seulement épargne-moi deux choses, ô Dieu, et je ne me cacherai pas devant ta face :"
+    },
+    {
+     "v": 21,
+     "t": "éloigne ta main de dessus moi, et que tes terreurs ne m’épouvantent plus."
+    },
+    {
+     "v": 22,
+     "t": "Après cela, appelle, et je répondrai ; ou bien je parlerai d’abord, et tu me répondras."
+    },
+    {
+     "v": 23,
+     "t": "Quel est le nombre de mes iniquités et de mes péchés ? Fais-moi connaître mes transgressions et mes offenses.",
+     "n": [
+      "23. Quel est le nombre, ou, avec la Vulg., quelle est l’énormité ?"
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Pourquoi cacher ainsi ton visage, et me regarder comme ton ennemi !"
+    },
+    {
+     "v": 25,
+     "t": "Veux-tu donc effrayer une feuille agitée par le vent, poursuivre une paille desséchée,"
+    },
+    {
+     "v": 26,
+     "t": "pour que tu écrives contre moi des choses amères, pour que tu m’imputes les fautes de ma jeunesse,",
+     "n": [
+      "26. Pour que tu m’imputes, litt. que tu me fasses hériter des fautes de ma jeunesse."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "pour que tu mettes mes pieds dans les ceps, que tu observes toutes mes démarches, que tu traces une limite à la plante de mes pieds,"
+    },
+    {
+     "v": 28,
+     "t": "alors que mon corps se consume comme un bois vermoulu, comme un vêtement que dévore la teigne."
+    }
+   ]
+  },
+  {
+   "c": 14,
+   "verses": [
+    {
+     "v": 1,
+     "t": "L’homme né de la femme vit peu de jours, et il est rassasié de misères."
+    },
+    {
+     "v": 2,
+     "t": "Comme la fleur, il naît, et on le coupe ; il fuit comme l’ombre, sans s’arrêter."
+    },
+    {
+     "v": 3,
+     "t": "Et c’est sur lui que tu as l’œil ouvert, lui que tu amènes en justice avec toi !",
+     "n": [
+      "XIV, 3. Lui que tu amènes, avec les LXX et le syriaque. Vulg. et Hébr. : C’est moi que tu amènes."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Qui peut tirer le pur de l’impur ? Personne.",
+     "n": [
+      "4. Vulg. : Qui peut rendre pur ce qui a été conçu d’une semence impure ? N’est-ce pas toi seul ? Les LXX relient ce vers, au premier stique du suivant : Qui donc est pur de souillure ? Personne, même si sa vie est d’un jour sur terre."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Si les jours de l’homme sont comptés, si tu as fixé le nombre de ses mois, si tu as posé un terme qu’il ne doit pas franchir,"
+    },
+    {
+     "v": 6,
+     "t": "détourne de lui tes yeux pour qu’il se repose, jusqu’à ce qu’il goûte, comme le mercenaire, la fin de sa journée."
+    },
+    {
+     "v": 7,
+     "t": "Un arbre a de l’espérance : coupé, il peut verdir encore, il ne cesse pas d’avoir des rejetons."
+    },
+    {
+     "v": 8,
+     "t": "Que sa racine ait vieilli dans la terre, que son tronc soit mort dans la poussière,"
+    },
+    {
+     "v": 9,
+     "t": "dès qu’il sent l’eau, il reverdit, il pousse des branches comme un jeune plant."
+    },
+    {
+     "v": 10,
+     "t": "Mais l’homme meurt, et il reste étendu ; quand il a expiré, où est-il ?"
+    },
+    {
+     "v": 11,
+     "t": "Les eaux du lac disparaissent, le fleuve tarit et se dessèche :"
+    },
+    {
+     "v": 12,
+     "t": "ainsi l’homme se couche et ne se relève plus, il ne se réveillera pas tant que subsistera le ciel, on ne le fera pas sortir de son sommeil."
+    },
+    {
+     "v": 13,
+     "t": "Oh ! Si tu voulais me cacher dans le séjour des morts, m’y tenir à couvert jusqu’à ce que ta colère ait passé, me fixer un terme où tu te souviendrais de moi !"
+    },
+    {
+     "v": 14,
+     "t": "Si l’homme une fois mort pouvait revivre ! Tout le temps de mon service j’attendrais qu’on vînt me relever."
+    },
+    {
+     "v": 15,
+     "t": "Tu m’appellerais alors, et moi je te répondrais ; tu languirais après l’ouvrage de tes mains."
+    },
+    {
+     "v": 16,
+     "t": "Mais hélas ! Maintenant, tu comptes mes pas, tu as l’œil ouvert sur mes péchés ;",
+     "n": [
+      "16, 17 sont interprétés de deux manières. Les uns les mettent en antithèse avec le vers. 15 et les interprètent en un sens défavorable. Les autres y voient la suite du vers. 15 et l’expression des sollicitudes de Dieu après le pardon."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "mes transgressions sont scellées dans une bourse, et tu mets un enduit sur mes iniquités.",
+     "n": [
+      "17. Tu mets un enduit ; LXX, un cachet ; Vulg. mais tu as guéri."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "La montagne s’écroule et s’efface ; le rocher est transporté hors de sa place ;"
+    },
+    {
+     "v": 19,
+     "t": "les eaux creusent la pierre, leurs flots débordés entraînent la poussière du sol : ainsi tu anéantis l’espérance de l’homme."
+    },
+    {
+     "v": 20,
+     "t": "Tu l’abats sans retour, et il s’en va ; tu flétris son visage, et tu le congédies.",
+     "n": [
+      "20. Tu l’abats sans retour, etc. Vulg., tu ne lui as donné un peu de force que pour qu’il passe à jamais. — Tu flétris son visage, tu le défigures par la maladie et la mort, et tu le renvoies, tu le fais disparaître."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Que ses enfants soient honorés, il n’en sait rien ; qu’ils soient dans l’abaissement, il l’ignore."
+    },
+    {
+     "v": 22,
+     "t": "Sa chair ne sent que ses propres souffrances, son âme ne gémit que sur elle-même."
+    }
+   ]
+  },
+  {
+   "c": 15,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Éliphaz de Théman prit la parole et dit :",
+     "h": "II. — DEUXIÈME CYCLE DE DISCOURS. [XV, 1 — XXI, 34.]"
+    },
+    {
+     "v": 2,
+     "t": "Le sage répond-il par une science vaine ? Se gonfle-t-il la poitrine de vent ?"
+    },
+    {
+     "v": 3,
+     "t": "Se défend-il par de futiles propos, par des discours qui ne servent à rien ?"
+    },
+    {
+     "v": 4,
+     "t": "Toi, tu détruis même la crainte de Dieu, tu anéantis toute piété envers Dieu.",
+     "n": [
+      "XV, 4. Toute piété, litt. toute parole de plainte."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Ta bouche révèle ton iniquité, et tu prends le langage les fourbes."
+    },
+    {
+     "v": 6,
+     "t": "Ce n’est pas moi, c’est ta bouche qui te condamne, ce sont tes lèvres qui déposent contre toi."
+    },
+    {
+     "v": 7,
+     "t": "Es-tu né le premier des hommes ? As-tu été enfanté avant les collines ?"
+    },
+    {
+     "v": 8,
+     "t": "As-tu assisté au conseil de Dieu ? As-tu dérobé pour toi seul la sagesse ?",
+     "n": [
+      "8. As-tu dérobé, etc. Vulg., et sa sagesse est-elle au-dessous de toi ?"
+     ]
+    },
+    {
+     "v": 9,
+     "t": "Que sais-tu, que nous ne sachions ? Qu’as-tu appris, qui ne nous soit familier ?"
+    },
+    {
+     "v": 10,
+     "t": "Nous avons aussi parmi nous des cheveux blancs, des vieillards plus riches de jours que ton père."
+    },
+    {
+     "v": 11,
+     "t": "Tiens-tu pour peu de chose les consolations de Dieu et les douces paroles que nous t’adressons ?"
+    },
+    {
+     "v": 12,
+     "t": "Où ton cœur t’emporte-t-il, et que signifie ce roulement de tes yeux ?"
+    },
+    {
+     "v": 13,
+     "t": "Quoi ! C’est contre Dieu que tu tournes ta colère, et que de ta bouche tu fais sortir de tels discours ?"
+    },
+    {
+     "v": 14,
+     "t": "Qu’est-ce que l’homme, pour qu’il soit pur, le fils de la femme, pour qu’il soit juste ?"
+    },
+    {
+     "v": 15,
+     "t": "Voici que Dieu ne se fie pas même à ses saints, et les cieux ne sont pas purs devant lui :"
+    },
+    {
+     "v": 16,
+     "t": "combien moins cet être abominable et pervers, l’homme qui boit l’iniquité comme l’eau !"
+    },
+    {
+     "v": 17,
+     "t": "Je vais t’instruire, écoute-moi ; je raconterai ce que j’ai vu,"
+    },
+    {
+     "v": 18,
+     "t": "ce que les sages enseignent, — ils ne le cachent pas, l’ayant appris de leurs pères ;"
+    },
+    {
+     "v": 19,
+     "t": "à eux seuls avait été donné le pays, et parmi eux jamais ne passa l’étranger. —"
+    },
+    {
+     "v": 20,
+     "t": "« Le méchant, durant tous ses jours, est rongé par l’angoisse ; un petit nombre d’années sont réservées à l’oppresseur.",
+     "n": [
+      "20. Est rongé par l’angoisse ; Vulg., s’enorgueillit. — Un petit nombre, lit t. un nombre déterminé."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Des bruits effrayants retentissent à ses oreilles ; au sein de la paix, le dévastateur fond sur lui."
+    },
+    {
+     "v": 22,
+     "t": "Il n’espère pas échapper aux ténèbres, il sent qu’il est guetté pour le glaive."
+    },
+    {
+     "v": 23,
+     "t": "Il erre pour chercher son pain ; il sait que le jour des ténèbres est prêt, à ses côtés."
+    },
+    {
+     "v": 24,
+     "t": "La détresse et l’angoisse tombent sur lui ; elles l’assaillent comme un roi armé pour le combat."
+    },
+    {
+     "v": 25,
+     "t": "Car il a levé sa main contre Dieu, il a bravé le Tout-Puissant,"
+    },
+    {
+     "v": 26,
+     "t": "il a couru sur lui le cou raide, sous le dos épais de ses boucliers."
+    },
+    {
+     "v": 27,
+     "t": "Il avait le visage couvert de graisse, et les flancs chargés d’embonpoint."
+    },
+    {
+     "v": 28,
+     "t": "Il occupait des villes qui ne sont plus, des maisons qui n’ont plus d’habitants, vouées à devenir des monceaux de pierre."
+    },
+    {
+     "v": 29,
+     "t": "Il ne s’enrichira plus, sa fortune ne tiendra pas, ses possessions ne s’étendront plus sur la terre."
+    },
+    {
+     "v": 30,
+     "t": "Il n’échappera pas aux ténèbres ; la flamme desséchera ses rejetons, et il sera emporté par le souffle de la bouche de Dieu."
+    },
+    {
+     "v": 31,
+     "t": "Qu’il n’espère rien du mensonge, il y sera pris ; le mensonge sera sa récompense."
+    },
+    {
+     "v": 32,
+     "t": "Elle arrivera avant que ses jours soient pleins, et son rameau ne verdira plus.",
+     "n": [
+      "32. Elle arrivera, litt. elle sera accomplie. — Son rameau ; Vulg., sa main se desséchera."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "Il secouera, comme la vigne, son fruit à peine éclos ; il laissera tomber sa fleur, comme l’olivier."
+    },
+    {
+     "v": 34,
+     "t": "Car la maison de l’impie est stérile, et le feu dévore la tente du juge corrompu."
+    },
+    {
+     "v": 35,
+     "t": "Il a conçu le mal, et il enfante le malheur, dans son sein mûrit un fruit de déception. »"
+    }
+   ]
+  },
+  {
+   "c": 16,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "J’ai souvent entendu de semblables harangues ; vous êtes tous d’insupportables consolateurs."
+    },
+    {
+     "v": 3,
+     "t": "Quand finiront ces vains discours ? Quel aiguillon t’excite à répliquer ?"
+    },
+    {
+     "v": 4,
+     "t": "Moi aussi, je saurais parler comme vous, si vous étiez à ma place ; j’arrangerais de beaux discours à votre adresse, je secouerais la tête sur vous ;",
+     "n": [
+      "XVI, 4. Dans la Vulg., le vers. 4 en forme deux, en sorte qu’à partir du vers. 5, la Vulg. est en avant d’un vers, sur l’hébreu."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "je vous encouragerais de la bouche, et vous auriez pour soulagement l’agitation de mes lèvres."
+    },
+    {
+     "v": 6,
+     "t": "Si je parle, ma douleur n’est pas adoucie ; si je me tais, en est-elle soulagée ?",
+     "n": [
+      "6. En est-elle soulagée, m. à m. qu’est-ce qui s’en va de moi."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Aujourd’hui, hélas ! Dieu a épuisé mes forces… ô Dieu, tu as moissonné tous mes proches."
+    },
+    {
+     "v": 8,
+     "t": "Tu me garrottes… c’est un témoignage contre moi !… ma maigreur se lève contre moi, en face elle m’accuse."
+    },
+    {
+     "v": 9,
+     "t": "Sa colère me déchire et me poursuit, il grince des dents contre moi ; mon ennemi darde sur moi ses regards."
+    },
+    {
+     "v": 10,
+     "t": "Ils ouvrent leur bouche pour me dévorer, ils me frappent la joue avec outrage, ils se liguent tous ensemble pour me perdre."
+    },
+    {
+     "v": 11,
+     "t": "Dieu m’a livré au pervers, il m’a jeté entre les mains des méchants."
+    },
+    {
+     "v": 12,
+     "t": "J’étais en paix, et il m’a secoué, il m’a saisi par la nuque, et il m’a brisé. Il m’a posé en but à ses traits,"
+    },
+    {
+     "v": 13,
+     "t": "ses flèches volent autour de moi ; il perce mes flancs sans pitié, il répand mes entrailles sur la terre ;"
+    },
+    {
+     "v": 14,
+     "t": "il me fait brèche sur brèche, il fond sur moi comme un géant."
+    },
+    {
+     "v": 15,
+     "t": "J’ai cousu un sac sur ma peau, et j’ai roulé mon front dans la poussière."
+    },
+    {
+     "v": 16,
+     "t": "Mon visage est tout rouge de larmes, et l’ombre de la mort s’étend sur mes paupières,"
+    },
+    {
+     "v": 17,
+     "t": "quoiqu’il n’y ait pas d’iniquités dans mes mains, et que ma prière soit pure."
+    },
+    {
+     "v": 18,
+     "t": "Ô terre, ne couvre point mon sang, et que mes cris s’élèvent librement !"
+    },
+    {
+     "v": 19,
+     "t": "À cette heure même, voici que j’ai mon témoin dans le ciel, mon défenseur dans les hauts lieux."
+    },
+    {
+     "v": 20,
+     "t": "Mes amis se moquent de moi, c’est vers Dieu que pleurent mes yeux."
+    },
+    {
+     "v": 21,
+     "t": "Qu’il juge lui-même entre Dieu et l’homme, entre le fils de l’homme et son semblable !"
+    },
+    {
+     "v": 22,
+     "t": "Car les années qui me sont comptés s’écoulent, et j’entre dans un sentier d’où je ne reviendrai pas.",
+     "n": [
+      "28. Le sang que n’absorbait pas la terre criait, comme celui d’Abel, vengeance vers le ciel, Job estime que, même s’il mourrait, Dieu lui rendrait témoignage. — Et que mes cris s’élèvent librement, m. à m. et qu’il n’y ait pas de lieu fixé pour mes cris."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 17,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Mon souffle s’épuise, mes jours s’éteignent, il ne me reste plus que le tombeau.",
+     "n": [
+      "XVII, 1. Il ne me reste plus que le tombeau. M. à m. des tombeaux à moi."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Je suis environné de moqueurs, mon œil veille au milieu de leurs outrages."
+    },
+    {
+     "v": 3,
+     "t": "Ô Dieu, fais-toi auprès de toi-même ma caution : quel autre voudrait me frapper dans la main ?"
+    },
+    {
+     "v": 4,
+     "t": "Car tu as fermé leur cœur à la sagesse ; ne permets donc pas qu’ils s’élèvent."
+    },
+    {
+     "v": 5,
+     "t": "Tel invite ses amis au partage, quand défaillent les yeux de ses enfants."
+    },
+    {
+     "v": 6,
+     "t": "Il a fait de moi la risée des peuples ; je suis l’homme à qui l’on crache au visage."
+    },
+    {
+     "v": 7,
+     "t": "Mon œil est voilé par le chagrin, et tous mes membres ne sont plus qu’une ombre."
+    },
+    {
+     "v": 8,
+     "t": "Les hommes droits en sont stupéfaits, et l’innocent s’irrite contre l’impie."
+    },
+    {
+     "v": 9,
+     "t": "Le juste néanmoins demeure ferme dans sa voie, et qui a les mains pures redouble de courage."
+    },
+    {
+     "v": 10,
+     "t": "Mais vous tous, revenez, venez donc ; ne trouverai-je pas un sage parmi vous ?"
+    },
+    {
+     "v": 11,
+     "t": "Mes jours sont écoulés, mes projets anéantis, ces projets que caressait mon cœur."
+    },
+    {
+     "v": 12,
+     "t": "De la nuit ils font le jour ; en face des ténèbres, ils disent que la lumière est proche !"
+    },
+    {
+     "v": 13,
+     "t": "J’ai beau attendre, le schéol est ma demeure ; dans les ténèbres j’ai disposé ma couche."
+    },
+    {
+     "v": 14,
+     "t": "J’ai dit à la fosse : « Tu es mon père ; » aux vers : « Vous êtes ma mère et ma sœur ! »"
+    },
+    {
+     "v": 15,
+     "t": "Où est donc mon espérance ? Mon espérance, qui peut la voir ?"
+    },
+    {
+     "v": 16,
+     "t": "Elle est descendue aux portes du schéol, si du moins dans la poussière on trouve du repos !…"
+    }
+   ]
+  },
+  {
+   "c": 18,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Baldad de Suhé prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Quand donc mettrez-vous un terme à ces discours ? Ayez de l’intelligence, puis nous parlerons."
+    },
+    {
+     "v": 3,
+     "t": "Pourquoi nous regardez-vous comme des brutes, et sommes-nous stupides à vos yeux ?"
+    },
+    {
+     "v": 4,
+     "t": "Toi qui te déchires dans ta fureur, veux-tu qu’à cause de toi la terre devienne déserte, que le rocher soit transporté hors de sa place ?"
+    },
+    {
+     "v": 5,
+     "t": "Oui, la lumière du méchant s’éteindra, et la flamme de son foyer cessera de briller."
+    },
+    {
+     "v": 6,
+     "t": "Le jour s’obscurcira sous sa tente, sa lampe s’éteindra au-dessus de lui."
+    },
+    {
+     "v": 7,
+     "t": "Ses pas si fermes seront à l’étroit, son propre conseil précipite sa chute."
+    },
+    {
+     "v": 8,
+     "t": "Ses pieds le jettent dans les rets, il marche sur le piège."
+    },
+    {
+     "v": 9,
+     "t": "Le filet saisit ses talons ; il est serré dans ses nœuds."
+    },
+    {
+     "v": 10,
+     "t": "Pour lui les lacs sont cachés sous terre, et la trappe est sur son sentier."
+    },
+    {
+     "v": 11,
+     "t": "De tous côtés des terreurs l’assiègent, et le poursuivent pas à pas."
+    },
+    {
+     "v": 12,
+     "t": "La disette est son châtiment, et la ruine est prête pour sa chute.",
+     "n": [
+      "XVIII, 12. Le premier stique manque dans les LXX. — La disette est son châtiment. D’autres : sa vigueur sera affamée, épuisée par la faim."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "La peau de ses membres est dévorée ; ses membres sont dévorés par le premier-né de la mort.",
+     "n": [
+      "13. La peau de ses membres est dévorée. M. à m. Il dévore les membres (les diverses parties) de sa peau. Texte difficile."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Il est arraché de sa tente, où il se croyait en sûreté ; on le traîne vers le Roi des frayeurs."
+    },
+    {
+     "v": 15,
+     "t": "Nul des siens n’habite dans sa tente, le soufre est semé sur sa demeure."
+    },
+    {
+     "v": 16,
+     "t": "En bas, ses racines se dessèchent, en haut, ses rameaux sont coupés."
+    },
+    {
+     "v": 17,
+     "t": "Sa mémoire a disparu de la terre, il n’a plus de nom dans la contrée."
+    },
+    {
+     "v": 18,
+     "t": "On le chasse de la lumière dans les ténèbres, on le bannit de l’univers.",
+     "n": [
+      "18. Le deuxième stique manque dans les LXX."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Il ne laisse ni descendance ni postérité dans sa tribu ; aucun survivant dans son séjour."
+    },
+    {
+     "v": 20,
+     "t": "Les peuples de l’Occident sont stupéfaits de sa ruine, et ceux de l’Orient en sont saisis d’horreur.",
+     "n": [
+      "20. Les peuples de l’Occident… de l’Orient ; litt. ceux qui sont par derrière… par devant : les Orientaux s’orientent en se tournant vers le soleil levant. D’autres : Les générations à venir…, les générations passées (qui l’accueillent au schéol)."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Telle est la demeure de l’impie, telle est la place de l’homme qui ne connaît pas Dieu."
+    }
+   ]
+  },
+  {
+   "c": 19,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Jusques à quand affligerez-vous mon âme, et m’accablerez-vous de vos discours ?"
+    },
+    {
+     "v": 3,
+     "t": "Voilà dix fois que vous m’insultez, que vous m’outragez sans pudeur."
+    },
+    {
+     "v": 4,
+     "t": "Quand même j’aurais failli, c’est avec moi que demeure ma faute."
+    },
+    {
+     "v": 5,
+     "t": "Mais vous, qui vous élevez contre moi, qui invoquez mon opprobre pour me convaincre,"
+    },
+    {
+     "v": 6,
+     "t": "sachez enfin que c’est Dieu qui m’opprime, et qui m’enveloppe de son filet."
+    },
+    {
+     "v": 7,
+     "t": "Voici que je crie à la violence, et nul ne me répond ! J’en appelle, et point de justice !"
+    },
+    {
+     "v": 8,
+     "t": "Il m’a barré le chemin, et je ne puis passer : il a répandu les ténèbres sur mes sentiers."
+    },
+    {
+     "v": 9,
+     "t": "Il m’a dépouillé de ma gloire, il a enlevé la couronne de ma tête."
+    },
+    {
+     "v": 10,
+     "t": "Il m’a sapé tout à l’entour, et je tombe ; il a déraciné, comme un arbre, mon espérance."
+    },
+    {
+     "v": 11,
+     "t": "Sa colère s’est allumée contre moi ; il m’a traité comme ses ennemis."
+    },
+    {
+     "v": 12,
+     "t": "Ses bataillons sont venus ensemble, ils se sont frayés un chemin jusqu’à moi, ils font le siège de ma tente."
+    },
+    {
+     "v": 13,
+     "t": "Il a éloigné de moi mes frères ; mes amis se sont détournés de moi."
+    },
+    {
+     "v": 14,
+     "t": "Mes proches m’ont abandonné, mes intimes m’ont oublié."
+    },
+    {
+     "v": 15,
+     "t": "Les hôtes de ma maison et mes servantes me traitent comme un étranger ; je suis un inconnu à leurs yeux."
+    },
+    {
+     "v": 16,
+     "t": "J’appelle mon serviteur, et il ne me répond pas ; je suis réduit à le supplier de ma bouche."
+    },
+    {
+     "v": 17,
+     "t": "Ma femme a horreur de mon haleine, je demande grâce aux fils de mon sein.",
+     "n": [
+      "17. Les fils de mon sein, c.-à-d. mes frères, les fils du même sein que moi."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Les enfants eux-mêmes me méprisent ; si je me lève, ils me raillent."
+    },
+    {
+     "v": 19,
+     "t": "Tous ceux qui étaient mes confidents m’ont en horreur, ceux que j’aimais se tournent contre moi."
+    },
+    {
+     "v": 20,
+     "t": "Mes os sont attachés à ma peau et à ma chair, je me suis échappé avec la peau de mes dents."
+    },
+    {
+     "v": 21,
+     "t": "Ayez pitié, ayez pitié de moi, vous du moins, mes amis, car la main de Dieu m’a frappé !"
+    },
+    {
+     "v": 22,
+     "t": "Pourquoi me poursuivez-vous, comme Dieu me poursuit ? Pourquoi êtes-vous insatiables de ma chair ?",
+     "n": [
+      "22. Dévorer la chair de quelqu’un, dans les langues sémitiques, c’est le calomnier, le déchirer par la langue. Comp. le latin rodere, et en fr. paroles mordantes."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Oh ! Qui me donnera que mes paroles soient écrites ! Qui me donnera qu’elles soient consignées dans un livre,"
+    },
+    {
+     "v": 24,
+     "t": "qu’avec un burin de fer et du plomb, elles soient pour toujours gravées dans le roc !"
+    },
+    {
+     "v": 25,
+     "t": "Je sais que mon vengeur est vivant, et qu’il se lèvera le dernier sur la poussière.",
+     "n": [
+      "25. Mon vengeur, hébr. mon goël, c.-à-d. vengeur, défenseur."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Alors de ce squelette, revêtu de sa peau, de ma chair je verrai Dieu.",
+     "n": [
+      "26. M. à m. Derrière ma peau, dont on aura entouré cela (mon corps) ; ou encore : derrière ma peau ; ils ont détruit cela (quand ma peau aura été détruite). 2 e membre : de ma chair je verrai Dieu. Pour les vers. 25, 26, les LXX traduisent : Je sais qu’éternel est celui qui doit me délivrer, que sur la terre se lèvera ma peau qui a souffert cela ; car c’est de la part du Seigneur que ces choses ont été accomplies pour moi. Vulg. : Je sais que mon rédempteur est vivant et qu’au dernier jour je me relèverai de la terre, et de nouveau je serai recouvert de ma peau et dans ma chair je verrai mon Dieu. Syriaque : Je sais que mon sauveur est vivant et qu’à la fin il se manifestera (ou il apparaîtra ) sur la terre. Et sur ma peau et sur ma chair ces choses se sont pressées (comme pour l’entourer) ; si mes yeux voient Dieu, ils verront la lumière. La plupart des anciennes versions voient, plus ou moins explicitement, en ce texte une référence à l’idée de résurrection."
+     ]
+    },
+    {
+     "v": 27,
+     "t": "Moi-même je le verrai ; mes yeux le verront, et non un autre ; mes reins se consument d’attente au-dedans de moi."
+    },
+    {
+     "v": 28,
+     "t": "Vous direz alors : « Pourquoi le poursuivions-nous ? » et la justice de ma cause sera reconnue.",
+     "n": [
+      "28. Vous direz alors ; ou bien, ce qui se rapproche de la Vulgate : mais vous qui dites : Comment le poursuivrons-nous et trouverons-nous en lui un motif de condamnation."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Ce jour-là, craignez pour vous le glaive : terribles sont les vengeances du glaive ! Et vous saurez qu’il y a une justice."
+    }
+   ]
+  },
+  {
+   "c": 20,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Sophar de Naama prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "C’est pourquoi mes pensées me suggèrent une réponse, et, à cause de mon agitation, j’ai hâte de la donner.",
+     "n": [
+      "XX, 2. C’est pourquoi, à cause de ce que Job vient de dire."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "J’ai entendu des reproches qui m’outragent ; dans mon intelligence, mon esprit trouvera la réplique."
+    },
+    {
+     "v": 4,
+     "t": "Sais-tu bien que, de tout temps, depuis que l’homme a été placé sur la terre,"
+    },
+    {
+     "v": 5,
+     "t": "le triomphe des méchants a été court, et la joie de l’impie d’un moment ?"
+    },
+    {
+     "v": 6,
+     "t": "Quand il porterait son orgueil jusqu’au ciel, et que sa tête toucherait aux nues,"
+    },
+    {
+     "v": 7,
+     "t": "comme son ordure, il périt pour toujours ; ceux qui le voyaient disent : « Où est-il ? »"
+    },
+    {
+     "v": 8,
+     "t": "Il s’envole comme un songe, et on ne le trouve plus ; il s’efface comme une vision de la nuit."
+    },
+    {
+     "v": 9,
+     "t": "L’œil qui le voyait ne le découvre plus ; sa demeure ne l’apercevra plus."
+    },
+    {
+     "v": 10,
+     "t": "Ses enfants imploreront les pauvres, de ses propres mains il restituera ses rapines."
+    },
+    {
+     "v": 11,
+     "t": "Ses os étaient pleins de ses iniquités cachées ; elles dormiront avec lui dans la poussière.",
+     "n": [
+      "11. Iniquités cachées ; le mot hébr. signifie aussi vigueur de jeunesse, sens que préfèrent de bons interprètes : … pleins de vigueur juvénile ; elle (sa jeunesse) dormira avec lui. La Vulg. réunit les deux sens… plein des iniquités de sa jeunesse."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Parce que le mal a été doux à sa bouche, qu’il l’a caché sous sa langue,"
+    },
+    {
+     "v": 13,
+     "t": "qu’il l’a savouré sans l’abandonner, et l’a retenu au milieu de son palais :"
+    },
+    {
+     "v": 14,
+     "t": "sa nourriture tournera en poison dans ses entrailles, elle deviendra dans son sein le venin de l’aspic."
+    },
+    {
+     "v": 15,
+     "t": "Il a englouti des richesses, il les vomira ; Dieu les retirera de son ventre."
+    },
+    {
+     "v": 16,
+     "t": "Il a sucé le venin de l’aspic, la langue de la vipère le tuera."
+    },
+    {
+     "v": 17,
+     "t": "Il ne verra jamais couler les fleuves, les torrents de miel et de lait."
+    },
+    {
+     "v": 18,
+     "t": "Il rendra ce qu’il a gagné et ne s’en gorgera pas, dans la mesure de ses profits, et il n’en jouira pas."
+    },
+    {
+     "v": 19,
+     "t": "Car il a opprimé et délaissé les pauvres, il a saccagé leur maison, et ne l’a point rétablie :"
+    },
+    {
+     "v": 20,
+     "t": "son avidité n’a pu être rassasiée, il n’emportera pas ce qu’il a de plus cher."
+    },
+    {
+     "v": 21,
+     "t": "Rien n’échappait à sa voracité ; aussi son bonheur ne subsistera pas."
+    },
+    {
+     "v": 22,
+     "t": "Au sein de l’abondance, il tombe dans la disette ; tous les coups du malheur viennent sur lui."
+    },
+    {
+     "v": 23,
+     "t": "Voici pour lui remplir le ventre : Dieu enverra sur lui le feu de sa colère, elle pleuvra sur lui jusqu’en ses entrailles."
+    },
+    {
+     "v": 24,
+     "t": "S’il échappe aux armes de fer, l’arc d’airain le transperce."
+    },
+    {
+     "v": 25,
+     "t": "Il arrache le trait, il sort de son corps, l’acier sort étincelant de son foie ; les terreurs de la mort tombent sur lui.",
+     "n": [
+      "25. Il arrache, etc. Le Hir : l’épée est dégainée et traverse son corps. La traduction de Vulg. est fort obscure."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Une nuit profonde engloutit ses trésors ; un feu que l’homme n’a pas allumé le dévore, et consume tout ce qui restait dans sa tente."
+    },
+    {
+     "v": 27,
+     "t": "Les cieux révéleront son iniquité, et la terre s’élèvera contre lui."
+    },
+    {
+     "v": 28,
+     "t": "L’abondance de sa maison sera dispersée, elle disparaîtra au jour de la colère.",
+     "n": [
+      "28. L’abondance (litt. le revenu, le produit ) de sa maison, tout ce qui constitue une maison : enfants, serviteurs, biens de toutes sortes. Vulg., le rejeton de sa maison sera mis à découvert (?) ; il sera arraché au jour de la colère de Dieu."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Telle est la part que Dieu réserve au méchant, et l’héritage que lui destine Dieu.",
+     "n": [
+      "29. Et l’héritage que lui destine, m. à m. et l’héritage de sa parole (de la parole proférée à son sujet) de par Dieu."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 21,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Écoutez, écoutez mes paroles, que j’aie, du moins, cette consolation de vous."
+    },
+    {
+     "v": 3,
+     "t": "Permettez-moi de parler à mon tour, et, quand j’aurai parlé, vous pourrez vous moquer."
+    },
+    {
+     "v": 4,
+     "t": "Est-ce contre un homme que se porte ma plainte ? Comment donc la patience ne m’échapperait elle pas ?"
+    },
+    {
+     "v": 5,
+     "t": "Regardez-moi et soyez dans la stupeur, et mettez la main sur votre bouche."
+    },
+    {
+     "v": 6,
+     "t": "Quand j’y pense, je frémis ; et un frissonnement saisit ma chair."
+    },
+    {
+     "v": 7,
+     "t": "Pourquoi les méchants vivent-ils, et vieillissent-ils, accroissant leur force ?"
+    },
+    {
+     "v": 8,
+     "t": "Leur postérité s’affermit autour d’eux, leurs rejetons fleurissent à leurs yeux."
+    },
+    {
+     "v": 9,
+     "t": "Leur maison est en paix, à l’abri de la crainte ; la verge de Dieu ne les touche pas."
+    },
+    {
+     "v": 10,
+     "t": "Leur taureau est toujours fécond, leur génisse enfante et n’avorte pas."
+    },
+    {
+     "v": 11,
+     "t": "Ils laissent courir leurs enfants comme un troupeau, leurs nouveau-nés bondissent autour d’eux."
+    },
+    {
+     "v": 12,
+     "t": "Ils chantent au son du tambourin et de la cithare, ils se divertissent au son du chalumeau."
+    },
+    {
+     "v": 13,
+     "t": "Ils passent leurs jours dans le bonheur, et ils descendent en un instant au schéol."
+    },
+    {
+     "v": 14,
+     "t": "Pourtant ils disaient à Dieu : « Retire-toi de nous ; nous ne désirons pas connaître tes voies."
+    },
+    {
+     "v": 15,
+     "t": "Qu’est-ce que le Tout-Puissant, pour que nous le servions ? Que gagnerions-nous à le prier ? »"
+    },
+    {
+     "v": 16,
+     "t": "Leur prospérité n’est-elle pas dans leur main ? — Toutefois, loin de moi le conseil de l’impie ! —",
+     "n": [
+      "XXI, 16. Leur prospérité n’est-elle pas dans leur main ? L’hébreu n’a pas la particule d’interrogation. Aussi il en est qui traduisent : Voici que leur prospérité n’est pas dans leur main, c’est-à-dire est entre les mains de Dieu. On aurait là, d’après d’aucuns, une objection faite à la thèse soutenue par Job immédiatement auparavant, et analogue à celle du vers. 19 ; le vers. 17 lui servirait de réponse."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Voit-on souvent s’éteindre la lampe des impies, la ruine fondre sur eux, et Dieu leur assigner un lot dans sa colère ?"
+    },
+    {
+     "v": 18,
+     "t": "Les voit-on comme la paille emportée par le vent, comme la glume enlevée par le tourbillon ?"
+    },
+    {
+     "v": 19,
+     "t": "« Dieu, dites-vous, réserve à ses enfants son châtiment !… » Mais que Dieu le punisse lui-même pour qu’il le sente,"
+    },
+    {
+     "v": 20,
+     "t": "qu’il voie de ses yeux sa ruine, qu’il boive lui-même la colère du Tout-Puissant !"
+    },
+    {
+     "v": 21,
+     "t": "Que lui importe, en effet, sa maison après lui, une fois que le nombre de ses mois est tranché ?",
+     "n": [
+      "21. Vulg., même si le nombre de ses mois est divisé, si sa vie est réduite de moitié, pourvu qu’il en ait joui à son aise."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Est-ce à Dieu qu’on apprendra la sagesse, à lui qui juge les êtres les plus élevés ?"
+    },
+    {
+     "v": 23,
+     "t": "L’un meurt au sein de sa prospérité, parfaitement heureux et tranquille,"
+    },
+    {
+     "v": 24,
+     "t": "les flancs chargés de graisse, et la moelle des os remplie de sève.",
+     "n": [
+      "24. Les flancs. Le mot hébreu ne se rencontre qu’une fois dans la Bible. D’autres : les auges pleines de lait."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "L’autre meurt, l’amertume dans l’âme, sans avoir goûté le bonheur."
+    },
+    {
+     "v": 26,
+     "t": "Tous deux se couchent également dans la poussière, et les vers les couvrent tous deux."
+    },
+    {
+     "v": 27,
+     "t": "Ah ! Je sais bien quelles sont vos pensées, quels jugements iniques vous portez sur moi."
+    },
+    {
+     "v": 28,
+     "t": "Vous dites : « Où est la maison de l’oppresseur ! Qu’est devenue la tente qu’habitaient les impies ? »"
+    },
+    {
+     "v": 29,
+     "t": "N’avez-vous donc jamais interrogé les voyageurs, et ignorez-vous leurs remarques ?"
+    },
+    {
+     "v": 30,
+     "t": "Au jour du malheur, le méchant est épargné ; au jour de la colère, il échappe au châtiment."
+    },
+    {
+     "v": 31,
+     "t": "Qui blâme devant lui sa conduite ? Qui lui demande compte de ce qu’il a fait ?"
+    },
+    {
+     "v": 32,
+     "t": "On le porte honorablement au tombeau ; et on veille sur son mausolée."
+    },
+    {
+     "v": 33,
+     "t": "les glèbes de la vallée lui sont légères, et tous les hommes y vont à sa suite, comme des générations sans nombre l’y ont précédé."
+    },
+    {
+     "v": 34,
+     "t": "Que signifient donc vos vaines consolations ? De vos réponses il ne reste que perfidie."
+    }
+   ]
+  },
+  {
+   "c": 22,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Éliphaz prit la parole et dit :",
+     "h": "III. — TROISIÈME CYCLE DE DISCOURS. [XXII, 1 — XXXI, 40.]",
+     "n": [
+      "XXII, 1. Ici Éliphaz ne se contente plus d’affirmer sa thèse en général, mais il fait une longue énumération des fautes que Job doit avoir commises."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "L’homme peut-il être utile à Dieu ? Le sage n’est utile qu’à lui-même."
+    },
+    {
+     "v": 3,
+     "t": "Qu’importe au Tout-Puissant que tu sois juste ? Si tu es intègre dans tes voies, qu’y gagne-t-il ?"
+    },
+    {
+     "v": 4,
+     "t": "Est-ce à cause de ta piété qu’il te châtie, qu’il entre en jugement avec toi ?"
+    },
+    {
+     "v": 5,
+     "t": "Ta malice n’est-elle pas immense, tes iniquités sans mesure ?"
+    },
+    {
+     "v": 6,
+     "t": "Tu prenais sans motif des gages à tes frères, tu enlevais les vêtements à ceux qui étaient nus."
+    },
+    {
+     "v": 7,
+     "t": "Tu ne donnais point d’eau à l’homme épuisé, à l’affamé tu refusais le pain."
+    },
+    {
+     "v": 8,
+     "t": "La terre était au bras le plus fort, et le protégé y établissait sa demeure."
+    },
+    {
+     "v": 9,
+     "t": "Tu renvoyais les veuves les mains vides, et les bras des orphelins étaient brisés."
+    },
+    {
+     "v": 10,
+     "t": "Voilà pourquoi tu es entouré de pièges, et troublé par des terreurs soudaines,"
+    },
+    {
+     "v": 11,
+     "t": "au sein des ténèbres, sans voir, et submergé par le déluge des eaux."
+    },
+    {
+     "v": 12,
+     "t": "Dieu n’est-il pas dans les hauteurs du ciel ? Vois le front des étoiles : comme il est élevé !"
+    },
+    {
+     "v": 13,
+     "t": "Et tu disais : « Qu’en sait Dieu ? Pourra-t-il juger à travers les nues profondes ?"
+    },
+    {
+     "v": 14,
+     "t": "Les nues lui forment un voile, et il ne voit pas ; il se promène sur le cercle du ciel. »"
+    },
+    {
+     "v": 15,
+     "t": "Gardes-tu donc les voies anciennes, où marchèrent les hommes d’iniquité,"
+    },
+    {
+     "v": 16,
+     "t": "qui furent emportés avant le temps, dont les fondements ont été arrachés par les eaux."
+    },
+    {
+     "v": 17,
+     "t": "Eux qui disaient à Dieu : « Retire-toi de nous ! Que pourrait nous faire le Tout-Puissant ? »"
+    },
+    {
+     "v": 18,
+     "t": "C’était lui pourtant qui avait rempli leurs maisons de richesses. — Loin de moi le conseil des méchants ! —"
+    },
+    {
+     "v": 19,
+     "t": "Les justes voient leur chute et s’en réjouissent ; les innocents se moquent d’eux :"
+    },
+    {
+     "v": 20,
+     "t": "« Voilà nos ennemis anéantis ! Le feu a dévoré leurs richesses ! »"
+    },
+    {
+     "v": 21,
+     "t": "Réconcilie-toi donc avec Dieu et apaise-toi ; ainsi le bonheur te sera rendu."
+    },
+    {
+     "v": 22,
+     "t": "Reçois de sa bouche l’enseignement, et mets ses paroles dans ton cœur."
+    },
+    {
+     "v": 23,
+     "t": "Tu te relèveras, si tu reviens au Tout-Puissant, si tu éloignes l’iniquité de ta tente."
+    },
+    {
+     "v": 24,
+     "t": "Jette les lingots d’or dans la poussière, et l’or d’Ophir parmi les cailloux du torrent."
+    },
+    {
+     "v": 25,
+     "t": "Et le Tout-Puissant sera ton or, il sera pour toi un monceau d’argent."
+    },
+    {
+     "v": 26,
+     "t": "Alors tu mettras tes délices dans le Tout-Puissant, et tu lèveras vers lui ta face."
+    },
+    {
+     "v": 27,
+     "t": "Tu le prieras, et il t’écoutera, et tu t’acquitteras de tes vœux."
+    },
+    {
+     "v": 28,
+     "t": "Si tu formes un dessein, il te réussira, sur tes sentiers brillera la lumière."
+    },
+    {
+     "v": 29,
+     "t": "À des fronts abattus tu crieras : « En haut ! » et Dieu secourra celui dont les yeux sont abaissés.",
+     "n": [
+      "29. En haut ! relevez vous. D’autres : vienne l’humiliation, tu t’écrieras : En haut ! c.-à d., ton énergie, aidée du secours divin, te relèvera. Vulg., celui qui aura été abaissé sera dans la gloire, abaissé par le malheur ou le repentir."
+     ]
+    },
+    {
+     "v": 30,
+     "t": "Il délivrera même le coupable, sauvé par la pureté de tes mains.",
+     "n": [
+      "30. Le coupable ; LXX et Vulg., l’innocent ; ces deux versions n’ont pas lu ou n’ont pas compris la négation."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 23,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Oui, aujourd’hui ma plainte est amère, et pourtant ma main retient mes soupirs.",
+     "n": [
+      "XXIII, 2. Oui, aujourd’hui, ma plainte est amère. D’autres : Oui, aujourd’hui, ma plainte est censée une révolte."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Oh ! Qui me donnera de savoir où le trouver, d’arriver jusqu’à son trône !"
+    },
+    {
+     "v": 4,
+     "t": "Je plaiderais ma cause devant lui, et je remplirais ma bouche d’arguments."
+    },
+    {
+     "v": 5,
+     "t": "Je saurais les raisons qu’il peut m’opposer, je verrais ce qu’il peut avoir à me dire."
+    },
+    {
+     "v": 6,
+     "t": "M’opposerait-il la grandeur de sa puissance ? Ne jetterait-il pas au moins les yeux sur moi ?"
+    },
+    {
+     "v": 7,
+     "t": "Alors l’innocent discuterait avec lui, et je m’en irais absous pour toujours par mon juge."
+    },
+    {
+     "v": 8,
+     "t": "Mais si je vais à l’orient, il n’y est pas ; à l’occident, je ne l’aperçois pas."
+    },
+    {
+     "v": 9,
+     "t": "Est-il occupé au septentrion, je ne le vois pas ; se cache-t-il au midi, je ne puis le découvrir."
+    },
+    {
+     "v": 10,
+     "t": "Cependant il connaît les sentiers où je marche ; qu’il m’examine, je sortirai pur comme l’or."
+    },
+    {
+     "v": 11,
+     "t": "Mon pied a toujours foulé ses traces ; je me suis tenu dans sa voie sans dévier."
+    },
+    {
+     "v": 12,
+     "t": "Je ne me suis pas écarté des préceptes de ses lèvres ; j’ai fait plier ma volonté aux paroles de sa bouche.",
+     "n": [
+      "12. J’ai fait plier ma volonté. Vulg. j’ai gardé dans mon sein : elle a lu bechêqi au lieu de méchouqqi ; cette leçon paraît préférable."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Mais il a une pensée : qui l’en fera revenir ? Ce qu’il désire, il l’exécute."
+    },
+    {
+     "v": 14,
+     "t": "Il accomplira donc ce qu’il a décrété à mon sujet, et de pareils desseins, il en a beaucoup."
+    },
+    {
+     "v": 15,
+     "t": "Voilà pourquoi je me trouble en sa présence ; quand j’y pense, j’ai peur de lui."
+    },
+    {
+     "v": 16,
+     "t": "Dieu fait fondre mon cœur ; le Tout-Puissant me remplit d’effroi."
+    },
+    {
+     "v": 17,
+     "t": "Car ce ne sont pas les ténèbres qui me consument, ni l’obscurité dont ma face est voilée."
+    }
+   ]
+  },
+  {
+   "c": 24,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Pourquoi n’y a-t-il pas de temps réservés par le Tout-Puissant, et ceux qui le servent ne voient-ils pas son jour ?"
+    },
+    {
+     "v": 2,
+     "t": "On voit des hommes qui déplacent les bornes, qui font paître le troupeau qu’ils ont volé."
+    },
+    {
+     "v": 3,
+     "t": "Ils poussent devant eux l’âne de l’orphelin, et retiennent en gage le bœuf de la veuve."
+    },
+    {
+     "v": 4,
+     "t": "Ils forcent les pauvres à se détourner du chemin ; tous les humbles du pays sont réduits à se cacher."
+    },
+    {
+     "v": 5,
+     "t": "Comme l’onagre dans la solitude, ils sortent pour leur travail, dès le matin, cherchant leur nourriture. Le désert leur fournit la subsistance de leurs enfants ;",
+     "n": [
+      "XXIV, 5 sv. Les vers. 5 sv. continuent-ils de raconter les violences des méchants, vivant de maraude et de pillage, à la manière des Bédouins ; ou bien décrivent-ils l’état misérable des victimes, chassées de leurs demeures et trouvant à peine leur nourriture ans le désert ? Les LXX et la Vulg. suivent le premier sentiment ; de même Le Hir, mais seulement pour les vers. 5, 6 ; le second nous a paru plus probable."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "ils coupent les épis dans les champs, ils maraudent dans la vigne de leur oppresseur."
+    },
+    {
+     "v": 7,
+     "t": "Nus, ils passent la nuit, faute de vêtements, sans couverture contre le froid."
+    },
+    {
+     "v": 8,
+     "t": "La pluie des montagnes les pénètre ; à défaut d’abri, ils se blottissent contre le rocher."
+    },
+    {
+     "v": 9,
+     "t": "Ils arrachent l’orphelin à la mamelle, ils prennent des gages sur les pauvres."
+    },
+    {
+     "v": 10,
+     "t": "Ceux-ci, tout nus, sans vêtements, portent, affamés, les gerbes du maître ;"
+    },
+    {
+     "v": 11,
+     "t": "Ils expriment l’huile dans ses celliers ; ils foulent la vendange, et ils ont soif.",
+     "n": [
+      "11. Dans ses celliers, litt. dans ses murs."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Du sein des villes s’élèvent les gémissements des hommes, et l’âme des blessés crie ; et Dieu ne prend pas garde à ces forfaits !"
+    },
+    {
+     "v": 13,
+     "t": "D’autres sont parmi les ennemis de la lumière, ils n’en connaissent pas les voies, ils ne se tiennent pas dans ses sentiers."
+    },
+    {
+     "v": 14,
+     "t": "L’assassin se lève au point du jour ; il tue le pauvre et l’indigent, il rôde la nuit comme un voleur."
+    },
+    {
+     "v": 15,
+     "t": "L’œil de l’adultère épie le crépuscule ; « Personne ne me voit, » dit-il, et il jette un voile sur son visage."
+    },
+    {
+     "v": 16,
+     "t": "La nuit, d’autres forcent les maisons, le jour, ils se tiennent cachés ils ne connaissent pas la lumière."
+    },
+    {
+     "v": 17,
+     "t": "Pour eux, le matin est comme l’ombre de la mort, car les horreurs de la nuit leur sont familières."
+    },
+    {
+     "v": 18,
+     "t": "Ah ! l’impie glisse comme un corps léger sur la face des eaux, il n’a sur la terre qu’une part maudite, il ne se dirige pas sur le chemin des vignes !",
+     "n": [
+      "18-24. À partir du vers. 18, l’enchaînement des idées devient difficile à déterminer. Voici une interprétation possible : Vous dites que l’impie ne fait que passer sur la terre et qu’il est vite oublié (18-21). Eh bien ! non Dieu prolonge ses jours et, quand il meurt à la fin, il ne fait que partager le sort commun des hommes. (Voir Crampon, Commentaire.)"
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Comme la sécheresse et la chaleur absorbent l’eau des neiges, ainsi le schéol engloutit les pécheurs !"
+    },
+    {
+     "v": 20,
+     "t": "Ah ! Le sein maternel l’oublie, les vers en font leurs délices ; on ne se souvient plus de lui, et l’iniquité est brisée comme un arbre."
+    },
+    {
+     "v": 21,
+     "t": "Il dévorait la femme stérile et sans enfants, il ne faisait pas de bien à la veuve !…"
+    },
+    {
+     "v": 22,
+     "t": "Mais Dieu par sa force ébranle les puissants, il se lève, et ils ne comptent plus sur la vie ;",
+     "n": [
+      "22. D’autres : Mais Dieu par sa puissance prolonge la vie des puissants : il se lève, celui qui ne comptait plus sur la vie."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "il leur donne la sécurité et la confiance, et ses yeux veillent sur leurs voies."
+    },
+    {
+     "v": 24,
+     "t": "Ils se sont élevés, et en un instant ils ne sont plus ; ils tombent, ils sont moissonnés comme tous les hommes ; ils sont coupés comme la tête des épis."
+    },
+    {
+     "v": 25,
+     "t": "S’il n’en est pas ainsi, qui me convaincra de mensonge ? Qui réduira mes paroles à néant ?",
+     "n": [
+      "25. À néant, hébreu leal. La Vulg. a lu leel et traduit : qui déférera à Dieu mes paroles ?"
+     ]
+    }
+   ]
+  },
+  {
+   "c": 25,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Baldad de Suhé prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "À lui appartiennent la domination et la terreur ; il fait régner la paix dans ses hautes demeures."
+    },
+    {
+     "v": 3,
+     "t": "Ses légions ne sont-elles pas innombrables ? Sur qui ne se lève pas sa lumière ?"
+    },
+    {
+     "v": 4,
+     "t": "Comment l’homme serait-il juste devant Dieu ? Comment le fils de la femme serait-il pur ?"
+    },
+    {
+     "v": 5,
+     "t": "Voici que la lune même est sans clarté, les étoiles ne sont pas pures à ses yeux :"
+    },
+    {
+     "v": 6,
+     "t": "combien moins l’homme, ce vermisseau, le fils de l’homme, ce vil insecte !"
+    }
+   ]
+  },
+  {
+   "c": 26,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Job prit la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Comme tu sais venir en aide à la faiblesse, prêter secours au bras sans force !"
+    },
+    {
+     "v": 3,
+     "t": "Comme tu conseilles bien l’ignorant ! Quelle abondance de sagesse tu fais paraître !"
+    },
+    {
+     "v": 4,
+     "t": "À qui adresses-tu des paroles ? Et de qui est l’esprit qui sort de ta bouche ?"
+    },
+    {
+     "v": 5,
+     "t": "Devant Dieu, les ombres tremblent sous les eaux et leurs habitants."
+    },
+    {
+     "v": 6,
+     "t": "Le schéol est à nu devant lui, et l’abîme n’a point de voile."
+    },
+    {
+     "v": 7,
+     "t": "Il étend le septentrion sur le vide, il suspend la terre sur le néant."
+    },
+    {
+     "v": 8,
+     "t": "Il renferme les eaux dans ses nuages, et les nues ne se déchirent pas sous leur poids."
+    },
+    {
+     "v": 9,
+     "t": "Il voile la face de son trône, il étend sur lui ses nuées."
+    },
+    {
+     "v": 10,
+     "t": "Il a tracé un cercle à la surface des eaux, au point de division de la lumière et des ténèbres."
+    },
+    {
+     "v": 11,
+     "t": "Les colonnes du ciel s’ébranlent, et s’épouvantent à sa menace."
+    },
+    {
+     "v": 12,
+     "t": "Par sa puissance il soulève la mer, par sa sagesse il brise l’orgueil.",
+     "n": [
+      "XXVI, 12. Il brise l’orgueil, litt. il brise Rahab."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Par son souffle le ciel devient serein, sa main a formé le serpent fuyard.",
+     "n": [
+      "13. À formé le serpent fuyard. D’autres : a brisé."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Tels sont les bords de ses voies, le léger murmure que nous en percevons ; mais le tonnerre de sa puissance, qui pourra l’entendre ?"
+    }
+   ]
+  },
+  {
+   "c": 27,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Job reprit son discours et dit :",
+     "n": [
+      "XXVII, 1. Sophar, à qui ce serait le tour de répondre, n’a plus rien à dire. Job continue donc son discours ; Vulg., sa parabole. Le mot hébreux mâschâl désigne un discours figuré et sentencieux, quelquefois rythmé."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Par le Dieu vivant qui me refuse justice, par le Tout-Puissant qui remplit mon âme d’amertume :"
+    },
+    {
+     "v": 3,
+     "t": "aussi longtemps que j’aurai la respiration, que le souffle de Dieu sera dans mes narines,"
+    },
+    {
+     "v": 4,
+     "t": "mes lèvres ne prononceront rien d’inique, ma langue ne proférera pas le mensonge."
+    },
+    {
+     "v": 5,
+     "t": "Loin de moi la pensée de vous donner raison ! Jusqu’à ce que j’expire, je défendrai mon innocence."
+    },
+    {
+     "v": 6,
+     "t": "J’ai entrepris ma justification, je ne l’abandonnerai pas ; mon cœur ne condamne aucun de mes jours."
+    },
+    {
+     "v": 7,
+     "t": "Que mon ennemi soit traité comme le méchant ! Que mon adversaire ait le sort de l’impie !"
+    },
+    {
+     "v": 8,
+     "t": "Quel sera l’espoir de l’impie quand Dieu le retranchera, quand il retirera son âme ?"
+    },
+    {
+     "v": 9,
+     "t": "Est-ce que Dieu écoutera ses cris, au jour où l’angoisse viendra sur lui ?"
+    },
+    {
+     "v": 10,
+     "t": "Trouve-t-il ses délices dans le Tout-Puissant ? Adresse-t-il en tout temps ses prières à Dieu ?"
+    },
+    {
+     "v": 11,
+     "t": "Je vous enseignerai la conduite de Dieu, et je ne vous cacherai pas les desseins du Tout-Puissant."
+    },
+    {
+     "v": 12,
+     "t": "Voici que vous-mêmes, vous avez tous vu ; pourquoi donc discourez-vous en vain ?"
+    },
+    {
+     "v": 13,
+     "t": "Voici la part que Dieu réserve au méchant, l’héritage que les violents reçoivent du Tout-Puissant.",
+     "n": [
+      "13. Paroles empruntées à Sophar ( xx, 29)."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "S’il a des fils en grand nombre, c’est pour le glaive ; ses rejetons ne seront pas rassasiés de pain."
+    },
+    {
+     "v": 15,
+     "t": "Ses survivants seront ensevelis dans la mort, leurs veuves ne les pleureront pas."
+    },
+    {
+     "v": 16,
+     "t": "S’il amasse l’argent comme la poussière, s’il entasse les vêtements comme la boue,"
+    },
+    {
+     "v": 17,
+     "t": "c’est lui qui entasse, mais c’est le juste qui les porte, c’est le juste qui hérite de ton argent."
+    },
+    {
+     "v": 18,
+     "t": "Sa maison est comme celle que bâtit la teigne, comme la hutte que se construit le gardien des vignes."
+    },
+    {
+     "v": 19,
+     "t": "Le riche se couche, c’est pour la dernière fois ; il ouvre les yeux, il n’est plus.",
+     "n": [
+      "19. C’est pour la dernière fois, en lisant, comme les LXX, lô yôsîph. La leçon massorétique lô véâséph donne lieu à deux interprétations : il est privé de sépulture (Le Hir. : comp. Jér. viii, 2 ; Ezéch. xxix, 5 ), et : il est dépouillé, litt. il n’emporte rien (comme s’il y avait yeasséph ). Vulg. Il ouvre les yeux, en un clin d’œil."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Les terreurs fondent sur lui comme des eaux, un tourbillon l’enlève au milieu de la nuit."
+    },
+    {
+     "v": 21,
+     "t": "Le vent d’orient l’emporte, et il disparaît ; il l’arrache violemment de sa demeure."
+    },
+    {
+     "v": 22,
+     "t": "Dieu lance sur lui ses traits sans pitié, il fuit éperdu loin de sa main ;"
+    },
+    {
+     "v": 23,
+     "t": "on bat des mains à son sujet, de sa demeure on siffle sur lui."
+    }
+   ]
+  },
+  {
+   "c": 28,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Il y a pour l’argent un lieu d’où on l’extrait, pour l’or un lieu où on l’épure."
+    },
+    {
+     "v": 2,
+     "t": "Le fer se tire de la terre, et la pierre fondue donne le cuivre."
+    },
+    {
+     "v": 3,
+     "t": "L’homme met fin aux ténèbres, il explore, jusqu’au fond des abîmes, la pierre cachée dans les ténèbres et l’ombre de la mort."
+    },
+    {
+     "v": 4,
+     "t": "Il creuse, loin des lieux habités, des galeries, qu’ignore le pied des vivants ; suspendu, il vacille, loin des humains."
+    },
+    {
+     "v": 5,
+     "t": "La terre, d’où sort le pain, est bouleversée dans ses entrailles comme par le feu."
+    },
+    {
+     "v": 6,
+     "t": "Ses roches sont le lieu du saphir, et l’on y trouve de la poudre d’or."
+    },
+    {
+     "v": 7,
+     "t": "L’oiseau de proie n’en connaît pas le sentier, l’œil du vautour ne l’a point aperçu."
+    },
+    {
+     "v": 8,
+     "t": "Les animaux sauvages ne l’ont point foulé, le lion n’y a jamais passé."
+    },
+    {
+     "v": 9,
+     "t": "L’homme porte sa main sur le granit, il ébranle les montagnes dans leurs racines."
+    },
+    {
+     "v": 10,
+     "t": "Il perce des galeries dans les rochers ; rien de précieux n’échappe à son regard."
+    },
+    {
+     "v": 11,
+     "t": "Il sait arrêter le suintement des eaux, il amène à la lumière tout ce qui était caché."
+    },
+    {
+     "v": 12,
+     "t": "Mais la Sagesse, où la trouver ? Où est le lieu de l’Intelligence ?",
+     "n": [
+      "XXVIII, 12. La Sagesse personnifiée, qui assiste Dieu dans toutes ses œuvres et connaît tous les secrets de son gouvernement. Comp. Prov. viii ; Eccl. xxiv ; Baruch, iii, 14 — iv, 4."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "L’homme n’en connaît pas le prix, on ne la rencontre pas sur la terre des vivants.",
+     "n": [
+      "13. Le prix, hébr. éreh. Les LXX ont lu déreh, la voie, ce qui donne un meilleur parallélisme."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "L’abîme dit : « Elle n’est pas dans mon sein ; » la mer dit : « Elle n’est pas avec moi. »"
+    },
+    {
+     "v": 15,
+     "t": "Elle ne se donne pas contre de l’or pur, elle ne s’achète pas au poids de l’argent.",
+     "n": [
+      "15. Elle ne se donne pas etc. M. à m. on ne donne pas contre elle de l’or pur."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "On ne la met pas en balance avec de l’or d’Ophir, avec l’onyx précieux et avec le saphir."
+    },
+    {
+     "v": 17,
+     "t": "L’or et le verre ne peuvent lui être comparés, on ne l’échange pas pour un vase d’or fin."
+    },
+    {
+     "v": 18,
+     "t": "Qu’on ne fasse pas mention du corail et du cristal : la possession de la sagesse vaut mieux que les perles."
+    },
+    {
+     "v": 19,
+     "t": "La topaze d’Éthiopie ne l’égale pas, et l’or pur n’atteint pas sa valeur."
+    },
+    {
+     "v": 20,
+     "t": "D’où vient donc la sagesse ? Où est le lieu de l’Intelligence ?"
+    },
+    {
+     "v": 21,
+     "t": "Elle est cachée aux yeux de tous les vivants, elle se dérobe aux oiseaux du ciel."
+    },
+    {
+     "v": 22,
+     "t": "L’enfer et la mort disent : « Nous en avons entendu parler. »"
+    },
+    {
+     "v": 23,
+     "t": "C’est Dieu qui connaît son chemin, c’est lui qui sait où elle réside."
+    },
+    {
+     "v": 24,
+     "t": "Car il voit jusqu’aux extrémités de la terre, il aperçoit tout ce qui est sous le ciel."
+    },
+    {
+     "v": 25,
+     "t": "Quand il réglait le poids des vents, qu’il mettait les eaux dans la balance,"
+    },
+    {
+     "v": 26,
+     "t": "quand il donnait des lois à la pluie, qu’il traçait la route aux éclairs de la foudre,"
+    },
+    {
+     "v": 27,
+     "t": "alors il l’a vue et l’a décrite, il l’a établie et en a sondé les secrets."
+    },
+    {
+     "v": 28,
+     "t": "Puis il a dit à l’homme : La crainte du Seigneur, voilà la sagesse ; fuir le mal, voilà l’intelligence."
+    }
+   ]
+  },
+  {
+   "c": 29,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Job reprit encore son discours et dit :",
+     "n": [
+      "XXIX, 1. Voyant ses amis réduits au silence, Job prononce un dernier discours, qui ressemble plutôt à un monologue."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Oh ! Qui me rendra les mois d’autrefois, les jours où Dieu veillait à ma garde ;"
+    },
+    {
+     "v": 3,
+     "t": "quand sa lampe brillait sur ma tête, et que sa lumière me guidait dans les ténèbres !"
+    },
+    {
+     "v": 4,
+     "t": "Tel que j’étais aux jours de mon âge mûr, quand Dieu me visitait familièrement dans ma tente,",
+     "n": [
+      "4. Âge mûr, litt. automne. — Quand Dieu me visitait, etc. D’autres : quand Dieu veillait en ami sur ma tente."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "quand le Tout-Puissant était encore avec moi, et que mes fils m’entouraient ;"
+    },
+    {
+     "v": 6,
+     "t": "quand je lavais mes pieds dans le lait, et que le rocher me versait des flots d’huile !"
+    },
+    {
+     "v": 7,
+     "t": "Lorsque je sortais pour me rendre à la porte de la ville, et que j’établissais mon siège sur la place publique,"
+    },
+    {
+     "v": 8,
+     "t": "en me voyant, les jeunes gens se cachaient, les vieillards se levaient et se tenaient debout."
+    },
+    {
+     "v": 9,
+     "t": "Les princes retenaient leurs paroles, et mettaient leur main sur la bouche."
+    },
+    {
+     "v": 10,
+     "t": "La voix des chefs restait muette, leur langue s’attachait à leur palais."
+    },
+    {
+     "v": 11,
+     "t": "L’oreille qui m’entendait me proclamait heureux, l’œil qui me voyait me rendait témoignage."
+    },
+    {
+     "v": 12,
+     "t": "Car je sauvais le pauvre qui implorait du secours, et l’orphelin dénué de tout appui."
+    },
+    {
+     "v": 13,
+     "t": "La bénédiction de celui qui allait périr venait sur moi, je remplissais de joie le cœur de la veuve."
+    },
+    {
+     "v": 14,
+     "t": "Je me revêtais de la justice comme d’un vêtement, mon équité était mon manteau et mon turban."
+    },
+    {
+     "v": 15,
+     "t": "J’étais l’œil de l’aveugle, et le pied du boiteux."
+    },
+    {
+     "v": 16,
+     "t": "J’étais le père des pauvres, j’examinais avec soin la cause de l’inconnu."
+    },
+    {
+     "v": 17,
+     "t": "Je brisais la mâchoire de l’injuste, et j’arrachais sa proie d’entre les dents."
+    },
+    {
+     "v": 18,
+     "t": "Je disais : « Je mourrai dans mon nid, j’aurai des jours nombreux comme le sable.",
+     "n": [
+      "18. Comme le sable : Plusieurs modernes, comme ceux du Phénix, oiseau fabuleux qui, consumé avec son nid, renaissait de ses cendres et était le symbole de l’immortalité. Vulg., comme ceux du palmier. De même les LXX, quoique la leçon primitive paraisse avoir été : comme le phénix."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Mes racines s’étendent vers les eaux, la rosée passe la nuit dans mon feuillage."
+    },
+    {
+     "v": 20,
+     "t": "Ma gloire reverdira sans cesse, et mon arc reprendra sa vigueur dans ma main. »"
+    },
+    {
+     "v": 21,
+     "t": "On m’écoutait et l’on attendait, on recueillait en silence mon avis."
+    },
+    {
+     "v": 22,
+     "t": "Après que j’avais parlé, personne n’ajoutait rien ; ma parole coulait sur eux comme la rosée."
+    },
+    {
+     "v": 23,
+     "t": "Ils m’attendaient comme on attend la pluie ; ils ouvraient la bouche comme aux ondées du printemps."
+    },
+    {
+     "v": 24,
+     "t": "Si je leur souriais, ils ne pouvaient le croire ; ils recueillaient avidement ce signe de faveur.",
+     "n": [
+      "24. Ils recueillaient etc. M. à m. Ils ne laissaient pas tomber la lumière de ma face. D’autres : On ne pouvait chasser la sérénité de mon front."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Quand j’allais vers eux, j’avais la première place, je siégeais comme un roi entouré de sa troupe, comme un consolateur au milieu des affligés."
+    }
+   ]
+  },
+  {
+   "c": 30,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Et maintenant, je suis la risée d’hommes plus jeunes que moi, dont je n’aurais pas daigné mettre les pères parmi les chiens de mon troupeau.",
+     "n": [
+      "XXX, 1. Les hommes dont va parler Job (vers. 1 sv.) sont, non pas ses amis, mais ce qui restait des habitants primitifs de l’Idumée, chassés de leurs demeures par les enfants d’Ésaü, race dégénérée et sans vigueur, habitant des cavernes et ne vivant que de rapines (comp. xxiv, 5, 6 )."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Qu’aurais-je fait de la force de leurs bras ? Ils sont privés de toute vigueur.",
+     "n": [
+      "2. Ils sont privés de toute vigueur. Vulg., on les regardait même comme indignes de vivre. Ce n’est pas le seul endroit de ce chap, où S. Jérôme semble avoir eu sous les yeux une leçon différente du texte hébreu actuel."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Desséchés par la misère et la faim, ils broutent le désert, un sol depuis longtemps aride et désolé."
+    },
+    {
+     "v": 4,
+     "t": "Ils cueillent sur les buissons des bourgeons amers, ils n’ont pour pain que la racine des genêts."
+    },
+    {
+     "v": 5,
+     "t": "On les écarte de la société des hommes, on crie après eux comme après le voleur."
+    },
+    {
+     "v": 6,
+     "t": "Ils habitent dans d’affreuses vallées, dans les cavernes de la terre et les rochers."
+    },
+    {
+     "v": 7,
+     "t": "On entend leurs cris sauvages parmi les broussailles, ils se couchent ensemble sous les ronces :"
+    },
+    {
+     "v": 8,
+     "t": "gens insensés, race sans nom, bannis avec mépris de la terre habitée !"
+    },
+    {
+     "v": 9,
+     "t": "Et maintenant je suis l’objet de leurs chansons, je suis en butte à leurs propos."
+    },
+    {
+     "v": 10,
+     "t": "Ils ont horreur de moi, ils me fuient, ils ne détournent pas leur crachat de mon visage."
+    },
+    {
+     "v": 11,
+     "t": "Ils se donnent libre carrière pour m’outrager, ils rejettent tout frein devant moi.",
+     "n": [
+      "11. Ils se donnent libre carrière : litt., il (chacun d’eux) a relâché sa corde (ketib). Le qerey porte : il (Dieu) a relâché ma corde, la corde de mon arc, ma vigueur (comp. xxix, 20 ), en me frappant d’un mal affreux, et ils en profitent pour me manquer de respect en toute liberté, Le Hir, avec la Vulg., traduit le 2 e membre : ils me mettent un frein à la bouçhe."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Des misérables se lèvent à ma droite, ils cherchent à ébranler mes pieds, ils frayent jusqu’à moi leurs routes meurtrières."
+    },
+    {
+     "v": 13,
+     "t": "Ils ont bouleversé mes sentiers, ils travaillent à ma ruine, eux à qui personne ne porterait secours."
+    },
+    {
+     "v": 14,
+     "t": "Ils fondent sur moi, comme par une large brèche, ils se précipitent parmi les décombres."
+    },
+    {
+     "v": 15,
+     "t": "Les terreurs m’assiègent, ma prospérité est emportée comme un souffle, mon bonheur a passé comme un nuage."
+    },
+    {
+     "v": 16,
+     "t": "Et maintenant, mon âme s’épanche en moi, les jours d’affliction m’ont saisi."
+    },
+    {
+     "v": 17,
+     "t": "La nuit perce mes os, les consume, le mal qui me ronge ne dort pas.",
+     "n": [
+      "17. Perce mes os, les consume, m. à m. perce mes os de dessus moi."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Par sa violence, mon vêtement a perdu sa forme, il me serre comme une tunique."
+    },
+    {
+     "v": 19,
+     "t": "Dieu m’a jeté dans la fange, je suis comme la poussière et la cendre."
+    },
+    {
+     "v": 20,
+     "t": "Je crie vers toi, et tu ne me réponds pas ; je me tiens debout, et tu me regardes avec indifférence."
+    },
+    {
+     "v": 21,
+     "t": "Tu deviens cruel à mon égard, tu m’attaques avec toute la force de ton bras."
+    },
+    {
+     "v": 22,
+     "t": "Tu m’enlèves, tu me fais voler au gré du vent, et tu m’anéantis dans le fracas de la tempête."
+    },
+    {
+     "v": 23,
+     "t": "Car, je le sais, tu me mènes à la mort, au rendez-vous de tous les vivants."
+    },
+    {
+     "v": 24,
+     "t": "Cependant celui qui va périr n’étendra-t-il pas les mains et, dans sa détresse, ne poussera-t-il pas un cri ?"
+    },
+    {
+     "v": 25,
+     "t": "N’avais-je pas des larmes pour l’infortuné ? Mon cœur ne s’est-il pas attendri sur l’indigent ?"
+    },
+    {
+     "v": 26,
+     "t": "J’attendais le bonheur, et le malheur est arrivé ; j’espérais la lumière, et les ténèbres sont venues."
+    },
+    {
+     "v": 27,
+     "t": "Mes entrailles bouillonnent sans relâche, les jours d’affliction ont fondu sur moi."
+    },
+    {
+     "v": 28,
+     "t": "Je marche dans le deuil, sans soleil ; si je me lève dans l’assemblée, c’est pour pousser des cris.",
+     "n": [
+      "28. Je marche dans le deuil, sans soleil. D’autres : Je marche noirci, non par la chaleur."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Je suis devenu le frère des chacals, le compagnon des filles de l’autruche."
+    },
+    {
+     "v": 30,
+     "t": "Ma peau livide tombe en lambeaux, mes os sont brûlés par un feu intérieur."
+    },
+    {
+     "v": 31,
+     "t": "Ma cithare ne rend plus que des accords lugubres, mon chalumeau que des sons plaintifs."
+    }
+   ]
+  },
+  {
+   "c": 31,
+   "verses": [
+    {
+     "v": 1,
+     "t": "J’avais fait un pacte avec mes yeux, et comment aurais-je arrêté mes regards sur une vierge. —",
+     "n": [
+      "XXXI, 1 sv. Tableau des vertus privées de Job. Les détails choisis relèvent de la religion naturelle, ou plutôt de la religion telle qu’elle était comprise et pratiquée par les patriarches."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Quelle part, me disais-je, Dieu me réserverait-il d’en haut ? Quel sort le Tout-Puissant me ferait-il de son ciel ?"
+    },
+    {
+     "v": 3,
+     "t": "La ruine n’est-elle pas pour le méchant, et le malheur pour les artisans d’iniquité ?"
+    },
+    {
+     "v": 4,
+     "t": "Dieu ne connaît-il pas mes voies, ne compte-t-il pas tous mes pas ?"
+    },
+    {
+     "v": 5,
+     "t": "Si j’ai marché dans le sentier du mensonge, si mon pied a couru après la fraude, —"
+    },
+    {
+     "v": 6,
+     "t": "que Dieu me pèse dans de justes balances, et il reconnaîtra mon innocence !"
+    },
+    {
+     "v": 7,
+     "t": "Si mes pas se sont écartés du droit chemin, si mon cœur a suivi mes yeux, si quelque souillure s’est attachée à mes mains, —"
+    },
+    {
+     "v": 8,
+     "t": "que je sème, et qu’un autre mange, que mes rejetons soient déracinés !"
+    },
+    {
+     "v": 9,
+     "t": "Si mon cœur a été séduit par une femme, si j’ai fait le guet à la porte de mon prochain, —"
+    },
+    {
+     "v": 10,
+     "t": "que ma femme tourne la meule pour un autre, que des étrangers la déshonorent !"
+    },
+    {
+     "v": 11,
+     "t": "Car c’est là un crime horrible, un forfait que punissent les juges ;"
+    },
+    {
+     "v": 12,
+     "t": "un feu qui dévore jusqu’à la ruine, qui aurait détruit tous mes biens."
+    },
+    {
+     "v": 13,
+     "t": "Si j’ai méconnu le droit de mon serviteur ou de ma servante, quand ils étaient en contestation avec moi : —"
+    },
+    {
+     "v": 14,
+     "t": "Que faire, quand Dieu se lèvera ? Au jour de sa visite, que lui répondrai-je ?"
+    },
+    {
+     "v": 15,
+     "t": "Celui qui m’a fait dans le sein de ma mère ne l’a-t-il pas fait aussi ? Un même Créateur ne nous a-t-il pas formés ?"
+    },
+    {
+     "v": 16,
+     "t": "Si j’ai refusé aux pauvres ce qu’ils désiraient, si j’ai fait languir les yeux de la veuve,"
+    },
+    {
+     "v": 17,
+     "t": "si j’ai mangé seul mon morceau de pain, sans que l’orphelin en ait eu sa part : —"
+    },
+    {
+     "v": 18,
+     "t": "dès mon enfance il m’a gardé comme un père ; dès ma naissance il a guidé mes pas.",
+     "n": [
+      "18. M. à m. Dès mon enfance, il a grandi près de moi comme près d’un père ; dès le sein de ma mère (dès ma naissance), je l’ai guidée (la veuve). D’où, à côté de la traduction adoptée, cette autre : Loin de là ! Dès mon enfance, je l’ai élevé comme un père ; dès ma naissance, je l’ai guidée."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Si j’ai vu le malheureux périr sans vêtements, l’indigent manquer de couverture,"
+    },
+    {
+     "v": 20,
+     "t": "sans que ses reins m’aient béni, sans que la toison de mes agneaux l’ait réchauffé ;"
+    },
+    {
+     "v": 21,
+     "t": "si j’ai levé la main contre l’orphelin, parce que je me voyais un appui dans les juges, —",
+     "n": [
+      "21. Dans les juges. Litt. à la porte."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "que mon épaule se détache du tronc, que mon bras soit arraché de l’humérus."
+    },
+    {
+     "v": 23,
+     "t": "Car je crains la vengeance de Dieu, et devant sa majesté je ne puis subsister."
+    },
+    {
+     "v": 24,
+     "t": "Si j’ai mis dans l’or mon assurance, si j’ai dit à l’or pur : « Tu es mon espoir ; »"
+    },
+    {
+     "v": 25,
+     "t": "si je me suis réjoui de l’abondance de mes biens, des trésors amassés par mes mains ;"
+    },
+    {
+     "v": 26,
+     "t": "si, en voyant le soleil jeter ses feux, et la lune s’avancer dans sa splendeur,"
+    },
+    {
+     "v": 27,
+     "t": "mon cœur s’est laissé séduire en secret, si ma main s’est portée à ma bouche, —",
+     "n": [
+      "27. Si ma main s’est portée à ma bouche ; litt. a baisé sur ma bouche, est venue chercher un baiser sur ma bouche, pour l’offrir à l’astre brillant ; geste d’ adoration (porter la main ad os ), et par conséquent d’idolâtrie."
+     ]
+    },
+    {
+     "v": 28,
+     "t": "c’est là encore un crime que punit le juge ; j’aurais renié le Dieu très-haut."
+    },
+    {
+     "v": 29,
+     "t": "Si j’ai été joyeux de la ruine de mon ennemi, si j’ai tressailli d’allégresse quand le malheur l’a frappé : —"
+    },
+    {
+     "v": 30,
+     "t": "Non, je n’ai pas permis à ma langue de pécher, en demandant sa mort avec imprécation !…"
+    },
+    {
+     "v": 31,
+     "t": "Si les gens de ma tente ne disaient pas : « Où trouver quelqu’un qui ne soit pas rassasiés de sa table ? »",
+     "n": [
+      "31. Où trouver etc. Vulg, qui nous donnera de nous rassasier de sa chair, de le déchirer, de satisfaire notre haine contre lui : comp. xix, 22."
+     ]
+    },
+    {
+     "v": 32,
+     "t": "si l’étranger passait la nuit en dehors, si je n’ouvrais pas la porte au voyageur !…"
+    },
+    {
+     "v": 33,
+     "t": "Si j’ai, comme font les hommes, déguisé mes fautes, et renfermé mes iniquités dans mon sein,"
+    },
+    {
+     "v": 34,
+     "t": "par peur de la grande assemblée, par crainte du mépris des familles, au point de me taire, et de n’oser franchir le seuil de ma porte !…",
+     "n": [
+      "34. Au point de me taire etc. Membre de phrase dont le sens est difficile à préciser et qui est interprété en diverses manières."
+     ]
+    },
+    {
+     "v": 35,
+     "t": "Oh ! Qui me fera trouver quelqu’un qui m’écoute ? Voilà ma signature : que le Tout-Puissant me réponde ! Que mon adversaire écrive aussi sa cédule !",
+     "n": [
+      "35. Job s’interrompt pour dire qu’il est prêt à signer toutes les protestations qu’il vient de faire. Ma signature, litt. mon thav, nom de la dernière lettre de l’alphabet hébreu, qui avait anciennement la forme d’une croix et servait de signature à la fin d’un document écrit. Sens : Voilà ma défense toute signée. — Cédule d’accusation."
+     ]
+    },
+    {
+     "v": 36,
+     "t": "On verra si je ne la mets pas sur mon épaule, si je n’en ceins pas mon front comme d’un diadème !"
+    },
+    {
+     "v": 37,
+     "t": "Je rendrai compte à mon juge de tous mes pas, je m’approcherai de lui comme un prince."
+    },
+    {
+     "v": 38,
+     "t": "Si ma terre crie contre moi, si j’ai fait pleurer ses sillons ;",
+     "n": [
+      "38-40 se rattachent aux vers. 5-34. Les vers. 35-37 sont la conclusion de tout le développement."
+     ]
+    },
+    {
+     "v": 39,
+     "t": "si j’ai mangé ses produits sans l’avoir payée, si je l’ai arrachée à ses légitimes possesseurs, —",
+     "n": [
+      "39. Si je l’ai arrachée à ses légitimes possesseurs. D’autres, peut-être plus exactement : Si j’ai fait tendre l’âme à ses possesseurs."
+     ]
+    },
+    {
+     "v": 40,
+     "t": "qu’au lieu de froment il y naisse des épines, et de l’ivraie au lieu d’orge ! Ici finissent les discours de Job.",
+     "n": [
+      "40. Ici finissent etc. Cette formule est souvent considérée comme une addition postérieure, qui marque la fin de la discussion entre Job et ses amis. D’aucuns la relient à ce qui suit : Quand furent achevés les discours de Job, ces trois hommes, etc."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 32,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Ces trois hommes cessèrent de répondre à Job, parce qu’il persistait à se regarder comme juste.",
+     "h": "DEUXIÈME PARTIE. [XXXII, 1 — XXXVI, 24] DISCOURS D’ÉLIU."
+    },
+    {
+     "v": 2,
+     "t": "Alors s’alluma la colère d’Éliu, fils de Barachel le Bouzite, de la famille de Ram. Sa colère s’alluma contre Job, parce qu’il se prétendait plus juste que Dieu."
+    },
+    {
+     "v": 3,
+     "t": "Elle s’alluma aussi contre ses trois amis, parce qu’ils n’avaient pas trouvé de bonnes réponse à lui faire et que néanmoins ils condamnaient Job.",
+     "n": [
+      "XXXII, 3. Ils condamnaient Job. Une tradition de la Synagogue tenait qu’à l’origine le texte portait : Ils condamnaient Dieu."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Comme ils étaient plus âgés que lui, Eliu avait attendu pour parler à Job."
+    },
+    {
+     "v": 5,
+     "t": "Mais voyant qu’il n’y avait plus de réponse dans la bouche de ces trois hommes, il s’enflamma de colère."
+    },
+    {
+     "v": 6,
+     "t": "Alors Éliu, fils de Barachel le Bouzite, prit la parole et dit : Je suis jeune et vous êtes des vieillards ; c’est pourquoi j’étais effrayé et je redoutais de vous faire connaître mon sentiment.",
+     "n": [
+      "6. Le Hir : « D’après ce jeune homme, plus sage que les vieillards, mais qui ne paraît pourtant pas tout à fait pur de présomption, Job est puni, non pour des crimes énormes, mais pour n’avoir pas tenu son cœur assez humble devant Dieu. Il fallait, pour le corriger d’un défaut qu’il ignorait lui-même, lui donner lieu d’éclater au dehors par une terrible épreuve. Et les plaintes amères auxquelles Job s’est laissé emporter sont l’indice certain de cette disposition intérieure de son cœur. Qu’il se repente donc, et Dieu lui rendra le bonheur. » Tel est le fond des pensées développées dans ces discours. Éliu, plutôt que de se prononcer sur le cas de Job, juge surtout le langage qu’il vient de tenir."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "Je me disais : « Les jours parleront, les nombreuses années révéleront la sagesse. »"
+    },
+    {
+     "v": 8,
+     "t": "Mais c’est l’esprit mis dans l’homme, le souffle du Tout-Puissant qui lui donne l’intelligence."
+    },
+    {
+     "v": 9,
+     "t": "Ce n’est pas l’âge qui donne la sagesse, ce n’est pas la vieillesse qui discerne la justice."
+    },
+    {
+     "v": 10,
+     "t": "Voilà pourquoi je dis : « Écoutez-moi ; je vais, moi aussi, exposer ma pensée. »"
+    },
+    {
+     "v": 11,
+     "t": "J’ai attendu tant que vous parliez, j’ai prêté l’oreille à vos raisonnements, jusqu’à la fin de vos débats."
+    },
+    {
+     "v": 12,
+     "t": "Je vous ai suivis attentivement, et nul n’a convaincu Job, nul d’entre vous n’a réfuté ses paroles."
+    },
+    {
+     "v": 13,
+     "t": "Ne dites pas : « Nous avons trouvé la sagesse ; c’est Dieu qui le frappe, et non pas l’homme. »"
+    },
+    {
+     "v": 14,
+     "t": "Il n’a pas dirigé contre moi ses discours, mais ce n’est pas avec vos paroles que je lui répondrai."
+    },
+    {
+     "v": 15,
+     "t": "Les voilà interdits ; ils ne répondent rien ; la parole leur fait défaut."
+    },
+    {
+     "v": 16,
+     "t": "J’ai attendu qu’ils eussent fini de parler, qu’ils restassent muets et sans réponse.",
+     "n": [
+      "16. Ou bien, avec la Vulg., j’ai attendu : ils n’ont plus parlé etc."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "C’est à mon tour de parler à présent ; je veux dire aussi ce que je pense."
+    },
+    {
+     "v": 18,
+     "t": "Car je suis plein de discours, l’esprit qui est en moi m’oppresse."
+    },
+    {
+     "v": 19,
+     "t": "Mon cœur est comme un vin renfermé, comme une outre remplie de vin nouveau qui va éclater."
+    },
+    {
+     "v": 20,
+     "t": "Que je parle donc, afin de respirer à l’aise, que mes lèvres s’ouvrent pour répondre !"
+    },
+    {
+     "v": 21,
+     "t": "Je ne veux faire acception de personne, je ne flatterai qui que ce soit.",
+     "n": [
+      "21. La Vulg. traduit le 2 e membre : je n’égalerai point l’homme à Dieu."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Car je ne sais pas flatter ; autrement mon Créateur m’enlèverait sur-le-champ.",
+     "n": [
+      "22. Vulg. : car je ne sais pas quelle sera la durée de ma vie, et si mon Créateur ne m’enlèvera pas bientôt."
+     ]
+    }
+   ]
+  },
+  {
+   "c": 33,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Maintenant donc, Job, écoute mes paroles, prête l’oreille à tous mes discours."
+    },
+    {
+     "v": 2,
+     "t": "Voilà que j’ouvre la bouche, ma langue forme des mots dans mon palais,"
+    },
+    {
+     "v": 3,
+     "t": "mes paroles partiront d’un cœur droit, c’est la vérité pure qu’exprimeront mes lèvres."
+    },
+    {
+     "v": 4,
+     "t": "L’esprit de Dieu m’a créé, le souffle du Tout-Puissant me donne la vie."
+    },
+    {
+     "v": 5,
+     "t": "Si tu le peux, réponds-moi ; dispose tes arguments devant moi, tiens-toi ferme."
+    },
+    {
+     "v": 6,
+     "t": "Devant Dieu je suis ton égal, comme toi j’ai été formé du limon."
+    },
+    {
+     "v": 7,
+     "t": "Ainsi ma crainte ne t’épouvantera pas, et le poids de ma majesté ne peut t’accabler.",
+     "n": [
+      "XXXIII, 7. Le poids de ma majesté ; litt. mon poids ; Vulg. mon éloquence."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Oui, tu as dit à mes oreilles, et j’ai bien entendu le son de tes paroles ;"
+    },
+    {
+     "v": 9,
+     "t": "« Je suis pur, exempt de tout péché ; je suis irréprochable, il n’y a point d’iniquité en moi."
+    },
+    {
+     "v": 10,
+     "t": "Et Dieu invente contre moi des motifs de haine, il me traite comme son ennemi."
+    },
+    {
+     "v": 11,
+     "t": "Il a mis mes pieds dans les ceps, il surveille tous mes pas. »"
+    },
+    {
+     "v": 12,
+     "t": "Je te répondrai qu’en cela tu n’as pas été juste, car Dieu est plus grand que l’homme."
+    },
+    {
+     "v": 13,
+     "t": "Pourquoi disputer contre lui, parce qu’il ne rend compte de ses actes à personne ?"
+    },
+    {
+     "v": 14,
+     "t": "Pourtant Dieu parle tantôt d’une manière, tantôt d’une autre, et l’on n’y fait pas attention."
+    },
+    {
+     "v": 15,
+     "t": "Il parle par des songes, par des visions nocturnes, quand un profond sommeil pèse sur les mortels, quand ils dorment sur leur couche."
+    },
+    {
+     "v": 16,
+     "t": "À ce moment, il ouvre l’oreille des hommes, et y scelle ses avertissements,"
+    },
+    {
+     "v": 17,
+     "t": "afin de détourner l’homme de ses œuvres mauvaises, et d’écarter de lui l’orgueil,"
+    },
+    {
+     "v": 18,
+     "t": "afin de sauver son âme de la mort, sa vie des atteintes du dard.",
+     "n": [
+      "18. Sa vie des atteintes du dard, m. à m. sa vie de passer par le dard."
+     ]
+    },
+    {
+     "v": 19,
+     "t": "Par la douleur aussi l’homme est repris sur sa couche, quand une lutte continue agite ses os.",
+     "n": [
+      "19. Quand une lutte etc., en lisant rib. Le qerey porte rob : alors que la multitude de ses os est en pleine rigueur."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Alors il prend en dégoût le pain, et il a horreur des mets exquis,"
+    },
+    {
+     "v": 21,
+     "t": "Sa chair s’évanouit aux regards, ses os qu’on ne voyait pas sont mis à nu."
+    },
+    {
+     "v": 22,
+     "t": "Il s’approche de la fosse, sa vie est en proie aux horreurs du trépas."
+    },
+    {
+     "v": 23,
+     "t": "Mais s’il trouve pour intercesseur, un ange entre mille, qui fasse connaître à l’homme son devoir,",
+     "n": [
+      "23, 24. LXX : S’il y a mille anges portant la mort, aucun d’eux ne le blessera, s’il décide de revenir de cœur au Seigneur, s’il fait connaître à l’homme sa faute, s’il révèle sa sottise ; il l’empêchera de tomber dans la mort, il renouvellera son corps comme s’il mettait un enduit sur un mur, et remplira ses os de moelle."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Dieu a pitié de lui et dit à l’ange : « Épargne-lui de descendre dans la fosse, j’ai trouvé la rançon de sa vie. »",
+     "n": [
+      "24. On pourrait aussi donner aux deux verbes le mot ange comme sujet : s’il a pitié de lui et s’il dit à Dieu."
+     ]
+    },
+    {
+     "v": 25,
+     "t": "Sa chair alors a plus de fraîcheur qu’au premier âge, il revient aux jours de sa jeunesse.",
+     "n": [
+      "25. Vulg., sa chair est (était) consumée par les tourments."
+     ]
+    },
+    {
+     "v": 26,
+     "t": "Il prie Dieu, et Dieu lui est propice ; il contemple sa face avec allégresse, et le Très-Haut lui rend son innocence."
+    },
+    {
+     "v": 27,
+     "t": "Il chante parmi les hommes, il dit : « J’ai péché, j’ai violé la justice, et Dieu ne m’a pas traité selon mes fautes."
+    },
+    {
+     "v": 28,
+     "t": "Il a épargné à mon âme de descendre dans la fosse, et ma vie s’épanouit à la lumière ! »"
+    },
+    {
+     "v": 29,
+     "t": "Voilà, Dieu fait tout cela, deux fois, trois fois, pour l’homme,"
+    },
+    {
+     "v": 30,
+     "t": "afin de le ramener de la mort, de l’éclairer de la lumière des vivants."
+    },
+    {
+     "v": 31,
+     "t": "Sois attentif, Job, écoute-moi ; garde le silence, que je parle."
+    },
+    {
+     "v": 32,
+     "t": "Si tu as quelque chose à dire, réponds-moi ; parle, car je voudrais te trouver juste."
+    },
+    {
+     "v": 33,
+     "t": "Si tu n’as rien à dire, écoute-moi ; fais silence, et je t’enseignerai la sagesse."
+    }
+   ]
+  },
+  {
+   "c": 34,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Éliu reprit et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Sages, écoutez mes discours ; hommes intelligents, prêtez-moi l’oreille."
+    },
+    {
+     "v": 3,
+     "t": "Car l’oreille juge les paroles, comme le palais discerne les aliments."
+    },
+    {
+     "v": 4,
+     "t": "Tâchons de discerner ce qui est juste ; cherchons entre nous ce qui est bon."
+    },
+    {
+     "v": 5,
+     "t": "Job a dit : « Je suis innocent, et Dieu me refuse justice."
+    },
+    {
+     "v": 6,
+     "t": "Quand je soutiens mon droit, je passe pour menteur ; ma plaie est douloureuse, sans que j’aie péché. »"
+    },
+    {
+     "v": 7,
+     "t": "Y a-t-il un homme semblable à Job ? Il boit le blasphème comme l’eau !"
+    },
+    {
+     "v": 8,
+     "t": "Il s’associe aux artisans d’iniquité, il marche avec les hommes pervers."
+    },
+    {
+     "v": 9,
+     "t": "Car il a dit : « Il ne sert de rien à l’homme de chercher la faveur de Dieu. »"
+    },
+    {
+     "v": 10,
+     "t": "Écoutez-moi donc, hommes sensés : Loin de Dieu l’iniquité ! Loin du Tout-Puissant l’injustice !"
+    },
+    {
+     "v": 11,
+     "t": "Il rend à l’homme selon ses œuvres, il rétribue chacun selon ses voies."
+    },
+    {
+     "v": 12,
+     "t": "Non, certes, Dieu ne commet pas l’iniquité, le Tout-Puissant ne viole pas la justice."
+    },
+    {
+     "v": 13,
+     "t": "Qui lui a remis le gouvernement de la terre ? Qui lui a confié l’univers ?"
+    },
+    {
+     "v": 14,
+     "t": "S’il ne pensait qu’à lui-même, s’il retirait à lui son esprit et son souffle,"
+    },
+    {
+     "v": 15,
+     "t": "toute chair expirerait à l’instant, et l’homme retournerait à la poussière."
+    },
+    {
+     "v": 16,
+     "t": "Si tu as de l’intelligence, écoute ceci ; prête l’oreille au son de mes paroles :"
+    },
+    {
+     "v": 17,
+     "t": "Un ennemi de la justice aurait-il le suprême pouvoir ? Oses-tu condamner le Juste, le Puissant,"
+    },
+    {
+     "v": 18,
+     "t": "qui dit à un roi : « Vaurien ! » aux princes : « Pervers ! »"
+    },
+    {
+     "v": 19,
+     "t": "qui ne fait point acception de la personne des grands, qui ne regarde pas le riche plus que le pauvre, parce que tous sont l’ouvrage de ses mains ?"
+    },
+    {
+     "v": 20,
+     "t": "En un instant ils périssent, au milieu de la nuit, les peuples chancellent et disparaissent ; le puissant est emporté sans main d’homme."
+    },
+    {
+     "v": 21,
+     "t": "Car les yeux de Dieu sont ouverts sur les voies de l’homme, il voit distinctement tous ses pas."
+    },
+    {
+     "v": 22,
+     "t": "Il n’y a ni ténèbres ni ombre de la mort, où puissent se cacher ceux qui commettent l’iniquité."
+    },
+    {
+     "v": 23,
+     "t": "Il n’a pas besoin de regarder un homme deux fois, pour l’amener au jugement avec lui.",
+     "n": [
+      "23. Deux fois, litt. encore. Vulg., ce n’est pas de l’homme qu’il dépend de comparaître devant Dieu pour être jugé."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Il brise les puissants sans enquête, et il en met d’autres à leur place."
+    },
+    {
+     "v": 25,
+     "t": "Il connaît donc leurs œuvres ; il les renverse de nuit, et ils sont écrasés."
+    },
+    {
+     "v": 26,
+     "t": "Il les frappe comme des impies, en un lieu où on les regarde,"
+    },
+    {
+     "v": 27,
+     "t": "parce qu’en se détournant de lui, en refusant de connaître toutes ses voies,"
+    },
+    {
+     "v": 28,
+     "t": "ils ont fait monter vers lui le cri du pauvre, ils l’ont rendu attentif au cri des malheureux."
+    },
+    {
+     "v": 29,
+     "t": "S’il accorde la paix, qui le trouvera mauvais ; s’il cache son visage, qui pourra le contempler, qu’il soit peuple ou homme celui qu’il traite ainsi,"
+    },
+    {
+     "v": 30,
+     "t": "pour mettre fin au règne de l’impie, pour qu’il ne soit plus un piège pour le peuple ?",
+     "n": [
+      "30. Vulgate : c’est lui qui fait régner l’hypocrite à cause des péchés du peuple."
+     ]
+    },
+    {
+     "v": 31,
+     "t": "Or avait-il dit à Dieu : « J’ai été châtié, je ne pécherai plus ;"
+    },
+    {
+     "v": 32,
+     "t": "montre-moi ce que j’ignore ; si j’ai commis l’iniquité, je ne le ferai plus ? »"
+    },
+    {
+     "v": 33,
+     "t": "Est-ce d’après ton avis que Dieu doit rendre la justice de sorte que tu puisses rejeter son jugement ? Choisis à ton gré, et non pas moi ; ce que tu sais, expose-le."
+    },
+    {
+     "v": 34,
+     "t": "Les gens sensés me diront, ainsi que l’homme sage qui m’écoute :"
+    },
+    {
+     "v": 35,
+     "t": "« Job a parlé sans intelligence, et ses discours sont dépourvus de sagesse."
+    },
+    {
+     "v": 36,
+     "t": "Eh bien, que Job soit éprouvé jusqu’au bout, puisque ses réponses sont celles d’un impie !",
+     "n": [
+      "36. Que Job etc. Vulg., mon Père, que Job, n’épargne pas l’homme d’iniquité. Mon Père, Dieu, dans la pensée de S. Jérôme. Mais, dans l’Ancien Testament, Dieu est appelé quelquefois notre Père, jamais mon Père. L’hébr. âbî est donc ici une particule marquant l’optatif, de la racine âbâh, vouloir."
+     ]
+    },
+    {
+     "v": 37,
+     "t": "Car à l’offense il ajoute la révolte ; il bat des mains au milieu de nous, il multiplie ses propos contre Dieu. »"
+    }
+   ]
+  },
+  {
+   "c": 35,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Éliu prit de nouveau la parole et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Crois-tu que ce soit là de la justice, de dire : « J’ai raison contre Dieu ? »",
+     "n": [
+      "XXX, 2, 3. La symétrie des temps serait compatible avec cette autre traduction : « Crois-tu que ce soit là de la justice, appelles-tu cela « ma justice devant Dieu », que de dire : Quel est mon avantage, quel est mon profit à me tenir loin du péché ? » Le vers. 3 manque dans les LXX."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Car tu as dit : « Que me sert mon innocence, qu’ai-je de plus que si j’avais péché ? »"
+    },
+    {
+     "v": 4,
+     "t": "Moi, je vais te répondre, et à tes amis en même temps."
+    },
+    {
+     "v": 5,
+     "t": "Considère les cieux et regarde ; vois les nuées : elles sont plus hautes que toi !…"
+    },
+    {
+     "v": 6,
+     "t": "Si tu pèches, quel tort lui causes-tu ? Si tes offenses se multiplient, que lui fais-tu ?"
+    },
+    {
+     "v": 7,
+     "t": "Si tu es juste, que lui donnes-tu ? Que reçoit-il de ta main ?"
+    },
+    {
+     "v": 8,
+     "t": "Ton iniquité ne peut nuire qu’à tes semblables, ta justice n’est utile qu’au fils de l’homme."
+    },
+    {
+     "v": 9,
+     "t": "Des malheureux gémissent sous la violence des vexations, et crient sous la main des puissants."
+    },
+    {
+     "v": 10,
+     "t": "Mais nul ne dit : « Où est Dieu, mon Créateur, qui donne à la nuit des chants de joie,"
+    },
+    {
+     "v": 11,
+     "t": "qui nous a faits plus intelligents que les animaux de la terre, plus sages que les oiseaux du ciel. »",
+     "n": [
+      "11. D’autres : Qui nous instruit par les animaux des champs, et nous enseigne par les oiseaux du ciel."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Ils crient alors, sans être exaucés, sous l’orgueilleuse tyrannie des méchants."
+    },
+    {
+     "v": 13,
+     "t": "Dieu n’exauce pas les discours insensés, le Tout-Puissant ne les regarde pas."
+    },
+    {
+     "v": 14,
+     "t": "Quand tu lui dis : « Tu ne vois pas ce qui se passe, » ta cause est devant lui ; attends son jugement."
+    },
+    {
+     "v": 15,
+     "t": "Mais, parce que sa colère ne sévit pas encore, et qu’il semble ignorer sa folie,"
+    },
+    {
+     "v": 16,
+     "t": "Job prête sa bouche à de vaines paroles, et se répand en discours insensés."
+    }
+   ]
+  },
+  {
+   "c": 36,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Éliu reprit encore une fois et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Attends un peu, et je t’instruirai, car j’ai des paroles encore pour la cause de Dieu ;"
+    },
+    {
+     "v": 3,
+     "t": "je prendrai mes raisons de haut, et je montrerai la justice de mon Créateur."
+    },
+    {
+     "v": 4,
+     "t": "Sois-en sûr, mes discours sont exempts de mensonge ; devant toi est un homme sincère en ses jugements."
+    },
+    {
+     "v": 5,
+     "t": "Voici que Dieu est puissant, mais il ne dédaigne personne ; il est puissant par la force de son intelligence.",
+     "n": [
+      "XXXVI, 5. Vulg., Dieu ne rejette pas les puissants, puisqu’il est puissant lui-même."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Il ne laisse pas vivre le méchant, et il fait justice aux malheureux."
+    },
+    {
+     "v": 7,
+     "t": "Il ne détourne pas ses yeux des justes ; il les fait asseoir sur le trône avec les rois, il les établit pour toujours, et ils sont exaltés.",
+     "n": [
+      "7. Il les fait asseoir etc. Vulg., il établit pour jamais sur le trône les rois justes."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Viennent-ils à tomber dans les fers, sont-ils pris dans les liens du malheur,"
+    },
+    {
+     "v": 9,
+     "t": "il leur dénonce leurs œuvres, leurs fautes causées par l’orgueil."
+    },
+    {
+     "v": 10,
+     "t": "Il ouvre leur oreille à la réprimande, il les exhorte à se détourner du mal."
+    },
+    {
+     "v": 11,
+     "t": "S’ils écoutent et se soumettent, ils achèvent leurs jours dans le bonheur, et leurs années dans les délices."
+    },
+    {
+     "v": 12,
+     "t": "Mais s’ils n’écoutent pas, ils périssent par le glaive, ils meurent dans leur aveuglement."
+    },
+    {
+     "v": 13,
+     "t": "Les cœurs impies se livrent à la colère, ils ne crient pas vers Dieu quand il les met dans les chaînes.",
+     "n": [
+      "13. Les cœurs impies se livrent à ta colère, Vulg., mettent (amoncellent, Rom. ii, 5 ) sur eux la colère de Dieu."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Aussi meurent-ils dans leur jeunesse, et leur vie se flétrit comme celle des infâmes."
+    },
+    {
+     "v": 15,
+     "t": "Mais Dieu sauve le malheureux dans sa misère, il l’instruit par la souffrance."
+    },
+    {
+     "v": 16,
+     "t": "Toi aussi, il te retirera de la détresse, pour te mettre au large, en pleine liberté, et ta table sera dressée et chargée de mets succulents."
+    },
+    {
+     "v": 17,
+     "t": "Mais si tu combles la mesure de l’impie, tu en porteras la sentence et la peine.",
+     "n": [
+      "17 sv. Les vers. 17-21 sont très obscurs et compris de façons très différentes par les exégètes."
+     ]
+    },
+    {
+     "v": 18,
+     "t": "Crains que Dieu irrité ne t’inflige un châtiment, et que tes riches offrandes ne t’égarent."
+    },
+    {
+     "v": 19,
+     "t": "Tes cris te tireront-ils de la détresse, et même toutes les ressources de la force ?"
+    },
+    {
+     "v": 20,
+     "t": "Ne soupire pas après la nuit, durant laquelle les peuples sont anéantis sur place.",
+     "n": [
+      "20. Durant laquelle etc. Texte très obscur."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Prends garde de te tourner vers l’iniquité, car tu la préfères à l’affliction."
+    },
+    {
+     "v": 22,
+     "t": "Vois : Dieu est sublime dans sa puissance ! Quel maître est semblable à lui ?"
+    },
+    {
+     "v": 23,
+     "t": "Qui lui trace la voie qu’il doit suivre ? Qui peut lui dire : « Tu as mal fait ? »"
+    },
+    {
+     "v": 24,
+     "t": "Songe plutôt à glorifier ses œuvres, que les hommes célèbrent dans leurs chants."
+    },
+    {
+     "v": 25,
+     "t": "Tout homme les admire, le mortel les contemple de loin."
+    },
+    {
+     "v": 26,
+     "t": "Dieu est grand au-dessus de toute science, le nombre de ses années est impénétrable."
+    },
+    {
+     "v": 27,
+     "t": "Il attire les gouttes d’eau, qui se répandent en pluie sous leur poids."
+    },
+    {
+     "v": 28,
+     "t": "Les nuées la laissent couler, et tomber sur la masse des hommes.",
+     "n": [
+      "28. Sur la masse des hommes. LXX ajoutent : il a fixé un temps au bétail, et il suit l’ordre de son coucher. Devant tout cela ton esprit n’est pas dans la stupeur, et ton cœur n’est pas changé dans (?) ton corps."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Qui comprendra l’expansion des nuages, et le fracas de la tente du Très-Haut ?"
+    },
+    {
+     "v": 30,
+     "t": "Tantôt il étend autour de lui sa lumière, tantôt il se cache comme au fond de la mer."
+    },
+    {
+     "v": 31,
+     "t": "C’est ainsi qu’il exerce sa justice sur les peuples, et qu’il donne la nourriture avec abondance."
+    },
+    {
+     "v": 32,
+     "t": "Il prend la lumière dans ses mains, et lui marque le but à atteindre.",
+     "n": [
+      "32, 33. Versets difficiles, diversement compris. — Il prend la lumière dans ses mains. M. à m. sur ses mains (on ne les voit pas) il étend la lumière. La lumière est ici la foudre. — L’effroi etc. leçon très douteuse. — Vulg. Il cache la lumière dans ses mains, et lui ordonne de réapparaître. Il annonce à son ami qu’elle est sa possession, et qu’il peut monter vers elle."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "Son tonnerre l’annonce, l’effroi des troupeaux annonce son approche."
+    }
+   ]
+  },
+  {
+   "c": 37,
+   "verses": [
+    {
+     "v": 1,
+     "t": "À ce spectacle, mon cœur est tout tremblant, il bondit hors de sa place."
+    },
+    {
+     "v": 2,
+     "t": "Écoutez, écoutez le fracas de sa voix, le grondement qui sort de sa bouche !"
+    },
+    {
+     "v": 3,
+     "t": "Il lui donne libre carrière sous l’immensité des cieux, et son éclair brille jusqu’aux extrémités de la terre."
+    },
+    {
+     "v": 4,
+     "t": "Puis éclate un rugissement, il tonne de sa voix majestueuse ; il ne retient plus les éclairs, quand on entend sa voix ;"
+    },
+    {
+     "v": 5,
+     "t": "Dieu tonne de sa voix, d’une manière merveilleuse. Il fait de grandes choses que nous ne comprenons pas."
+    },
+    {
+     "v": 6,
+     "t": "Il dit à la neige : « Tombe sur la terre ; » il commande aux ondées et aux pluies torrentielles."
+    },
+    {
+     "v": 7,
+     "t": "Il met un sceau sur la main de tous les hommes, afin que tout mortel reconnaisse son Créateur.",
+     "n": [
+      "XXXVII, 7. Il met un sceau etc., les scellés (il les engourdit), pour rendre les mains inactives, pendant la saison d’hiver, où les travaux des champs sont interrompus. — Afin que tout mortel reconnaisse son créateur. Correction nécessaire, obtenue par une division différente des mots, de ce texte défectueux : afin que sachent tous les hommes de son œuvre."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Alors l’animal sauvage rentre dans son repaire, et demeure dans sa tanière."
+    },
+    {
+     "v": 9,
+     "t": "L’ouragan sort de ses retraites cachées, l’aquilon amène les frimas.",
+     "n": [
+      "9. L’aquilon. Le terme hébreu est de sens incertain."
+     ]
+    },
+    {
+     "v": 10,
+     "t": "Au souffle de Dieu se forme la glace, et la masse des eaux est emprisonnée."
+    },
+    {
+     "v": 11,
+     "t": "Il charge de vapeurs les nuages, il disperse ses nuées lumineuses.",
+     "n": [
+      "11. Vulg., le froment appelle les nuées, et les nuées répandent leur lumière, celle des éclaire. Mais l’hébr. berî ne vient pas de bar, froment : c’est le subst. rî, humidité, pluie, précédé de la préposition be."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "On les voit, selon ses décrets, errer en tous sens, pour exécuter tout ce qu’il leur commande, sur la face de la terre habitée."
+    },
+    {
+     "v": 13,
+     "t": "C’est tantôt pour le châtiment de sa terre, et tantôt en signe de faveur qu’il les envoie.",
+     "n": [
+      "13. Ses châtiments, litt. pour la verge, hébr. schêbét, mot qui veut dire aussi tribu ; mais ce sens, adopté par la Vulgate, ne convient pas ici."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Job, sois attentif à ces choses ; arrête-toi, et considère les merveilles de Dieu."
+    },
+    {
+     "v": 15,
+     "t": "Sais-tu comment il les opère, et fait briller l’éclair dans la nue ?"
+    },
+    {
+     "v": 16,
+     "t": "Comprends-tu le balancement des nuages, les merveilles de celui dont la science est parfaite,",
+     "n": [
+      "16. Vulg., connais-tu les grands chemins des nuages et les sciences parfaites ?"
+     ]
+    },
+    {
+     "v": 17,
+     "t": "toi dont les vêtements sont chauds, quand la terre se repose au souffle du midi ?"
+    },
+    {
+     "v": 18,
+     "t": "Peux-tu, comme lui, étendre les nuées, et les rendre solides comme un miroir d’airain ?"
+    },
+    {
+     "v": 19,
+     "t": "Fais-nous connaître ce que nous devons lui dire : nous ne saurions lui parler, ignorants que nous sommes."
+    },
+    {
+     "v": 20,
+     "t": "Ah ! qu’on ne lui rapporte pas mes discours ! Un homme a-t-il jamais dit qu’il désirait sa perte ?",
+     "n": [
+      "20. Les vers. 20-22 sont très obscurs et ont reçu des explications diverses."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "On ne peut voir maintenant la lumière du soleil, qui luit derrière les nuages ; qu’un vent passe, il les dissipe."
+    },
+    {
+     "v": 22,
+     "t": "L’or vient du septentrion ; mais Dieu, que sa majesté est redoutable !",
+     "n": [
+      "22. Du Septentrion : c’était l’opinion des anciens : Hérod. iii, 116 : Pline, Hist. Nat. vi, 11 ; xxxiii, 4. — Mais Dieu etc. ; m. à m. Autour de (ou sur ) Dieu est une majesté redoutable. — Nous savons d’où vient l’or, mais la majesté de Dieu est inaccessible. Comp. xxviii, 1-12. D’autres avec les LXX : un nuage ou un rayon d’or vient du septentrion ; plus brillante est la majesté redoutable de Dieu."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Le Tout-Puissant, nous ne pouvons l’atteindre : il est grand en force, et en droit, et en justice, il ne répond à personne !",
+     "n": [
+      "23. Il ne répond à personne, il ne rend pas compte de ses actes. Vulg., il ne peut être décrit, dignement célébré. D’autres : il est grand en force et en droit, et il n’humilie pas la plénitude de la justice."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Que les hommes donc le révèrent ! Il ne regarde pas ceux qui se croient sages."
+    }
+   ]
+  },
+  {
+   "c": 38,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Alors Yahweh répondit à Job du sein de la tempête, et dit :",
+     "h": "TROISIÈME PARTIE. [XXXVIII, 1 — XLII, 6.] DISCOURS DE DIEU.",
+     "n": [
+      "XXXVIII, 1. Job avait demande à plaider sa cause devant Dieu et contradictoirement avec lui ( xiii, 22 ). Voici que Dieu paraît ; il va répondre à sa créature, mais répondre en Dieu. Il ne rendra pas compte de ses desseins, mais montrera à Job qu’il n’a pas le droit de leur refuser sa soumission. Pour cela, il fait passer sous ses yeux un tableau magnifique des merveilles de la création : toutes ces œuvres révèlent une sagesse, une providence, une adaptation parfaite des moyens aux fins ; elles attestent dans leur Auteur une bonté absolue et doivent apprendre à l’homme à accepter humblement et sans murmure tout ce que le Tout-Puissant peut ordonner ou permettre. Cette explication ne touche pas au côté philosophique de la question agitée ; mais elle fera descendre dans le cœur de Job des sentiments d’humilité et de résignation, qui prépareront pour lui le retour de la faveur divine."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Quel est celui qui obscurcit ainsi le plan divin, par des discours sans intelligence ?"
+    },
+    {
+     "v": 3,
+     "t": "Ceins tes reins, comme un homme : je vais t’interroger, et tu m’instruiras."
+    },
+    {
+     "v": 4,
+     "t": "Où étais-tu quand je posais les fondements de la terre ? Dis-le, si tu as l’intelligence."
+    },
+    {
+     "v": 5,
+     "t": "Qui en a fixé les dimensions ? Le sais-tu ? Qui a tendu sur elle le cordeau ?"
+    },
+    {
+     "v": 6,
+     "t": "Sur quoi ses bases reposent-elles, ou qui en a posé la pierre angulaire,"
+    },
+    {
+     "v": 7,
+     "t": "quand les astres du matin chantaient en chœur, et que tous les fils de Dieu poussaient des cris d’allégresse ?",
+     "n": [
+      "7. Les astres et les anges ou fils de Dieu, forment l’armée (hébr. tsâbâ ) du ciel, et comme la milice du Seigneur, appelé pour cette raison Dieu des armées ( Elôhê Tsebaôth )."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Qui a fermé la mer avec des portes, lorsqu’elle sortit impétueuse du sein maternel ;"
+    },
+    {
+     "v": 9,
+     "t": "quand je lui donnai les nuages pour vêtements, et pour langes d’épais brouillards ;"
+    },
+    {
+     "v": 10,
+     "t": "quand je lui imposai ma loi, que je lui mis des portes et des verrous,"
+    },
+    {
+     "v": 11,
+     "t": "et que je lui dis : « Tu viendras jusqu’ici, non au delà ; ici s’arrêtera l’orgueil de tes flots » ?",
+     "n": [
+      "11. Ici s’arrêtera etc. M. à m. Ici on a placé une limite à l’orgueil de tes flots."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "As-tu, depuis que tu existes, commandé au matin ? As-tu indiqué sa place à l’aurore,"
+    },
+    {
+     "v": 13,
+     "t": "pour qu’elle saisisse les extrémités de la terre et qu’elle en secoue les méchants ;"
+    },
+    {
+     "v": 14,
+     "t": "pour que la terre prenne forme, comme l’argile sous le cachet, et qu’elle se montre parée comme d’un vêtement ;"
+    },
+    {
+     "v": 15,
+     "t": "pour que les malfaiteurs soient privés de leur lumière, et que le bras levé pour le crime soit brisé ?"
+    },
+    {
+     "v": 16,
+     "t": "Es-tu descendu jusqu’aux sources de la mer, t’es-tu promené dans les profondeurs de l’abîme ?"
+    },
+    {
+     "v": 17,
+     "t": "Les portes de la mort se sont-elles ouvertes devant toi, as-tu vu les portes du sombre séjour ?"
+    },
+    {
+     "v": 18,
+     "t": "As-tu embrassé l’étendue de la terre ? Parle, si tu sais toutes ces choses."
+    },
+    {
+     "v": 19,
+     "t": "Où est le chemin qui conduit au séjour de la lumière, et où se trouve la demeure des ténèbres ?"
+    },
+    {
+     "v": 20,
+     "t": "Tu pourrais les saisir en leur domaine, tu connais les sentiers de leur séjour !…"
+    },
+    {
+     "v": 21,
+     "t": "Tu le sais sans doute, puisque tu étais né avant elles ; le nombre de tes jours est si grand !…",
+     "n": [
+      "21. Avant elles, litt. alors, aux origines."
+     ]
+    },
+    {
+     "v": 22,
+     "t": "Es-tu entré dans les trésors de la neige ? As-tu vu les réservoirs de la grêle,"
+    },
+    {
+     "v": 23,
+     "t": "que je tiens prêts pour le temps de la détresse, pour les jours de la guerre et du combat ?"
+    },
+    {
+     "v": 24,
+     "t": "Par quelle voie la lumière se divise-t-elle, et le vent d’orient se répand-il sur la terre ?"
+    },
+    {
+     "v": 25,
+     "t": "Qui a ouvert des canaux aux ondées, et tracé une route aux feux du tonnerre,"
+    },
+    {
+     "v": 26,
+     "t": "afin que la pluie tombe sur une terre inhabitée, sur le désert où il n’y a point d’hommes ;"
+    },
+    {
+     "v": 27,
+     "t": "pour qu’elle arrose la plaine vaste et vide, et y fasse germer l’herbe verte !"
+    },
+    {
+     "v": 28,
+     "t": "La pluie a-t-elle un père ? Qui engendre les gouttes de la rosée ?"
+    },
+    {
+     "v": 29,
+     "t": "De quel sein sort la glace ? Et le givre du ciel, qui l’enfante,"
+    },
+    {
+     "v": 30,
+     "t": "pour que les eaux durcissent comme la pierre, et que la surface de l’abîme se solidifie ?"
+    },
+    {
+     "v": 31,
+     "t": "Est-ce toi qui serres les liens des Pléiades, ou pourrais-tu relâcher les chaînes d’Orion ?",
+     "n": [
+      "31. Dans les Pléiades les étoiles semblent serrées les unes contre les autres, tandis que celles d’Orion sont détachées et réparties sur une certaine étendue du firmament. La Vulg. traduit le 2 e membre : pourrais-tu étendre le cercle parcouru par l’Ourse ?"
+     ]
+    },
+    {
+     "v": 32,
+     "t": "Est-ce toi qui fais lever les constellations en leur temps, qui conduis l’Ourse avec ses petits ?",
+     "n": [
+      "32. Les constellations, hébr. massareth, peut-être le même mot que massaloth ( II Rois, xxiii, 5 ), les douze signes du zodiaque : c’est le sens le plus probable."
+     ]
+    },
+    {
+     "v": 33,
+     "t": "Connais-tu les lois du ciel, règles-tu ses influences sur la terre ?"
+    },
+    {
+     "v": 34,
+     "t": "Élèves-tu ta voix jusque dans les nues, pour que des torrents d’eau tombent sur toi ?"
+    },
+    {
+     "v": 35,
+     "t": "Est-ce toi qui lâches les éclairs pour qu’ils partent, et te disent-ils : « Nous voici ! »"
+    },
+    {
+     "v": 36,
+     "t": "Qui a mis la sagesse dans les nuées, ou qui a donné l’intelligence aux météores ?",
+     "n": [
+      "36. Nous adoptons la traduction de Le Hir et de beaucoup d’autres. Elle convient au contexte, où il est question des merveilles du ciel, et nous paraît préférable à celle-ci : qui a mis la sagesse dans les reins de l’homme, ou qui a donné l’intelligence à son cœur ? La Vulg. traduit ainsi le 2 e membre : qui a donné au coq l’intelligence ?"
+     ]
+    },
+    {
+     "v": 37,
+     "t": "Qui peut exactement compter les nuées, incliner les urnes du ciel,"
+    },
+    {
+     "v": 38,
+     "t": "pour que la poussière se forme en masse solide et que les glèbes adhèrent ensemble ?"
+    },
+    {
+     "v": 39,
+     "t": "Est-ce toi qui chasses pour la lionne sa proie, qui rassasies la faim des lionceaux,"
+    },
+    {
+     "v": 40,
+     "t": "quand ils sont couchés dans leur tanière, qu’ils se tiennent en embuscade dans le taillis ?"
+    },
+    {
+     "v": 41,
+     "t": "Qui prépare au corbeau sa pâture, quand ses petits crient vers Dieu, qu’ils errent çà et là, sans nourriture ?"
+    }
+   ]
+  },
+  {
+   "c": 39,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Connais-tu le temps où les chèvres sauvages font leurs petits ? As-tu observé les biches quand elles mettent bas ?"
+    },
+    {
+     "v": 2,
+     "t": "As-tu compté les mois de leur portée, et connais-tu l’époque de leur délivrance ?"
+    },
+    {
+     "v": 3,
+     "t": "Elles se mettent à genoux, déposent leurs petits, et sont quittes de leurs douleurs."
+    },
+    {
+     "v": 4,
+     "t": "Leurs faons se fortifient et grandissent dans les champs ; ils s’en vont, et ne reviennent plus."
+    },
+    {
+     "v": 5,
+     "t": "Qui a lâché l’onagre en liberté, qui a brisé les liens de l’âne sauvage,"
+    },
+    {
+     "v": 6,
+     "t": "à qui j’ai donné le désert pour maison, pour demeure la plaine salée ?"
+    },
+    {
+     "v": 7,
+     "t": "Il méprise le tumulte des villes, il n’entend pas les cris d’un maître."
+    },
+    {
+     "v": 8,
+     "t": "Il parcourt les montagnes pour trouver sa pâture, il y poursuit les moindres traces de verdure."
+    },
+    {
+     "v": 9,
+     "t": "Le buffle voudra-t-il te servir, ou bien passera-t-il la nuit dans son étable ?"
+    },
+    {
+     "v": 10,
+     "t": "L’attacheras-tu avec une corde au sillon, ou bien hersera-t-il derrière toi dans les vallées ?"
+    },
+    {
+     "v": 11,
+     "t": "Te fieras-tu à lui parce qu’il est très fort, lui laisseras-tu faire tes travaux ?"
+    },
+    {
+     "v": 12,
+     "t": "Compteras-tu sur lui pour rentrer ta moisson, pour recueillir le blé dans ton aire ?"
+    },
+    {
+     "v": 13,
+     "t": "L’aile de l’autruche bat joyeusement ; elle n’a ni l’aile pieuse ni le plumage de la cigogne.",
+     "n": [
+      "XXXIX, 13. Elle n’a ni l’aile etc. Texte très diversement interprété."
+     ]
+    },
+    {
+     "v": 14,
+     "t": "Elle abandonne ses œufs à la terre, et les laisse chauffer sur le sable."
+    },
+    {
+     "v": 15,
+     "t": "Elle oublie que le pied peut les fouler, la bête des champs les écraser."
+    },
+    {
+     "v": 16,
+     "t": "Elle est dure pour ses petits, comme s’ils n’étaient pas siens ; que son travail soit vain, elle ne s’en inquiète pas."
+    },
+    {
+     "v": 17,
+     "t": "Car Dieu lui a refusé la sagesse, et ne lui a pas départi l’intelligence."
+    },
+    {
+     "v": 18,
+     "t": "Mais quand elle se bat les flancs et prend son essor, elle se rit du cheval et du cavalier."
+    },
+    {
+     "v": 19,
+     "t": "Est-ce toi qui donnes au cheval la vigueur, qui revêts son cou d’une crinière flottante,"
+    },
+    {
+     "v": 20,
+     "t": "qui le fais bondir comme la sauterelle ? Son fier hennissement répand la terreur."
+    },
+    {
+     "v": 21,
+     "t": "Il creuse du pied la terre, il est fier de sa force, il s’élance au-devant du combat."
+    },
+    {
+     "v": 22,
+     "t": "Il se rit de la peur ; rien ne l’effraie ; il ne recule pas devant l’épée."
+    },
+    {
+     "v": 23,
+     "t": "Sur lui résonne le carquois, la lance étincelante et le javelot."
+    },
+    {
+     "v": 24,
+     "t": "Il frémit, il s’agite, il dévore le sol ; il ne se contient plus quand la trompette sonne."
+    },
+    {
+     "v": 25,
+     "t": "Au bruit de la trompette, il dit : « Allons ! » De loin il flaire la bataille, la voix tonnante des chefs et les cris des guerriers."
+    },
+    {
+     "v": 26,
+     "t": "Est-ce par ta sagesse que l’épervier prend son vol et déploie ses ailes vers le midi ?"
+    },
+    {
+     "v": 27,
+     "t": "Est-ce à ton ordre que l’aigle s’élève, et fait son nid sur les hauteurs ?"
+    },
+    {
+     "v": 28,
+     "t": "Il habite les rochers, il fixe sa demeure dans les dents de la pierre, sur les sommets."
+    },
+    {
+     "v": 29,
+     "t": "De là, il guette sa proie, son regard perce au loin."
+    },
+    {
+     "v": 30,
+     "t": "Ses petits s’abreuvent de sang ; partout où il y a des cadavres, on le trouve."
+    }
+   ]
+  },
+  {
+   "c": 40,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Yahweh s’adressant à Job, dit :",
+     "n": [
+      "XL, 1-5 de l’hébreu correspondent à xxxix, 31-35 de la Vulg. ; elle se trouve ainsi, dans tout le chap. xl, de cinq versets en retard sur l’hébreu."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Le censeur du Tout-Puissant veut-il encore plaider contre lui ? Celui qui dispute avec Dieu peut-il répondre ?"
+    },
+    {
+     "v": 3,
+     "t": "Job répondit à Yahweh, en disant :"
+    },
+    {
+     "v": 4,
+     "t": "Chétif que je suis, que te répondrai-je ? Je mets la main sur ma bouche."
+    },
+    {
+     "v": 5,
+     "t": "J’ai parlé une fois, je ne répliquerai pas ; deux fois, je n’ajouterai rien.",
+     "n": [
+      "5. Hébraïsme. Sens : je ne veux pas ajouter de nouveaux discours aux premiers."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "Yahweh parla encore à Job du sein de la tempête et dit :"
+    },
+    {
+     "v": 7,
+     "t": "Ceins tes reins, comme un homme ; Je vais t’interroger, et tu m’instruiras."
+    },
+    {
+     "v": 8,
+     "t": "Veux-tu donc anéantir ma justice, me condamner afin d’avoir droit ?"
+    },
+    {
+     "v": 9,
+     "t": "As-tu un bras comme celui de Dieu, et tonnes-tu de la voix comme lui ?"
+    },
+    {
+     "v": 10,
+     "t": "Pare-toi de grandeur et de magnificence, revêts-toi de gloire et de majesté ;"
+    },
+    {
+     "v": 11,
+     "t": "épanche les flots de ta colère, d’un regard abaisse tout superbe."
+    },
+    {
+     "v": 12,
+     "t": "D’un regard fais plier tout superbe, écrase sur place les méchants ;"
+    },
+    {
+     "v": 13,
+     "t": "cache-les tous ensemble dans la poussière, enferme leur visage dans les ténèbres."
+    },
+    {
+     "v": 14,
+     "t": "Alors, moi aussi, je te rendrai l’hommage, que ta droite peut te sauver."
+    },
+    {
+     "v": 15,
+     "t": "Vois Béhémoth, que j’ai créé comme toi : il se nourrit d’herbe, comme le bœuf."
+    },
+    {
+     "v": 16,
+     "t": "Vois donc, sa force est dans ses reins, et sa vigueur dans les muscles de ses flancs !"
+    },
+    {
+     "v": 17,
+     "t": "Il dresse sa queue comme un cèdre ; les nerfs de ses cuisses forment un solide faisceau."
+    },
+    {
+     "v": 18,
+     "t": "Ses os sont des tubes d’airain, ses côtes sont des barres de fer."
+    },
+    {
+     "v": 19,
+     "t": "C’est le chef-d’œuvre de Dieu ; son Créateur l’a pourvu d’un glaive.",
+     "n": [
+      "19. Son créateur l’a pourvu d’un glaive. Traduction douteuse d’un texte incertain."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "Les montagnes produisent pour lui du fourrage, autour de lui se jouent toutes les bêtes des champs.",
+     "n": [
+      "20. Autour de lui, litt. là."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "Il se couche sous les lotus, dans le secret des roseaux et des marécages."
+    },
+    {
+     "v": 22,
+     "t": "Les lotus le couvrent de leur ombre, les saules du torrent l’environnent."
+    },
+    {
+     "v": 23,
+     "t": "Que le fleuve déborde, il ne craint pas ; il serait calme, si le Jourdain montait à sa gueule.",
+     "n": [
+      "23. Montait, litt. se précipitait."
+     ]
+    },
+    {
+     "v": 24,
+     "t": "Est-ce en face qu’on pourra le saisir, avec des filets, et lui percer les narines ?"
+    },
+    {
+     "v": 25,
+     "t": "Tireras-tu Léviathan avec un hameçon, et lui serreras-tu la langue avec une corde ?"
+    },
+    {
+     "v": 26,
+     "t": "Lui passeras-tu un jonc dans les narines, et lui perceras-tu la mâchoire avec un anneau ?",
+     "n": [
+      "26. Vulg. : empliras tu tes filets de sa peau a de sa tête ton réservoir à poissons ?"
+     ]
+    },
+    {
+     "v": 27,
+     "t": "T’adressera-t-il d’ardentes prières, te dira-t-il de douces paroles ?"
+    },
+    {
+     "v": 28,
+     "t": "Fera-t-il une alliance avec toi, le prendras-tu toujours à ton service ?"
+    },
+    {
+     "v": 29,
+     "t": "Joueras-tu avec lui comme avec un passereau, l’attacheras-tu pour amuser tes filles ?"
+    },
+    {
+     "v": 30,
+     "t": "Les pêcheurs associés en font-ils le commerce, le partagent-ils entre les marchands ?",
+     "n": [
+      "30. Vulg. : le couperont ils en morceaux, soit pour le vendre, soit pour en faire un festin ?"
+     ]
+    },
+    {
+     "v": 31,
+     "t": "Cribleras-tu sa peau de dards, perceras-tu sa tête du harpon ?"
+    },
+    {
+     "v": 32,
+     "t": "Essaie de mettre la main sur lui : souviens-toi du combat, et tu n’y reviendras plus."
+    }
+   ]
+  },
+  {
+   "c": 41,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Voici que le chasseur est trompé dans son attente ; la vue du monstre suffit à le terrasser.",
+     "n": [
+      "XLI, 1 de l’hébreu correspond à xxxix, 28 de la Vulg., qui, de la sorte, se trouve, dans tout le chap. xli, d’un vers. en retard sur l’hébreu."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Nul n’est assez hardi pour provoquer Léviathan : qui donc oserait me résister en face ?"
+    },
+    {
+     "v": 3,
+     "t": "Qui m’a obligé, pour que j’aie à lui rendre ? Tout ce qui est sous le ciel est à moi."
+    },
+    {
+     "v": 4,
+     "t": "Je ne veux pas taire ses membres, sa force, l’harmonie de sa structure."
+    },
+    {
+     "v": 5,
+     "t": "Qui jamais a soulevé le bord de sa cuirasse ? Qui a franchi la double ligne de son râtelier ?"
+    },
+    {
+     "v": 6,
+     "t": "Qui a ouvert les portes de sa gueule ? Autour de ses dents habite la terreur."
+    },
+    {
+     "v": 7,
+     "t": "Superbes sont les lignes de ses écailles, comme des sceaux étroitement serrés."
+    },
+    {
+     "v": 8,
+     "t": "Chacune touche sa voisine ; un souffle ne passerait pas entre elles."
+    },
+    {
+     "v": 9,
+     "t": "Elles adhèrent l’une à l’autre, elles sont jointes et ne sauraient se séparer."
+    },
+    {
+     "v": 10,
+     "t": "Ses éternuements font jaillir la lumière, ses yeux sont comme les paupières de l’aurore."
+    },
+    {
+     "v": 11,
+     "t": "Des flammes jaillissent de sa gueule, il s’en échappe des étincelles de feu."
+    },
+    {
+     "v": 12,
+     "t": "Une fumée sort de ses narines, comme d’une chaudière ardente et bouillante."
+    },
+    {
+     "v": 13,
+     "t": "Son souffle allume les charbons, de sa bouche s’élance la flamme."
+    },
+    {
+     "v": 14,
+     "t": "Dans son cou réside la force, devant lui bondit l’épouvante."
+    },
+    {
+     "v": 15,
+     "t": "Les muscles de sa chair tiennent ensemble ; fondus sur lui, inébranlables."
+    },
+    {
+     "v": 16,
+     "t": "Son cœur est dur comme la pierre, dur comme la meule inférieure."
+    },
+    {
+     "v": 17,
+     "t": "Quand il se lève, les plus braves ont peur, l’épouvante les fait défaillir."
+    },
+    {
+     "v": 18,
+     "t": "Qu’on l’attaque avec l’épée, l’épée ne résiste pas, ni la lance, ni le javelot, ni la flèche."
+    },
+    {
+     "v": 19,
+     "t": "Il tient le fer pour de la paille, l’airain comme un bois vermoulu."
+    },
+    {
+     "v": 20,
+     "t": "La fille de l’arc ne le fait pas fuir, les pierres de la fronde sont pour lui un fétu ;"
+    },
+    {
+     "v": 21,
+     "t": "la massue, un brin de chaume ; il se rit du fracas des piques."
+    },
+    {
+     "v": 22,
+     "t": "Sous son ventre sont des tessons aigus : on dirait une herse qu’il étend sur le limon."
+    },
+    {
+     "v": 23,
+     "t": "Il fait bouillonner l’abîme comme une chaudière, il fait de la mer un vase de parfums."
+    },
+    {
+     "v": 24,
+     "t": "Il laisse après lui un sillage de lumière, on dirait que l’abîme a des cheveux blancs."
+    },
+    {
+     "v": 25,
+     "t": "Il n’a pas son égal sur la terre, il a été créé pour ne rien craindre."
+    },
+    {
+     "v": 26,
+     "t": "Il regarde en face tout ce qui est élevé, il est le roi des plus fiers animaux."
+    }
+   ]
+  },
+  {
+   "c": 42,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Job répondit à Yahweh et dit :"
+    },
+    {
+     "v": 2,
+     "t": "Je sais que tu peux tout, et que pour toi aucun dessein n’est trop difficile."
+    },
+    {
+     "v": 3,
+     "t": "« Quel est celui qui obscurcit le plan divin, sans savoir ? » Oui, j’ai parlé sans intelligence de merveilles qui me dépassent et que j’ignore.",
+     "n": [
+      "XLII, 3. Quel est celui : Job répète les paroles mêmes de Dieu ( xxxviii, 2 ) et s’en fait l’application."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "« Écoute-moi, je vais parler ; je t’interrogerai, réponds-moi. »",
+     "n": [
+      "4. Ce verset rappelle les paroles de Dieu ( xxxviii, 3 ; xl, 2 ) et aussi celles de Job ( xiii, 22 ) : Job redit les premières, soit pour s’humilier, soit pour demander à Dieu de l’écouter à son tour. Il se condamnerait plus cruellement encore, s’il avait en vue son propre langage, si téméraire, du chapitre xiii, 22."
+     ]
+    },
+    {
+     "v": 5,
+     "t": "Mon oreille avait entendu parler de toi ; mais maintenant mon œil t’a vu."
+    },
+    {
+     "v": 6,
+     "t": "C’est pourquoi je me condamne et me repens, sur la poussière et sur la cendre."
+    },
+    {
+     "v": 7,
+     "t": "Après que Yahweh eut adressé ces paroles à Job, il dit à Éliphaz de Théman : « Ma colère est allumée contre toi et contre tes deux amis, parce que vous n’avez pas parlé de moi selon la vérité, comme l’a fait mon serviteur Job.",
+     "h": "ÉPILOGUE EN PROSE. [XLII, 7-17]",
+     "n": [
+      "7. De moi, ou à moi, car toute parole humaine a Dieu pour auditeur."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Maintenant, prenez sept jeunes taureaux et sept béliers ; puis venez trouver mon serviteur Job, et offrez pour vous un holocauste. Job, mon serviteur, priera pour vous, et c’est par égard pour lui que je ne vous traiterai point selon votre folie ; car vous n’avez pas parlé de moi selon la vérité, comme l’a fait mon serviteur Job. »"
+    },
+    {
+     "v": 9,
+     "t": "Éliphaz de Théman, Baldad de Suhé et Sophar de Naaman allèrent donc et firent comme Yahweh leur avait dit ; et Yahweh eut égard à la prière de Job."
+    },
+    {
+     "v": 10,
+     "t": "Yahweh rétablit Job dans son premier état, pendant que Job intercédait pour ses amis, et Yahweh rendit à Job le double de tous ses biens."
+    },
+    {
+     "v": 11,
+     "t": "Ses frères, ses sœurs et ses anciens amis vinrent tous le visiter et mangèrent avec lui dans sa maison. Ils le plaignirent et le consolèrent de tous les malheurs que Yahweh avait fait venir sur lui ; et ils lui firent don chacun d’une késita et d’un anneau d’or.",
+     "n": [
+      "11. Lui fit don, selon la coutume des visiteurs ( Gen. xxxiii, 19 ), d’une késita, pièce d’argent de l’époque patriarcale, que les anciens traducteurs ont peut être crue frappée à l’effigie d’une brebis (Vulg.)."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Et Yahweh bénit les derniers temps de Job plus encore que les premiers, et il posséda quatorze mille brebis, six mille chameaux, mille paires de bœufs et mille ânesses."
+    },
+    {
+     "v": 13,
+     "t": "Il eut sept fils et trois filles ;"
+    },
+    {
+     "v": 14,
+     "t": "il nomma la première Jémima, la deuxième Ketsia et la troisième Kéren-Hapouk.",
+     "n": [
+      "14. Jémima, c.-à-d. Colombe (Vulg. Diem, jour). — Ketsia (propr. Qetsia ), c.-à-d. Parfum, et spécialement celui qu’on tirait de la casse, plante aromatique si recherchée en Orient ( Ps. xlv, 9 ). — Kéren-Happouk, c.-à-d. Boîte d’antimoine, fard dont les femmes orientales se peignent les paupières et les sourcils pour rehausser l’éclat de leurs yeux."
+     ]
+    },
+    {
+     "v": 15,
+     "t": "On ne trouvait pas dans toute la terre d’aussi belles femmes que les filles de Job, et leur père leur donna une part d’héritage parmi leurs frères."
+    },
+    {
+     "v": 16,
+     "t": "Job vécut après cela cent quarante ans, et il vit ses fils et les fils de ses fils jusqu’à la quatrième génération."
+    },
+    {
+     "v": 17,
+     "t": "Et Job mourut vieux et rassasié de jours."
+    }
+   ]
+  }
+ ]
+}

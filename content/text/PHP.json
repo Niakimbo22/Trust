@@ -1,0 +1,506 @@
+{
+ "code": "PHP",
+ "name": "Épître aux Philippiens",
+ "source": "Bible Crampon 1923 — Wikisource (domaine public)",
+ "chapters": [
+  {
+   "c": 1,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Paul et Timothée, serviteurs du Christ Jésus, à tous les saints dans le Christ Jésus qui sont à Philippes, aux évêques et aux diacres :",
+     "h": "PRÉAMBULE. [I, 1 — 11.]"
+    },
+    {
+     "v": 2,
+     "t": "grâce et paix de la part de Dieu notre Père et du Seigneur Jésus-Christ !"
+    },
+    {
+     "v": 3,
+     "t": "Je rends grâces à mon Dieu toutes les fois que je me souviens de vous, et dans toutes mes prières pour vous tous,"
+    },
+    {
+     "v": 4,
+     "t": "c’est avec joie que je lui adresse ma prière,"
+    },
+    {
+     "v": 5,
+     "t": "à cause de votre concours unanime pour le progrès de l’Évangile, depuis le premier jours jusqu’à présent ;"
+    },
+    {
+     "v": 6,
+     "t": "et j’ai confiance que celui qui a commencé en vous une œuvre excellente, en poursuivra l’achèvement jusqu’au jour du Christ."
+    },
+    {
+     "v": 7,
+     "t": "C’est une justice que je vous dois, de penser ainsi de vous tous, parce que je vous porte dans mon cœur, vous tous qui, soit dans mes liens, soit dans la défense et l’affermissement de l’Évangile, avez part à la même grâce que moi."
+    },
+    {
+     "v": 8,
+     "t": "Car Dieu m’en est témoin, c’est avec tendresse que je vous aime tous dans les entrailles de Jésus-Christ."
+    },
+    {
+     "v": 9,
+     "t": "Et ce que je lui demande, c’est que votre charité abonde de plus en plus en connaissance et en toute intelligence,"
+    },
+    {
+     "v": 10,
+     "t": "pour discerner ce qui vaut le mieux, afin que vous soyez purs et irréprochables jusqu’au jour du Christ,"
+    },
+    {
+     "v": 11,
+     "t": "remplis des fruits de justice, par Jésus-Christ, pour la gloire et la louange de Dieu.",
+     "n": [
+      "11. Après ce verset commence le corps de la lettre, où l’on ne trouve aucune des divisions ordinaires de l’Apôtre, dogmatique ou morale, rien qui rappelle un traité. C’est la plus épistolaire de toutes ses épîtres, la plus personnelle."
+     ]
+    },
+    {
+     "v": 12,
+     "t": "Frères, je désire que vous sachiez que ce qui m’est arrivé a plutôt tourné au progrès de l’Évangile.",
+     "h": "CORPS DE LA LETTRE. [I, 12 — IV, 7.]"
+    },
+    {
+     "v": 13,
+     "t": "En effet, pour ceux du prétoire, et pour tous les autres, il est devenu notoire que c’est pour le Christ que je suis dans les chaînes :"
+    },
+    {
+     "v": 14,
+     "t": "et la plupart des frères dans le Seigneur, encouragés par mes liens, ont redoublé de hardiesse pour annoncer sans crainte la parole de Dieu."
+    },
+    {
+     "v": 15,
+     "t": "Quelques-uns, il est vrai, prêchent aussi Jésus-Christ par envie et par esprit d’opposition ; mais d’autres le font avec des dispositions bienveillantes."
+    },
+    {
+     "v": 16,
+     "t": "Ceux-ci agissent par charité, sachant que je suis établi pour la défense de l’Évangile ;"
+    },
+    {
+     "v": 17,
+     "t": "tandis que les autres, animés d’un esprit de dispute, annoncent le Christ par des motifs qui ne sont pas purs, avec la pensée de me causer un surcroît d’affliction dans mes liens."
+    },
+    {
+     "v": 18,
+     "t": "Mais quoi ? De quelque manière qu’on le fasse, que ce soit avec des arrière-pensées, ou sincèrement, le Christ est annoncé : je m’en réjouis, et je m’en réjouirai encore."
+    },
+    {
+     "v": 19,
+     "t": "Car je sais que cela tournera à mon salut, grâce à vos prières et à l’assistance de l’Esprit de Jésus-Christ :"
+    },
+    {
+     "v": 20,
+     "t": "selon l’attente où je suis et l’espérance que j’ai que je ne serai confondu en rien ; mais que, maintenant comme toujours, avec la plus entière assurance, le Christ sera glorifié dans mon corps, soit par ma vie, soit par ma mort ;"
+    },
+    {
+     "v": 21,
+     "t": "car le Christ est ma vie, et la mort m’est un gain."
+    },
+    {
+     "v": 22,
+     "t": "Cependant si en vivant plus longtemps dans la chair je dois tirer du fruit, je ne sais que choisir."
+    },
+    {
+     "v": 23,
+     "t": "Je suis pressé des deux côtés : j’ai le désir de partir et d’être avec le Christ, ce qui est de beaucoup le meilleur ;"
+    },
+    {
+     "v": 24,
+     "t": "mais il est plus nécessaire que je demeure dans la chair à cause de vous."
+    },
+    {
+     "v": 25,
+     "t": "Et je le sais, j’en ai l’assurance, je demeurerai et je resterai avec vous tous, pour l’avancement et pour la joie de votre foi,"
+    },
+    {
+     "v": 26,
+     "t": "afin que, par mon retour auprès de vous, vous ayez en moi un abondant sujet de vous glorifier en Jésus-Christ."
+    },
+    {
+     "v": 27,
+     "t": "Seulement, conduisez-vous d’une manière digne de l’Évangile du Christ, afin que, soit que je vienne et que je vous voie, soit que je demeure absent, j’entende dire de vous que vous tenez ferme dans un seul et même esprit, combattant d’un même cœur pour la foi de l’Évangile,"
+    },
+    {
+     "v": 28,
+     "t": "sans vous laisser aucunement intimider par les adversaires : c’est là pour eux un signe de ruine, mais pour vous, de salut, et par la volonté de Dieu.",
+     "n": [
+      "28. Par la volonté de Dieu, qui vous donne ce courage. Vulgate, ce qui (les persécutions de vos adversaires) est une cause de perte pour eux, une occasion de salut pour vous ( Matth. v, 10 )."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Car c’est une grâce qu’il vous a faite, à vous, à l’égard du Christ, non seulement de croire en lui, mais encore de souffrir pour lui,"
+    },
+    {
+     "v": 30,
+     "t": "en soutenant le même combat que vous m’avez vu soutenir, et que, vous le savez, je soutiens encore aujourd’hui."
+    }
+   ]
+  },
+  {
+   "c": 2,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Si donc il est quelque encouragement dans le Christ, s’il est quelque consolation de charité, s’il est quelque communauté d’esprit, s’il est quelque tendresse et quelque compassion,"
+    },
+    {
+     "v": 2,
+     "t": "rendez ma joie parfaite : ayez une même pensée, un même amour, une même âme, un même sentiment."
+    },
+    {
+     "v": 3,
+     "t": "Ne faites rien par esprit de rivalité ou par vaine gloire ; mais que chacun, en toute humilité, regarde les autres comme au-dessus de soi ;"
+    },
+    {
+     "v": 4,
+     "t": "chacun ayant égard, non à ses propres intérêts, mais à ceux des autres."
+    },
+    {
+     "v": 5,
+     "t": "Ayez en vous les mêmes sentiments dont était animé le Christ Jésus :"
+    },
+    {
+     "v": 6,
+     "t": "bien qu’il fût dans la condition de Dieu, il n’a pas retenu avidement son égalité avec Dieu ;",
+     "n": [
+      "II, 6. Ce passage célèbre, qui enseigne clairement la préexistence de la personne divine du Christ (comp. Gal. iv, 4 ; Rom. viii, 3 ; II Cor. viii, 9 ) n’est pas en contradiction avec I Cor. xv, 47-49 où l’expression ἄνθρωπος ἐπουράνιο ; s’applique au Christ, considéré non pas dans sa préexistence, mais dans son état ressuscité et glorieux. Μορφή forme, ne signifie pas essence ou nature, ni non plus l’apparence extérieure rendue par σχῆμα, mais il veut dire : manière d’être, condition. Quant à l’expression οὐχ ἁρπαγμὸν ἠγήστο, cette locution s’entend d’un homme saisissant ou retenant avidement un bien. Ici c’est plutôt le sens de retenir avidement."
+     ]
+    },
+    {
+     "v": 7,
+     "t": "mais il s’est anéanti lui-même, en prenant la condition d’esclave, en se rendant semblable aux hommes, et reconnu pour homme par tout ce qui a paru de lui ;"
+    },
+    {
+     "v": 8,
+     "t": "il s’est abaissé lui-même, se faisant obéissant jusqu’à la mort, et à la mort de la croix."
+    },
+    {
+     "v": 9,
+     "t": "C’est pourquoi aussi Dieu l’a souverainement élevé, et lui a donné le nom qui est au-dessus de tout nom,"
+    },
+    {
+     "v": 10,
+     "t": "afin qu’au nom de Jésus tout genou fléchisse dans les cieux, sur la terre et dans les enfers,",
+     "n": [
+      "10. Afin de se rattache à je les regarde comme de la balayure (vers. 8)."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "et que toute langue confesse, à la gloire de Dieu le Père, que Jésus-Christ est Seigneur."
+    },
+    {
+     "v": 12,
+     "t": "Ainsi, mes bien-aimés, comme vous avez toujours été obéissants, travaillez à votre salut avec crainte et tremblement, non seulement comme en ma présence, mais bien plus encore maintenant que je suis absent ;"
+    },
+    {
+     "v": 13,
+     "t": "car c’est Dieu qui opère en vous le vouloir et le faire, selon son bon plaisir."
+    },
+    {
+     "v": 14,
+     "t": "Agissez en tout sans murmures ni hésitations,"
+    },
+    {
+     "v": 15,
+     "t": "afin que vous soyez sans reproche, simples, enfants de Dieu irrépréhensibles au milieu de ce peuple pervers et corrompu, dans le sein duquel vous brillez comme des flambeaux dans le monde,"
+    },
+    {
+     "v": 16,
+     "t": "étant en possession de la parole de vie ; et ainsi je pourrai me glorifier, au jour du Christ, de n’avoir pas couru en vain, ni travaillé en vain."
+    },
+    {
+     "v": 17,
+     "t": "Et même dût mon sang servir de libation dans le sacrifice et dans le service de votre foi, je m’en réjouis et vous en félicite."
+    },
+    {
+     "v": 18,
+     "t": "Vous aussi réjouissez-vous-en et m’en félicitez."
+    },
+    {
+     "v": 19,
+     "t": "J’espère dans le Seigneur Jésus vous envoyer bientôt Timothée, afin de me sentir moi-même plein de courage en apprenant de vos nouvelles."
+    },
+    {
+     "v": 20,
+     "t": "Car je n’ai personne qui me soit tant uni de sentiments, pour prendre sincèrement à cœur ce qui vous concerne ;",
+     "n": [
+      "20. D’autres avec la Vulgate : Je n’ai personne qui partage comme lui mes sentiments, et qui puisse s’intéresser véritablement, etc."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "tous, en effet, ont en vue leurs propres intérêts, et non ceux de Jésus-Christ."
+    },
+    {
+     "v": 22,
+     "t": "Vous savez qu’il est d’une vertu éprouvée, qu’il s’est dévoué avec moi, comme un enfant avec son père, au service de l’Évangile.",
+     "n": [
+      "22. Vous savez (Vulg., sachez ) : Timothée avait accompagné Paul à Philippes ( Act. xvi, 1, 3 ; xvii, 14 )."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "J’espère donc vous l’envoyer dès que j’apercevrai l’issue de ma situation ;"
+    },
+    {
+     "v": 24,
+     "t": "et j’espère également du Seigneur que moi-même aussi je pourrai venir bientôt."
+    },
+    {
+     "v": 25,
+     "t": "En attendant j’ai cru nécessaire de vous envoyer Épaphrodite mon frère, le compagnon de mes travaux et de mes combats, qui était venu de votre part pour subvenir à mes besoins."
+    },
+    {
+     "v": 26,
+     "t": "Car il désirait vous revoir tous, et il était fort en peine de ce que vous aviez appris sa maladie."
+    },
+    {
+     "v": 27,
+     "t": "Il a été, en effet, malade à mourir ; mais Dieu a eu pitié de lui et non pas seulement de lui, mais aussi de moi, afin que je n’eusse pas tristesse sur tristesse."
+    },
+    {
+     "v": 28,
+     "t": "J’ai donc mis plus d’empressement à vous l’envoyer, afin que la joie vous revînt en le voyant, et que moi-même je fusse moins triste.",
+     "n": [
+      "28. Moins triste, vous sachant dans la joie, Vulg., sans tristesse."
+     ]
+    },
+    {
+     "v": 29,
+     "t": "Recevez-le donc dans le Seigneur, avec une joie entière, et honorez de tels hommes."
+    },
+    {
+     "v": 30,
+     "t": "Car c’est pour l’œuvre du Christ qu’il a été près de la mort, ayant mis sa vie en jeu, afin de vous suppléer dans le service que vous ne pouviez me rendre."
+    }
+   ]
+  },
+  {
+   "c": 3,
+   "verses": [
+    {
+     "v": 1,
+     "t": "Du reste, mes frères, réjouissez-vous dans le Seigneur. — Vous écrire les mêmes choses ne me coûte pas et à vous cela est salutaire.",
+     "n": [
+      "III, 1. Rom. xiv, 17. — Les mêmes choses, touchant les judaïsants : est-ce une allusion à une lettre antérieure que nous n’aurions plus ? S. Polycarpe, Epist. ad Philippenses, iii, fait allusion à plusieurs lettres de l’Apôtre."
+     ]
+    },
+    {
+     "v": 2,
+     "t": "Prenez garde à ces chiens, prenez garde à ces mauvais ouvriers, prenez garde à ces mutilés.",
+     "n": [
+      "2. Ce verset paraît une citation empruntée à l’épître perdue à laquelle Paul vient de faire allusion."
+     ]
+    },
+    {
+     "v": 3,
+     "t": "Car c’est nous qui sommes les vrais circoncis, nous qui par l’esprit de Dieu lui rendons un culte, qui mettons notre gloire dans le Christ Jésus et ne nous confions point dans la chair."
+    },
+    {
+     "v": 4,
+     "t": "Et pourtant quant à moi, j’aurais sujet de mettre aussi ma confiance dans la chair. Si quelqu’autre croit pouvoir le faire, je le puis bien davantage, moi,"
+    },
+    {
+     "v": 5,
+     "t": "un circoncis du huitième jour, de la race d’Israël, de la tribu de Benjamin ; Hébreu, fils d’Hébreux ; pharisien, pour ce qui est de la Loi ;",
+     "n": [
+      "5. Circoncis du huitième jour, par conséquent né Juif, et non prosélyte. Act. xxiii, 6 ; xxvi, 5."
+     ]
+    },
+    {
+     "v": 6,
+     "t": "persécuteur de l’Église, pour ce qui est du zèle, et quant à la justice de la Loi, irréprochable."
+    },
+    {
+     "v": 7,
+     "t": "Mais ces titres qui étaient pour moi de précieux avantages, je les ai considérés comme un préjudice à cause du Christ."
+    },
+    {
+     "v": 8,
+     "t": "Oui certes, et même je tiens encore tout cela comme un préjudice, eu égard au prix éminent de la connaissance du Christ Jésus mon Seigneur. Pour son amour j’ai voulu tout perdre, regardant toutes choses comme de la balayure, afin de gagner le Christ,"
+    },
+    {
+     "v": 9,
+     "t": "et d’être trouvé en lui, non avec ma propre justice, — c’est celle qui vient de la Loi, — mais avec celle qui naît de la foi dans le Christ, la justice qui vient de Dieu par la foi ;"
+    },
+    {
+     "v": 10,
+     "t": "afin de le connaître, lui et la vertu de sa résurrection, d’être admis à la communion de ses souffrances, en lui devenant conforme dans sa mort,"
+    },
+    {
+     "v": 11,
+     "t": "pour parvenir, si je le puis, à la résurrection des morts."
+    },
+    {
+     "v": 12,
+     "t": "Ce n’est pas que j’aie déjà saisi le prix, ou que j’aie déjà atteint la perfection ; mais je poursuis ma course pour tâcher de le saisir, puisque j’ai été saisi moi-même par le Christ.",
+     "n": [
+      "12. Saisi le prix, image empruntée au jeu de la course ; ou, pour parler sans figure, atteint la perfection, qui consiste à gagner le Christ, et à vivre de sa vie (vers. 7-10)."
+     ]
+    },
+    {
+     "v": 13,
+     "t": "Pour moi, frères, je ne pense pas l’avoir saisi, mais je ne fais qu’une chose : oubliant ce qui est derrière moi, et me portant de tout moi-même vers ce qui est en avant,"
+    },
+    {
+     "v": 14,
+     "t": "je cours droit au but, pour remporter le prix auquel Dieu m’a appelé d’en haut en Jésus-Christ."
+    },
+    {
+     "v": 15,
+     "t": "Que ce soient là nos sentiments, à nous tous qui sommes arrivés à l’âge d’homme ; et si, sur quelque point, vous avez des pensées différentes, Dieu vous éclairera aussi là-dessus."
+    },
+    {
+     "v": 16,
+     "t": "Seulement, du point où nous sommes arrivés, marchons comme nous l’avons déjà fait jusqu’ici.",
+     "n": [
+      "16. La Vulg. et quelques manuscrits ajoutent, ayons le même sentiment (vers. 15)."
+     ]
+    },
+    {
+     "v": 17,
+     "t": "Vous aussi, frères, soyez mes imitateurs, et ayez les yeux sur ceux qui marchent suivant le modèle que vous avez en nous."
+    },
+    {
+     "v": 18,
+     "t": "Car il en est plusieurs qui marchent en ennemis de la croix du Christ : je vous en ai souvent parlé, et j’en parle maintenant encore avec larmes."
+    },
+    {
+     "v": 19,
+     "t": "Leur fin, c’est la perdition, eux qui font leur Dieu de leur ventre, et mettent leur gloire dans ce qui fait leur honte, n’ayant de goût que pour les choses de la terre."
+    },
+    {
+     "v": 20,
+     "t": "Pour nous, notre cité est dans les cieux, d’où nous attendons aussi comme Sauveur le Seigneur Jésus-Christ,",
+     "n": [
+      "20. Notre cité, litt. le municipatus auquel nous appartenons, notre patrie. Comp. Hébr. xiii, 14."
+     ]
+    },
+    {
+     "v": 21,
+     "t": "qui transformera notre corps si misérable, en le rendant semblable à son corps glorieux, par sa vertu puissante qui lui assujettit toutes choses."
+    }
+   ]
+  },
+  {
+   "c": 4,
+   "verses": [
+    {
+     "v": 1,
+     "t": "C’est pourquoi, mes chers et bien-aimés frères, ma joie et ma couronne, tenez ainsi ferme dans le Seigneur, mes bien-aimés."
+    },
+    {
+     "v": 2,
+     "t": "J’exhorte Evodie et j’invite Syntyché à être en bonne intelligence dans le Seigneur."
+    },
+    {
+     "v": 3,
+     "t": "Et toi aussi, mon fidèle compagnon, je te prie de leur venir en aide, elles qui ont combattu pour l’Évangile avec moi, avec Clément, et mes autres collaborateurs dont les noms sont dans le livre de vie.",
+     "n": [
+      "IV, 3. Mon fidèle compagnon, d’après les uns, l’évêque de Philippes, ou bien σύνζυγε serait un nom propre. En tout cas la forme γνήσιε donnée par tous les manuscrits montre que le substantif σύνζυγε est au masculin. — Clément, est-ce S. Clément de Rome, le 3 e successeur de saint Pierre ? Toute l’antiquité le suppose ; et bien que cette identification offre quelque difficulté, elle est sérieusement probable."
+     ]
+    },
+    {
+     "v": 4,
+     "t": "Réjouissez-vous dans le Seigneur en tout temps ; je le répète, réjouissez-vous."
+    },
+    {
+     "v": 5,
+     "t": "Que votre modération soit connue de tous les hommes : le Seigneur est proche."
+    },
+    {
+     "v": 6,
+     "t": "Ne vous inquiétez de rien ; mais en toute circonstance faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâce."
+    },
+    {
+     "v": 7,
+     "t": "Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées dans le Christ Jésus.",
+     "n": [
+      "7. Gardera (Vulg., que la paix… garde )… en J.-C., unis à lui dans la foi, l’espérance et la charité."
+     ]
+    },
+    {
+     "v": 8,
+     "t": "Au reste, frères, que tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui est de bonne renommée, s’il est quelque vertu et s’il est quelque louange, que ce soit là l’objet de vos pensées ;",
+     "n": [
+      "8. Digne de louange. Vulgate, ce qu’il y a de louable dans la science des mœurs."
+     ]
+    },
+    {
+     "v": 9,
+     "t": "ce que vous avez appris et reçu, ce que vous m’avez entendu dire et vu faire à moi-même, pratiquez-le, et le Dieu de paix sera avec vous."
+    },
+    {
+     "v": 10,
+     "t": "Je me suis vivement réjoui dans le Seigneur, de ce que j’ai vu refleurir enfin vos sentiments d’autrefois à mon égard ; vous les aviez bien, mais l’occasion vous avait manqué.",
+     "h": "CONCLUSION.",
+     "n": [
+      "10. Vu refleurir ; litt. de ce que vous avez poussé de nouveaux rejetons quant à votre sollicitude à mon égard : image prise d’un arbre dont un rigoureux hiver a desséché les branches et qui en pousse de nouvelles. Sans figure : de ce que la communauté de Philippes, qui par suite de la difficulté des temps ne m’envoyait plus aucun secours, a pu enfin m’en faire parvenir par Épaphrodite ( ii, 25 sv. )."
+     ]
+    },
+    {
+     "v": 11,
+     "t": "Ce n’est pas à cause de mes besoins que je parle ainsi, car j’ai appris à me suffire avec ce que j’ai."
+    },
+    {
+     "v": 12,
+     "t": "Je sais vivre dans le dénuement, et je sais vivre dans l’abondance. En tout et par tout j’ai appris à être rassasié et à avoir faim, à être dans l’abondance et à être dans la détresse."
+    },
+    {
+     "v": 13,
+     "t": "Je puis tout en celui qui me fortifie."
+    },
+    {
+     "v": 14,
+     "t": "Cependant vous avez bien fait de prendre part à ma détresse."
+    },
+    {
+     "v": 15,
+     "t": "Vous savez aussi, vous, Philippiens, que dans les débuts de ma prédication de l’Évangile, lorsque je quittai la Macédoine, aucune Église ne m’ouvrit un compte de Doit et Avoir, excepté vous seuls.",
+     "n": [
+      "15. De la Macédoine, Act. xvii, 13 sv. — De Doit et Avoir : locution empruntée à la langue du commerce. Les Églises recevaient des secours spirituels, et donnaient en retour de quoi subvenir aux besoins des prédicateurs."
+     ]
+    },
+    {
+     "v": 16,
+     "t": "Car vous m’avez envoyé à Thessalonique, une première fois, puis une seconde, de quoi subvenir à mes besoins."
+    },
+    {
+     "v": 17,
+     "t": "Ce n’est pas que je recherche les dons ; ce que je recherche, c’est le fruit qui va s’augmentant à votre compte."
+    },
+    {
+     "v": 18,
+     "t": "Maintenant j’ai abondamment de tout, et je suis dans l’abondance ; je suis comblé, ayant reçu d’Épaphrodite ce qui vient de vous, comme un parfum de bonne odeur, une hostie que Dieu accepte et qui lui est agréable."
+    },
+    {
+     "v": 19,
+     "t": "Et mon Dieu pourvoira à tous vos besoins, selon sa richesse, avec gloire, dans le Christ Jésus.",
+     "n": [
+      "19. Pourvoira. D’autres manuscrits et la Vulgate, que Dieu pourvoie."
+     ]
+    },
+    {
+     "v": 20,
+     "t": "À notre Dieu et Père, soit la gloire aux siècles des siècles ! Amen !"
+    },
+    {
+     "v": 21,
+     "t": "Saluez en Jésus-Christ tous les saints. Les frères qui sont avec moi vous saluent."
+    },
+    {
+     "v": 22,
+     "t": "Tous les saints vous saluent, et principalement ceux de la maison de César.",
+     "n": [
+      "22. Ceux de la maison, les chrétiens au service de César (Néron)."
+     ]
+    },
+    {
+     "v": 23,
+     "t": "Que la grâce du Seigneur Jésus-Christ soit avec votre esprit !"
+    }
+   ]
+  }
+ ]
+}
