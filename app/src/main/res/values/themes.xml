@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème de fenêtre (avant que Compose prenne la main) : fond sombre pour éviter le flash blanc -->
+    <style name="Theme.Trust" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <color name="window_bg">#0F0E0C</color>
+    <color name="launcher_bg">#14120F</color>
+    <color name="launcher_fg">#D4A955</color>
+</resources>

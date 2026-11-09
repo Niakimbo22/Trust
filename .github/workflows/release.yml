@@ -1,0 +1,83 @@
+# Build + publication d'une version de Trust.
+# Ne tourne QUE quand on publie une version (tag v*) ou à la main. Jamais sur les push/PR.
+# Le tag décide de la version : v1.2.3 → versionName 1.2.3, versionCode 10203.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version à publier (ex : 0.2.0) — crée le tag v0.2.0"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Version
+        id: v
+        env:
+          INPUT_VERSION: ${{ inputs.version }}
+        run: |
+          if [ "${GITHUB_REF_TYPE}" = "tag" ]; then V="${GITHUB_REF_NAME#v}"; else V="${INPUT_VERSION#v}"; fi
+          if ! [[ "$V" =~ ^[0-9]+\.[0-9]{1,2}\.[0-9]{1,2}$ ]]; then
+            echo "::error::Version invalide '$V' (attendu X.Y.Z, mineur et patch < 100)"; exit 1
+          fi
+          echo "version=$V" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Keystore
+        env:
+          KEYSTORE_B64: ${{ secrets.TRUST_KEYSTORE_BASE64 }}
+        run: |
+          if [ -z "$KEYSTORE_B64" ]; then echo "::error::Secret TRUST_KEYSTORE_BASE64 manquant"; exit 1; fi
+          echo "$KEYSTORE_B64" | base64 -d > "$RUNNER_TEMP/trust-release.jks"
+
+      - name: Build APK
+        env:
+          TRUST_KEYSTORE_PATH: ${{ runner.temp }}/trust-release.jks
+          TRUST_KEYSTORE_PASSWORD: ${{ secrets.TRUST_KEYSTORE_PASSWORD }}
+          TRUST_KEY_ALIAS: ${{ secrets.TRUST_KEY_ALIAS }}
+          TRUST_KEY_PASSWORD: ${{ secrets.TRUST_KEY_PASSWORD }}
+        run: ./gradlew --no-daemon assembleRelease -PtrustVersionName=${{ steps.v.outputs.version }}
+
+      - name: Vérifier la signature
+        run: |
+          APK=app/build/outputs/apk/release/app-release.apk
+          test -f "$APK" || { echo "::error::APK signé introuvable"; exit 1; }
+          "$(ls -d $ANDROID_HOME/build-tools/* | sort -V | tail -1)/apksigner" verify --print-certs "$APK" | head -3
+          cp "$APK" "trust-${{ steps.v.outputs.version }}.apk"
+
+      - name: Publier la release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          V: ${{ steps.v.outputs.version }}
+        run: |
+          if gh release view "v$V" >/dev/null 2>&1; then
+            gh release upload "v$V" "trust-$V.apk" --clobber
+          else
+            gh release create "v$V" "trust-$V.apk" --target "$GITHUB_SHA" \
+              --title "Trust $V" --generate-notes --latest
+          fi
+
+      - name: Nettoyage
+        if: always()
+        run: rm -f "$RUNNER_TEMP/trust-release.jks"

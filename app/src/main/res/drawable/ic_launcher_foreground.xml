@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icône : une croix fine, centrée dans la zone sûre (66dp sur 108dp) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/launcher_fg"
+        android:pathData="M51.5,30h5v48h-5z" />
+    <path
+        android:fillColor="@color/launcher_fg"
+        android:pathData="M39,43h30v5h-30z" />
+</vector>
