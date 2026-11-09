@@ -11,6 +11,10 @@ data class FilePosition(val index: Int, val positionMs: Long)
 /**
  * Conversions entre le temps global du livre (fichiers audio mis bout à bout, en secondes)
  * et les versets / les fichiers. Logique pure, sans Android : facile à tester.
+ *
+ * Tout est rangé dans l'ordre de l'audio : il peut différer de l'ordre des numéros
+ * (ex. Esther, dont les passages grecs numérotés 11 à 16 sont lus au fil du récit).
+ * Un chapitre absent des timings n'a pas d'audio.
  */
 class VerseClock(private val timings: BookTimings) {
     private val offsets: DoubleArray = DoubleArray(timings.audio.size).also { arr ->
@@ -18,13 +22,23 @@ class VerseClock(private val timings: BookTimings) {
         timings.audio.forEachIndexed { i, a -> arr[i] = acc; acc += a.duration }
     }
 
-    /** Tous les débuts de verset, à plat et triés : (temps, chapitre, verset). */
-    private val starts: List<Triple<Double, Int, Int>> = timings.chapters.flatMap { ch ->
-        ch.verses.mapIndexed { i, t -> Triple(t, ch.c, i + 1) }
-    }
+    private class Mark(val time: Double, val ref: VerseRef)
+
+    /** Annonces de chapitre (verset 0) et débuts de verset, triés par temps. */
+    private val marks: List<Mark> = timings.chapters.flatMap { ch ->
+        listOf(Mark(ch.start, VerseRef(ch.c, 0))) +
+            ch.verses.mapIndexed { i, t -> Mark(t, VerseRef(ch.c, i + 1)) }
+    }.sortedWith(compareBy<Mark> { it.time }.thenBy { it.ref.verse })
+
+    private val verseMarks: List<Mark> = marks.filter { it.ref.verse > 0 }
+    private val indexOf: Map<VerseRef, Int> = verseMarks.withIndex().associate { (i, m) -> m.ref to i }
 
     val duration: Double get() = timings.duration
-    val chapters: List<Int> get() = timings.chapters.map { it.c }
+
+    /** Chapitres avec audio, dans l'ordre de l'écoute. */
+    val chapters: List<Int> = marks.filter { it.ref.verse == 0 }.map { it.ref.chapter }
+
+    fun hasAudio(chapter: Int): Boolean = timings.chapters.any { it.c == chapter }
 
     fun toGlobal(index: Int, positionMs: Long): Double =
         offsets.getOrElse(index) { 0.0 } + positionMs / 1000.0
@@ -37,25 +51,17 @@ class VerseClock(private val timings: BookTimings) {
         return FilePosition(i, ((g - offsets[i]) * 1000).toLong().coerceAtLeast(0))
     }
 
-    /** Verset en cours à ce temps (verset 0 = annonce du chapitre avant le verset 1). */
+    /** Verset en cours à ce temps (verset 0 = annonce du chapitre). */
     fun verseAt(globalSeconds: Double): VerseRef {
-        if (starts.isEmpty()) return VerseRef(1, 1)
-        // recherche dichotomique du dernier début <= t
+        if (marks.isEmpty()) return VerseRef(1, 1)
+        if (globalSeconds < marks[0].time) return marks[0].ref
         var lo = 0
-        var hi = starts.size - 1
-        if (globalSeconds < starts[0].first) return VerseRef(starts[0].second, 0)
+        var hi = marks.size - 1
         while (lo < hi) {
             val mid = (lo + hi + 1) / 2
-            if (starts[mid].first <= globalSeconds + 0.02) lo = mid else hi = mid - 1
+            if (marks[mid].time <= globalSeconds + 0.02) lo = mid else hi = mid - 1
         }
-        val (_, c, v) = starts[lo]
-        // entre la fin d'un chapitre et le verset 1 du suivant : annonce du chapitre suivant
-        val next = starts.getOrNull(lo + 1)
-        if (next != null && next.third == 1) {
-            val chStart = timings.chapters.first { it.c == next.second }.start
-            if (globalSeconds >= chStart) return VerseRef(next.second, 0)
-        }
-        return VerseRef(c, v)
+        return marks[lo].ref
     }
 
     fun verseStart(chapter: Int, verse: Int): Double? {
@@ -66,24 +72,29 @@ class VerseClock(private val timings: BookTimings) {
 
     fun chapterStart(chapter: Int): Double? = timings.chapters.firstOrNull { it.c == chapter }?.start
 
+    /** Fin du chapitre = début de ce qui suit son dernier verset et n'appartient pas au chapitre. */
     fun chapterEnd(chapter: Int): Double {
-        val idx = timings.chapters.indexOfFirst { it.c == chapter }
-        return timings.chapters.getOrNull(idx + 1)?.start ?: duration
+        val last = timings.chapters.firstOrNull { it.c == chapter }?.verses?.maxOrNull() ?: return duration
+        return marks.firstOrNull { it.time > last && it.ref.chapter != chapter }?.time ?: duration
     }
 
     fun verseCount(chapter: Int): Int = timings.chapters.firstOrNull { it.c == chapter }?.verses?.size ?: 0
 
-    /** Verset suivant (passe au chapitre suivant si besoin), ou null en fin de livre. */
+    /** Verset suivant dans l'audio, ou null en fin de livre. */
     fun next(ref: VerseRef): VerseRef? {
-        if (ref.verse < verseCount(ref.chapter)) return VerseRef(ref.chapter, ref.verse + 1)
-        val i = chapters.indexOf(ref.chapter)
-        return chapters.getOrNull(i + 1)?.let { VerseRef(it, 1) }
+        if (ref.verse == 0) return VerseRef(ref.chapter, 1).takeIf { it in indexOf }
+        val i = indexOf[ref] ?: return null
+        return verseMarks.getOrNull(i + 1)?.ref
     }
 
+    /** Verset précédent dans l'audio (l'annonce du chapitre si on est au verset 1). */
     fun previous(ref: VerseRef): VerseRef? {
-        if (ref.verse > 1) return VerseRef(ref.chapter, ref.verse - 1)
-        val i = chapters.indexOf(ref.chapter)
-        val prev = chapters.getOrNull(i - 1) ?: return if (ref.verse == 0) null else VerseRef(ref.chapter, 0)
-        return VerseRef(prev, verseCount(prev))
+        if (ref.verse == 0) {
+            val i = indexOf[VerseRef(ref.chapter, 1)] ?: return null
+            return verseMarks.getOrNull(i - 1)?.ref
+        }
+        val i = indexOf[ref] ?: return null
+        val prev = verseMarks.getOrNull(i - 1)?.ref
+        return if (ref.verse == 1 && (prev == null || prev.chapter != ref.chapter)) VerseRef(ref.chapter, 0) else prev
     }
 }

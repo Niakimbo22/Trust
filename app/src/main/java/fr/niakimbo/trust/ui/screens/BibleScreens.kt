@@ -303,7 +303,8 @@ fun ReaderScreen(
             subtitle = book?.info?.name,
             onBack = onBack,
         ) {
-            if (book?.timings != null && !(playingHere && player.isPlaying)) {
+            val chapterAudio = book?.timings?.chapters?.any { it.c == chapter } == true
+            if (chapterAudio && !(playingHere && player.isPlaying)) {
                 IconButton(onClick = { container.player.play(code, chapter, 0) }) {
                     Icon(Icons.Filled.PlayArrow, contentDescription = "Écouter ce chapitre", tint = MaterialTheme.colorScheme.primary)
                 }
@@ -315,6 +316,7 @@ fun ReaderScreen(
                 Text("Chapitre introuvable.", Modifier.padding(20.dp))
                 return@LoadableContent
             }
+            val hasAudio = b.timings?.chapters?.any { it.c == chapter } == true
             val listState = rememberLazyListState()
             val current = if (playingHere) player.ref?.verse else null
             val marked = bookmarks.map { it.verse }.toSet()
@@ -335,7 +337,7 @@ fun ReaderScreen(
             LazyColumn(state = listState, contentPadding = PaddingValues(start = 20.dp, end = 20.dp, bottom = 32.dp)) {
                 item {
                     Text(
-                        if (b.timings == null) "Audio bientôt disponible pour ce livre. Appui long sur un verset : marque-page, note."
+                        if (!hasAudio) "Pas d'audio pour ce chapitre. Appui long sur un verset : marque-page, note."
                         else "Touche un verset pour l'écouter · appui long : marque-page, note.",
                         style = MaterialTheme.typography.bodySmall,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
@@ -350,7 +352,7 @@ fun ReaderScreen(
                         bookmarked = verse.v in marked,
                         note = noted[verse.v],
                         onClick = {
-                            if (b.timings != null) container.player.play(code, chapter, verse.v) else selected = verse
+                            if (hasAudio) container.player.play(code, chapter, verse.v) else selected = verse
                         },
                         onLongClick = { selected = verse },
                     )
@@ -375,7 +377,7 @@ fun ReaderScreen(
                 VerseActions(
                     title = "${b.info.short} $chapter, ${v.v}",
                     verse = v,
-                    canPlay = b.timings != null,
+                    canPlay = hasAudio,
                     bookmarked = v.v in marked,
                     hasNote = v.v in noted,
                     onDismiss = { selected = null },

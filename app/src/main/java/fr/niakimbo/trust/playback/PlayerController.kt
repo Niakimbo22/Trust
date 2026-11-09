@@ -188,7 +188,10 @@ class PlayerController(
             _state.update { it.copy(error = "L'audio de ce livre n'est pas encore prêt.") }
             return@launch
         }
-        val target = clock.verseStart(chapter, verse) ?: clock.chapterStart(chapter) ?: 0.0
+        val target = clock.verseStart(chapter, verse) ?: clock.chapterStart(chapter) ?: run {
+            _state.update { it.copy(error = "Pas d'enregistrement audio pour ce chapitre.") }
+            return@launch
+        }
         startAt(book, target, playNow = true)
     }
 

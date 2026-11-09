@@ -71,6 +71,12 @@ jobs:
       - name: Rapport
         if: always()
         run: grep -h "REPORT\|versets faibles\|jetons" report.log >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Transcription (pour réaligner sans tout refaire)
+        uses: actions/upload-artifact@v4
+        with:
+          name: words-${{ matrix.book }}
+          path: ${{ runner.temp }}/work/${{ matrix.book }}_words.json
+          retention-days: 30
       - uses: actions/upload-artifact@v4
         with:
           name: timings-${{ matrix.book }}

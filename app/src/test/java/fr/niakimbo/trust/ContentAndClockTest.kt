@@ -32,13 +32,14 @@ class ContentAndClockTest {
             assertEquals(b.verses, text.chapters.sumOf { it.verses.size })
             b.timings?.let { path ->
                 val t = json.decodeFromString<BookTimings>(File(content, path).readText())
-                // un temps par verset, dans le même ordre que le texte
-                text.chapters.zip(t.chapters).forEach { (tc, cc) ->
-                    assertEquals("${b.code} ${tc.c}", tc.c, cc.c)
-                    assertEquals("${b.code} ${tc.c}", tc.verses.size, cc.verses.size)
+                // chaque chapitre avec audio a un temps par verset ; les temps sont tous distincts
+                t.chapters.forEach { cc ->
+                    val tc = text.chapters.firstOrNull { it.c == cc.c }
+                    assertNotNull("${b.code} ${cc.c}", tc)
+                    assertEquals("${b.code} ${cc.c}", tc!!.verses.size, cc.verses.size)
                 }
-                val all = t.chapters.flatMap { it.verses }
-                assertTrue("${b.code} : temps croissants", all.zipWithNext().all { (a, c) -> c > a })
+                val all = t.chapters.flatMap { it.verses }.sorted()
+                assertTrue("${b.code} : temps distincts", all.zipWithNext().all { (a, c) -> c > a })
                 assertEquals(b.audio.sumOf { it.duration }, t.duration, 0.5)
             }
         }
@@ -60,7 +61,9 @@ class ContentAndClockTest {
     @Test fun nextAndPreviousCrossChapters() {
         val clock = VerseClock(timings("JHN"))
         assertEquals(VerseRef(2, 1), clock.next(VerseRef(1, 51)))
-        assertEquals(VerseRef(1, 51), clock.previous(VerseRef(2, 1)))
+        assertEquals(VerseRef(2, 0), clock.previous(VerseRef(2, 1)))
+        assertEquals(VerseRef(1, 51), clock.previous(VerseRef(2, 0)))
+        assertEquals(VerseRef(2, 1), clock.next(VerseRef(2, 0)))
         assertNull(clock.next(VerseRef(21, 25)))
     }
 
