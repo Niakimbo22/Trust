@@ -45,7 +45,7 @@ data class PlayerUiState(
 )
 
 /** Dernière écoute, pour « Reprendre ». */
-data class ResumePoint(val code: String, val position: Double, val chapter: Int, val verse: Int, val savedAt: Long)
+data class ResumePoint(val code: String, val name: String, val position: Double, val chapter: Int, val verse: Int, val savedAt: Long)
 
 /**
  * Pilote le service audio depuis l'interface (via un MediaController) et expose un état simple.
@@ -334,9 +334,10 @@ class PlayerController(
         val book = s.book ?: return
         val ref = s.ref ?: return
         lastSaved = now
-        val point = ResumePoint(book.code, s.position, ref.chapter, ref.verse, now)
+        val point = ResumePoint(book.code, book.info.short, s.position, ref.chapter, ref.verse, now)
         prefs.edit()
             .putString(KEY_CODE, point.code)
+            .putString(KEY_NAME, point.name)
             .putFloat(KEY_POS, point.position.toFloat())
             .putInt(KEY_CHAPTER, point.chapter)
             .putInt(KEY_VERSE, point.verse)
@@ -349,6 +350,7 @@ class PlayerController(
         val code = prefs.getString(KEY_CODE, null) ?: return null
         return ResumePoint(
             code,
+            prefs.getString(KEY_NAME, null) ?: code,
             prefs.getFloat(KEY_POS, 0f).toDouble(),
             prefs.getInt(KEY_CHAPTER, 1),
             prefs.getInt(KEY_VERSE, 1),
@@ -361,6 +363,7 @@ class PlayerController(
         const val SAVE_EVERY_MS = 5_000L
         const val KEY_SPEED = "speed"
         const val KEY_CODE = "resume_code"
+        const val KEY_NAME = "resume_name"
         const val KEY_POS = "resume_pos"
         const val KEY_CHAPTER = "resume_chapter"
         const val KEY_VERSE = "resume_verse"

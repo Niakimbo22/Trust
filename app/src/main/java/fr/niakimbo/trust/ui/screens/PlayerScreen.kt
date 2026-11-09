@@ -98,7 +98,7 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
             )
             resume?.let { r ->
                 FilledTonalButton(onClick = { container.player.resumeLast() }) {
-                    Text("Reprendre · ${container.content.loadedBook(r.code)?.info?.short ?: r.code} ${r.chapter}, ${r.verse.coerceAtLeast(1)}")
+                    Text("Reprendre · ${r.name} ${r.chapter}, ${r.verse.coerceAtLeast(1)}")
                 }
                 Spacer(Modifier.height(8.dp))
             }

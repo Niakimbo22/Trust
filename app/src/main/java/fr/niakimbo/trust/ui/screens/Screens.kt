@@ -36,8 +36,6 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material3.FilledIconButton
 import androidx.compose.material3.TextButton
-import androidx.compose.runtime.produceState
-import fr.niakimbo.trust.content.BooksIndex
 import fr.niakimbo.trust.data.ThemeMode
 import fr.niakimbo.trust.ui.components.ScreenTitle
 import fr.niakimbo.trust.ui.components.SectionLabel
@@ -55,7 +53,6 @@ private val screenPadding = Modifier.padding(horizontal = 20.dp)
 fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () -> Unit) {
     val update by container.updateManager.state.collectAsStateWithLifecycle()
     val resume by container.player.resume.collectAsStateWithLifecycle()
-    val index by produceState<BooksIndex?>(null) { value = runCatching { container.content.index() }.getOrNull() }
     val greeting = if (LocalTime.now().hour in 5..17) "Bonjour" else "Bonsoir"
 
     Column(
@@ -82,7 +79,7 @@ fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () ->
                 )
                 TextButton(onClick = onOpenBible, modifier = Modifier.padding(top = 4.dp)) { Text("Ouvrir la Bible") }
             } else {
-                val name = index?.books?.firstOrNull { it.code == r.code }?.short ?: r.code
+                val name = r.name
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Column(Modifier.weight(1f)) {
                         Text("$name ${r.chapter}", style = MaterialTheme.typography.titleLarge)
