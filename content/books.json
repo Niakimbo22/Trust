@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "books": [
+  {
+   "code": "JHN",
+   "name": "Évangile selon saint Jean",
+   "short": "Jean",
+   "testament": "NT",
+   "chapters": 21,
+   "verses": 879,
+   "text": "text/JHN.json",
+   "timings": "timings/JHN.json",
+   "audio": "https://archive.org/download/Bible-NouveauTestament/04-jean_entier_128.ogg"
+  }
+ ]
+}
