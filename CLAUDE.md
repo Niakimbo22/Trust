@@ -12,6 +12,9 @@ Spec complète : `TRUST_SPEC.md` (source de vérité).
 - **Versions** : uniquement via les tags `vX.Y.Z` (mineur et patch < 100). versionCode = X*10000 + Y*100 + Z, calculé dans `app/build.gradle.kts` et dans `update/VersionCodes.kt` — les deux doivent rester identiques.
 - **MAJ in-app** (`update/`) : ne pas casser. Signature toujours avec le même keystore, sinon l'installation par-dessus échoue.
 - **Audio CC BY-NC-ND** : jamais de modification, ré-encodage ou redistribution modifiée des fichiers audio. Crédits obligatoires dans « À propos ».
-- Ne pas toucher aux fichiers de données (`content/`) sauf demande explicite.
+- Ne pas toucher aux fichiers de données (`content/`) sauf demande explicite. Ils sont produits par `tools/` :
+  texte = `extract_wikisource.py` (lancé en local), timings = workflow manuel **Contenu** (`books`: codes, `missing` ou `all`).
+- L'app lit `content/` depuis raw.githubusercontent.com (cache disque) : un nouveau contenu n'exige pas de nouvel APK.
+- Publier une version depuis l'environnement Claude : le push de tags est refusé → `workflow_dispatch` de **Release** via l'API REST.
 - Vérifier que le projet compile (`./gradlew assembleDebug`) avant de pousser.
 - Jamais de dépendance payante ni de SDK de pub/analytics/tracking.

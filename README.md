@@ -6,6 +6,9 @@ Application Android personnelle de **Bible audio catholique** : un vrai lecteur 
 - Audio : enregistrements Mission Web (CC BY-NC-ND), diffusés sans modification.
 - Gratuit, sans publicité ni pistage.
 
+Fonctions : les 73 livres, lecteur audio au verset près (écran verrouillé, vitesse, minuteur, reprise exacte),
+texte synchronisé, marque-pages, notes, historique, écoute hors-ligne.
+
 ## Installer
 Télécharge le dernier APK dans [Releases](https://github.com/Niakimbo22/trust/releases/latest). Ensuite, l'app se met à jour toute seule (Réglages → Mises à jour).
 
