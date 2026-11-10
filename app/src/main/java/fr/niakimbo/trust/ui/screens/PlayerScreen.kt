@@ -239,6 +239,14 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
                         style = MaterialTheme.typography.bodySmall,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
                     )
+                    if (book.code in REVISED_READING) {
+                        Text(
+                            REVISED_READING_NOTICE,
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = Modifier.padding(top = 4.dp),
+                        )
+                    }
                 }
                 TextButton(onClick = { onOpenText(book.code, chapter) }) { Text("Ouvrir") }
             }

@@ -279,6 +279,11 @@ private fun DownloadRow(container: AppContainer, book: Book) {
 
 // ---------------- Lecture d'un chapitre (texte synchronisé) ----------------
 
+/** Livres dont le narrateur lit une édition révisée : le verset est le bon, mais certains mots diffèrent du texte de 1923. */
+internal val REVISED_READING = setOf("MAT", "MRK", "LUK", "ACT", "1TI", "2TI", "PSA")
+internal const val REVISED_READING_NOTICE =
+    "Dans ce livre, le narrateur lit une édition révisée : les mots peuvent différer du texte affiché (Crampon 1923). Le verset surligné reste le bon."
+
 @Composable
 fun ReaderScreen(
     container: AppContainer,
@@ -350,6 +355,14 @@ fun ReaderScreen(
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
                         modifier = Modifier.padding(vertical = 8.dp),
                     )
+                    if (hasAudio && code in REVISED_READING) {
+                        Text(
+                            REVISED_READING_NOTICE,
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = Modifier.padding(bottom = 8.dp),
+                        )
+                    }
                 }
                 items(ch.verses, key = { it.v }) { verse ->
                     VerseItem(
