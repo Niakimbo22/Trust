@@ -46,13 +46,38 @@ import fr.niakimbo.trust.ui.theme.ScriptureFamily
 import java.time.LocalTime
 import kotlin.math.roundToInt
 import androidx.compose.ui.unit.sp
+import android.text.format.DateUtils
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.semantics
+import fr.niakimbo.trust.data.JournalBackupCodec
+import fr.niakimbo.trust.data.plural
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import java.time.LocalDate
+import androidx.compose.ui.semantics.Role
+import androidx.compose.foundation.layout.heightIn
+import androidx.compose.foundation.layout.wrapContentHeight
 
 private val screenPadding = Modifier.padding(horizontal = 20.dp)
 
 // ---------------- Accueil ----------------
 
 @Composable
-fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () -> Unit, onOpenJournal: (Int) -> Unit) {
+fun HomeScreen(
+    container: AppContainer,
+    onResume: () -> Unit,
+    onPlay: (code: String, chapter: Int, verse: Int) -> Unit,
+    onOpenBible: () -> Unit,
+    onOpenJournal: (Int) -> Unit,
+) {
     val bookmarks by container.journal.bookmarks.collectAsStateWithLifecycle(emptyList())
     val notes by container.journal.notes.collectAsStateWithLifecycle(emptyList())
     val history by container.journal.history.collectAsStateWithLifecycle(emptyList())
@@ -85,7 +110,10 @@ fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () ->
                 TextButton(onClick = onOpenBible, modifier = Modifier.padding(top = 4.dp)) { Text("Ouvrir la Bible") }
             } else {
                 val name = r.name
-                Row(verticalAlignment = Alignment.CenterVertically) {
+                Row(
+                    Modifier.fillMaxWidth().clickable(onClickLabel = "Reprendre l'écoute", onClick = onResume),
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
                     Column(Modifier.weight(1f)) {
                         Text("$name ${r.chapter}", style = MaterialTheme.typography.titleLarge)
                         Text(
@@ -97,6 +125,37 @@ fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () ->
                     FilledIconButton(onClick = onResume, modifier = Modifier.size(52.dp)) {
                         Icon(Icons.Filled.PlayArrow, contentDescription = "Reprendre")
                     }
+                }
+            }
+        }
+
+        // Écoutes récentes : les autres chapitres écoutés, à reprendre là où on les a laissés.
+        val recent = history.filter { h -> resume.let { it == null || it.code != h.code || it.chapter != h.chapter } }.take(RECENT_COUNT)
+        if (recent.isNotEmpty()) {
+            TrustCard {
+                SectionLabel("Écoutes récentes")
+                recent.forEach { h ->
+                    val verse = h.lastVerse.coerceAtLeast(1)
+                    Row(
+                        Modifier
+                            .fillMaxWidth()
+                            .clickable(onClickLabel = "Reprendre l'écoute") { onPlay(h.code, h.chapter, verse) }
+                            .padding(vertical = 8.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Column(Modifier.weight(1f)) {
+                            Text("${h.bookName} ${h.chapter}", style = MaterialTheme.typography.bodyLarge)
+                            Text(
+                                "Verset $verse · " + DateUtils.getRelativeTimeSpanString(h.updatedAt, System.currentTimeMillis(), DateUtils.MINUTE_IN_MILLIS),
+                                style = MaterialTheme.typography.bodySmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            )
+                        }
+                        Icon(Icons.Filled.PlayArrow, contentDescription = null, tint = MaterialTheme.colorScheme.primary)
+                    }
+                }
+                if (history.size > recent.size + (if (resume != null) 1 else 0)) {
+                    TextButton(onClick = { onOpenJournal(2) }) { Text("Tout l'historique") }
                 }
             }
         }
@@ -125,6 +184,8 @@ fun HomeScreen(container: AppContainer, onResume: () -> Unit, onOpenBible: () ->
         }
     }
 }
+
+private const val RECENT_COUNT = 4
 
 @Composable
 private fun JournalRow(label: String, count: Int, onClick: () -> Unit) {
@@ -173,9 +234,17 @@ fun SettingsScreen(container: AppContainer, onOpenAbout: () -> Unit) {
             val scale by settings.textScale.collectAsStateWithLifecycle()
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Text("Taille du texte", style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
-                TextButton(onClick = { settings.setTextScale(scale - 0.1f) }, enabled = scale > 0.86f) { Text("A−") }
+                TextButton(
+                    onClick = { settings.setTextScale(scale - 0.1f) },
+                    enabled = scale > 0.86f,
+                    modifier = Modifier.semantics { contentDescription = "Texte plus petit" },
+                ) { Text("A−") }
                 Text("${(scale * 100).roundToInt()} %", style = MaterialTheme.typography.bodyMedium)
-                TextButton(onClick = { settings.setTextScale(scale + 0.1f) }, enabled = scale < 1.39f) { Text("A+") }
+                TextButton(
+                    onClick = { settings.setTextScale(scale + 0.1f) },
+                    enabled = scale < 1.39f,
+                    modifier = Modifier.semantics { contentDescription = "Texte plus grand" },
+                ) { Text("A+") }
             }
             Text(
                 "Au commencement était le Verbe, et le Verbe était en Dieu.",
@@ -207,6 +276,8 @@ fun SettingsScreen(container: AppContainer, onOpenAbout: () -> Unit) {
             HorizontalDivider(Modifier.padding(vertical = 14.dp), color = MaterialTheme.colorScheme.outlineVariant)
             UpdateContent(update, manager, showCheckButton = true)
         }
+
+        JournalBackupCard(container)
 
         TrustCard {
             SectionLabel("Écoute hors-ligne")
@@ -241,6 +312,88 @@ fun SettingsScreen(container: AppContainer, onOpenAbout: () -> Unit) {
         }
         Spacer(Modifier.height(8.dp))
     }
+}
+
+/** Sauvegarde et restauration du Carnet dans un fichier choisi par l'utilisateur (aucun serveur). */
+@Composable
+private fun JournalBackupCard(container: AppContainer) {
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    var message by remember { mutableStateOf<String?>(null) }
+    var busy by remember { mutableStateOf(false) }
+
+    val exportLauncher = rememberLauncherForActivityResult(ActivityResultContracts.CreateDocument("application/json")) { uri ->
+        if (uri == null) return@rememberLauncherForActivityResult
+        busy = true
+        scope.launch {
+            message = runCatching {
+                val backup = container.journal.exportBackup()
+                withContext(Dispatchers.IO) {
+                    val out = context.contentResolver.openOutputStream(uri, "wt") ?: error("fichier inaccessible")
+                    out.use { it.write(JournalBackupCodec.encode(backup).toByteArray()) }
+                }
+                backup
+            }.fold(
+                onSuccess = {
+                    "Carnet enregistré : ${plural(it.bookmarks.size, "marque-page", "marque-pages")}, " +
+                        "${plural(it.notes.size, "note", "notes")}, ${plural(it.history.size, "écoute", "écoutes")}."
+                },
+                onFailure = { "Impossible d'enregistrer le fichier." },
+            )
+            busy = false
+        }
+    }
+    val importLauncher = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri ->
+        if (uri == null) return@rememberLauncherForActivityResult
+        busy = true
+        scope.launch {
+            message = runCatching {
+                val text = withContext(Dispatchers.IO) {
+                    val input = context.contentResolver.openInputStream(uri) ?: error("fichier inaccessible")
+                    input.use {
+                        val bytes = it.readNBytesCompat(JournalBackupCodec.MAX_BYTES + 1)
+                        require(bytes.size <= JournalBackupCodec.MAX_BYTES) { "Fichier trop gros pour être un Carnet." }
+                        String(bytes)
+                    }
+                }
+                container.journal.importBackup(JournalBackupCodec.decode(text)).summary()
+            }.getOrElse { (it as? IllegalArgumentException)?.message ?: "Impossible de lire ce fichier." }
+            busy = false
+        }
+    }
+
+    TrustCard {
+        SectionLabel("Sauvegarde du Carnet")
+        Text(
+            "Enregistre tes marque-pages, notes et historique dans un fichier, pour les garder ou les retrouver sur un autre téléphone. L'import complète le Carnet sans rien effacer.",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+        Row(Modifier.padding(top = 4.dp)) {
+            TextButton(onClick = { exportLauncher.launch("trust-carnet-${LocalDate.now()}.json") }, enabled = !busy) {
+                Text("Exporter")
+            }
+            TextButton(
+                onClick = { importLauncher.launch(arrayOf("application/json", "text/plain", "application/octet-stream")) },
+                enabled = !busy,
+            ) { Text("Importer") }
+        }
+        message?.let { Text(it, style = MaterialTheme.typography.bodyMedium) }
+    }
+}
+
+/** Lit au plus [limit] octets (InputStream.readNBytes n'existe qu'à partir d'Android 13). */
+private fun java.io.InputStream.readNBytesCompat(limit: Long): ByteArray {
+    val out = java.io.ByteArrayOutputStream()
+    val buf = ByteArray(64 * 1024)
+    var total = 0L
+    while (total < limit) {
+        val n = read(buf, 0, minOf(buf.size.toLong(), limit - total).toInt())
+        if (n < 0) break
+        out.write(buf, 0, n)
+        total += n
+    }
+    return out.toByteArray()
 }
 
 // ---------------- À propos ----------------
@@ -301,5 +454,7 @@ private fun Link(text: String, onClick: () -> Unit) = Text(
     text,
     style = MaterialTheme.typography.labelLarge,
     color = MaterialTheme.colorScheme.primary,
-    modifier = Modifier.padding(top = 10.dp).clickable(onClick = onClick),
+    // zone tactile d'au moins 48 dp (le texte seul ne fait qu'une vingtaine)
+    modifier = Modifier.padding(top = 2.dp).clickable(role = Role.Button, onClick = onClick)
+        .heightIn(min = 48.dp).wrapContentHeight(Alignment.CenterVertically),
 )

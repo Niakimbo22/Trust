@@ -119,6 +119,9 @@ fun TrustRoot(container: AppContainer) {
                 HomeScreen(container, onResume = {
                     container.player.resumeLast()
                     goTab(Routes.PLAYER)
+                }, onPlay = { code, chapter, verse ->
+                    container.player.play(code, chapter, verse)
+                    goTab(Routes.PLAYER)
                 }, onOpenBible = { goTab(Routes.BIBLE) }, onOpenJournal = { tab -> nav.navigate(Routes.journal(tab)) })
             }
             composable(Routes.JOURNAL, listOf(navArgument("tab") { type = NavType.IntType; defaultValue = 0 })) { e ->

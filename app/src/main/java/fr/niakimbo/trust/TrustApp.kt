@@ -29,7 +29,7 @@ class AppContainer(context: Context) {
     val downloads by lazy { Downloads(context, audioCache, appScope) }
     val playbackHub = PlaybackHub()
     val database by lazy { TrustDatabase.create(context) }
-    val journal by lazy { Journal(database.journal(), appScope) }
+    val journal by lazy { Journal(database, appScope) }
     val network = NetworkMonitor(context)
     val player = PlayerController(context, content, playbackHub, appScope, network.online) { code, name, chapter, verse ->
         journal.recordListening(code, name, chapter, verse)

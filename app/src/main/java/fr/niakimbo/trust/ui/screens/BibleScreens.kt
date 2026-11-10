@@ -84,6 +84,8 @@ import fr.niakimbo.trust.content.BooksIndex
 import fr.niakimbo.trust.content.Verse
 import fr.niakimbo.trust.ui.components.SectionLabel
 import fr.niakimbo.trust.ui.theme.ScriptureFamily
+import androidx.compose.ui.semantics.semantics
+import androidx.compose.ui.semantics.stateDescription
 
 /** Résultat d'un chargement réseau/cache, pour les écrans. */
 sealed interface Loadable<out T> {
@@ -359,6 +361,7 @@ fun ReaderScreen(
                         onClick = {
                             if (hasAudio) container.player.play(code, chapter, verse.v) else selected = verse
                         },
+                        onClickLabel = if (hasAudio) "Écouter à partir de ce verset" else "Marque-page ou note",
                         onLongClick = { selected = verse },
                     )
                 }
@@ -507,6 +510,7 @@ private fun VerseItem(
     bookmarked: Boolean,
     note: String?,
     onClick: () -> Unit,
+    onClickLabel: String,
     onLongClick: () -> Unit,
 ) {
     val colors = MaterialTheme.colorScheme
@@ -533,7 +537,13 @@ private fun VerseItem(
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(10.dp))
                 .background(if (highlighted) colors.primaryContainer.copy(alpha = 0.55f) else colors.background)
-                .combinedClickable(onClick = onClick, onLongClick = onLongClick)
+                .combinedClickable(
+                    onClick = onClick,
+                    onClickLabel = onClickLabel,
+                    onLongClick = onLongClick,
+                    onLongClickLabel = "Marque-page ou note",
+                )
+                .semantics { if (highlighted) stateDescription = "En cours de lecture" }
                 .padding(horizontal = 8.dp, vertical = 6.dp),
         ) {
             Row {

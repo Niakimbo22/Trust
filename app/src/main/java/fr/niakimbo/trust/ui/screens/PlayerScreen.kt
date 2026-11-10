@@ -65,6 +65,9 @@ import fr.niakimbo.trust.playback.SleepTimer
 import fr.niakimbo.trust.ui.components.TrustCard
 import fr.niakimbo.trust.ui.theme.ScriptureFamily
 import kotlinx.coroutines.delay
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.semantics
+import androidx.compose.ui.semantics.stateDescription
 
 private val SPEEDS = listOf(0.75f, 0.9f, 1f, 1.1f, 1.25f, 1.5f, 1.75f, 2f)
 private val SLEEP_MINUTES = listOf(10, 15, 30, 45, 60)
@@ -166,7 +169,10 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
             }
             FilledIconButton(
                 onClick = { container.player.togglePlay() },
-                modifier = Modifier.size(72.dp),
+                // pendant un chargement, le bouton met en pause : TalkBack doit le dire
+                modifier = Modifier.size(72.dp).semantics {
+                    if (state.buffering && !state.isPlaying) contentDescription = "Chargement… Pause"
+                },
                 shape = CircleShape,
                 colors = IconButtonDefaults.filledIconButtonColors(containerColor = MaterialTheme.colorScheme.primary),
             ) {
@@ -264,6 +270,10 @@ private fun ChapterProgress(state: PlayerUiState, onSeek: (Double) -> Unit) {
 
     Column(Modifier.fillMaxWidth()) {
         Slider(
+            modifier = Modifier.semantics {
+                contentDescription = "Position dans le chapitre"
+                stateDescription = "${formatTime(value * (end - start))} sur ${formatTime(end - start)}"
+            },
             value = value,
             onValueChange = { dragging = true; dragValue = it },
             onValueChangeFinished = {

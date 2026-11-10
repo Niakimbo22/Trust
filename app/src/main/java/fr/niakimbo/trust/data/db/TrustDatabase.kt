@@ -5,6 +5,7 @@ import androidx.room.Dao
 import androidx.room.Database
 import androidx.room.Entity
 import androidx.room.Index
+import androidx.room.Insert
 import androidx.room.PrimaryKey
 import androidx.room.Query
 import androidx.room.Room
@@ -89,6 +90,32 @@ interface JournalDao {
 
     @Query("DELETE FROM history")
     suspend fun clearHistory()
+
+    // ---- Sauvegarde / restauration du Carnet ----
+
+    @Query("SELECT * FROM bookmarks ORDER BY createdAt")
+    suspend fun allBookmarks(): List<Bookmark>
+
+    @Query("SELECT * FROM notes ORDER BY updatedAt")
+    suspend fun allNotes(): List<Note>
+
+    @Query("SELECT * FROM history ORDER BY updatedAt")
+    suspend fun allHistory(): List<HistoryEntry>
+
+    @Query("DELETE FROM bookmarks")
+    suspend fun clearBookmarks()
+
+    @Query("DELETE FROM notes")
+    suspend fun clearNotes()
+
+    @Insert
+    suspend fun insertBookmarks(items: List<Bookmark>)
+
+    @Insert
+    suspend fun insertNotes(items: List<Note>)
+
+    @Insert
+    suspend fun insertHistory(items: List<HistoryEntry>)
 }
 
 @Database(entities = [Bookmark::class, Note::class, HistoryEntry::class], version = 1, exportSchema = false)

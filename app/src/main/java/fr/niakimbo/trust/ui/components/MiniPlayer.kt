@@ -21,6 +21,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import fr.niakimbo.trust.playback.PlayerUiState
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.onClick
+import androidx.compose.ui.semantics.semantics
 
 /** Barre de lecture compacte, au-dessus de la navigation. */
 @Composable
@@ -34,7 +37,11 @@ fun MiniPlayer(state: PlayerUiState, onOpen: () -> Unit, onToggle: () -> Unit, o
     val end = section.end.coerceAtLeast(start + 1)
     val progress = ((state.position - start) / (end - start)).toFloat().coerceIn(0f, 1f)
 
-    Surface(onClick = onOpen, color = MaterialTheme.colorScheme.surfaceContainerHigh) {
+    Surface(
+        onClick = onOpen,
+        color = MaterialTheme.colorScheme.surfaceContainerHigh,
+        modifier = Modifier.semantics { onClick(label = "Ouvrir le lecteur") { onOpen(); true } },
+    ) {
         Column {
             LinearProgressIndicator(
                 progress = { progress },
@@ -52,7 +59,10 @@ fun MiniPlayer(state: PlayerUiState, onOpen: () -> Unit, onToggle: () -> Unit, o
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
                     )
                 }
-                IconButton(onClick = onToggle) {
+                IconButton(
+                    onClick = onToggle,
+                    modifier = Modifier.semantics { if (state.buffering && !state.isPlaying) contentDescription = "Chargement… Pause" },
+                ) {
                     if (state.buffering && !state.isPlaying) {
                         CircularProgressIndicator(Modifier.size(20.dp), strokeWidth = 2.dp)
                     } else {

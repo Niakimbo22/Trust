@@ -4,11 +4,17 @@ import fr.niakimbo.trust.data.db.Bookmark
 import fr.niakimbo.trust.data.db.HistoryEntry
 import fr.niakimbo.trust.data.db.JournalDao
 import fr.niakimbo.trust.data.db.Note
+import fr.niakimbo.trust.data.db.TrustDatabase
+import androidx.room.withTransaction
 import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.NonCancellable
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 /** Marque-pages, notes et historique : tout ce que l'utilisateur garde, stocké sur le téléphone (Room). */
-class Journal(private val dao: JournalDao, private val scope: CoroutineScope) {
+class Journal(private val database: TrustDatabase, private val scope: CoroutineScope) {
+    private val dao: JournalDao = database.journal()
+
     val bookmarks = dao.bookmarks()
     val notes = dao.notes()
     val history = dao.history()
@@ -50,4 +56,30 @@ class Journal(private val dao: JournalDao, private val scope: CoroutineScope) {
     }
 
     fun clearHistory() = scope.launch { dao.clearHistory() }
+
+    // ---------------- Sauvegarde / restauration ----------------
+
+    suspend fun exportBackup(): JournalBackup = JournalBackup(
+        exportedAt = System.currentTimeMillis(),
+        bookmarks = dao.allBookmarks().map { BookmarkItem(it.code, it.bookName, it.chapter, it.verse, it.createdAt) },
+        notes = dao.allNotes().map { NoteItem(it.code, it.bookName, it.chapter, it.verse, it.text, it.updatedAt) },
+        history = dao.allHistory().map { HistoryItem(it.code, it.bookName, it.chapter, it.lastVerse, it.updatedAt) },
+    )
+
+    /** Fusionne un Carnet importé avec celui du téléphone (rien n'est supprimé), d'un seul bloc. */
+    suspend fun importBackup(incoming: JournalBackup): ImportResult = withContext(NonCancellable) {
+        database.withTransaction {
+            val result = JournalBackupCodec.merge(exportBackup(), incoming)
+            if (result.changed) {
+                val m = result.merged
+                dao.clearBookmarks()
+                dao.clearNotes()
+                dao.clearHistory()
+                dao.insertBookmarks(m.bookmarks.map { Bookmark(code = it.code, bookName = it.bookName, chapter = it.chapter, verse = it.verse, createdAt = it.createdAt) })
+                dao.insertNotes(m.notes.map { Note(code = it.code, bookName = it.bookName, chapter = it.chapter, verse = it.verse, text = it.text, updatedAt = it.updatedAt) })
+                dao.insertHistory(m.history.map { HistoryEntry(code = it.code, bookName = it.bookName, chapter = it.chapter, lastVerse = it.lastVerse, updatedAt = it.updatedAt) })
+            }
+            result
+        }
+    }
 }
