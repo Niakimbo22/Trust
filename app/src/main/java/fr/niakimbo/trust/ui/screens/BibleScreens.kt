@@ -305,8 +305,13 @@ fun ReaderScreen(
         ) {
             val chapterAudio = book?.timings?.chapters?.any { it.c == chapter } == true
             if (chapterAudio && !(playingHere && player.isPlaying)) {
-                IconButton(onClick = { container.player.play(code, chapter, 0) }) {
-                    Icon(Icons.Filled.PlayArrow, contentDescription = "Écouter ce chapitre", tint = MaterialTheme.colorScheme.primary)
+                // En pause dans ce chapitre : on reprend où on en était, sans repartir du début.
+                IconButton(onClick = { if (playingHere) container.player.togglePlay() else container.player.play(code, chapter, 0) }) {
+                    Icon(
+                        Icons.Filled.PlayArrow,
+                        contentDescription = if (playingHere) "Reprendre la lecture" else "Écouter ce chapitre",
+                        tint = MaterialTheme.colorScheme.primary,
+                    )
                 }
             }
         }

@@ -8,6 +8,7 @@ import fr.niakimbo.trust.data.SettingsStore
 import fr.niakimbo.trust.data.db.TrustDatabase
 import fr.niakimbo.trust.playback.AudioCache
 import fr.niakimbo.trust.playback.Downloads
+import fr.niakimbo.trust.playback.NetworkMonitor
 import fr.niakimbo.trust.playback.PlaybackHub
 import fr.niakimbo.trust.playback.PlayerController
 import fr.niakimbo.trust.update.UpdateManager
@@ -29,7 +30,8 @@ class AppContainer(context: Context) {
     val playbackHub = PlaybackHub()
     val database by lazy { TrustDatabase.create(context) }
     val journal by lazy { Journal(database.journal(), appScope) }
-    val player = PlayerController(context, content, playbackHub, appScope) { code, name, chapter, verse ->
+    val network = NetworkMonitor(context)
+    val player = PlayerController(context, content, playbackHub, appScope, network.online) { code, name, chapter, verse ->
         journal.recordListening(code, name, chapter, verse)
     }
 }

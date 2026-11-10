@@ -29,8 +29,9 @@ fun MiniPlayer(state: PlayerUiState, onOpen: () -> Unit, onToggle: () -> Unit, o
     val clock = state.clock ?: return
     val ref = state.ref
     val chapter = ref?.chapter?.coerceAtLeast(1) ?: 1
-    val start = clock.chapterStart(chapter) ?: 0.0
-    val end = clock.chapterEnd(chapter).coerceAtLeast(start + 1)
+    val section = clock.sectionAt(state.position)
+    val start = section.start
+    val end = section.end.coerceAtLeast(start + 1)
     val progress = ((state.position - start) / (end - start)).toFloat().coerceIn(0f, 1f)
 
     Surface(onClick = onOpen, color = MaterialTheme.colorScheme.surfaceContainerHigh) {

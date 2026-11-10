@@ -46,7 +46,10 @@ class Downloads(private val context: Context, cache: AudioCache, private val sco
         manager.addListener(object : DownloadManager.Listener {
             override fun onDownloadChanged(m: DownloadManager, d: Download, e: Exception?) = refresh()
             override fun onDownloadRemoved(m: DownloadManager, d: Download) = refresh()
-            override fun onInitialized(m: DownloadManager) = refresh()
+            override fun onInitialized(m: DownloadManager) {
+                refresh()
+                resumeUnfinished()
+            }
         })
         // Progression : on rafraîchit chaque seconde tant qu'un téléchargement tourne.
         scope.launch {
@@ -71,6 +74,18 @@ class Downloads(private val context: Context, cache: AudioCache, private val sco
     }
 
     fun removeAll() = DownloadService.sendRemoveAllDownloads(context, TrustDownloadService::class.java, false)
+
+    /**
+     * Des téléchargements coupés par la fermeture de l'app restaient bloqués « en cours » :
+     * on relance le service, qui les reprend là où ils en étaient.
+     */
+    private fun resumeUnfinished() {
+        val unfinished = manager.currentDownloads.any {
+            it.state == Download.STATE_QUEUED || it.state == Download.STATE_DOWNLOADING || it.state == Download.STATE_RESTARTING
+        }
+        // Peut être refusé si l'app n'est pas au premier plan : sans gravité, ce sera pour la prochaine ouverture.
+        if (unfinished) runCatching { DownloadService.start(context, TrustDownloadService::class.java) }
+    }
 
     private fun refresh() {
         val all = mutableListOf<Download>()

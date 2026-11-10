@@ -2,6 +2,7 @@ package fr.niakimbo.trust.playback
 
 import android.content.ComponentName
 import android.content.Context
+import android.os.SystemClock
 import androidx.core.content.ContextCompat
 import androidx.media3.common.MediaItem
 import androidx.media3.common.MediaMetadata
@@ -43,6 +44,8 @@ data class PlayerUiState(
     val speed: Float = 1f,
     val sleep: SleepTimer? = null,
     val error: String? = null,
+    /** Information passagère (attente du réseau…), à montrer si aucune erreur. */
+    val notice: String? = null,
     val clock: VerseClock? = null,
 )
 
@@ -51,13 +54,15 @@ data class ResumePoint(val code: String, val name: String, val position: Double,
 
 /**
  * Pilote le service audio depuis l'interface (via un MediaController) et expose un état simple.
- * Toute la logique « verset » vit ici et dans [VerseClock].
+ * Toute la logique « verset » vit ici, dans [VerseClock] et dans [PlaybackLogic].
  */
 class PlayerController(
     private val context: Context,
     private val repo: ContentRepository,
     private val hub: PlaybackHub,
     private val scope: CoroutineScope,
+    /** Connexion Internet disponible (voir [NetworkMonitor]). */
+    private val online: StateFlow<Boolean>,
     /** Appelé pendant l'écoute (toutes les ~5 s) : sert à l'historique. */
     private val onProgress: (code: String, bookName: String, chapter: Int, verse: Int) -> Unit = { _, _, _, _ -> },
 ) {
@@ -72,25 +77,49 @@ class PlayerController(
     private var controller: MediaController? = null
     private var connecting: Job? = null
     private var ticker: Job? = null
+    private var sleepJob: Job? = null
     private var clock: VerseClock? = null
     private var lastSaved = 0L
-    private var lastTitleChapter = -1
+    private var lastTitleKey = -1L
+    /** Depuis quand le lecteur attend des données (0 = il n'attend pas). */
+    private var waitingSince = 0L
+    /** Lecture arrêtée par une erreur réseau : à relancer dès que possible. */
+    private var pendingRetry = false
 
     // ---------------- Connexion au service ----------------
 
-    /** À appeler au démarrage de l'écran : se reconnecte au service s'il joue déjà. */
+    /** À appeler quand l'écran revient : se reconnecte au service et relance une lecture coupée par le réseau. */
     fun connect() {
-        if (controller != null || connecting?.isActive == true) return
+        if (controller?.isConnected == true) {
+            retryIfPending()
+            return
+        }
+        if (connecting?.isActive == true) return
         connecting = scope.launch { runCatching { ensureController() } }
     }
 
     private val connectMutex = Mutex()
 
+    private val connectionListener = object : MediaController.Listener {
+        /** Le service s'est arrêté : on oublie ce contrôleur, le prochain appel en recrée un. */
+        override fun onDisconnected(controller: MediaController) {
+            if (this@PlayerController.controller !== controller) return
+            this@PlayerController.controller = null
+            ticker?.cancel()
+            _state.update { it.copy(isPlaying = false, buffering = false, notice = null) }
+        }
+    }
+
     /** Un seul MediaController, même si l'écran et une commande le demandent en même temps. */
     private suspend fun ensureController(): MediaController = connectMutex.withLock {
-        controller?.let { return it }
+        controller?.let { old ->
+            if (old.isConnected) return old
+            old.removeListener(listener)
+            old.release()
+            controller = null
+        }
         val token = SessionToken(context, ComponentName(context, PlaybackService::class.java))
-        val future = MediaController.Builder(context, token).buildAsync()
+        val future = MediaController.Builder(context, token).setListener(connectionListener).buildAsync()
         val c = suspendCancellableCoroutine<MediaController> { cont ->
             future.addListener({
                 runCatching { future.get() }
@@ -104,7 +133,7 @@ class PlayerController(
         c.setPlaybackParameters(PlaybackParameters(_state.value.speed))
         adoptExistingSession(c)
         syncFromPlayer()
-        if (c.isPlaying) startTicker()
+        if (wantsToPlay(c)) startTicker()
         c
     }
 
@@ -113,41 +142,52 @@ class PlayerController(
         val code = c.currentMediaItem?.mediaId?.substringBefore('#') ?: return
         if (_state.value.book?.code == code) return
         val book = runCatching { repo.book(code) }.getOrNull() ?: return
-        setBook(book)
+        val clock = book.timings?.let { VerseClock(it) } ?: return
+        setBook(book, clock)
     }
 
-    private fun setBook(book: Book) {
-        clock = book.timings?.let { VerseClock(it) }
+    private fun setBook(book: Book, clock: VerseClock) {
+        this.clock = clock
         hub.clock = clock
-        lastTitleChapter = -1
+        lastTitleKey = -1
         _state.update { it.copy(book = book, clock = clock, error = null) }
     }
 
     private val listener = object : Player.Listener {
         override fun onEvents(player: Player, events: Player.Events) {
             syncFromPlayer()
-            if (events.contains(Player.EVENT_IS_PLAYING_CHANGED)) {
-                if (player.isPlaying) startTicker() else saveResume(force = true)
+            if (wantsToPlay(player)) startTicker()
+            if (events.contains(Player.EVENT_IS_PLAYING_CHANGED) && !player.isPlaying) saveResume(force = true)
+            // fin du livre : un minuteur « fin du chapitre » n'a plus rien à attendre
+            if (player.playbackState == Player.STATE_ENDED && _state.value.sleep is SleepTimer.EndOfChapter) {
+                _state.update { it.copy(sleep = null) }
             }
         }
 
         override fun onPlayerError(error: PlaybackException) {
+            pendingRetry = PlaybackLogic.isRetryable(error.errorCode)
             _state.update {
-                it.copy(error = when (error.errorCode) {
-                    PlaybackException.ERROR_CODE_IO_NETWORK_CONNECTION_FAILED,
-                    PlaybackException.ERROR_CODE_IO_NETWORK_CONNECTION_TIMEOUT,
-                    -> "Pas de connexion : l'audio n'a pas pu être chargé."
-                    else -> "Lecture impossible (${error.errorCodeName})."
-                })
+                it.copy(error = PlaybackLogic.errorMessage(error.errorCode, error.errorCodeName, online.value))
             }
         }
     }
+
+    /** Le lecteur veut jouer (même s'il charge encore, ou s'il est suspendu par un appel). */
+    private fun wantsToPlay(p: Player): Boolean =
+        p.playWhenReady && p.playbackState != Player.STATE_IDLE && p.playbackState != Player.STATE_ENDED
 
     private fun syncFromPlayer() {
         val c = controller ?: return
         val clock = clock
         val pos = clock?.toGlobal(c.currentMediaItemIndex, c.currentPosition) ?: 0.0
         val ref = clock?.verseAt(pos)
+
+        val waiting = c.playWhenReady && c.playbackState == Player.STATE_BUFFERING
+        val now = SystemClock.elapsedRealtime()
+        if (!waiting) waitingSince = 0L else if (waitingSince == 0L) waitingSince = now
+        val notice = PlaybackLogic.networkNotice(waiting, online.value, if (waiting) now - waitingSince else 0L)
+        if (c.isPlaying) pendingRetry = false
+
         _state.update {
             it.copy(
                 position = pos,
@@ -156,6 +196,7 @@ class PlayerController(
                 buffering = c.playbackState == Player.STATE_BUFFERING,
                 speed = c.playbackParameters.speed,
                 error = if (c.isPlaying) null else it.error,
+                notice = notice,
             )
         }
         if (ref != null) {
@@ -164,59 +205,96 @@ class PlayerController(
         }
     }
 
+    /** Tourne tant que le lecteur veut jouer : position, sauvegarde, minuteur, message d'attente du réseau. */
     private fun startTicker() {
         if (ticker?.isActive == true) return
         ticker = scope.launch {
-            while (isActive && controller?.isPlaying == true) {
+            while (isActive) {
+                val c = controller ?: break
+                if (!wantsToPlay(c)) break
                 syncFromPlayer()
-                saveResume()
+                if (c.isPlaying) saveResume()
                 checkSleepTimer()
                 delay(TICK_MS)
             }
         }
     }
 
+    /** Une erreur réseau avait arrêté la lecture : on la relance (au retour du réseau ou de l'écran). */
+    private fun retryIfPending() {
+        val c = controller ?: return
+        if (!pendingRetry || c.playbackState != Player.STATE_IDLE) return
+        pendingRetry = false
+        if (!c.playWhenReady || c.mediaItemCount == 0) return // mis en pause entre-temps : on ne force rien
+        _state.update { it.copy(error = null) }
+        c.prepare()
+    }
+
     // ---------------- Commandes ----------------
 
     /** Ouvre un livre et lit à partir d'un verset (verset 0 = annonce du chapitre). */
     fun play(code: String, chapter: Int, verse: Int = 0) = scope.launch {
-        val book = runCatching { repo.book(code) }.getOrElse {
-            _state.update { s -> s.copy(error = it.message ?: "Livre indisponible.") }
-            return@launch
-        }
-        val clock = book.timings?.let { VerseClock(it) } ?: run {
-            _state.update { it.copy(error = "L'audio de ce livre n'est pas encore prêt.") }
-            return@launch
-        }
-        val target = clock.verseStart(chapter, verse) ?: clock.chapterStart(chapter) ?: run {
+        val book = loadBook(code) ?: return@launch
+        val clock = clockFor(book) ?: return@launch
+        // verset 0 = écouter le chapitre depuis son début ; verset inconnu des timings = idem
+        val target = (if (verse > 0) clock.verseStart(chapter, verse) else null) ?: clock.listenStart(chapter) ?: run {
             _state.update { it.copy(error = "Pas d'enregistrement audio pour ce chapitre.") }
             return@launch
         }
-        startAt(book, target, playNow = true)
+        startAt(book, clock, target)
     }
 
     /** Reprend la dernière écoute. */
     fun resumeLast() = scope.launch {
         val r = _resume.value ?: return@launch
-        val book = runCatching { repo.book(r.code) }.getOrNull() ?: return@launch
-        // on recule un peu pour retrouver le fil
-        startAt(book, (r.position - 2.0).coerceAtLeast(0.0), playNow = true)
+        // Ce livre est déjà dans le lecteur : on relance simplement, sans sauter en arrière.
+        controller?.takeIf { it.isConnected && it.mediaItemCount > 0 && _state.value.book?.code == r.code }?.let { c ->
+            if (!wantsToPlay(c)) togglePlay()
+            return@launch
+        }
+        val book = loadBook(r.code) ?: return@launch
+        val clock = clockFor(book) ?: return@launch
+        startAt(book, clock, PlaybackLogic.resumeTarget(r.position, clock.duration))
     }
 
-    private suspend fun startAt(book: Book, global: Double, playNow: Boolean) {
+    private suspend fun loadBook(code: String): Book? = runCatching { repo.book(code) }.getOrElse {
+        _state.update { s -> s.copy(error = it.message ?: "Livre indisponible.") }
+        null
+    }
+
+    private fun clockFor(book: Book): VerseClock? {
+        book.timings?.let { return VerseClock(it) }
+        _state.update {
+            it.copy(
+                error = if (book.info.timings != null) "Pas de connexion : l'audio de ce livre n'a pas pu être préparé."
+                else "L'audio de ce livre n'est pas encore prêt.",
+            )
+        }
+        return null
+    }
+
+    private suspend fun startAt(book: Book, clock: VerseClock, global: Double) {
         val c = runCatching { ensureController() }.getOrElse {
             _state.update { s -> s.copy(error = "Le lecteur n'a pas démarré.") }
             return
         }
-        if (_state.value.book?.code != book.code || c.mediaItemCount != book.info.audio.size ||
-            c.currentMediaItem?.mediaId?.startsWith(book.code + "#") != true
-        ) {
-            setBook(book)
-            c.setMediaItems(mediaItems(book))
+        expireSleepIfDue()
+        val loaded = _state.value.book?.code == book.code && c.mediaItemCount == book.info.audio.size &&
+            c.currentMediaItem?.mediaId?.startsWith(book.code + "#") == true
+        if (loaded) {
+            seek(global, fromUser = true)
+            if (c.playbackState == Player.STATE_IDLE) c.prepare() // après une erreur, il faut recharger
+        } else {
+            // Nouveau livre : on charge la liste directement au bon endroit (pas de passage par 0:00).
+            setBook(book, clock)
+            retargetSleep(clock.verseAt(global).chapter)
+            val p = clock.toFile(global)
+            c.setMediaItems(mediaItems(book), p.index, p.positionMs)
             c.prepare()
+            syncFromPlayer()
+            saveResume(force = true)
         }
-        seekGlobal(global)
-        if (playNow) c.play()
+        c.play()
     }
 
     private fun mediaItems(book: Book): List<MediaItem> = book.info.audio.mapIndexed { i, a ->
@@ -235,34 +313,44 @@ class PlayerController(
 
     /** Titre de la notification = livre + chapitre en cours (sans couper la lecture). */
     private fun updateTitle(c: MediaController, chapter: Int) {
-        if (chapter == lastTitleChapter || chapter <= 0) return
+        if (chapter <= 0) return
+        val index = c.currentMediaItemIndex
+        val key = index * 100_000L + chapter // le titre est à refaire aussi quand on change de fichier
+        if (key == lastTitleKey) return
         val book = _state.value.book ?: return
         val item = c.currentMediaItem ?: return
-        lastTitleChapter = chapter
-        c.replaceMediaItem(
-            c.currentMediaItemIndex,
-            item.buildUpon().setMediaMetadata(metadata(book, chapter)).build(),
-        )
+        lastTitleKey = key
+        c.replaceMediaItem(index, item.buildUpon().setMediaMetadata(metadata(book, chapter)).build())
     }
 
     fun togglePlay() {
-        val c = controller
+        val c = controller?.takeIf { it.isConnected }
         if (c == null || c.mediaItemCount == 0) {
             resumeLast()
             return
         }
-        if (c.isPlaying) c.pause() else {
-            if (c.playbackState == Player.STATE_IDLE) c.prepare()
-            if (c.playbackState == Player.STATE_ENDED) seekGlobal(0.0)
-            c.play()
+        // « Pause » doit aussi marcher pendant un chargement (réseau lent), pas seulement quand ça joue.
+        val loading = c.playWhenReady && c.playbackState == Player.STATE_BUFFERING
+        if (c.isPlaying || loading) {
+            c.pause()
+            return
         }
+        expireSleepIfDue()
+        _state.update { it.copy(error = null) }
+        if (c.playbackState == Player.STATE_IDLE) c.prepare()
+        if (c.playbackState == Player.STATE_ENDED) seek(0.0, fromUser = true)
+        c.play()
     }
 
     fun pause() { controller?.pause() }
 
-    fun seekGlobal(seconds: Double) {
+    /** Saut demandé par l'auditeur (barre, verset, chapitre, ±10 s). */
+    fun seekGlobal(seconds: Double) = seek(seconds, fromUser = true)
+
+    private fun seek(seconds: Double, fromUser: Boolean) {
         val c = controller ?: return
         val clock = clock ?: return
+        if (fromUser) retargetSleep(clock.verseAt(seconds.coerceIn(0.0, clock.duration)).chapter)
         val p = clock.toFile(seconds)
         c.seekTo(p.index, p.positionMs)
         syncFromPlayer()
@@ -289,14 +377,7 @@ class PlayerController(
 
     private fun jumpChapter(direction: Int) {
         val clock = clock ?: return
-        val cur = _state.value.ref?.chapter ?: return
-        val chapters = clock.chapters
-        val target = if (direction < 0 && _state.value.position - (clock.chapterStart(cur) ?: 0.0) > 3.0) {
-            cur // « précédent » revient d'abord au début du chapitre en cours
-        } else {
-            chapters.getOrNull(chapters.indexOf(cur) + direction) ?: return
-        }
-        clock.chapterStart(target)?.let { seekGlobal(it) }
+        PlaybackLogic.chapterTarget(clock, _state.value.position, direction)?.let { seekGlobal(it) }
     }
 
     fun setSpeed(speed: Float) {
@@ -308,32 +389,54 @@ class PlayerController(
     // ---------------- Minuteur de sommeil ----------------
 
     fun setSleepMinutes(minutes: Int?) {
-        _state.update {
-            it.copy(sleep = minutes?.let { m -> SleepTimer.At(System.currentTimeMillis() + m * 60_000L, m) })
+        sleepJob?.cancel()
+        val timer = minutes?.let { SleepTimer.At(System.currentTimeMillis() + it * 60_000L, it) }
+        _state.update { it.copy(sleep = timer) }
+        if (timer != null) {
+            // Échéance même si la lecture est en pause à ce moment-là (le minuteur ne reste pas armé).
+            sleepJob = scope.launch {
+                delay(timer.minutes * 60_000L)
+                fireSleep(timer)
+            }
         }
     }
 
     fun setSleepEndOfChapter() {
         val ch = _state.value.ref?.chapter ?: return
+        sleepJob?.cancel()
         _state.update { it.copy(sleep = SleepTimer.EndOfChapter(ch.coerceAtLeast(1))) }
     }
 
     private fun checkSleepTimer() {
         val s = _state.value.sleep as? SleepTimer.At ?: return
-        if (System.currentTimeMillis() >= s.endAtMillis) {
-            controller?.pause()
+        if (PlaybackLogic.isDue(s, System.currentTimeMillis())) fireSleep(s)
+    }
+
+    private fun fireSleep(timer: SleepTimer.At) {
+        if (_state.value.sleep != timer) return
+        _state.update { it.copy(sleep = null) }
+        controller?.pause()
+    }
+
+    /** Un minuteur échu pendant une pause ne doit pas recouper la lecture qu'on relance. */
+    private fun expireSleepIfDue() {
+        if (PlaybackLogic.isDue(_state.value.sleep, System.currentTimeMillis())) {
+            sleepJob?.cancel()
             _state.update { it.copy(sleep = null) }
         }
     }
 
+    private fun retargetSleep(chapter: Int) {
+        _state.update { it.copy(sleep = PlaybackLogic.retarget(it.sleep, chapter)) }
+    }
+
     private fun checkSleepEndOfChapter(ref: VerseRef) {
-        val s = _state.value.sleep as? SleepTimer.EndOfChapter ?: return
-        if (ref.chapter != s.chapter && controller?.isPlaying == true) {
-            // on recule au tout début du chapitre suivant, pour reprendre proprement
-            controller?.pause()
-            clock?.chapterStart(ref.chapter)?.let { seekGlobal(it) }
-            _state.update { it.copy(sleep = null) }
-        }
+        val c = controller ?: return
+        if (!c.isPlaying || !PlaybackLogic.chapterEnded(_state.value.sleep, ref)) return
+        _state.update { it.copy(sleep = null) }
+        c.pause()
+        // on recule au tout début du passage qui commence, pour reprendre proprement
+        clock?.let { seek(it.sectionAt(_state.value.position).start, fromUser = false) }
     }
 
     // ---------------- Reprise ----------------
@@ -380,5 +483,15 @@ class PlayerController(
         const val KEY_CHAPTER = "resume_chapter"
         const val KEY_VERSE = "resume_verse"
         const val KEY_SAVED_AT = "resume_saved_at"
+    }
+
+    init {
+        // En dernier : toutes les propriétés ci-dessus existent déjà quand ce bloc démarre.
+        scope.launch {
+            online.collect { isOnline ->
+                syncFromPlayer()
+                if (isOnline) retryIfPending()
+            }
+        }
     }
 }

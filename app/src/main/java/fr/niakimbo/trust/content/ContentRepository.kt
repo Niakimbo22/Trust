@@ -1,7 +1,10 @@
 package fr.niakimbo.trust.content
 
 import android.content.Context
+import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.SupervisorJob
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import kotlinx.coroutines.withContext
@@ -10,10 +13,12 @@ import java.io.File
 import java.io.IOException
 import java.net.HttpURLConnection
 import java.net.URL
+import java.util.concurrent.ConcurrentHashMap
 
 /**
  * Contenu biblique (texte + timings), servi par le repo GitHub public et gardé en cache disque.
- * - books.json est rafraîchi au plus toutes les 12 h (sinon le cache sert, même hors-ligne).
+ * - books.json : la copie en cache sert tout de suite (même hors-ligne ou réseau lent) ; au-delà de 12 h
+ *   elle est rafraîchie en arrière-plan. On n'attend le réseau que s'il n'y a encore aucune copie.
  * - text/ et timings/ sont téléchargés à la première ouverture d'un livre, puis lus en local.
  *   Quand books.json change de version, on revalide ces fichiers.
  */
@@ -22,39 +27,72 @@ class ContentRepository(context: Context) {
     private val prefs = context.getSharedPreferences("content", Context.MODE_PRIVATE)
     private val json = Json { ignoreUnknownKeys = true }
     private val mutex = Mutex()
+    private val scope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
 
-    private var index: BooksIndex? = null
-    private val books = mutableMapOf<String, Book>()
+    @Volatile private var index: BooksIndex? = null
+    @Volatile private var lastRefreshAttempt = 0L
+    private val books = ConcurrentHashMap<String, Book>()
 
-    suspend fun index(forceRefresh: Boolean = false): BooksIndex = mutex.withLock {
-        index?.takeIf { !forceRefresh && !stale() }?.let { return it }
-        withContext(Dispatchers.IO) {
-            val file = File(dir, "books.json")
-            val fresh = runCatching { download("books.json") }.getOrNull()
-            val parsed = when {
-                fresh != null -> json.decodeFromString<BooksIndex>(fresh).also {
-                    val old = index ?: runCatching { json.decodeFromString<BooksIndex>(file.readText()) }.getOrNull()
-                    if (old != null && old.version != it.version) invalidateBooks()
-                    file.writeText(fresh)
-                    prefs.edit().putLong(KEY_INDEX_TIME, System.currentTimeMillis()).apply()
-                }
-                file.exists() -> json.decodeFromString<BooksIndex>(file.readText())
-                else -> throw IOException("Pas de connexion : impossible de charger la liste des livres.")
+    suspend fun index(forceRefresh: Boolean = false): BooksIndex {
+        if (!forceRefresh) {
+            cachedIndex()?.let { cached ->
+                if (stale()) refreshInBackground()
+                return cached
             }
-            index = parsed
-            parsed
         }
+        return refresh() ?: cachedIndex()
+            ?: throw IOException("Pas de connexion : impossible de charger la liste des livres.")
+    }
+
+    /** Copie locale de books.json (mémoire, sinon disque), sans réseau. */
+    private suspend fun cachedIndex(): BooksIndex? {
+        index?.let { return it }
+        return withContext(Dispatchers.IO) {
+            mutex.withLock {
+                index ?: runCatching { json.decodeFromString<BooksIndex>(File(dir, "books.json").readText()) }
+                    .getOrNull()?.also { index = it }
+            }
+        }
+    }
+
+    /** Télécharge books.json. Null si le réseau ne répond pas (ou répond autre chose). */
+    private suspend fun refresh(): BooksIndex? = withContext(Dispatchers.IO) {
+        mutex.withLock {
+            lastRefreshAttempt = System.currentTimeMillis()
+            val file = File(dir, "books.json")
+            val body = runCatching { download("books.json") }.getOrNull() ?: return@withLock null
+            val fresh = runCatching { json.decodeFromString<BooksIndex>(body) }.getOrNull() ?: return@withLock null
+            val old = index ?: runCatching { json.decodeFromString<BooksIndex>(file.readText()) }.getOrNull()
+            if (old != null && old.version != fresh.version) invalidateBooks()
+            writeAtomically(file, body)
+            prefs.edit().putLong(KEY_INDEX_TIME, System.currentTimeMillis()).apply()
+            index = fresh
+            fresh
+        }
+    }
+
+    private fun refreshInBackground() {
+        // hors-ligne, inutile de réessayer à chaque ouverture de livre
+        if (System.currentTimeMillis() - lastRefreshAttempt < RETRY_REFRESH_MS) return
+        lastRefreshAttempt = System.currentTimeMillis()
+        scope.launch { runCatching { refresh() } }
     }
 
     suspend fun book(code: String): Book {
         books[code]?.let { return it }
         val info = index().books.firstOrNull { it.code == code } ?: throw IOException("Livre inconnu : $code")
         return withContext(Dispatchers.IO) {
-            val text = json.decodeFromString<BookText>(cached(info.text))
-            val timings = info.timings?.let { path ->
-                runCatching { json.decodeFromString<BookTimings>(cached(path)) }.getOrNull()
+            val text = try {
+                cached<BookText>(info.text)
+            } catch (e: IOException) {
+                throw IOException("Pas de connexion : ce livre n'a pas encore été chargé sur ce téléphone.", e)
             }
-            Book(info, text, timings).also { books[code] = it }
+            val timings = info.timings?.let { path -> runCatching { cached<BookTimings>(path) }.getOrNull() }
+            Book(info, text, timings).also {
+                // Timings attendus mais pas arrivés (réseau) : on ne retient pas ce livre « sans audio »,
+                // la prochaine ouverture réessaiera.
+                if (info.timings == null || timings != null) books[code] = it
+            }
         }
     }
 
@@ -64,7 +102,7 @@ class ContentRepository(context: Context) {
         return withContext(Dispatchers.IO) {
             books.mapIndexed { i, info ->
                 onProgress(i, books.size)
-                info to (loadedBook(info.code)?.text ?: json.decodeFromString<BookText>(cached(info.text)))
+                info to (loadedBook(info.code)?.text ?: cached<BookText>(info.text))
             }.also { onProgress(books.size, books.size) }
         }
     }
@@ -80,13 +118,29 @@ class ContentRepository(context: Context) {
         File(dir, "timings").deleteRecursively()
     }
 
-    private fun cached(path: String): String {
+    /** Fichier du cache s'il est lisible, sinon téléchargé (un cache abîmé est remplacé). */
+    private inline fun <reified T> cached(path: String): T {
         val file = File(dir, path)
-        if (file.exists()) return file.readText()
+        if (file.exists()) {
+            runCatching { return json.decodeFromString<T>(file.readText()) }
+            file.delete()
+        }
         val body = download(path)
+        val value = json.decodeFromString<T>(body) // on ne met en cache que ce qui se lit
+        writeAtomically(file, body)
+        return value
+    }
+
+    /** Écrit à côté puis renomme : jamais de fichier à moitié écrit, même si deux lectures se croisent. */
+    private fun writeAtomically(file: File, body: String) {
         file.parentFile?.mkdirs()
-        File(file.path + ".tmp").apply { writeText(body); renameTo(file) }
-        return body
+        val tmp = File.createTempFile(file.name, ".tmp", file.parentFile)
+        try {
+            tmp.writeText(body)
+            if (!tmp.renameTo(file)) file.writeText(body)
+        } finally {
+            tmp.delete()
+        }
     }
 
     private fun download(path: String): String {
@@ -105,5 +159,6 @@ class ContentRepository(context: Context) {
         const val BASE_URL = "https://raw.githubusercontent.com/Niakimbo22/trust/main/content"
         const val KEY_INDEX_TIME = "index_time"
         const val INDEX_TTL_MS = 12 * 60 * 60 * 1000L
+        const val RETRY_REFRESH_MS = 5 * 60 * 1000L
     }
 }

@@ -5,6 +5,12 @@ import fr.niakimbo.trust.content.BookTimings
 /** Position dans un livre : chapitre + verset (verset 0 = annonce du chapitre). */
 data class VerseRef(val chapter: Int, val verse: Int)
 
+/**
+ * Passage lu d'une traite dans un même chapitre, en secondes du livre.
+ * C'est le chapitre entier, sauf dans Esther où les passages grecs coupent les chapitres en morceaux.
+ */
+data class Section(val chapter: Int, val start: Double, val end: Double)
+
 /** Position dans les fichiers audio : index du fichier + position en ms. */
 data class FilePosition(val index: Int, val positionMs: Long)
 
@@ -34,6 +40,31 @@ class VerseClock(private val timings: BookTimings) {
     private val indexOf: Map<VerseRef, Int> = verseMarks.withIndex().associate { (i, m) -> m.ref to i }
 
     val duration: Double get() = timings.duration
+
+    /** Passages dans l'ordre de l'écoute : la barre de progression et « chapitre suivant » s'appuient dessus. */
+    val sections: List<Section> = buildList {
+        var first = 0
+        for (i in marks.indices) {
+            val last = i == marks.lastIndex
+            if (last || marks[i + 1].ref.chapter != marks[first].ref.chapter) {
+                add(Section(marks[first].ref.chapter, marks[first].time, if (last) timings.duration else marks[i + 1].time))
+                first = i + 1
+            }
+        }
+    }
+
+    /** Passage en cours à ce temps (le premier si on est avant, ex. pendant le titre du livre). */
+    fun sectionIndexAt(globalSeconds: Double): Int =
+        sections.indexOfLast { it.start <= globalSeconds + 0.02 }.coerceAtLeast(0)
+
+    fun sectionAt(globalSeconds: Double): Section =
+        sections.getOrNull(sectionIndexAt(globalSeconds)) ?: Section(1, 0.0, duration)
+
+    /** Où commencer pour écouter ce chapitre : son annonce, ou son premier verset s'il est lu avant elle. */
+    fun listenStart(chapter: Int): Double? {
+        val ch = timings.chapters.firstOrNull { it.c == chapter } ?: return null
+        return minOf(ch.start, ch.verses.minOrNull() ?: ch.start)
+    }
 
     /** Chapitres avec audio, dans l'ordre de l'écoute. */
     val chapters: List<Int> = marks.filter { it.ref.verse == 0 }.map { it.ref.chapter }

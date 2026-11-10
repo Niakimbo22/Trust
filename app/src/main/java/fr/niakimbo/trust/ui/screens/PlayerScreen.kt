@@ -59,6 +59,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import fr.niakimbo.trust.AppContainer
+import fr.niakimbo.trust.playback.PlaybackLogic
 import fr.niakimbo.trust.playback.PlayerUiState
 import fr.niakimbo.trust.playback.SleepTimer
 import fr.niakimbo.trust.ui.components.TrustCard
@@ -106,7 +107,7 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
                 Spacer(Modifier.height(8.dp))
             }
             TextButton(onClick = onOpenBible) { Text("Ouvrir la Bible") }
-            state.error?.let { ErrorText(it) }
+            (state.error ?: state.notice)?.let { ErrorText(it) }
         }
         return
     }
@@ -149,7 +150,7 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
             }
         }
 
-        ChapterProgress(state, chapter) { container.player.seekGlobal(it) }
+        ChapterProgress(state) { container.player.seekGlobal(it) }
 
         // Commandes principales
         Row(
@@ -190,7 +191,10 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
         // Chapitres
         Row(Modifier.fillMaxWidth().padding(top = 4.dp), horizontalArrangement = Arrangement.SpaceBetween) {
             TextButton(onClick = { container.player.previousChapter() }) { Text("‹ Chapitre précédent") }
-            TextButton(onClick = { container.player.nextChapter() }, enabled = clock.chapters.lastOrNull() != chapter) {
+            TextButton(
+                onClick = { container.player.nextChapter() },
+                enabled = PlaybackLogic.chapterTarget(clock, state.position, +1) != null,
+            ) {
                 Text("Chapitre suivant ›")
             }
         }
@@ -233,7 +237,7 @@ fun PlayerScreen(container: AppContainer, onOpenText: (String, Int) -> Unit, onO
                 TextButton(onClick = { onOpenText(book.code, chapter) }) { Text("Ouvrir") }
             }
         }
-        state.error?.let { ErrorText(it) }
+        (state.error ?: state.notice)?.let { ErrorText(it) }
         Spacer(Modifier.height(24.dp))
     }
 }
@@ -248,10 +252,12 @@ private fun ErrorText(message: String) = Text(
 )
 
 @Composable
-private fun ChapterProgress(state: PlayerUiState, chapter: Int, onSeek: (Double) -> Unit) {
+private fun ChapterProgress(state: PlayerUiState, onSeek: (Double) -> Unit) {
     val clock = state.clock ?: return
-    val start = clock.chapterStart(chapter) ?: 0.0
-    val end = clock.chapterEnd(chapter).coerceAtLeast(start + 1)
+    // le chapitre en cours (dans Esther : le passage en cours, les chapitres y sont lus en morceaux)
+    val section = clock.sectionAt(state.position)
+    val start = section.start
+    val end = section.end.coerceAtLeast(start + 1)
     var dragging by remember { mutableStateOf(false) }
     var dragValue by remember { mutableFloatStateOf(0f) }
     val value = if (dragging) dragValue else ((state.position - start) / (end - start)).toFloat().coerceIn(0f, 1f)

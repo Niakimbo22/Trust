@@ -8,6 +8,7 @@ import androidx.media3.common.C
 import androidx.media3.common.util.UnstableApi
 import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.exoplayer.source.DefaultMediaSourceFactory
+import androidx.media3.exoplayer.upstream.DefaultLoadErrorHandlingPolicy
 import androidx.media3.session.MediaSession
 import androidx.media3.session.MediaSessionService
 import fr.niakimbo.trust.MainActivity
@@ -25,7 +26,13 @@ class PlaybackService : MediaSessionService() {
         super.onCreate()
         val container = (application as TrustApp).container
         val exo = ExoPlayer.Builder(this)
-            .setMediaSourceFactory(DefaultMediaSourceFactory(container.audioCache.dataSourceFactory))
+            .setMediaSourceFactory(
+                DefaultMediaSourceFactory(container.audioCache.dataSourceFactory)
+                    // Coupure réseau (tunnel, ascenseur) : le lecteur reste en attente et réessaie toutes
+                    // les 5 s pendant ~5 min au lieu d'abandonner au bout de quelques secondes.
+                    // Tant qu'il attend, le service reste au premier plan : la reprise marche écran éteint.
+                    .setLoadErrorHandlingPolicy(DefaultLoadErrorHandlingPolicy(NETWORK_RETRIES)),
+            )
             .setAudioAttributes(
                 AudioAttributes.Builder()
                     .setUsage(C.USAGE_MEDIA)
@@ -66,5 +73,10 @@ class PlaybackService : MediaSessionService() {
         }
         session = null
         super.onDestroy()
+    }
+
+    private companion object {
+        /** 5 premiers essais rapprochés (0 à 4 s), puis un toutes les 5 s. */
+        const val NETWORK_RETRIES = 60
     }
 }

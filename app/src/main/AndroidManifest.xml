@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Savoir si le réseau est là : message « pas de connexion » et reprise automatique -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <!-- MAJ in-app : installer une nouvelle version de Trust par-dessus -->
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
     <!-- Lecture audio en arrière-plan -->
