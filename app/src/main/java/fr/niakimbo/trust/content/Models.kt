@@ -18,6 +18,8 @@ data class BookInfo(
     val text: String,
     val timings: String? = null,
     val audio: List<AudioFile> = emptyList(),
+    /** Empreinte du texte + timings : quand elle change, le livre est retéléchargé. */
+    val rev: String? = null,
 ) {
     val hasAudio: Boolean get() = timings != null && audio.isNotEmpty()
 }

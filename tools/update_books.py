@@ -1,4 +1,5 @@
 """Régénère content/books.json à partir du manifeste et des fichiers présents dans content/."""
+import hashlib
 import json
 import os
 
@@ -11,6 +12,12 @@ for b in manifest["books"]:
         continue
     t = json.load(open(text, encoding="utf-8"))
     timings = os.path.join(ROOT, "content", "timings", f"{b['code']}.json")
+    # Empreinte du texte et des timings : l'app ne retélécharge un livre que si elle change
+    # (et la version de books.json change avec elle).
+    digest = hashlib.sha256()
+    for f in (text, timings):
+        if os.path.exists(f):
+            digest.update(open(f, "rb").read())
     books.append({
         "code": b["code"],
         "name": b["name"],
@@ -21,6 +28,7 @@ for b in manifest["books"]:
         "text": f"text/{b['code']}.json",
         "timings": f"timings/{b['code']}.json" if os.path.exists(timings) else None,
         "audio": b["audio"],
+        "rev": digest.hexdigest()[:12],
     })
 path = os.path.join(ROOT, "content", "books.json")
 old = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {"version": 0}

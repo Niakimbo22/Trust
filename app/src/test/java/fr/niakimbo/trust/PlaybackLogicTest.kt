@@ -203,6 +203,16 @@ class PlaybackLogicTest {
         }
     }
 
+    @Test fun bookRevisionsMatchContentFiles() {
+        // l'app ne retélécharge un livre que si son empreinte change : elle doit suivre le texte et les timings
+        index.books.forEach { b ->
+            val digest = java.security.MessageDigest.getInstance("SHA-256")
+            listOfNotNull(b.text, b.timings).forEach { digest.update(File(content, it).readBytes()) }
+            val hex = digest.digest().joinToString("") { "%02x".format(it) }.take(12)
+            assertEquals("${b.code} : lancer tools/update_books.py après un changement de contenu", hex, b.rev)
+        }
+    }
+
     @Test fun psalmsSpanFiveFiles() {
         val t = timings("PSA")
         assertEquals(5, t.audio.size)

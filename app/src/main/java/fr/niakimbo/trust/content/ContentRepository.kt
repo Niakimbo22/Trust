@@ -20,7 +20,8 @@ import java.util.concurrent.ConcurrentHashMap
  * - books.json : la copie en cache sert tout de suite (même hors-ligne ou réseau lent) ; au-delà de 12 h
  *   elle est rafraîchie en arrière-plan. On n'attend le réseau que s'il n'y a encore aucune copie.
  * - text/ et timings/ sont téléchargés à la première ouverture d'un livre, puis lus en local.
- *   Quand books.json change de version, on revalide ces fichiers.
+ *   Quand l'empreinte d'un livre change dans books.json, ses fichiers sont retéléchargés à la prochaine
+ *   ouverture ; sans réseau, l'ancienne copie continue de servir (un livre préparé hors-ligne reste lisible).
  */
 class ContentRepository(context: Context) {
     private val dir = File(context.filesDir, "content").apply { mkdirs() }
@@ -63,7 +64,7 @@ class ContentRepository(context: Context) {
             val body = runCatching { download("books.json") }.getOrNull() ?: return@withLock null
             val fresh = runCatching { json.decodeFromString<BooksIndex>(body) }.getOrNull() ?: return@withLock null
             val old = index ?: runCatching { json.decodeFromString<BooksIndex>(file.readText()) }.getOrNull()
-            if (old != null && old.version != fresh.version) invalidateBooks()
+            if (old != null && old.version != fresh.version) books.clear() // revalidés à la prochaine ouverture
             writeAtomically(file, body)
             prefs.edit().putLong(KEY_INDEX_TIME, System.currentTimeMillis()).apply()
             index = fresh
@@ -83,11 +84,11 @@ class ContentRepository(context: Context) {
         val info = index().books.firstOrNull { it.code == code } ?: throw IOException("Livre inconnu : $code")
         return withContext(Dispatchers.IO) {
             val text = try {
-                cached<BookText>(info.text)
+                cached<BookText>(info.text, info.rev)
             } catch (e: IOException) {
                 throw IOException("Pas de connexion : ce livre n'a pas encore été chargé sur ce téléphone.", e)
             }
-            val timings = info.timings?.let { path -> runCatching { cached<BookTimings>(path) }.getOrNull() }
+            val timings = info.timings?.let { path -> runCatching { cached<BookTimings>(path, info.rev) }.getOrNull() }
             Book(info, text, timings).also {
                 // Timings attendus mais pas arrivés (réseau) : on ne retient pas ce livre « sans audio »,
                 // la prochaine ouverture réessaiera.
@@ -102,7 +103,7 @@ class ContentRepository(context: Context) {
         return withContext(Dispatchers.IO) {
             books.mapIndexed { i, info ->
                 onProgress(i, books.size)
-                info to (loadedBook(info.code)?.text ?: cached<BookText>(info.text))
+                info to (loadedBook(info.code)?.text ?: cached<BookText>(info.text, info.rev))
             }.also { onProgress(books.size, books.size) }
         }
     }
@@ -112,22 +113,24 @@ class ContentRepository(context: Context) {
 
     private fun stale() = System.currentTimeMillis() - prefs.getLong(KEY_INDEX_TIME, 0) > INDEX_TTL_MS
 
-    private fun invalidateBooks() {
-        books.clear()
-        File(dir, "text").deleteRecursively()
-        File(dir, "timings").deleteRecursively()
-    }
-
-    /** Fichier du cache s'il est lisible, sinon téléchargé (un cache abîmé est remplacé). */
-    private inline fun <reified T> cached(path: String): T {
+    /**
+     * Fichier du cache s'il est à jour (même empreinte), sinon téléchargé. Sans réseau, une ancienne copie
+     * lisible sert quand même. Un fichier abîmé est remplacé.
+     */
+    private inline fun <reified T> cached(path: String, rev: String?): T {
         val file = File(dir, path)
-        if (file.exists()) {
-            runCatching { return json.decodeFromString<T>(file.readText()) }
-            file.delete()
+        val key = KEY_REV + path
+        val local = if (file.exists()) runCatching { json.decodeFromString<T>(file.readText()) }.getOrNull() else null
+        if (local != null && (rev == null || prefs.getString(key, null) == rev)) return local
+        val body = try {
+            download(path)
+        } catch (e: IOException) {
+            if (local != null) return local
+            throw e
         }
-        val body = download(path)
         val value = json.decodeFromString<T>(body) // on ne met en cache que ce qui se lit
         writeAtomically(file, body)
+        prefs.edit().putString(key, rev).apply()
         return value
     }
 
@@ -158,6 +161,7 @@ class ContentRepository(context: Context) {
     private companion object {
         const val BASE_URL = "https://raw.githubusercontent.com/Niakimbo22/trust/main/content"
         const val KEY_INDEX_TIME = "index_time"
+        const val KEY_REV = "rev:"
         const val INDEX_TTL_MS = 12 * 60 * 60 * 1000L
         const val RETRY_REFRESH_MS = 5 * 60 * 1000L
     }

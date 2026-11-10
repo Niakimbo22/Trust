@@ -2,7 +2,7 @@
 
 | Fichier | Rôle |
 |---|---|
-| `books.json` | Livres disponibles (code, nom, nb de chapitres/versets, chemins, URL audio). |
+| `books.json` | Livres disponibles (code, nom, nb de chapitres/versets, chemins, URL audio, `rev` = empreinte du texte + timings). Toujours régénéré par `tools/update_books.py` : l'app ne retélécharge un livre que si son `rev` change. |
 | `text/<CODE>.json` | Texte Crampon 1923 : `chapters[].verses[]` avec `v` (n°), `t` (texte), `h` (titre de section, optionnel), `n` (notes de Crampon, optionnel). |
 | `timings/<CODE>.json` | Début de chaque verset dans l'audio, en secondes : `chapters[].verses[i]` = début du verset i+1 ; `chapters[].start` = annonce « Chapitre N ». `version` augmente à chaque correction. |
 

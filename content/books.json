@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "books": [
   {
    "code": "GEN",
@@ -19,7 +19,8 @@
      "url": "https://archive.org/download/Pentateuque/02-genese_ch26_50.ogg",
      "duration": 8483.28
     }
-   ]
+   ],
+   "rev": "d53be60054ff"
   },
   {
    "code": "EXO",
@@ -39,7 +40,8 @@
      "url": "https://archive.org/download/Pentateuque/04-exode_ch19_40.ogg",
      "duration": 6960.59
     }
-   ]
+   ],
+   "rev": "d9b5b5ceeff1"
   },
   {
    "code": "LEV",
@@ -55,7 +57,8 @@
      "url": "https://archive.org/download/Pentateuque/05-levitique.ogg",
      "duration": 8912.17
     }
-   ]
+   ],
+   "rev": "c91732b42dc6"
   },
   {
    "code": "NUM",
@@ -71,7 +74,8 @@
      "url": "https://archive.org/download/Pentateuque/06-nombres.ogg",
      "duration": 12616.12
     }
-   ]
+   ],
+   "rev": "3fb071fc3331"
   },
   {
    "code": "DEU",
@@ -87,7 +91,8 @@
      "url": "https://archive.org/download/Pentateuque/07-deuteronome.ogg",
      "duration": 11007.21
     }
-   ]
+   ],
+   "rev": "064d215cf63f"
   },
   {
    "code": "JOS",
@@ -103,7 +108,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/01-josue.ogg",
      "duration": 7604.8
     }
-   ]
+   ],
+   "rev": "fde485b6fa6b"
   },
   {
    "code": "JDG",
@@ -119,7 +125,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/02-juges.ogg",
      "duration": 7134.68
     }
-   ]
+   ],
+   "rev": "7e52479022a7"
   },
   {
    "code": "RUT",
@@ -135,7 +142,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/03-ruth.ogg",
      "duration": 1060.91
     }
-   ]
+   ],
+   "rev": "949c6e648919"
   },
   {
    "code": "1SA",
@@ -151,7 +159,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/04-1samuel.ogg",
      "duration": 9622.24
     }
-   ]
+   ],
+   "rev": "b721527ea9d3"
   },
   {
    "code": "2SA",
@@ -167,7 +176,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/05-2samuel.ogg",
      "duration": 7773.12
     }
-   ]
+   ],
+   "rev": "912df775f409"
   },
   {
    "code": "1KI",
@@ -183,7 +193,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/06-1rois.ogg",
      "duration": 9635.66
     }
-   ]
+   ],
+   "rev": "2fc97538bd9e"
   },
   {
    "code": "2KI",
@@ -199,7 +210,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/07-2rois.ogg",
      "duration": 8635.59
     }
-   ]
+   ],
+   "rev": "3094af42bdb3"
   },
   {
    "code": "1CH",
@@ -215,7 +227,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/08-1chroniques.ogg",
      "duration": 9757.95
     }
-   ]
+   ],
+   "rev": "1279cc21fb34"
   },
   {
    "code": "2CH",
@@ -231,7 +244,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/09-2chroniques.ogg",
      "duration": 10837.95
     }
-   ]
+   ],
+   "rev": "b031c0da18c9"
   },
   {
    "code": "EZR",
@@ -247,7 +261,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/10-esdras.ogg",
      "duration": 3124.48
     }
-   ]
+   ],
+   "rev": "a3e3944fe04f"
   },
   {
    "code": "NEH",
@@ -263,7 +278,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/11-nehemie.ogg",
      "duration": 4432.86
     }
-   ]
+   ],
+   "rev": "b0d777497f75"
   },
   {
    "code": "TOB",
@@ -279,7 +295,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/12-tobie.ogg",
      "duration": 2862.44
     }
-   ]
+   ],
+   "rev": "3e5161eb4115"
   },
   {
    "code": "JDT",
@@ -295,7 +312,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/13-judith.ogg",
      "duration": 3951.94
     }
-   ]
+   ],
+   "rev": "48dbb4f9f048"
   },
   {
    "code": "EST",
@@ -311,7 +329,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/14-esther.ogg",
      "duration": 3612.0
     }
-   ]
+   ],
+   "rev": "a0e12741516b"
   },
   {
    "code": "1MA",
@@ -327,7 +346,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/15-1machabees.ogg",
      "duration": 9965.74
     }
-   ]
+   ],
+   "rev": "62ed991c8861"
   },
   {
    "code": "2MA",
@@ -343,7 +363,8 @@
      "url": "https://archive.org/download/LaBible-LesLivresHistoriques/16-2machabees.ogg",
      "duration": 7142.38
     }
-   ]
+   ],
+   "rev": "036ce95c4bea"
   },
   {
    "code": "JOB",
@@ -359,7 +380,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/01-job.ogg",
      "duration": 7852.12
     }
-   ]
+   ],
+   "rev": "b9abf7049099"
   },
   {
    "code": "PSA",
@@ -391,7 +413,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/06-psaumes5.ogg",
      "duration": 4800.56
     }
-   ]
+   ],
+   "rev": "52d8fb4bed16"
   },
   {
    "code": "PRO",
@@ -407,7 +430,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/07-proverbes.ogg",
      "duration": 6722.77
     }
-   ]
+   ],
+   "rev": "8c8557ebdd78"
   },
   {
    "code": "ECC",
@@ -423,7 +447,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/08-ecclesiaste.ogg",
      "duration": 2256.19
     }
-   ]
+   ],
+   "rev": "d89282de8d0a"
   },
   {
    "code": "SNG",
@@ -439,7 +464,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/09-cantique.ogg",
      "duration": 1246.23
     }
-   ]
+   ],
+   "rev": "db3aa90055df"
   },
   {
    "code": "WIS",
@@ -455,7 +481,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/10-sagesse.ogg",
      "duration": 4362.56
     }
-   ]
+   ],
+   "rev": "cfd895b0cde0"
   },
   {
    "code": "SIR",
@@ -471,7 +498,8 @@
      "url": "https://archive.org/download/Bible-LesLivresPotiquesEtSapientiaux/11-ecclesiastique.ogg",
      "duration": 12373.17
     }
-   ]
+   ],
+   "rev": "a7eaaa5ca4d2"
   },
   {
    "code": "ISA",
@@ -491,7 +519,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/02-isaie_ch34_66.ogg",
      "duration": 8726.83
     }
-   ]
+   ],
+   "rev": "74a916cbaecc"
   },
   {
    "code": "JER",
@@ -511,7 +540,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/04-jeremie_ch30_52.ogg",
      "duration": 8879.13
     }
-   ]
+   ],
+   "rev": "9ebd7f1a7abf"
   },
   {
    "code": "LAM",
@@ -527,7 +557,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/05-lamentations.ogg",
      "duration": 1628.56
     }
-   ]
+   ],
+   "rev": "f1c2a25f6b4b"
   },
   {
    "code": "BAR",
@@ -543,7 +574,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/06-baruch.ogg",
      "duration": 2040.02
     }
-   ]
+   ],
+   "rev": "203e456b02a8"
   },
   {
    "code": "EZK",
@@ -563,7 +595,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/08-ezechiel_ch25_48.ogg",
      "duration": 8886.59
     }
-   ]
+   ],
+   "rev": "b91b302d0c0b"
   },
   {
    "code": "DAN",
@@ -579,7 +612,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/09-daniel.ogg",
      "duration": 6178.5
     }
-   ]
+   ],
+   "rev": "d00a9ea09e75"
   },
   {
    "code": "HOS",
@@ -595,7 +629,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/10-osee.ogg",
      "duration": 2140.79
     }
-   ]
+   ],
+   "rev": "1b1ddd2783e7"
   },
   {
    "code": "JOL",
@@ -611,7 +646,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/11-joel.ogg",
      "duration": 842.07
     }
-   ]
+   ],
+   "rev": "e6635f71b47d"
   },
   {
    "code": "AMO",
@@ -627,7 +663,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/12-amos.ogg",
      "duration": 1677.22
     }
-   ]
+   ],
+   "rev": "04b2057ec924"
   },
   {
    "code": "OBA",
@@ -643,7 +680,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/13-abdias.ogg",
      "duration": 270.53
     }
-   ]
+   ],
+   "rev": "cd5837bd6499"
   },
   {
    "code": "JON",
@@ -659,7 +697,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/14-jonas.ogg",
      "duration": 524.65
     }
-   ]
+   ],
+   "rev": "92270f1345de"
   },
   {
    "code": "MIC",
@@ -675,7 +714,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/15-michee.ogg",
      "duration": 1296.22
     }
-   ]
+   ],
+   "rev": "1f07e32cdefb"
   },
   {
    "code": "NAM",
@@ -691,7 +731,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/16-nahum.ogg",
      "duration": 539.33
     }
-   ]
+   ],
+   "rev": "c3fc8b9f7a32"
   },
   {
    "code": "HAB",
@@ -707,7 +748,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/17-habacuc.ogg",
      "duration": 636.09
     }
-   ]
+   ],
+   "rev": "13b4130ce0d3"
   },
   {
    "code": "ZEP",
@@ -723,7 +765,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/18-sophonie.ogg",
      "duration": 684.36
     }
-   ]
+   ],
+   "rev": "d937f4343254"
   },
   {
    "code": "HAG",
@@ -739,7 +782,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/19-aggee.ogg",
      "duration": 491.99
     }
-   ]
+   ],
+   "rev": "acde51cb5119"
   },
   {
    "code": "ZEC",
@@ -755,7 +799,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/20-zacharie.ogg",
      "duration": 2503.44
     }
-   ]
+   ],
+   "rev": "90ec0553c4d4"
   },
   {
    "code": "MAL",
@@ -771,7 +816,8 @@
      "url": "https://archive.org/download/Bible-LesLivresProphetiques/21-malachie.ogg",
      "duration": 751.33
     }
-   ]
+   ],
+   "rev": "e7282c8520c8"
   },
   {
    "code": "MAT",
@@ -787,7 +833,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/01-matthieu_entier_128.ogg",
      "duration": 9881.1
     }
-   ]
+   ],
+   "rev": "e6c003861a5a"
   },
   {
    "code": "MRK",
@@ -803,7 +850,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/02-marc_entier_128.ogg",
      "duration": 6241.41
     }
-   ]
+   ],
+   "rev": "f180c1281429"
   },
   {
    "code": "LUK",
@@ -819,7 +867,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/03-luc_entier_128.ogg",
      "duration": 10527.65
     }
-   ]
+   ],
+   "rev": "c4995f909df8"
   },
   {
    "code": "JHN",
@@ -835,7 +884,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/04-jean_entier_128.ogg",
      "duration": 8095.03
     }
-   ]
+   ],
+   "rev": "7ad20e88283d"
   },
   {
    "code": "ACT",
@@ -851,7 +901,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/05-actes_entier_128.ogg",
      "duration": 9794.25
     }
-   ]
+   ],
+   "rev": "3377058503f8"
   },
   {
    "code": "ROM",
@@ -867,7 +918,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/06-lettre_romains_128.ogg",
      "duration": 4185.26
     }
-   ]
+   ],
+   "rev": "001cb40d821a"
   },
   {
    "code": "1CO",
@@ -883,7 +935,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/07-lettre_1corinthiens_128.ogg",
      "duration": 4168.27
     }
-   ]
+   ],
+   "rev": "98710a177e4f"
   },
   {
    "code": "2CO",
@@ -899,7 +952,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/08-lettre_2corinthiens_128.ogg",
      "duration": 2732.78
     }
-   ]
+   ],
+   "rev": "c8b00d360427"
   },
   {
    "code": "GAL",
@@ -915,7 +969,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/09-lettre_galates_128.ogg",
      "duration": 1406.24
     }
-   ]
+   ],
+   "rev": "30d921e2f239"
   },
   {
    "code": "EPH",
@@ -931,7 +986,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/10-lettre_ephesiens_128.ogg",
      "duration": 1406.73
     }
-   ]
+   ],
+   "rev": "cb3100042994"
   },
   {
    "code": "PHP",
@@ -947,7 +1003,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/11-lettre_philippiens_128.ogg",
      "duration": 968.13
     }
-   ]
+   ],
+   "rev": "8733a179dd88"
   },
   {
    "code": "COL",
@@ -963,7 +1020,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/12-lettre_colossiens_128.ogg",
      "duration": 907.13
     }
-   ]
+   ],
+   "rev": "b1e751276d89"
   },
   {
    "code": "1TH",
@@ -979,7 +1037,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/13-lettre_1thessaloniciens_128.ogg",
      "duration": 838.68
     }
-   ]
+   ],
+   "rev": "72d74c85b13b"
   },
   {
    "code": "2TH",
@@ -995,7 +1054,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/14-lettre_2thessaloniciens_128.ogg",
      "duration": 466.22
     }
-   ]
+   ],
+   "rev": "9729545d5171"
   },
   {
    "code": "1TI",
@@ -1011,7 +1071,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/15-lettre_1timothee_128.ogg",
      "duration": 1038.12
     }
-   ]
+   ],
+   "rev": "728a20fdcace"
   },
   {
    "code": "2TI",
@@ -1027,7 +1088,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/16-lettre_2timothee_128.ogg",
      "duration": 745.3
     }
-   ]
+   ],
+   "rev": "c6c3915cb47a"
   },
   {
    "code": "TIT",
@@ -1043,7 +1105,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/17-lettre_tite_128.ogg",
      "duration": 446.11
     }
-   ]
+   ],
+   "rev": "6afcb446a08f"
   },
   {
    "code": "PHM",
@@ -1059,7 +1122,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/18-lettre_philemon_128.ogg",
      "duration": 213.34
     }
-   ]
+   ],
+   "rev": "72c1d9bf02c5"
   },
   {
    "code": "HEB",
@@ -1075,7 +1139,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/19-lettre_hebreux_128.ogg",
      "duration": 3046.25
     }
-   ]
+   ],
+   "rev": "a4c6161eca5c"
   },
   {
    "code": "JAS",
@@ -1091,7 +1156,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/20-lettre_st_jacques_128.ogg",
      "duration": 1027.3
     }
-   ]
+   ],
+   "rev": "efef63cbb3eb"
   },
   {
    "code": "1PE",
@@ -1107,7 +1173,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/21-premiere_lettre_st_pierre_128.ogg",
      "duration": 1120.06
     }
-   ]
+   ],
+   "rev": "b66b48a0c6eb"
   },
   {
    "code": "2PE",
@@ -1123,7 +1190,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/22-deuxieme_lettre_st_pierre_128.ogg",
      "duration": 725.59
     }
-   ]
+   ],
+   "rev": "b53123d3dd1a"
   },
   {
    "code": "1JN",
@@ -1139,7 +1207,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/23-premiere_lettre_st_jean_128.ogg",
      "duration": 1032.17
     }
-   ]
+   ],
+   "rev": "adbaa1613255"
   },
   {
    "code": "2JN",
@@ -1155,7 +1224,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/24-deuxieme_lettre_st_jean_128.ogg",
      "duration": 137.92
     }
-   ]
+   ],
+   "rev": "241d83223663"
   },
   {
    "code": "3JN",
@@ -1171,7 +1241,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/25-troisieme_lettre_st_jean_128.ogg",
      "duration": 144.82
     }
-   ]
+   ],
+   "rev": "1d9790be65f3"
   },
   {
    "code": "JUD",
@@ -1187,7 +1258,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/26-lettre_st_jude_128.ogg",
      "duration": 300.83
     }
-   ]
+   ],
+   "rev": "5de6a6eb1385"
   },
   {
    "code": "REV",
@@ -1203,7 +1275,8 @@
      "url": "https://archive.org/download/Bible-NouveauTestament/27-apocalypse_entier_128.ogg",
      "duration": 4700.88
     }
-   ]
+   ],
+   "rev": "fd37f173f522"
   }
  ]
 }
